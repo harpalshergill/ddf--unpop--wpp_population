@@ -2,9 +2,36 @@
 
 source: 
 
-- both sex: http://esa.un.org/unpd/wpp/DVD/Files/1_Indicators%20(Standard)/EXCEL_FILES/5_Interpolated/WPP2015_INT_F03_1_POPULATION_BY_AGE_ANNUAL_BOTH_SEXES.XLS
-- male: http://esa.un.org/unpd/wpp/DVD/Files/1_Indicators%20(Standard)/EXCEL_FILES/5_Interpolated/WPP2015_INT_F03_2_POPULATION_BY_AGE_ANNUAL_MALE.XLS
-- female: http://esa.un.org/unpd/wpp/DVD/Files/1_Indicators%20(Standard)/EXCEL_FILES/5_Interpolated/WPP2015_INT_F03_3_POPULATION_BY_AGE_ANNUAL_FEMALE.XLS
+- UN Population WPP: https://esa.un.org/unpd/wpp/DVD/
+
+- Includes Following Indicators:
+BirthPer1000Population
+ChildDependencyRatio
+CrudeDeathRate
+DependencyRatio
+FeminityRatio
+FertilityRate
+InfantMortality
+LifeExpectancy
+MeanAgeForChildBearing
+MedianAgeOfPopulation
+Mortality
+NetMigrationRate
+NetNumberOfMigrants
+NetReporductionRate
+NoOfBirth
+OldAgeDependencyRatio
+PercentageTotalDeaths
+PercentageTotalPopulation
+Population
+PopulationDensity
+PopulationGrowthRate
+PotentialSupport
+RateOfNaturalIncrease
+SexRatio
+SurvivorAge
+TotalDeaths
+TotalFertility
 
 
 ## how to generate the dataset
@@ -15,9 +42,12 @@ source:
 
 ## notes:
 
-1. there are 2 types of data: estimates and medium variant. For year before 2015,
-the data type is estimates, and medium variant for later. But for year 2015,
-there are both estimates and medium variant data for each area.
-2. there are groups that are not single year group: 80+ group and 100+ group. the
-80+ group only appears before 1990, as the last group available for the data. After
-1990, the last group available becomes 100+.
+1. Etl folder contains two extra excel files: Metadata.xlsx and CountryMetadata.xlsx. 
+Metadata.xlsx is a masterfile for all the indicators and naming for folders.
+CountryMetadata.xlsx is masterfile for split of all the ref_area into World, Continent, Region and Country
+2. Script supports multiple file loading and generate output into one file
+3. Script also takes all Variants available in the excel file and generate variant dimention
+4. NOTES sheet in each excel is not being included 
+5. Population indicator and 14 other indicator have multiple files. Because of that the information in concept.csv file for "Name" and "Description" column is generic and hard coded. Information can be found at updateConceptDF function
+6. File iterats trough all 95 files and generate ddf dataset in 15 mins or so. Hard disk space requirements is 1.5GB for new files
+7. Because of size of files, validate-ddf can not be run on whole dataset. it's been tested on individual folders though to check the data integrity.
