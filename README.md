@@ -37,7 +37,7 @@ TotalFertility
 ## how to generate the dataset
 
 1. download all of the source files above and put them into etl/source dir.
-2. run in commandline: `cd etl/script && python pop_all.py`
+2. run in commandline: `cd etl/script && python unpop-main.py`
 
 
 ## notes:
