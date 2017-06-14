@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[60]:
+# In[1]:
 
 import pandas as pd
 import numpy as np
@@ -16,11 +16,10 @@ from ddf_utils.str import to_concept_id
 from ddf_utils.index import create_datapackage
 
 
-# In[61]:
+# In[38]:
 
 out_dir = '../../'
 #out_dir = '../'
-sourceFile = '../source/'
 
 # global variables to build data for concepts and entities
 variants = []
@@ -31,22 +30,22 @@ age5YrInterval = []
 ref_AreaCode = []
 
 
-# In[62]:
+# In[3]:
 
 #method to read files in a folder...
 #onlyfiles = [f for f in listdir('source/byYearInterval') if isfile(join('source/byYearInterval', f))]
 #onlyfiles
 
 
-# In[63]:
+# In[4]:
 
 # method to create directory if it does not exist
 def createDirectory(Directory):
-    if not os.path.exists('../../'+Directory.lower()):
-        os.makedirs('../../'+Directory.lower())
+    if not os.path.exists('../'+Directory.lower()):
+        os.makedirs('../'+Directory.lower())
 
 
-# In[64]:
+# In[5]:
 
 # method to generate files from the data points.
 def GenerateYearFormatFiles(ds_all, Directory, FileNameWithPath, gender, Ref_Area_List):
@@ -105,7 +104,7 @@ def GenerateYearFormatFiles(ds_all, Directory, FileNameWithPath, gender, Ref_Are
         myDS.to_csv(path, index=False, float_format='%.15g')
 
 
-# In[65]:
+# In[6]:
 
 # method to load files, skip the first 16 lines and specify na values as '...'
 def load_Files(source, variant, gender, TypeBy):
@@ -129,14 +128,14 @@ def load_Files(source, variant, gender, TypeBy):
     #insert Gender column
     data.insert(3, 'Gender', gender)
     if (TypeBy == "YearInterval"):
-        data.insert(3, 'Freq', '5Yearly')
+        data.insert(3, 'Freq', '5yearly')
     elif (TypeBy == "AgeYearInterval"):
         data = data.rename(columns={
         'Period': 'Year'
         })
         #get first year in yyyy-yyyy time period
         data['Year'] = data['Year'].str[:4] 
-        data.insert(3, 'Freq', '5Yearly')
+        data.insert(3, 'Freq', '5yearly')
 
     #update teh AreaCode entity list
     global ref_AreaCode
@@ -146,7 +145,7 @@ def load_Files(source, variant, gender, TypeBy):
     
 
 
-# In[66]:
+# In[7]:
 
 def GetDataFromWorkBookSheets(source, gender, indicator, TypeBy):
     all_variants = []
@@ -188,12 +187,16 @@ def GetDataFromWorkBookSheets(source, gender, indicator, TypeBy):
     return all_variants
 
 
-# In[67]:
+# In[30]:
 
 #method to sort the file with refArea, Year, Variant, Gender
 def sortDataSets(dsSet_all, TypeBy, FileName):
     dataSet = pd.concat(dsSet_all, ignore_index=True) 
     dataSet.columns = list(map(to_concept_id, dataSet.columns))
+    
+    #remove the blank space from variants
+    dataSet['variant'] = [ x.replace(' ', '').replace('-','') for x in dataSet['variant']]
+        
     #global agegroups
     global age1YrInterval
     global ageBroad
@@ -233,7 +236,7 @@ def sortDataSets(dsSet_all, TypeBy, FileName):
     return dataSet
 
 
-# In[68]:
+# In[31]:
 
 # hardcode the indicator's Note and Descriptions values for indicators which shares multiple files. 
 def updateConceptDF(df, myDSvals, Indicator):
@@ -304,7 +307,7 @@ def updateConceptDF(df, myDSvals, Indicator):
     return df
 
 
-# In[69]:
+# In[32]:
 
 #method to have concept dataframe updated with note and descriptions for each measure.
 def updateMetaData(df, TypeBY, Directory, FileName, Indicator):
@@ -315,20 +318,20 @@ def updateMetaData(df, TypeBY, Directory, FileName, Indicator):
     
     #read the excel file to get indicator and description
     if(TypeBY == 'Age'or TypeBY == "AgeYearInterval"):
-        myDSvals = pd.read_excel(sourceFile +FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,G")
+        myDSvals = pd.read_excel("source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,G")
         df = updateConceptDF(df, myDSvals, Indicator)
     else:
-        myDSvals = pd.read_excel(sourceFile +FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,F")
+        myDSvals = pd.read_excel("source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,F")
         df = updateConceptDF(df, myDSvals, Indicator)
     return df
 
 
-# In[70]:
+# In[33]:
 
 #MAIN Function. Calls the metadata.xslx file and iterate through each file
 #supports reading multiple files and concatenating them to one dataset as well.
 def callDataPointFiles(metadata_df, cdf):
-    Ref_Area_List = pd.read_excel(sourceFile + 'countrymetadata.xlsx', parse_cols = "A:G")
+    Ref_Area_List = pd.read_excel('source/countrymetadata.xlsx', parse_cols = "A:G")
     df = metadata_df
     MainStart = time.time()
     for i, row in enumerate(metadata_df.values):
@@ -360,7 +363,7 @@ def callDataPointFiles(metadata_df, cdf):
                         SEX = "male"
                     elif "_FEMALE" in file:
                         SEX = "female"
-                    ds_sex = GetDataFromWorkBookSheets(sourceFile+file, SEX, Indicator, TypeBY) 
+                    ds_sex = GetDataFromWorkBookSheets("source/"+file, SEX, Indicator, TypeBY) 
                     ds_allSex.append(ds_sex)
                     
                 #concat all the sheets and files together as one list
@@ -370,7 +373,7 @@ def callDataPointFiles(metadata_df, cdf):
                         mainds.append(dss1)
                 dataSet = sortDataSets(mainds, TypeBY, FileName)
             else:
-                ds_sex = GetDataFromWorkBookSheets(sourceFile + FileName, SEX, Indicator, TypeBY) 
+                ds_sex = GetDataFromWorkBookSheets("source/"+FileName, SEX, Indicator, TypeBY) 
                 dataSet = sortDataSets(ds_sex, TypeBY, FileName)
                 
             dataSet = dataSet.drop_duplicates()
@@ -386,7 +389,7 @@ def callDataPointFiles(metadata_df, cdf):
     return cdf
 
 
-# In[71]:
+# In[34]:
 
 # all functions here are to generate the concepts and entities files.
 def generateEntities_Gender():
@@ -432,7 +435,7 @@ def generateEntities_AgeGroups():
 
     
 def generateEntities_RefAreaCode():
-    Ref_Area_List = pd.read_excel(sourceFile + 'countrymetadata.xlsx', parse_cols = "A:G")
+    Ref_Area_List = pd.read_excel('source/countrymetadata.xlsx', parse_cols = "A:G")
     
     cdf = pd.DataFrame([], columns=['country', 'name','is--country', 'parent'])
     cdf['country'] = Ref_Area_List.loc[Ref_Area_List['is--country'] == 1, 'Code']
@@ -494,9 +497,9 @@ def generateConcepts(cdf):
     
 
 
-# In[59]:
+# In[37]:
 
-metadata_df = pd.read_excel(sourceFile + 'metadata.xlsx', parse_cols = "A:E")
+metadata_df = pd.read_excel('source/metadata.xlsx', parse_cols = "A:E")
 metadata_df['name'] = ''
 metadata_df['description'] = ''
 metadata_df['sourceurl'] = 'https://esa.un.org/unpd/wpp/Download/Standard/Population/'
@@ -524,7 +527,68 @@ generateEntities_Gender()
 #generate freq
 generateEntities_Freq()
 
+#print (concepts)
 
+# add year interval information for freqency/
+# split ref_area_code into World/Continent/Region/Country
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
+
+
+
+
+# In[ ]:
 
 
 

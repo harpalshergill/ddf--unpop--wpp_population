@@ -129,1381 +129,1381 @@ country,variant,gender,year,population
 446,estimates,male,2013,273.197
 446,estimates,female,2014,299.765
 446,estimates,male,2014,278.149
-446,constant-fertility,female,2015,304.595
-446,constant-fertility,male,2015,283.011
-446,constant-mortality,female,2015,304.595
-446,constant-mortality,male,2015,283.011
+446,constantfertility,female,2015,304.595
+446,constantfertility,male,2015,283.011
+446,constantmortality,female,2015,304.595
+446,constantmortality,male,2015,283.011
 446,estimates,female,2015,304.595
 446,estimates,male,2015,283.011
-446,high variant,female,2015,304.595
-446,high variant,male,2015,283.011
-446,instant-replacement,female,2015,304.595
-446,instant-replacement,male,2015,283.011
-446,low variant,female,2015,304.595
-446,low variant,male,2015,283.011
-446,medium variant,female,2015,304.595
-446,medium variant,male,2015,283.011
-446,no change,female,2015,304.595
-446,no change,male,2015,283.011
-446,zero-migration,female,2015,304.595
-446,zero-migration,male,2015,283.011
-446,constant-fertility,female,2016,309.158
-446,constant-fertility,male,2016,287.565
-446,constant-mortality,female,2016,309.293
-446,constant-mortality,male,2016,287.681
-446,high variant,female,2016,309.74
-446,high variant,male,2016,288.175
-446,instant-replacement,female,2016,310.639
-446,instant-replacement,male,2016,289.117
-446,low variant,female,2016,308.97
-446,low variant,male,2016,287.368
-446,medium variant,female,2016,309.355
-446,medium variant,male,2016,287.771
-446,no change,female,2016,309.096
-446,no change,male,2016,287.475
-446,zero-migration,female,2016,307.666
-446,zero-migration,male,2016,286.08
-446,constant-fertility,female,2017,313.515
-446,constant-fertility,male,2017,291.88
-446,constant-mortality,female,2017,313.845
-446,constant-mortality,male,2017,292.163
-446,high variant,female,2017,314.935
-446,high variant,male,2017,293.368
-446,instant-replacement,female,2017,317.092
-446,instant-replacement,male,2017,295.629
-446,low variant,female,2017,313.062
-446,low variant,male,2017,291.405
-446,medium variant,female,2017,313.998
-446,medium variant,male,2017,292.386
-446,no change,female,2017,313.362
-446,no change,male,2017,291.656
-446,zero-migration,female,2017,309.912
-446,zero-migration,male,2017,288.292
-446,constant-fertility,female,2018,317.714
-446,constant-fertility,male,2018,296.007
-446,constant-mortality,female,2018,318.297
-446,constant-mortality,male,2018,296.502
-446,high variant,female,2018,320.194
-446,high variant,male,2018,298.606
-446,instant-replacement,female,2018,323.802
-446,instant-replacement,male,2018,302.387
-446,low variant,female,2018,316.943
-446,low variant,male,2018,295.198
-446,medium variant,female,2018,318.569
-446,medium variant,male,2018,296.902
-446,no change,female,2018,317.443
-446,no change,male,2018,295.607
-446,zero-migration,female,2018,311.588
-446,zero-migration,male,2018,289.908
-446,constant-fertility,female,2019,321.812
-446,constant-fertility,male,2019,300.015
-446,constant-mortality,female,2019,322.701
-446,constant-mortality,male,2019,300.76
-446,high variant,female,2019,325.521
-446,high variant,male,2019,303.902
-446,instant-replacement,female,2019,330.531
-446,instant-replacement,male,2019,309.152
-446,low variant,female,2019,320.706
-446,low variant,male,2019,298.853
-446,medium variant,female,2019,323.114
-446,medium variant,male,2019,301.377
-446,no change,female,2019,321.401
-446,no change,male,2019,299.398
-446,zero-migration,female,2019,313.058
-446,zero-migration,male,2019,291.302
-446,constant-fertility,female,2020,325.851
-446,constant-fertility,male,2020,303.952
-446,constant-mortality,female,2020,327.093
-446,constant-mortality,male,2020,304.979
-446,high variant,female,2020,330.915
-446,high variant,male,2020,309.26
-446,instant-replacement,female,2020,337.1
-446,instant-replacement,male,2020,315.742
-446,low variant,female,2020,324.419
-446,low variant,male,2020,302.449
-446,medium variant,female,2020,327.667
-446,medium variant,male,2020,305.854
-446,no change,female,2020,325.279
-446,no change,male,2020,303.078
-446,zero-migration,female,2020,314.588
-446,zero-migration,male,2020,292.748
-446,constant-fertility,female,2021,329.854
-446,constant-fertility,male,2021,307.841
-446,constant-mortality,female,2021,331.494
-446,constant-mortality,male,2021,309.178
-446,high variant,female,2021,336.388
-446,high variant,male,2021,314.691
-446,instant-replacement,female,2021,343.467
-446,instant-replacement,male,2021,322.11
-446,low variant,female,2021,328.114
-446,low variant,male,2021,306.015
-446,medium variant,female,2021,332.251
-446,medium variant,male,2021,310.353
-446,no change,female,2021,329.1
-446,no change,male,2021,306.669
-446,zero-migration,female,2021,316.269
-446,zero-migration,male,2021,294.335
-446,constant-fertility,female,2022,333.814
-446,constant-fertility,male,2022,311.671
-446,constant-mortality,female,2022,335.897
-446,constant-mortality,male,2022,313.344
-446,high variant,female,2022,341.94
-446,high variant,male,2022,320.189
-446,instant-replacement,female,2022,349.674
-446,instant-replacement,male,2022,328.294
-446,low variant,female,2022,331.781
-446,low variant,male,2022,309.538
-446,medium variant,female,2022,336.86
-446,medium variant,male,2022,314.863
-446,no change,female,2022,332.855
-446,no change,male,2022,310.156
-446,zero-migration,female,2022,318.04
-446,zero-migration,male,2022,295.997
-446,constant-fertility,female,2023,337.707
-446,constant-fertility,male,2023,315.416
-446,constant-mortality,female,2023,340.27
-446,constant-mortality,male,2023,317.446
-446,high variant,female,2023,347.536
-446,high variant,male,2023,325.718
-446,instant-replacement,female,2023,355.722
-446,instant-replacement,male,2023,334.297
-446,low variant,female,2023,335.398
-446,low variant,male,2023,312.993
-446,medium variant,female,2023,341.467
-446,medium variant,male,2023,319.355
-446,no change,female,2023,336.516
-446,no change,male,2023,313.512
-446,zero-migration,female,2023,319.84
-446,zero-migration,male,2023,297.673
-446,constant-fertility,female,2024,341.489
-446,constant-fertility,male,2024,319.031
-446,constant-mortality,female,2024,344.566
-446,constant-mortality,male,2024,321.435
-446,high variant,female,2024,353.127
-446,high variant,male,2024,331.231
-446,instant-replacement,female,2024,361.635
-446,instant-replacement,male,2024,340.148
-446,low variant,female,2024,338.922
-446,low variant,male,2024,316.337
-446,medium variant,female,2024,346.024
-446,medium variant,male,2024,323.784
-446,no change,female,2024,340.038
-446,no change,male,2024,316.69
-446,zero-migration,female,2024,321.549
-446,zero-migration,male,2024,299.241
-446,constant-fertility,female,2025,345.129
-446,constant-fertility,male,2025,322.488
-446,constant-mortality,female,2025,348.746
-446,constant-mortality,male,2025,325.274
-446,high variant,female,2025,358.671
-446,high variant,male,2025,336.684
-446,instant-replacement,female,2025,367.429
-446,instant-replacement,male,2025,345.863
-446,low variant,female,2025,342.321
-446,low variant,male,2025,319.542
-446,medium variant,female,2025,350.496
-446,medium variant,male,2025,328.113
-446,no change,female,2025,343.388
-446,no change,male,2025,319.66
-446,zero-migration,female,2025,323.078
-446,zero-migration,male,2025,300.613
-446,constant-fertility,female,2026,348.623
-446,constant-fertility,male,2026,325.783
-446,constant-mortality,female,2026,352.803
-446,constant-mortality,male,2026,328.958
-446,high variant,female,2026,364.16
-446,high variant,male,2026,342.071
-446,instant-replacement,female,2026,373.095
-446,instant-replacement,male,2026,351.436
-446,low variant,female,2026,345.594
-446,low variant,male,2026,322.606
-446,medium variant,female,2026,354.877
-446,medium variant,male,2026,332.338
-446,no change,female,2026,346.56
-446,no change,male,2026,322.418
-446,zero-migration,female,2026,324.429
-446,zero-migration,male,2026,301.792
-446,constant-fertility,female,2027,351.98
-446,constant-fertility,male,2027,328.928
-446,constant-mortality,female,2027,356.74
-446,constant-mortality,male,2027,332.494
-446,high variant,female,2027,369.587
-446,high variant,male,2027,347.386
-446,instant-replacement,female,2027,378.61
-446,instant-replacement,male,2027,356.843
-446,low variant,female,2027,348.755
-446,low variant,male,2027,325.544
-446,medium variant,female,2027,359.171
-446,medium variant,male,2027,336.465
-446,no change,female,2027,349.564
-446,no change,male,2027,324.976
-446,zero-migration,female,2027,325.639
-446,zero-migration,male,2027,302.818
-446,constant-fertility,female,2028,355.2
-446,constant-fertility,male,2028,331.924
-446,constant-mortality,female,2028,360.539
-446,constant-mortality,male,2028,335.869
-446,high variant,female,2028,374.921
-446,high variant,male,2028,352.6
-446,instant-replacement,female,2028,383.961
-446,instant-replacement,male,2028,362.075
-446,low variant,female,2028,351.807
-446,low variant,male,2028,328.364
-446,medium variant,female,2028,363.363
-446,medium variant,male,2028,340.481
-446,no change,female,2028,352.393
-446,no change,male,2028,327.337
-446,zero-migration,female,2028,326.695
-446,zero-migration,male,2028,303.679
-446,constant-fertility,female,2029,358.282
-446,constant-fertility,male,2029,334.774
-446,constant-mortality,female,2029,364.181
-446,constant-mortality,male,2029,339.072
-446,high variant,female,2029,380.125
-446,high variant,male,2029,357.675
-446,instant-replacement,female,2029,389.133
-446,instant-replacement,male,2029,367.117
-446,low variant,female,2029,354.755
-446,low variant,male,2029,331.074
-446,medium variant,female,2029,367.439
-446,medium variant,male,2029,344.373
-446,no change,female,2029,355.046
-446,no change,male,2029,329.502
-446,zero-migration,female,2029,327.584
-446,zero-migration,male,2029,304.365
-446,constant-fertility,female,2030,361.228
-446,constant-fertility,male,2030,337.484
-446,constant-mortality,female,2030,367.653
-446,constant-mortality,male,2030,342.093
-446,high variant,female,2030,385.171
-446,high variant,male,2030,362.587
-446,instant-replacement,female,2030,394.117
-446,instant-replacement,male,2030,371.964
-446,low variant,female,2030,357.603
-446,low variant,male,2030,333.682
-446,medium variant,female,2030,371.387
-446,medium variant,male,2030,348.134
-446,no change,female,2030,357.519
-446,no change,male,2030,331.479
-446,zero-migration,female,2030,328.297
-446,zero-migration,male,2030,304.869
-446,constant-fertility,female,2031,364.035
-446,constant-fertility,male,2031,340.054
-446,constant-mortality,female,2031,370.946
-446,constant-mortality,male,2031,344.931
-446,high variant,female,2031,390.047
-446,high variant,male,2031,367.326
-446,instant-replacement,female,2031,398.912
-446,instant-replacement,male,2031,376.618
-446,low variant,female,2031,360.352
-446,low variant,male,2031,336.191
-446,medium variant,female,2031,375.2
-446,medium variant,male,2031,351.758
-446,no change,female,2031,359.81
-446,no change,male,2031,333.269
-446,zero-migration,female,2031,328.828
-446,zero-migration,male,2031,305.189
-446,constant-fertility,female,2032,366.705
-446,constant-fertility,male,2032,342.487
-446,constant-mortality,female,2032,374.061
-446,constant-mortality,male,2032,347.592
-446,high variant,female,2032,394.757
-446,high variant,male,2032,371.9
-446,instant-replacement,female,2032,403.527
-446,instant-replacement,male,2032,381.092
-446,low variant,female,2032,362.999
-446,low variant,male,2032,338.6
-446,medium variant,female,2032,378.879
-446,medium variant,male,2032,355.251
-446,no change,female,2032,361.921
-446,no change,male,2032,334.879
-446,zero-migration,female,2032,329.179
-446,zero-migration,male,2032,305.329
-446,constant-fertility,female,2033,369.244
-446,constant-fertility,male,2033,344.797
-446,constant-mortality,female,2033,377.001
-446,constant-mortality,male,2033,350.09
-446,high variant,female,2033,399.316
-446,high variant,male,2033,376.328
-446,instant-replacement,female,2033,407.98
-446,instant-replacement,male,2033,385.409
-446,low variant,female,2033,365.54
-446,low variant,male,2033,340.913
-446,medium variant,female,2033,382.429
-446,medium variant,male,2033,358.621
-446,no change,female,2033,363.855
-446,no change,male,2033,336.324
-446,zero-migration,female,2033,329.358
-446,zero-migration,male,2033,305.302
-446,constant-fertility,female,2034,371.663
-446,constant-fertility,male,2034,346.999
-446,constant-mortality,female,2034,379.776
-446,constant-mortality,male,2034,352.445
-446,high variant,female,2034,403.749
-446,high variant,male,2034,380.642
-446,instant-replacement,female,2034,412.295
-446,instant-replacement,male,2034,389.6
-446,low variant,female,2034,367.972
-446,low variant,male,2034,343.128
-446,medium variant,female,2034,385.86
-446,medium variant,male,2034,361.885
-446,no change,female,2034,365.622
-446,no change,male,2034,337.625
-446,zero-migration,female,2034,329.377
-446,zero-migration,male,2034,305.128
-446,constant-fertility,female,2035,373.969
-446,constant-fertility,male,2035,349.106
-446,constant-mortality,female,2035,382.392
-446,constant-mortality,male,2035,354.675
-446,high variant,female,2035,408.077
-446,high variant,male,2035,384.87
-446,instant-replacement,female,2035,416.493
-446,instant-replacement,male,2035,393.691
-446,low variant,female,2035,370.291
-446,low variant,male,2035,345.249
-446,medium variant,female,2035,389.18
-446,medium variant,male,2035,365.056
-446,no change,female,2035,367.229
-446,no change,male,2035,338.799
-446,zero-migration,female,2035,329.248
-446,zero-migration,male,2035,304.823
-446,constant-fertility,female,2036,376.166
-446,constant-fertility,male,2036,351.125
-446,constant-mortality,female,2036,384.853
-446,constant-mortality,male,2036,356.789
-446,high variant,female,2036,412.306
-446,high variant,male,2036,389.021
-446,instant-replacement,female,2036,420.584
-446,instant-replacement,male,2036,397.696
-446,low variant,female,2036,372.497
-446,low variant,male,2036,347.277
-446,medium variant,female,2036,392.393
-446,medium variant,male,2036,368.141
-446,no change,female,2036,368.68
-446,no change,male,2036,339.856
-446,zero-migration,female,2036,328.975
-446,zero-migration,male,2036,304.394
-446,constant-fertility,female,2037,378.254
-446,constant-fertility,male,2037,353.059
-446,constant-mortality,female,2037,387.163
-446,constant-mortality,male,2037,358.796
-446,high variant,female,2037,416.441
-446,high variant,male,2037,393.102
-446,instant-replacement,female,2037,424.579
-446,instant-replacement,male,2037,401.631
-446,low variant,female,2037,374.591
-446,low variant,male,2037,349.219
-446,medium variant,female,2037,395.499
-446,medium variant,male,2037,371.145
-446,no change,female,2037,369.976
-446,no change,male,2037,340.803
-446,zero-migration,female,2037,328.56
-446,zero-migration,male,2037,303.848
-446,constant-fertility,female,2038,380.236
-446,constant-fertility,male,2038,354.919
-446,constant-mortality,female,2038,389.333
-446,constant-mortality,male,2038,360.717
-446,high variant,female,2038,420.5
-446,high variant,male,2038,397.141
-446,instant-replacement,female,2038,428.505
-446,instant-replacement,male,2038,405.528
-446,low variant,female,2038,376.575
-446,low variant,male,2038,351.08
-446,medium variant,female,2038,398.508
-446,medium variant,male,2038,374.082
-446,no change,female,2038,371.125
-446,no change,male,2038,341.655
-446,zero-migration,female,2038,328.015
-446,zero-migration,male,2038,303.203
-446,constant-fertility,female,2039,382.115
-446,constant-fertility,male,2039,356.714
-446,constant-mortality,female,2039,391.376
-446,constant-mortality,male,2039,362.574
-446,high variant,female,2039,424.506
-446,high variant,male,2039,401.167
-446,instant-replacement,female,2039,432.393
-446,instant-replacement,male,2039,409.429
-446,low variant,female,2039,378.448
-446,low variant,male,2039,352.869
-446,medium variant,female,2039,401.43
-446,medium variant,male,2039,376.971
-446,no change,female,2039,372.131
-446,no change,male,2039,342.428
-446,zero-migration,female,2039,327.35
-446,zero-migration,male,2039,302.477
-446,constant-fertility,female,2040,383.893
-446,constant-fertility,male,2040,358.451
-446,constant-mortality,female,2040,393.305
-446,constant-mortality,male,2040,364.389
-446,high variant,female,2040,428.478
-446,high variant,male,2040,405.205
-446,instant-replacement,female,2040,436.269
-446,instant-replacement,male,2040,413.366
-446,low variant,female,2040,380.214
-446,low variant,male,2040,354.594
-446,medium variant,female,2040,404.273
-446,medium variant,male,2040,379.826
-446,no change,female,2040,373.002
-446,no change,male,2040,343.135
-446,zero-migration,female,2040,326.577
-446,zero-migration,male,2040,301.687
-446,constant-fertility,female,2041,385.571
-446,constant-fertility,male,2041,360.135
-446,constant-mortality,female,2041,395.127
-446,constant-mortality,male,2041,366.171
-446,high variant,female,2041,432.425
-446,high variant,male,2041,409.269
-446,instant-replacement,female,2041,440.144
-446,instant-replacement,male,2041,417.354
-446,low variant,female,2041,381.871
-446,low variant,male,2041,356.256
-446,medium variant,female,2041,407.041
-446,medium variant,male,2041,382.654
-446,no change,female,2041,373.74
-446,no change,male,2041,343.784
-446,zero-migration,female,2041,325.702
-446,zero-migration,male,2041,300.843
-446,constant-fertility,female,2042,387.149
-446,constant-fertility,male,2042,361.768
-446,constant-mortality,female,2042,396.848
-446,constant-mortality,male,2042,367.929
-446,high variant,female,2042,436.355
-446,high variant,male,2042,413.369
-446,instant-replacement,female,2042,444.025
-446,instant-replacement,male,2042,421.401
-446,low variant,female,2042,383.421
-446,low variant,male,2042,357.86
-446,medium variant,female,2042,409.738
-446,medium variant,male,2042,385.46
-446,no change,female,2042,374.35
-446,no change,male,2042,344.38
-446,zero-migration,female,2042,324.73
-446,zero-migration,male,2042,299.952
-446,constant-fertility,female,2043,388.63
-446,constant-fertility,male,2043,363.354
-446,constant-mortality,female,2043,398.485
-446,constant-mortality,male,2043,369.681
-446,high variant,female,2043,440.286
-446,high variant,male,2043,417.524
-446,instant-replacement,female,2043,447.922
-446,instant-replacement,male,2043,425.52
-446,low variant,female,2043,384.87
-446,low variant,male,2043,359.414
-446,medium variant,female,2043,412.375
-446,medium variant,male,2043,388.259
-446,no change,female,2043,374.839
-446,no change,male,2043,344.932
-446,zero-migration,female,2043,323.669
-446,zero-migration,male,2043,299.025
-446,constant-fertility,female,2044,390.018
-446,constant-fertility,male,2044,364.898
-446,constant-mortality,female,2044,400.055
-446,constant-mortality,male,2044,371.447
-446,high variant,female,2044,444.236
-446,high variant,male,2044,421.755
-446,instant-replacement,female,2044,451.846
-446,instant-replacement,male,2044,429.723
-446,low variant,female,2044,386.227
-446,low variant,male,2044,360.926
-446,medium variant,female,2044,414.965
-446,medium variant,male,2044,391.063
-446,no change,female,2044,375.214
-446,no change,male,2044,345.45
-446,zero-migration,female,2044,322.528
-446,zero-migration,male,2044,298.071
-446,constant-fertility,female,2045,391.312
-446,constant-fertility,male,2045,366.4
-446,constant-mortality,female,2045,401.571
-446,constant-mortality,male,2045,373.241
-446,high variant,female,2045,448.219
-446,high variant,male,2045,426.076
-446,instant-replacement,female,2045,455.802
-446,instant-replacement,male,2045,434.015
-446,low variant,female,2045,387.498
-446,low variant,male,2045,362.404
-446,medium variant,female,2045,417.516
-446,medium variant,male,2045,393.883
-446,no change,female,2045,375.483
-446,no change,male,2045,345.941
-446,zero-migration,female,2045,321.313
-446,zero-migration,male,2045,297.099
-446,constant-fertility,female,2046,392.516
-446,constant-fertility,male,2046,367.863
-446,constant-mortality,female,2046,403.043
-446,constant-mortality,male,2046,375.071
-446,high variant,female,2046,452.244
-446,high variant,male,2046,430.497
-446,instant-replacement,female,2046,459.797
-446,instant-replacement,male,2046,438.404
-446,low variant,female,2046,388.686
-446,low variant,male,2046,363.851
-446,medium variant,female,2046,420.035
-446,medium variant,male,2046,396.724
-446,no change,female,2046,375.65
-446,no change,male,2046,346.409
-446,zero-migration,female,2046,320.03
-446,zero-migration,male,2046,296.113
-446,constant-fertility,female,2047,393.628
-446,constant-fertility,male,2047,369.285
-446,constant-mortality,female,2047,404.473
-446,constant-mortality,male,2047,376.937
-446,high variant,female,2047,456.311
-446,high variant,male,2047,435.018
-446,instant-replacement,female,2047,463.83
-446,instant-replacement,male,2047,442.888
-446,low variant,female,2047,389.791
-446,low variant,male,2047,365.267
-446,medium variant,female,2047,422.52
-446,medium variant,male,2047,399.586
-446,no change,female,2047,375.718
-446,no change,male,2047,346.851
-446,zero-migration,female,2047,318.682
-446,zero-migration,male,2047,295.118
-446,constant-fertility,female,2048,394.636
-446,constant-fertility,male,2048,370.656
-446,constant-mortality,female,2048,405.862
-446,constant-mortality,male,2048,378.831
-446,high variant,female,2048,460.413
-446,high variant,male,2048,439.633
-446,instant-replacement,female,2048,467.885
-446,instant-replacement,male,2048,447.452
-446,low variant,female,2048,390.806
-446,low variant,male,2048,366.645
-446,medium variant,female,2048,424.966
-446,medium variant,male,2048,402.464
-446,no change,female,2048,375.683
-446,no change,male,2048,347.257
-446,zero-migration,female,2048,317.272
-446,zero-migration,male,2048,294.117
-446,constant-fertility,female,2049,395.527
-446,constant-fertility,male,2049,371.963
-446,constant-mortality,female,2049,407.209
-446,constant-mortality,male,2049,380.743
-446,high variant,female,2049,464.539
-446,high variant,male,2049,444.332
-446,instant-replacement,female,2049,471.941
-446,instant-replacement,male,2049,452.077
-446,low variant,female,2049,391.722
-446,low variant,male,2049,367.979
-446,medium variant,female,2049,427.361
-446,medium variant,male,2049,405.348
-446,no change,female,2049,375.538
-446,no change,male,2049,347.611
-446,zero-migration,female,2049,315.8
-446,zero-migration,male,2049,293.111
-446,constant-fertility,female,2050,396.291
-446,constant-fertility,male,2050,373.196
-446,constant-mortality,female,2050,408.512
-446,constant-mortality,male,2050,382.661
-446,high variant,female,2050,468.678
-446,high variant,male,2050,449.104
-446,instant-replacement,female,2050,475.981
-446,instant-replacement,male,2050,456.744
-446,low variant,female,2050,392.534
-446,low variant,male,2050,369.263
-446,medium variant,female,2050,429.698
-446,medium variant,male,2050,408.231
-446,no change,female,2050,375.281
-446,no change,male,2050,347.9
-446,zero-migration,female,2050,314.268
-446,zero-migration,male,2050,292.102
-446,constant-fertility,female,2051,396.925
-446,constant-fertility,male,2051,374.35
-446,constant-mortality,female,2051,409.773
-446,constant-mortality,male,2051,384.582
-446,high variant,female,2051,472.829
-446,high variant,male,2051,453.946
-446,instant-replacement,female,2051,479.998
-446,instant-replacement,male,2051,461.445
-446,low variant,female,2051,393.241
-446,low variant,male,2051,370.494
-446,medium variant,female,2051,431.976
-446,medium variant,male,2051,411.11
-446,no change,female,2051,374.912
-446,no change,male,2051,348.12
-446,zero-migration,female,2051,312.678
-446,zero-migration,male,2051,291.091
-446,constant-fertility,female,2052,397.433
-446,constant-fertility,male,2052,375.426
-446,constant-mortality,female,2052,410.995
-446,constant-mortality,male,2052,386.504
-446,high variant,female,2052,476.992
-446,high variant,male,2052,458.856
-446,instant-replacement,female,2052,483.99
-446,instant-replacement,male,2052,466.174
-446,low variant,female,2052,393.846
-446,low variant,male,2052,371.672
-446,medium variant,female,2052,434.198
-446,medium variant,male,2052,413.984
-446,no change,female,2052,374.436
-446,no change,male,2052,348.269
-446,zero-migration,female,2052,311.034
-446,zero-migration,male,2052,290.077
-446,constant-fertility,female,2053,397.821
-446,constant-fertility,male,2053,376.423
-446,constant-mortality,female,2053,412.181
-446,constant-mortality,male,2053,388.416
-446,high variant,female,2053,481.163
-446,high variant,male,2053,463.819
-446,instant-replacement,female,2053,487.954
-446,instant-replacement,male,2053,470.919
-446,low variant,female,2053,394.354
-446,low variant,male,2053,372.795
-446,medium variant,female,2053,436.363
-446,medium variant,male,2053,416.845
-446,no change,female,2053,373.86
-446,no change,male,2053,348.343
-446,zero-migration,female,2053,309.332
-446,zero-migration,male,2053,289.05
-446,constant-fertility,female,2054,398.099
-446,constant-fertility,male,2054,377.34
-446,constant-mortality,female,2054,413.332
-446,constant-mortality,male,2054,390.305
-446,high variant,female,2054,485.337
-446,high variant,male,2054,468.823
-446,instant-replacement,female,2054,491.886
-446,instant-replacement,male,2054,475.668
-446,low variant,female,2054,394.772
-446,low variant,male,2054,373.859
-446,medium variant,female,2054,438.473
-446,medium variant,male,2054,419.686
-446,no change,female,2054,373.197
-446,no change,male,2054,348.338
-446,zero-migration,female,2054,307.572
-446,zero-migration,male,2054,287.999
-446,constant-fertility,female,2055,398.273
-446,constant-fertility,male,2055,378.178
-446,constant-mortality,female,2055,414.451
-446,constant-mortality,male,2055,392.159
-446,high variant,female,2055,489.51
-446,high variant,male,2055,473.853
-446,instant-replacement,female,2055,495.782
-446,instant-replacement,male,2055,480.406
-446,low variant,female,2055,395.103
-446,low variant,male,2055,374.862
-446,medium variant,female,2055,440.53
-446,medium variant,male,2055,422.498
-446,no change,female,2055,372.452
-446,no change,male,2055,348.248
-446,zero-migration,female,2055,305.751
-446,zero-migration,male,2055,286.915
-446,constant-fertility,female,2056,398.347
-446,constant-fertility,male,2056,378.935
-446,constant-mortality,female,2056,415.538
-446,constant-mortality,male,2056,393.973
-446,high variant,female,2056,493.679
-446,high variant,male,2056,478.903
-446,instant-replacement,female,2056,499.638
-446,instant-replacement,male,2056,485.127
-446,low variant,female,2056,395.351
-446,low variant,male,2056,375.801
-446,medium variant,female,2056,442.533
-446,medium variant,male,2056,425.278
-446,no change,female,2056,371.63
-446,no change,male,2056,348.071
-446,zero-migration,female,2056,303.871
-446,zero-migration,male,2056,285.795
-446,constant-fertility,female,2057,398.322
-446,constant-fertility,male,2057,379.608
-446,constant-mortality,female,2057,416.59
-446,constant-mortality,male,2057,395.742
-446,high variant,female,2057,497.84
-446,high variant,male,2057,483.965
-446,instant-replacement,female,2057,503.449
-446,instant-replacement,male,2057,489.819
-446,low variant,female,2057,395.516
-446,low variant,male,2057,376.675
-446,medium variant,female,2057,444.481
-446,medium variant,male,2057,428.02
-446,no change,female,2057,370.732
-446,no change,male,2057,347.805
-446,zero-migration,female,2057,301.934
-446,zero-migration,male,2057,284.637
-446,constant-fertility,female,2058,398.205
-446,constant-fertility,male,2058,380.197
-446,constant-mortality,female,2058,417.604
-446,constant-mortality,male,2058,397.455
-446,high variant,female,2058,501.99
-446,high variant,male,2058,489.026
-446,instant-replacement,female,2058,507.205
-446,instant-replacement,male,2058,494.465
-446,low variant,female,2058,395.604
-446,low variant,male,2058,377.479
-446,medium variant,female,2058,446.376
-446,medium variant,male,2058,430.718
-446,no change,female,2058,369.757
-446,no change,male,2058,347.444
-446,zero-migration,female,2058,299.944
-446,zero-migration,male,2058,283.435
-446,constant-fertility,female,2059,398.004
-446,constant-fertility,male,2059,380.698
-446,constant-mortality,female,2059,418.572
-446,constant-mortality,male,2059,399.097
-446,high variant,female,2059,506.121
-446,high variant,male,2059,494.069
-446,instant-replacement,female,2059,510.895
-446,instant-replacement,male,2059,499.043
-446,low variant,female,2059,395.621
-446,low variant,male,2059,378.209
-446,medium variant,female,2059,448.219
-446,medium variant,male,2059,433.361
-446,no change,female,2059,368.707
-446,no change,male,2059,346.982
-446,zero-migration,female,2059,297.903
-446,zero-migration,male,2059,282.184
-446,constant-fertility,female,2060,397.725
-446,constant-fertility,male,2060,381.111
-446,constant-mortality,female,2060,419.49
-446,constant-mortality,male,2060,400.66
-446,high variant,female,2060,510.23
-446,high variant,male,2060,499.081
-446,instant-replacement,female,2060,514.511
-446,instant-replacement,male,2060,503.536
-446,low variant,female,2060,395.57
-446,low variant,male,2060,378.862
-446,medium variant,female,2060,450.009
-446,medium variant,male,2060,435.943
-446,no change,female,2060,367.582
-446,no change,male,2060,346.416
-446,zero-migration,female,2060,295.814
-446,zero-migration,male,2060,280.878
-446,constant-fertility,female,2061,397.372
-446,constant-fertility,male,2061,381.435
-446,constant-mortality,female,2061,420.357
-446,constant-mortality,male,2061,402.14
-446,high variant,female,2061,514.315
-446,high variant,male,2061,504.056
-446,instant-replacement,female,2061,518.051
-446,instant-replacement,male,2061,507.937
-446,low variant,female,2061,395.455
-446,low variant,male,2061,379.436
-446,medium variant,female,2061,451.748
-446,medium variant,male,2061,438.46
-446,no change,female,2061,366.385
-446,no change,male,2061,345.745
-446,zero-migration,female,2061,293.68
-446,zero-migration,male,2061,279.516
-446,constant-fertility,female,2062,396.948
-446,constant-fertility,male,2062,381.671
-446,constant-mortality,female,2062,421.173
-446,constant-mortality,male,2062,403.537
-446,high variant,female,2062,518.376
-446,high variant,male,2062,508.992
-446,instant-replacement,female,2062,521.516
-446,instant-replacement,male,2062,512.246
-446,low variant,female,2062,395.277
-446,low variant,male,2062,379.93
-446,medium variant,female,2062,453.437
-446,medium variant,male,2062,440.909
-446,no change,female,2062,365.117
-446,no change,male,2062,344.972
-446,zero-migration,female,2062,291.504
-446,zero-migration,male,2062,278.098
-446,constant-fertility,female,2063,396.455
-446,constant-fertility,male,2063,381.817
-446,constant-mortality,female,2063,421.934
-446,constant-mortality,male,2063,404.853
-446,high variant,female,2063,522.413
-446,high variant,male,2063,513.885
-446,instant-replacement,female,2063,524.908
-446,instant-replacement,male,2063,516.46
-446,low variant,female,2063,395.037
-446,low variant,male,2063,380.343
-446,medium variant,female,2063,455.077
-446,medium variant,male,2063,443.29
-446,no change,female,2063,363.776
-446,no change,male,2063,344.1
-446,zero-migration,female,2063,289.29
-446,zero-migration,male,2063,276.625
-446,constant-fertility,female,2064,395.896
-446,constant-fertility,male,2064,381.875
-446,constant-mortality,female,2064,422.63
-446,constant-mortality,male,2064,406.088
-446,high variant,female,2064,526.425
-446,high variant,male,2064,518.734
-446,instant-replacement,female,2064,528.23
-446,instant-replacement,male,2064,520.582
-446,low variant,female,2064,394.739
-446,low variant,male,2064,380.675
-446,medium variant,female,2064,456.667
-446,medium variant,male,2064,445.601
-446,no change,female,2064,362.355
-446,no change,male,2064,343.131
-446,zero-migration,female,2064,287.042
-446,zero-migration,male,2064,275.099
-446,constant-fertility,female,2065,395.273
-446,constant-fertility,male,2065,381.846
-446,constant-mortality,female,2065,423.26
-446,constant-mortality,male,2065,407.247
-446,high variant,female,2065,530.414
-446,high variant,male,2065,523.537
-446,instant-replacement,female,2065,531.487
-446,instant-replacement,male,2065,524.615
-446,low variant,female,2065,394.382
-446,low variant,male,2065,380.926
-446,medium variant,female,2065,458.21
-446,medium variant,male,2065,447.841
-446,no change,female,2065,360.852
-446,no change,male,2065,342.071
-446,zero-migration,female,2065,284.764
-446,zero-migration,male,2065,273.523
-446,constant-fertility,female,2066,394.588
-446,constant-fertility,male,2066,381.73
-446,constant-mortality,female,2066,423.824
-446,constant-mortality,male,2066,408.332
-446,high variant,female,2066,534.381
-446,high variant,male,2066,528.295
-446,instant-replacement,female,2066,534.68
-446,instant-replacement,male,2066,528.558
-446,low variant,female,2066,393.969
-446,low variant,male,2066,381.096
-446,medium variant,female,2066,459.706
-446,medium variant,male,2066,450.011
-446,no change,female,2066,359.27
-446,no change,male,2066,340.924
-446,zero-migration,female,2066,282.461
-446,zero-migration,male,2066,271.899
-446,constant-fertility,female,2067,393.843
-446,constant-fertility,male,2067,381.529
-446,constant-mortality,female,2067,424.329
-446,constant-mortality,male,2067,409.35
-446,high variant,female,2067,538.328
-446,high variant,male,2067,533.011
-446,instant-replacement,female,2067,537.814
-446,instant-replacement,male,2067,532.417
-446,low variant,female,2067,393.501
-446,low variant,male,2067,381.187
-446,medium variant,female,2067,461.158
-446,medium variant,male,2067,452.111
-446,no change,female,2067,357.615
-446,no change,male,2067,339.695
-446,zero-migration,female,2067,280.135
-446,zero-migration,male,2067,270.232
-446,constant-fertility,female,2068,393.037
-446,constant-fertility,male,2068,381.243
-446,constant-mortality,female,2068,424.78
-446,constant-mortality,male,2068,410.31
-446,high variant,female,2068,542.262
-446,high variant,male,2068,537.69
-446,instant-replacement,female,2068,540.899
-446,instant-replacement,male,2068,536.202
-446,low variant,female,2068,392.977
-446,low variant,male,2068,381.198
-446,medium variant,female,2068,462.566
-446,medium variant,male,2068,454.144
-446,no change,female,2068,355.891
-446,no change,male,2068,338.394
-446,zero-migration,female,2068,277.793
-446,zero-migration,male,2068,268.525
-446,constant-fertility,female,2069,392.17
-446,constant-fertility,male,2069,380.873
-446,constant-mortality,female,2069,425.184
-446,constant-mortality,male,2069,411.229
-446,high variant,female,2069,546.19
-446,high variant,male,2069,542.343
-446,instant-replacement,female,2069,543.949
-446,instant-replacement,male,2069,539.93
-446,low variant,female,2069,392.396
-446,low variant,male,2069,381.13
-446,medium variant,female,2069,463.932
-446,medium variant,male,2069,456.114
-446,no change,female,2069,354.101
-446,no change,male,2069,337.034
-446,zero-migration,female,2069,275.437
-446,zero-migration,male,2069,266.786
-446,constant-fertility,female,2070,391.24
-446,constant-fertility,male,2070,380.42
-446,constant-mortality,female,2070,425.55
-446,constant-mortality,male,2070,412.119
-446,high variant,female,2070,550.117
-446,high variant,male,2070,546.978
-446,instant-replacement,female,2070,546.975
-446,instant-replacement,male,2070,543.615
-446,low variant,female,2070,391.758
-446,low variant,male,2070,380.985
-446,medium variant,female,2070,465.259
-446,medium variant,male,2070,458.025
-446,no change,female,2070,352.253
-446,no change,male,2070,335.626
-446,zero-migration,female,2070,273.073
-446,zero-migration,male,2070,265.022
-446,constant-fertility,female,2071,390.25
-446,constant-fertility,male,2071,379.888
-446,constant-mortality,female,2071,425.884
-446,constant-mortality,male,2071,412.987
-446,high variant,female,2071,554.05
-446,high variant,male,2071,551.601
-446,instant-replacement,female,2071,549.984
-446,instant-replacement,male,2071,547.264
-446,low variant,female,2071,391.065
-446,low variant,male,2071,380.765
-446,medium variant,female,2071,466.549
-446,medium variant,male,2071,459.88
-446,no change,female,2071,350.351
-446,no change,male,2071,334.176
-446,zero-migration,female,2071,270.706
-446,zero-migration,male,2071,263.238
-446,constant-fertility,female,2072,389.202
-446,constant-fertility,male,2072,379.279
-446,constant-mortality,female,2072,426.195
-446,constant-mortality,male,2072,413.841
-446,high variant,female,2072,557.994
-446,high variant,male,2072,556.22
-446,instant-replacement,female,2072,552.982
-446,instant-replacement,male,2072,550.884
-446,low variant,female,2072,390.318
-446,low variant,male,2072,380.475
-446,medium variant,female,2072,467.805
-446,medium variant,male,2072,461.683
-446,no change,female,2072,348.405
-446,no change,male,2072,332.691
-446,zero-migration,female,2072,268.341
-446,zero-migration,male,2072,261.441
-446,constant-fertility,female,2073,388.094
-446,constant-fertility,male,2073,378.596
-446,constant-mortality,female,2073,426.503
-446,constant-mortality,male,2073,414.697
-446,high variant,female,2073,561.955
-446,high variant,male,2073,560.845
-446,instant-replacement,female,2073,555.975
-446,instant-replacement,male,2073,554.487
-446,low variant,female,2073,389.518
-446,low variant,male,2073,380.117
-446,medium variant,female,2073,469.028
-446,medium variant,male,2073,463.442
-446,no change,female,2073,346.43
-446,no change,male,2073,331.183
-446,zero-migration,female,2073,265.982
-446,zero-migration,male,2073,259.639
-446,constant-fertility,female,2074,386.924
-446,constant-fertility,male,2074,377.845
-446,constant-mortality,female,2074,426.83
-446,constant-mortality,male,2074,415.572
-446,high variant,female,2074,565.94
-446,high variant,male,2074,565.49
-446,instant-replacement,female,2074,558.968
-446,instant-replacement,male,2074,558.085
-446,low variant,female,2074,388.661
-446,low variant,male,2074,379.696
-446,medium variant,female,2074,470.221
-446,medium variant,male,2074,465.163
-446,no change,female,2074,344.446
-446,no change,male,2074,329.668
-446,zero-migration,female,2074,263.634
-446,zero-migration,male,2074,257.845
-446,constant-fertility,female,2075,385.691
-446,constant-fertility,male,2075,377.028
-446,constant-mortality,female,2075,427.197
-446,constant-mortality,male,2075,416.481
-446,high variant,female,2075,569.958
-446,high variant,male,2075,570.169
-446,instant-replacement,female,2075,561.968
-446,instant-replacement,male,2075,561.69
-446,low variant,female,2075,387.748
-446,low variant,male,2075,379.217
-446,medium variant,female,2075,471.384
-446,medium variant,male,2075,466.854
-446,no change,female,2075,342.471
-446,no change,male,2075,328.156
-446,zero-migration,female,2075,261.301
-446,zero-migration,male,2075,256.066
-446,constant-fertility,female,2076,384.398
-446,constant-fertility,male,2076,376.15
-446,constant-mortality,female,2076,427.611
-446,constant-mortality,male,2076,417.431
-446,high variant,female,2076,574.014
-446,high variant,male,2076,574.888
-446,instant-replacement,female,2076,564.982
-446,instant-replacement,male,2076,565.309
-446,low variant,female,2076,386.783
-446,low variant,male,2076,378.685
-446,medium variant,female,2076,472.523
-446,medium variant,male,2076,468.521
-446,no change,female,2076,340.511
-446,no change,male,2076,326.654
-446,zero-migration,female,2076,258.99
-446,zero-migration,male,2076,254.31
-446,constant-fertility,female,2077,383.05
-446,constant-fertility,male,2077,375.215
-446,constant-mortality,female,2077,428.08
-446,constant-mortality,male,2077,418.425
-446,high variant,female,2077,578.117
-446,high variant,male,2077,579.656
-446,instant-replacement,female,2077,568.016
-446,instant-replacement,male,2077,568.948
-446,low variant,female,2077,385.77
-446,low variant,male,2077,378.104
-446,medium variant,female,2077,473.643
-446,medium variant,male,2077,470.168
-446,no change,female,2077,338.572
-446,no change,male,2077,325.164
-446,zero-migration,female,2077,256.709
-446,zero-migration,male,2077,252.585
-446,constant-fertility,female,2078,381.652
-446,constant-fertility,male,2078,374.233
-446,constant-mortality,female,2078,428.619
-446,constant-mortality,male,2078,419.47
-446,high variant,female,2078,582.276
-446,high variant,male,2078,584.484
-446,instant-replacement,female,2078,571.078
-446,instant-replacement,male,2078,572.619
-446,low variant,female,2078,384.716
-446,low variant,male,2078,377.484
-446,medium variant,female,2078,474.752
-446,medium variant,male,2078,471.808
-446,no change,female,2078,336.67
-446,no change,male,2078,323.693
-446,zero-migration,female,2078,254.465
-446,zero-migration,male,2078,250.901
-446,constant-fertility,female,2079,380.209
-446,constant-fertility,male,2079,373.21
-446,constant-mortality,female,2079,429.247
-446,constant-mortality,male,2079,420.572
-446,high variant,female,2079,586.501
-446,high variant,male,2079,589.388
-446,instant-replacement,female,2079,574.175
-446,instant-replacement,male,2079,576.331
-446,low variant,female,2079,383.627
-446,low variant,male,2079,376.835
-446,medium variant,female,2079,475.857
-446,medium variant,male,2079,473.45
-446,no change,female,2079,334.819
-446,no change,male,2079,322.244
-446,zero-migration,female,2079,252.268
-446,zero-migration,male,2079,249.268
-446,constant-fertility,female,2080,378.729
-446,constant-fertility,male,2080,372.157
-446,constant-mortality,female,2080,429.977
-446,constant-mortality,male,2080,421.736
-446,high variant,female,2080,590.802
-446,high variant,male,2080,594.378
-446,instant-replacement,female,2080,577.312
-446,instant-replacement,male,2080,580.092
-446,low variant,female,2080,382.511
-446,low variant,male,2080,376.166
-446,medium variant,female,2080,476.967
-446,medium variant,male,2080,475.104
-446,no change,female,2080,333.033
-446,no change,male,2080,320.821
-446,zero-migration,female,2080,250.127
-446,zero-migration,male,2080,247.698
-446,constant-fertility,female,2081,377.214
-446,constant-fertility,male,2081,371.077
-446,constant-mortality,female,2081,430.813
-446,constant-mortality,male,2081,422.962
-446,high variant,female,2081,595.184
-446,high variant,male,2081,599.46
-446,instant-replacement,female,2081,580.494
-446,instant-replacement,male,2081,583.907
-446,low variant,female,2081,381.372
-446,low variant,male,2081,375.482
-446,medium variant,female,2081,478.085
-446,medium variant,male,2081,476.776
-446,no change,female,2081,331.315
-446,no change,male,2081,319.425
-446,zero-migration,female,2081,248.046
-446,zero-migration,male,2081,246.195
-446,constant-fertility,female,2082,375.674
-446,constant-fertility,male,2082,369.974
-446,constant-mortality,female,2082,431.752
-446,constant-mortality,male,2082,424.247
-446,high variant,female,2082,599.653
-446,high variant,male,2082,604.638
-446,instant-replacement,female,2082,583.727
-446,instant-replacement,male,2082,587.778
-446,low variant,female,2082,380.217
-446,low variant,male,2082,374.788
-446,medium variant,female,2082,479.22
-446,medium variant,male,2082,478.469
-446,no change,female,2082,329.664
-446,no change,male,2082,318.054
-446,zero-migration,female,2082,246.035
-446,zero-migration,male,2082,244.764
-446,constant-fertility,female,2083,374.122
-446,constant-fertility,male,2083,368.857
-446,constant-mortality,female,2083,432.791
-446,constant-mortality,male,2083,425.584
-446,high variant,female,2083,604.224
-446,high variant,male,2083,609.916
-446,instant-replacement,female,2083,587.02
-446,instant-replacement,male,2083,591.706
-446,low variant,female,2083,379.062
-446,low variant,male,2083,374.092
-446,medium variant,female,2083,480.385
-446,medium variant,male,2083,480.19
-446,no change,female,2083,328.077
-446,no change,male,2083,316.702
-446,zero-migration,female,2083,244.109
-446,zero-migration,male,2083,243.412
-446,constant-fertility,female,2084,372.578
-446,constant-fertility,male,2084,367.732
-446,constant-mortality,female,2084,433.921
-446,constant-mortality,male,2084,426.961
-446,high variant,female,2084,608.912
-446,high variant,male,2084,615.298
-446,instant-replacement,female,2084,590.387
-446,instant-replacement,male,2084,595.692
-446,low variant,female,2084,377.928
-446,low variant,male,2084,373.4
-446,medium variant,female,2084,481.599
-446,medium variant,male,2084,481.945
-446,no change,female,2084,326.547
-446,no change,male,2084,315.36
-446,zero-migration,female,2084,242.286
-446,zero-migration,male,2084,242.146
-446,constant-fertility,female,2085,371.058
-446,constant-fertility,male,2085,366.605
-446,constant-mortality,female,2085,435.132
-446,constant-mortality,male,2085,428.367
-446,high variant,female,2085,613.727
-446,high variant,male,2085,620.786
-446,instant-replacement,female,2085,593.836
-446,instant-replacement,male,2085,599.734
-446,low variant,female,2085,376.83
-446,low variant,male,2085,372.72
-446,medium variant,female,2085,482.875
-446,medium variant,male,2085,483.738
-446,no change,female,2085,325.065
-446,no change,male,2085,314.019
-446,zero-migration,female,2085,240.581
-446,zero-migration,male,2085,240.969
-446,constant-fertility,female,2086,369.567
-446,constant-fertility,male,2086,365.48
-446,constant-mortality,female,2086,436.421
-446,constant-mortality,male,2086,429.798
-446,high variant,female,2086,618.674
-446,high variant,male,2086,626.38
-446,instant-replacement,female,2086,597.369
-446,instant-replacement,male,2086,603.832
-446,low variant,female,2086,375.774
-446,low variant,male,2086,372.055
-446,medium variant,female,2086,484.219
-446,medium variant,male,2086,485.571
-446,no change,female,2086,323.63
-446,no change,male,2086,312.676
-446,zero-migration,female,2086,238.999
-446,zero-migration,male,2086,239.884
-446,constant-fertility,female,2087,368.108
-446,constant-fertility,male,2087,364.359
-446,constant-mortality,female,2087,437.777
-446,constant-mortality,male,2087,431.246
-446,high variant,female,2087,623.753
-446,high variant,male,2087,632.079
-446,instant-replacement,female,2087,600.985
-446,instant-replacement,male,2087,607.982
-446,low variant,female,2087,374.761
-446,low variant,male,2087,371.406
-446,medium variant,female,2087,485.631
-446,medium variant,male,2087,487.445
-446,no change,female,2087,322.234
-446,no change,male,2087,311.326
-446,zero-migration,female,2087,237.541
-446,zero-migration,male,2087,238.891
-446,constant-fertility,female,2088,366.688
-446,constant-fertility,male,2088,363.243
-446,constant-mortality,female,2088,439.182
-446,constant-mortality,male,2088,432.696
-446,high variant,female,2088,628.964
-446,high variant,male,2088,637.878
-446,instant-replacement,female,2088,604.683
-446,instant-replacement,male,2088,612.178
-446,low variant,female,2088,373.799
-446,low variant,male,2088,370.775
-446,medium variant,female,2088,487.116
-446,medium variant,male,2088,489.357
-446,no change,female,2088,320.861
-446,no change,male,2088,309.958
-446,zero-migration,female,2088,236.212
-446,zero-migration,male,2088,237.988
-446,constant-fertility,female,2089,365.314
-446,constant-fertility,male,2089,362.134
-446,constant-mortality,female,2089,440.61
-446,constant-mortality,male,2089,434.128
-446,high variant,female,2089,634.305
-446,high variant,male,2089,643.767
-446,instant-replacement,female,2089,608.462
-446,instant-replacement,male,2089,616.41
-446,low variant,female,2089,372.893
-446,low variant,male,2089,370.162
-446,medium variant,female,2089,488.676
-446,medium variant,male,2089,491.305
-446,no change,female,2089,319.492
-446,no change,male,2089,308.559
-446,zero-migration,female,2089,235.013
-446,zero-migration,male,2089,237.17
-446,constant-fertility,female,2090,363.99
-446,constant-fertility,male,2090,361.032
-446,constant-mortality,female,2090,442.039
-446,constant-mortality,male,2090,435.528
-446,high variant,female,2090,639.774
-446,high variant,male,2090,649.741
-446,instant-replacement,female,2090,612.316
-446,instant-replacement,male,2090,620.67
-446,low variant,female,2090,372.045
-446,low variant,male,2090,369.566
-446,medium variant,female,2090,490.312
-446,medium variant,male,2090,493.286
-446,no change,female,2090,318.107
-446,no change,male,2090,307.118
-446,zero-migration,female,2090,233.946
-446,zero-migration,male,2090,236.434
-446,constant-fertility,female,2091,362.716
-446,constant-fertility,male,2091,359.936
-446,constant-mortality,female,2091,443.453
-446,constant-mortality,male,2091,436.884
-446,high variant,female,2091,645.366
-446,high variant,male,2091,655.791
-446,instant-replacement,female,2091,616.241
-446,instant-replacement,male,2091,624.95
-446,low variant,female,2091,371.256
-446,low variant,male,2091,368.985
-446,medium variant,female,2091,492.022
-446,medium variant,male,2091,495.296
-446,no change,female,2091,316.695
-446,no change,male,2091,305.628
-446,zero-migration,female,2091,233.007
-446,zero-migration,male,2091,235.775
-446,constant-fertility,female,2092,361.49
-446,constant-fertility,male,2092,358.844
-446,constant-mortality,female,2092,444.841
-446,constant-mortality,male,2092,438.188
-446,high variant,female,2092,651.073
-446,high variant,male,2092,661.912
-446,instant-replacement,female,2092,620.229
-446,instant-replacement,male,2092,629.241
-446,low variant,female,2092,370.522
-446,low variant,male,2092,368.419
-446,medium variant,female,2092,493.8
-446,medium variant,male,2092,497.33
-446,no change,female,2092,315.249
-446,no change,male,2092,304.086
-446,zero-migration,female,2092,232.19
-446,zero-migration,male,2092,235.187
-446,constant-fertility,female,2093,360.306
-446,constant-fertility,male,2093,357.754
-446,constant-mortality,female,2093,446.196
-446,constant-mortality,male,2093,439.438
-446,high variant,female,2093,656.888
-446,high variant,male,2093,668.097
-446,instant-replacement,female,2093,624.271
-446,instant-replacement,male,2093,633.538
-446,low variant,female,2093,369.839
-446,low variant,male,2093,367.862
-446,medium variant,female,2093,495.64
-446,medium variant,male,2093,499.384
-446,no change,female,2093,313.763
-446,no change,male,2093,302.49
-446,zero-migration,female,2093,231.487
-446,zero-migration,male,2093,234.664
-446,constant-fertility,female,2094,359.156
-446,constant-fertility,male,2094,356.661
-446,constant-mortality,female,2094,447.509
-446,constant-mortality,male,2094,440.629
-446,high variant,female,2094,662.801
-446,high variant,male,2094,674.339
-446,instant-replacement,female,2094,628.356
-446,instant-replacement,male,2094,637.832
-446,low variant,female,2094,369.197
-446,low variant,male,2094,367.313
-446,medium variant,female,2094,497.534
-446,medium variant,male,2094,501.452
-446,no change,female,2094,312.232
-446,no change,male,2094,300.839
-446,zero-migration,female,2094,230.888
-446,zero-migration,male,2094,234.2
-446,constant-fertility,female,2095,358.032
-446,constant-fertility,male,2095,355.561
-446,constant-mortality,female,2095,448.77
-446,constant-mortality,male,2095,441.756
-446,high variant,female,2095,668.798
-446,high variant,male,2095,680.628
-446,instant-replacement,female,2095,632.471
-446,instant-replacement,male,2095,642.114
-446,low variant,female,2095,368.59
-446,low variant,male,2095,366.766
-446,medium variant,female,2095,499.47
-446,medium variant,male,2095,503.528
-446,no change,female,2095,310.65
-446,no change,male,2095,299.132
-446,zero-migration,female,2095,230.379
-446,zero-migration,male,2095,233.786
-446,constant-fertility,female,2096,356.925
-446,constant-fertility,male,2096,354.449
-446,constant-mortality,female,2096,449.966
-446,constant-mortality,male,2096,442.813
-446,high variant,female,2096,674.866
-446,high variant,male,2096,686.954
-446,instant-replacement,female,2096,636.602
-446,instant-replacement,male,2096,646.372
-446,low variant,female,2096,368.006
-446,low variant,male,2096,366.215
-446,medium variant,female,2096,501.437
-446,medium variant,male,2096,505.603
-446,no change,female,2096,309.007
-446,no change,male,2096,297.367
-446,zero-migration,female,2096,229.947
-446,zero-migration,male,2096,233.412
-446,constant-fertility,female,2097,355.823
-446,constant-fertility,male,2097,353.318
-446,constant-mortality,female,2097,451.081
-446,constant-mortality,male,2097,443.792
-446,high variant,female,2097,680.99
-446,high variant,male,2097,693.305
-446,instant-replacement,female,2097,640.734
-446,instant-replacement,male,2097,650.594
-446,low variant,female,2097,367.435
-446,low variant,male,2097,365.654
-446,medium variant,female,2097,503.421
-446,medium variant,male,2097,507.667
-446,no change,female,2097,307.292
-446,no change,male,2097,295.539
-446,zero-migration,female,2097,229.576
-446,zero-migration,male,2097,233.065
-446,constant-fertility,female,2098,354.715
-446,constant-fertility,male,2098,352.162
-446,constant-mortality,female,2098,452.094
-446,constant-mortality,male,2098,444.682
-446,high variant,female,2098,687.15
-446,high variant,male,2098,699.666
-446,instant-replacement,female,2098,644.848
-446,instant-replacement,male,2098,654.765
-446,low variant,female,2098,366.863
-446,low variant,male,2098,365.074
-446,medium variant,female,2098,505.407
-446,medium variant,male,2098,509.709
-446,no change,female,2098,305.488
-446,no change,male,2098,293.645
-446,zero-migration,female,2098,229.25
-446,zero-migration,male,2098,232.734
-446,constant-fertility,female,2099,353.59
-446,constant-fertility,male,2099,350.971
-446,constant-mortality,female,2099,452.98
-446,constant-mortality,male,2099,445.47
-446,high variant,female,2099,693.328
-446,high variant,male,2099,706.019
-446,instant-replacement,female,2099,648.925
-446,instant-replacement,male,2099,658.869
-446,low variant,female,2099,366.278
-446,low variant,male,2099,364.466
-446,medium variant,female,2099,507.38
-446,medium variant,male,2099,511.717
-446,no change,female,2099,303.578
-446,no change,male,2099,291.675
-446,zero-migration,female,2099,228.948
-446,zero-migration,male,2099,232.404
-446,constant-fertility,female,2100,352.434
-446,constant-fertility,male,2100,349.739
-446,constant-mortality,female,2100,453.713
-446,constant-mortality,male,2100,446.142
-446,high variant,female,2100,699.501
-446,high variant,male,2100,712.347
-446,instant-replacement,female,2100,652.944
-446,instant-replacement,male,2100,662.887
-446,low variant,female,2100,365.665
-446,low variant,male,2100,363.821
-446,medium variant,female,2100,509.321
-446,medium variant,male,2100,513.678
-446,no change,female,2100,301.541
-446,no change,male,2100,289.624
-446,zero-migration,female,2100,228.652
-446,zero-migration,male,2100,232.057
+446,highvariant,female,2015,304.595
+446,highvariant,male,2015,283.011
+446,instantreplacement,female,2015,304.595
+446,instantreplacement,male,2015,283.011
+446,lowvariant,female,2015,304.595
+446,lowvariant,male,2015,283.011
+446,mediumvariant,female,2015,304.595
+446,mediumvariant,male,2015,283.011
+446,nochange,female,2015,304.595
+446,nochange,male,2015,283.011
+446,zeromigration,female,2015,304.595
+446,zeromigration,male,2015,283.011
+446,constantfertility,female,2016,309.158
+446,constantfertility,male,2016,287.565
+446,constantmortality,female,2016,309.293
+446,constantmortality,male,2016,287.681
+446,highvariant,female,2016,309.74
+446,highvariant,male,2016,288.175
+446,instantreplacement,female,2016,310.639
+446,instantreplacement,male,2016,289.117
+446,lowvariant,female,2016,308.97
+446,lowvariant,male,2016,287.368
+446,mediumvariant,female,2016,309.355
+446,mediumvariant,male,2016,287.771
+446,nochange,female,2016,309.096
+446,nochange,male,2016,287.475
+446,zeromigration,female,2016,307.666
+446,zeromigration,male,2016,286.08
+446,constantfertility,female,2017,313.515
+446,constantfertility,male,2017,291.88
+446,constantmortality,female,2017,313.845
+446,constantmortality,male,2017,292.163
+446,highvariant,female,2017,314.935
+446,highvariant,male,2017,293.368
+446,instantreplacement,female,2017,317.092
+446,instantreplacement,male,2017,295.629
+446,lowvariant,female,2017,313.062
+446,lowvariant,male,2017,291.405
+446,mediumvariant,female,2017,313.998
+446,mediumvariant,male,2017,292.386
+446,nochange,female,2017,313.362
+446,nochange,male,2017,291.656
+446,zeromigration,female,2017,309.912
+446,zeromigration,male,2017,288.292
+446,constantfertility,female,2018,317.714
+446,constantfertility,male,2018,296.007
+446,constantmortality,female,2018,318.297
+446,constantmortality,male,2018,296.502
+446,highvariant,female,2018,320.194
+446,highvariant,male,2018,298.606
+446,instantreplacement,female,2018,323.802
+446,instantreplacement,male,2018,302.387
+446,lowvariant,female,2018,316.943
+446,lowvariant,male,2018,295.198
+446,mediumvariant,female,2018,318.569
+446,mediumvariant,male,2018,296.902
+446,nochange,female,2018,317.443
+446,nochange,male,2018,295.607
+446,zeromigration,female,2018,311.588
+446,zeromigration,male,2018,289.908
+446,constantfertility,female,2019,321.812
+446,constantfertility,male,2019,300.015
+446,constantmortality,female,2019,322.701
+446,constantmortality,male,2019,300.76
+446,highvariant,female,2019,325.521
+446,highvariant,male,2019,303.902
+446,instantreplacement,female,2019,330.531
+446,instantreplacement,male,2019,309.152
+446,lowvariant,female,2019,320.706
+446,lowvariant,male,2019,298.853
+446,mediumvariant,female,2019,323.114
+446,mediumvariant,male,2019,301.377
+446,nochange,female,2019,321.401
+446,nochange,male,2019,299.398
+446,zeromigration,female,2019,313.058
+446,zeromigration,male,2019,291.302
+446,constantfertility,female,2020,325.851
+446,constantfertility,male,2020,303.952
+446,constantmortality,female,2020,327.093
+446,constantmortality,male,2020,304.979
+446,highvariant,female,2020,330.915
+446,highvariant,male,2020,309.26
+446,instantreplacement,female,2020,337.1
+446,instantreplacement,male,2020,315.742
+446,lowvariant,female,2020,324.419
+446,lowvariant,male,2020,302.449
+446,mediumvariant,female,2020,327.667
+446,mediumvariant,male,2020,305.854
+446,nochange,female,2020,325.279
+446,nochange,male,2020,303.078
+446,zeromigration,female,2020,314.588
+446,zeromigration,male,2020,292.748
+446,constantfertility,female,2021,329.854
+446,constantfertility,male,2021,307.841
+446,constantmortality,female,2021,331.494
+446,constantmortality,male,2021,309.178
+446,highvariant,female,2021,336.388
+446,highvariant,male,2021,314.691
+446,instantreplacement,female,2021,343.467
+446,instantreplacement,male,2021,322.11
+446,lowvariant,female,2021,328.114
+446,lowvariant,male,2021,306.015
+446,mediumvariant,female,2021,332.251
+446,mediumvariant,male,2021,310.353
+446,nochange,female,2021,329.1
+446,nochange,male,2021,306.669
+446,zeromigration,female,2021,316.269
+446,zeromigration,male,2021,294.335
+446,constantfertility,female,2022,333.814
+446,constantfertility,male,2022,311.671
+446,constantmortality,female,2022,335.897
+446,constantmortality,male,2022,313.344
+446,highvariant,female,2022,341.94
+446,highvariant,male,2022,320.189
+446,instantreplacement,female,2022,349.674
+446,instantreplacement,male,2022,328.294
+446,lowvariant,female,2022,331.781
+446,lowvariant,male,2022,309.538
+446,mediumvariant,female,2022,336.86
+446,mediumvariant,male,2022,314.863
+446,nochange,female,2022,332.855
+446,nochange,male,2022,310.156
+446,zeromigration,female,2022,318.04
+446,zeromigration,male,2022,295.997
+446,constantfertility,female,2023,337.707
+446,constantfertility,male,2023,315.416
+446,constantmortality,female,2023,340.27
+446,constantmortality,male,2023,317.446
+446,highvariant,female,2023,347.536
+446,highvariant,male,2023,325.718
+446,instantreplacement,female,2023,355.722
+446,instantreplacement,male,2023,334.297
+446,lowvariant,female,2023,335.398
+446,lowvariant,male,2023,312.993
+446,mediumvariant,female,2023,341.467
+446,mediumvariant,male,2023,319.355
+446,nochange,female,2023,336.516
+446,nochange,male,2023,313.512
+446,zeromigration,female,2023,319.84
+446,zeromigration,male,2023,297.673
+446,constantfertility,female,2024,341.489
+446,constantfertility,male,2024,319.031
+446,constantmortality,female,2024,344.566
+446,constantmortality,male,2024,321.435
+446,highvariant,female,2024,353.127
+446,highvariant,male,2024,331.231
+446,instantreplacement,female,2024,361.635
+446,instantreplacement,male,2024,340.148
+446,lowvariant,female,2024,338.922
+446,lowvariant,male,2024,316.337
+446,mediumvariant,female,2024,346.024
+446,mediumvariant,male,2024,323.784
+446,nochange,female,2024,340.038
+446,nochange,male,2024,316.69
+446,zeromigration,female,2024,321.549
+446,zeromigration,male,2024,299.241
+446,constantfertility,female,2025,345.129
+446,constantfertility,male,2025,322.488
+446,constantmortality,female,2025,348.746
+446,constantmortality,male,2025,325.274
+446,highvariant,female,2025,358.671
+446,highvariant,male,2025,336.684
+446,instantreplacement,female,2025,367.429
+446,instantreplacement,male,2025,345.863
+446,lowvariant,female,2025,342.321
+446,lowvariant,male,2025,319.542
+446,mediumvariant,female,2025,350.496
+446,mediumvariant,male,2025,328.113
+446,nochange,female,2025,343.388
+446,nochange,male,2025,319.66
+446,zeromigration,female,2025,323.078
+446,zeromigration,male,2025,300.613
+446,constantfertility,female,2026,348.623
+446,constantfertility,male,2026,325.783
+446,constantmortality,female,2026,352.803
+446,constantmortality,male,2026,328.958
+446,highvariant,female,2026,364.16
+446,highvariant,male,2026,342.071
+446,instantreplacement,female,2026,373.095
+446,instantreplacement,male,2026,351.436
+446,lowvariant,female,2026,345.594
+446,lowvariant,male,2026,322.606
+446,mediumvariant,female,2026,354.877
+446,mediumvariant,male,2026,332.338
+446,nochange,female,2026,346.56
+446,nochange,male,2026,322.418
+446,zeromigration,female,2026,324.429
+446,zeromigration,male,2026,301.792
+446,constantfertility,female,2027,351.98
+446,constantfertility,male,2027,328.928
+446,constantmortality,female,2027,356.74
+446,constantmortality,male,2027,332.494
+446,highvariant,female,2027,369.587
+446,highvariant,male,2027,347.386
+446,instantreplacement,female,2027,378.61
+446,instantreplacement,male,2027,356.843
+446,lowvariant,female,2027,348.755
+446,lowvariant,male,2027,325.544
+446,mediumvariant,female,2027,359.171
+446,mediumvariant,male,2027,336.465
+446,nochange,female,2027,349.564
+446,nochange,male,2027,324.976
+446,zeromigration,female,2027,325.639
+446,zeromigration,male,2027,302.818
+446,constantfertility,female,2028,355.2
+446,constantfertility,male,2028,331.924
+446,constantmortality,female,2028,360.539
+446,constantmortality,male,2028,335.869
+446,highvariant,female,2028,374.921
+446,highvariant,male,2028,352.6
+446,instantreplacement,female,2028,383.961
+446,instantreplacement,male,2028,362.075
+446,lowvariant,female,2028,351.807
+446,lowvariant,male,2028,328.364
+446,mediumvariant,female,2028,363.363
+446,mediumvariant,male,2028,340.481
+446,nochange,female,2028,352.393
+446,nochange,male,2028,327.337
+446,zeromigration,female,2028,326.695
+446,zeromigration,male,2028,303.679
+446,constantfertility,female,2029,358.282
+446,constantfertility,male,2029,334.774
+446,constantmortality,female,2029,364.181
+446,constantmortality,male,2029,339.072
+446,highvariant,female,2029,380.125
+446,highvariant,male,2029,357.675
+446,instantreplacement,female,2029,389.133
+446,instantreplacement,male,2029,367.117
+446,lowvariant,female,2029,354.755
+446,lowvariant,male,2029,331.074
+446,mediumvariant,female,2029,367.439
+446,mediumvariant,male,2029,344.373
+446,nochange,female,2029,355.046
+446,nochange,male,2029,329.502
+446,zeromigration,female,2029,327.584
+446,zeromigration,male,2029,304.365
+446,constantfertility,female,2030,361.228
+446,constantfertility,male,2030,337.484
+446,constantmortality,female,2030,367.653
+446,constantmortality,male,2030,342.093
+446,highvariant,female,2030,385.171
+446,highvariant,male,2030,362.587
+446,instantreplacement,female,2030,394.117
+446,instantreplacement,male,2030,371.964
+446,lowvariant,female,2030,357.603
+446,lowvariant,male,2030,333.682
+446,mediumvariant,female,2030,371.387
+446,mediumvariant,male,2030,348.134
+446,nochange,female,2030,357.519
+446,nochange,male,2030,331.479
+446,zeromigration,female,2030,328.297
+446,zeromigration,male,2030,304.869
+446,constantfertility,female,2031,364.035
+446,constantfertility,male,2031,340.054
+446,constantmortality,female,2031,370.946
+446,constantmortality,male,2031,344.931
+446,highvariant,female,2031,390.047
+446,highvariant,male,2031,367.326
+446,instantreplacement,female,2031,398.912
+446,instantreplacement,male,2031,376.618
+446,lowvariant,female,2031,360.352
+446,lowvariant,male,2031,336.191
+446,mediumvariant,female,2031,375.2
+446,mediumvariant,male,2031,351.758
+446,nochange,female,2031,359.81
+446,nochange,male,2031,333.269
+446,zeromigration,female,2031,328.828
+446,zeromigration,male,2031,305.189
+446,constantfertility,female,2032,366.705
+446,constantfertility,male,2032,342.487
+446,constantmortality,female,2032,374.061
+446,constantmortality,male,2032,347.592
+446,highvariant,female,2032,394.757
+446,highvariant,male,2032,371.9
+446,instantreplacement,female,2032,403.527
+446,instantreplacement,male,2032,381.092
+446,lowvariant,female,2032,362.999
+446,lowvariant,male,2032,338.6
+446,mediumvariant,female,2032,378.879
+446,mediumvariant,male,2032,355.251
+446,nochange,female,2032,361.921
+446,nochange,male,2032,334.879
+446,zeromigration,female,2032,329.179
+446,zeromigration,male,2032,305.329
+446,constantfertility,female,2033,369.244
+446,constantfertility,male,2033,344.797
+446,constantmortality,female,2033,377.001
+446,constantmortality,male,2033,350.09
+446,highvariant,female,2033,399.316
+446,highvariant,male,2033,376.328
+446,instantreplacement,female,2033,407.98
+446,instantreplacement,male,2033,385.409
+446,lowvariant,female,2033,365.54
+446,lowvariant,male,2033,340.913
+446,mediumvariant,female,2033,382.429
+446,mediumvariant,male,2033,358.621
+446,nochange,female,2033,363.855
+446,nochange,male,2033,336.324
+446,zeromigration,female,2033,329.358
+446,zeromigration,male,2033,305.302
+446,constantfertility,female,2034,371.663
+446,constantfertility,male,2034,346.999
+446,constantmortality,female,2034,379.776
+446,constantmortality,male,2034,352.445
+446,highvariant,female,2034,403.749
+446,highvariant,male,2034,380.642
+446,instantreplacement,female,2034,412.295
+446,instantreplacement,male,2034,389.6
+446,lowvariant,female,2034,367.972
+446,lowvariant,male,2034,343.128
+446,mediumvariant,female,2034,385.86
+446,mediumvariant,male,2034,361.885
+446,nochange,female,2034,365.622
+446,nochange,male,2034,337.625
+446,zeromigration,female,2034,329.377
+446,zeromigration,male,2034,305.128
+446,constantfertility,female,2035,373.969
+446,constantfertility,male,2035,349.106
+446,constantmortality,female,2035,382.392
+446,constantmortality,male,2035,354.675
+446,highvariant,female,2035,408.077
+446,highvariant,male,2035,384.87
+446,instantreplacement,female,2035,416.493
+446,instantreplacement,male,2035,393.691
+446,lowvariant,female,2035,370.291
+446,lowvariant,male,2035,345.249
+446,mediumvariant,female,2035,389.18
+446,mediumvariant,male,2035,365.056
+446,nochange,female,2035,367.229
+446,nochange,male,2035,338.799
+446,zeromigration,female,2035,329.248
+446,zeromigration,male,2035,304.823
+446,constantfertility,female,2036,376.166
+446,constantfertility,male,2036,351.125
+446,constantmortality,female,2036,384.853
+446,constantmortality,male,2036,356.789
+446,highvariant,female,2036,412.306
+446,highvariant,male,2036,389.021
+446,instantreplacement,female,2036,420.584
+446,instantreplacement,male,2036,397.696
+446,lowvariant,female,2036,372.497
+446,lowvariant,male,2036,347.277
+446,mediumvariant,female,2036,392.393
+446,mediumvariant,male,2036,368.141
+446,nochange,female,2036,368.68
+446,nochange,male,2036,339.856
+446,zeromigration,female,2036,328.975
+446,zeromigration,male,2036,304.394
+446,constantfertility,female,2037,378.254
+446,constantfertility,male,2037,353.059
+446,constantmortality,female,2037,387.163
+446,constantmortality,male,2037,358.796
+446,highvariant,female,2037,416.441
+446,highvariant,male,2037,393.102
+446,instantreplacement,female,2037,424.579
+446,instantreplacement,male,2037,401.631
+446,lowvariant,female,2037,374.591
+446,lowvariant,male,2037,349.219
+446,mediumvariant,female,2037,395.499
+446,mediumvariant,male,2037,371.145
+446,nochange,female,2037,369.976
+446,nochange,male,2037,340.803
+446,zeromigration,female,2037,328.56
+446,zeromigration,male,2037,303.848
+446,constantfertility,female,2038,380.236
+446,constantfertility,male,2038,354.919
+446,constantmortality,female,2038,389.333
+446,constantmortality,male,2038,360.717
+446,highvariant,female,2038,420.5
+446,highvariant,male,2038,397.141
+446,instantreplacement,female,2038,428.505
+446,instantreplacement,male,2038,405.528
+446,lowvariant,female,2038,376.575
+446,lowvariant,male,2038,351.08
+446,mediumvariant,female,2038,398.508
+446,mediumvariant,male,2038,374.082
+446,nochange,female,2038,371.125
+446,nochange,male,2038,341.655
+446,zeromigration,female,2038,328.015
+446,zeromigration,male,2038,303.203
+446,constantfertility,female,2039,382.115
+446,constantfertility,male,2039,356.714
+446,constantmortality,female,2039,391.376
+446,constantmortality,male,2039,362.574
+446,highvariant,female,2039,424.506
+446,highvariant,male,2039,401.167
+446,instantreplacement,female,2039,432.393
+446,instantreplacement,male,2039,409.429
+446,lowvariant,female,2039,378.448
+446,lowvariant,male,2039,352.869
+446,mediumvariant,female,2039,401.43
+446,mediumvariant,male,2039,376.971
+446,nochange,female,2039,372.131
+446,nochange,male,2039,342.428
+446,zeromigration,female,2039,327.35
+446,zeromigration,male,2039,302.477
+446,constantfertility,female,2040,383.893
+446,constantfertility,male,2040,358.451
+446,constantmortality,female,2040,393.305
+446,constantmortality,male,2040,364.389
+446,highvariant,female,2040,428.478
+446,highvariant,male,2040,405.205
+446,instantreplacement,female,2040,436.269
+446,instantreplacement,male,2040,413.366
+446,lowvariant,female,2040,380.214
+446,lowvariant,male,2040,354.594
+446,mediumvariant,female,2040,404.273
+446,mediumvariant,male,2040,379.826
+446,nochange,female,2040,373.002
+446,nochange,male,2040,343.135
+446,zeromigration,female,2040,326.577
+446,zeromigration,male,2040,301.687
+446,constantfertility,female,2041,385.571
+446,constantfertility,male,2041,360.135
+446,constantmortality,female,2041,395.127
+446,constantmortality,male,2041,366.171
+446,highvariant,female,2041,432.425
+446,highvariant,male,2041,409.269
+446,instantreplacement,female,2041,440.144
+446,instantreplacement,male,2041,417.354
+446,lowvariant,female,2041,381.871
+446,lowvariant,male,2041,356.256
+446,mediumvariant,female,2041,407.041
+446,mediumvariant,male,2041,382.654
+446,nochange,female,2041,373.74
+446,nochange,male,2041,343.784
+446,zeromigration,female,2041,325.702
+446,zeromigration,male,2041,300.843
+446,constantfertility,female,2042,387.149
+446,constantfertility,male,2042,361.768
+446,constantmortality,female,2042,396.848
+446,constantmortality,male,2042,367.929
+446,highvariant,female,2042,436.355
+446,highvariant,male,2042,413.369
+446,instantreplacement,female,2042,444.025
+446,instantreplacement,male,2042,421.401
+446,lowvariant,female,2042,383.421
+446,lowvariant,male,2042,357.86
+446,mediumvariant,female,2042,409.738
+446,mediumvariant,male,2042,385.46
+446,nochange,female,2042,374.35
+446,nochange,male,2042,344.38
+446,zeromigration,female,2042,324.73
+446,zeromigration,male,2042,299.952
+446,constantfertility,female,2043,388.63
+446,constantfertility,male,2043,363.354
+446,constantmortality,female,2043,398.485
+446,constantmortality,male,2043,369.681
+446,highvariant,female,2043,440.286
+446,highvariant,male,2043,417.524
+446,instantreplacement,female,2043,447.922
+446,instantreplacement,male,2043,425.52
+446,lowvariant,female,2043,384.87
+446,lowvariant,male,2043,359.414
+446,mediumvariant,female,2043,412.375
+446,mediumvariant,male,2043,388.259
+446,nochange,female,2043,374.839
+446,nochange,male,2043,344.932
+446,zeromigration,female,2043,323.669
+446,zeromigration,male,2043,299.025
+446,constantfertility,female,2044,390.018
+446,constantfertility,male,2044,364.898
+446,constantmortality,female,2044,400.055
+446,constantmortality,male,2044,371.447
+446,highvariant,female,2044,444.236
+446,highvariant,male,2044,421.755
+446,instantreplacement,female,2044,451.846
+446,instantreplacement,male,2044,429.723
+446,lowvariant,female,2044,386.227
+446,lowvariant,male,2044,360.926
+446,mediumvariant,female,2044,414.965
+446,mediumvariant,male,2044,391.063
+446,nochange,female,2044,375.214
+446,nochange,male,2044,345.45
+446,zeromigration,female,2044,322.528
+446,zeromigration,male,2044,298.071
+446,constantfertility,female,2045,391.312
+446,constantfertility,male,2045,366.4
+446,constantmortality,female,2045,401.571
+446,constantmortality,male,2045,373.241
+446,highvariant,female,2045,448.219
+446,highvariant,male,2045,426.076
+446,instantreplacement,female,2045,455.802
+446,instantreplacement,male,2045,434.015
+446,lowvariant,female,2045,387.498
+446,lowvariant,male,2045,362.404
+446,mediumvariant,female,2045,417.516
+446,mediumvariant,male,2045,393.883
+446,nochange,female,2045,375.483
+446,nochange,male,2045,345.941
+446,zeromigration,female,2045,321.313
+446,zeromigration,male,2045,297.099
+446,constantfertility,female,2046,392.516
+446,constantfertility,male,2046,367.863
+446,constantmortality,female,2046,403.043
+446,constantmortality,male,2046,375.071
+446,highvariant,female,2046,452.244
+446,highvariant,male,2046,430.497
+446,instantreplacement,female,2046,459.797
+446,instantreplacement,male,2046,438.404
+446,lowvariant,female,2046,388.686
+446,lowvariant,male,2046,363.851
+446,mediumvariant,female,2046,420.035
+446,mediumvariant,male,2046,396.724
+446,nochange,female,2046,375.65
+446,nochange,male,2046,346.409
+446,zeromigration,female,2046,320.03
+446,zeromigration,male,2046,296.113
+446,constantfertility,female,2047,393.628
+446,constantfertility,male,2047,369.285
+446,constantmortality,female,2047,404.473
+446,constantmortality,male,2047,376.937
+446,highvariant,female,2047,456.311
+446,highvariant,male,2047,435.018
+446,instantreplacement,female,2047,463.83
+446,instantreplacement,male,2047,442.888
+446,lowvariant,female,2047,389.791
+446,lowvariant,male,2047,365.267
+446,mediumvariant,female,2047,422.52
+446,mediumvariant,male,2047,399.586
+446,nochange,female,2047,375.718
+446,nochange,male,2047,346.851
+446,zeromigration,female,2047,318.682
+446,zeromigration,male,2047,295.118
+446,constantfertility,female,2048,394.636
+446,constantfertility,male,2048,370.656
+446,constantmortality,female,2048,405.862
+446,constantmortality,male,2048,378.831
+446,highvariant,female,2048,460.413
+446,highvariant,male,2048,439.633
+446,instantreplacement,female,2048,467.885
+446,instantreplacement,male,2048,447.452
+446,lowvariant,female,2048,390.806
+446,lowvariant,male,2048,366.645
+446,mediumvariant,female,2048,424.966
+446,mediumvariant,male,2048,402.464
+446,nochange,female,2048,375.683
+446,nochange,male,2048,347.257
+446,zeromigration,female,2048,317.272
+446,zeromigration,male,2048,294.117
+446,constantfertility,female,2049,395.527
+446,constantfertility,male,2049,371.963
+446,constantmortality,female,2049,407.209
+446,constantmortality,male,2049,380.743
+446,highvariant,female,2049,464.539
+446,highvariant,male,2049,444.332
+446,instantreplacement,female,2049,471.941
+446,instantreplacement,male,2049,452.077
+446,lowvariant,female,2049,391.722
+446,lowvariant,male,2049,367.979
+446,mediumvariant,female,2049,427.361
+446,mediumvariant,male,2049,405.348
+446,nochange,female,2049,375.538
+446,nochange,male,2049,347.611
+446,zeromigration,female,2049,315.8
+446,zeromigration,male,2049,293.111
+446,constantfertility,female,2050,396.291
+446,constantfertility,male,2050,373.196
+446,constantmortality,female,2050,408.512
+446,constantmortality,male,2050,382.661
+446,highvariant,female,2050,468.678
+446,highvariant,male,2050,449.104
+446,instantreplacement,female,2050,475.981
+446,instantreplacement,male,2050,456.744
+446,lowvariant,female,2050,392.534
+446,lowvariant,male,2050,369.263
+446,mediumvariant,female,2050,429.698
+446,mediumvariant,male,2050,408.231
+446,nochange,female,2050,375.281
+446,nochange,male,2050,347.9
+446,zeromigration,female,2050,314.268
+446,zeromigration,male,2050,292.102
+446,constantfertility,female,2051,396.925
+446,constantfertility,male,2051,374.35
+446,constantmortality,female,2051,409.773
+446,constantmortality,male,2051,384.582
+446,highvariant,female,2051,472.829
+446,highvariant,male,2051,453.946
+446,instantreplacement,female,2051,479.998
+446,instantreplacement,male,2051,461.445
+446,lowvariant,female,2051,393.241
+446,lowvariant,male,2051,370.494
+446,mediumvariant,female,2051,431.976
+446,mediumvariant,male,2051,411.11
+446,nochange,female,2051,374.912
+446,nochange,male,2051,348.12
+446,zeromigration,female,2051,312.678
+446,zeromigration,male,2051,291.091
+446,constantfertility,female,2052,397.433
+446,constantfertility,male,2052,375.426
+446,constantmortality,female,2052,410.995
+446,constantmortality,male,2052,386.504
+446,highvariant,female,2052,476.992
+446,highvariant,male,2052,458.856
+446,instantreplacement,female,2052,483.99
+446,instantreplacement,male,2052,466.174
+446,lowvariant,female,2052,393.846
+446,lowvariant,male,2052,371.672
+446,mediumvariant,female,2052,434.198
+446,mediumvariant,male,2052,413.984
+446,nochange,female,2052,374.436
+446,nochange,male,2052,348.269
+446,zeromigration,female,2052,311.034
+446,zeromigration,male,2052,290.077
+446,constantfertility,female,2053,397.821
+446,constantfertility,male,2053,376.423
+446,constantmortality,female,2053,412.181
+446,constantmortality,male,2053,388.416
+446,highvariant,female,2053,481.163
+446,highvariant,male,2053,463.819
+446,instantreplacement,female,2053,487.954
+446,instantreplacement,male,2053,470.919
+446,lowvariant,female,2053,394.354
+446,lowvariant,male,2053,372.795
+446,mediumvariant,female,2053,436.363
+446,mediumvariant,male,2053,416.845
+446,nochange,female,2053,373.86
+446,nochange,male,2053,348.343
+446,zeromigration,female,2053,309.332
+446,zeromigration,male,2053,289.05
+446,constantfertility,female,2054,398.099
+446,constantfertility,male,2054,377.34
+446,constantmortality,female,2054,413.332
+446,constantmortality,male,2054,390.305
+446,highvariant,female,2054,485.337
+446,highvariant,male,2054,468.823
+446,instantreplacement,female,2054,491.886
+446,instantreplacement,male,2054,475.668
+446,lowvariant,female,2054,394.772
+446,lowvariant,male,2054,373.859
+446,mediumvariant,female,2054,438.473
+446,mediumvariant,male,2054,419.686
+446,nochange,female,2054,373.197
+446,nochange,male,2054,348.338
+446,zeromigration,female,2054,307.572
+446,zeromigration,male,2054,287.999
+446,constantfertility,female,2055,398.273
+446,constantfertility,male,2055,378.178
+446,constantmortality,female,2055,414.451
+446,constantmortality,male,2055,392.159
+446,highvariant,female,2055,489.51
+446,highvariant,male,2055,473.853
+446,instantreplacement,female,2055,495.782
+446,instantreplacement,male,2055,480.406
+446,lowvariant,female,2055,395.103
+446,lowvariant,male,2055,374.862
+446,mediumvariant,female,2055,440.53
+446,mediumvariant,male,2055,422.498
+446,nochange,female,2055,372.452
+446,nochange,male,2055,348.248
+446,zeromigration,female,2055,305.751
+446,zeromigration,male,2055,286.915
+446,constantfertility,female,2056,398.347
+446,constantfertility,male,2056,378.935
+446,constantmortality,female,2056,415.538
+446,constantmortality,male,2056,393.973
+446,highvariant,female,2056,493.679
+446,highvariant,male,2056,478.903
+446,instantreplacement,female,2056,499.638
+446,instantreplacement,male,2056,485.127
+446,lowvariant,female,2056,395.351
+446,lowvariant,male,2056,375.801
+446,mediumvariant,female,2056,442.533
+446,mediumvariant,male,2056,425.278
+446,nochange,female,2056,371.63
+446,nochange,male,2056,348.071
+446,zeromigration,female,2056,303.871
+446,zeromigration,male,2056,285.795
+446,constantfertility,female,2057,398.322
+446,constantfertility,male,2057,379.608
+446,constantmortality,female,2057,416.59
+446,constantmortality,male,2057,395.742
+446,highvariant,female,2057,497.84
+446,highvariant,male,2057,483.965
+446,instantreplacement,female,2057,503.449
+446,instantreplacement,male,2057,489.819
+446,lowvariant,female,2057,395.516
+446,lowvariant,male,2057,376.675
+446,mediumvariant,female,2057,444.481
+446,mediumvariant,male,2057,428.02
+446,nochange,female,2057,370.732
+446,nochange,male,2057,347.805
+446,zeromigration,female,2057,301.934
+446,zeromigration,male,2057,284.637
+446,constantfertility,female,2058,398.205
+446,constantfertility,male,2058,380.197
+446,constantmortality,female,2058,417.604
+446,constantmortality,male,2058,397.455
+446,highvariant,female,2058,501.99
+446,highvariant,male,2058,489.026
+446,instantreplacement,female,2058,507.205
+446,instantreplacement,male,2058,494.465
+446,lowvariant,female,2058,395.604
+446,lowvariant,male,2058,377.479
+446,mediumvariant,female,2058,446.376
+446,mediumvariant,male,2058,430.718
+446,nochange,female,2058,369.757
+446,nochange,male,2058,347.444
+446,zeromigration,female,2058,299.944
+446,zeromigration,male,2058,283.435
+446,constantfertility,female,2059,398.004
+446,constantfertility,male,2059,380.698
+446,constantmortality,female,2059,418.572
+446,constantmortality,male,2059,399.097
+446,highvariant,female,2059,506.121
+446,highvariant,male,2059,494.069
+446,instantreplacement,female,2059,510.895
+446,instantreplacement,male,2059,499.043
+446,lowvariant,female,2059,395.621
+446,lowvariant,male,2059,378.209
+446,mediumvariant,female,2059,448.219
+446,mediumvariant,male,2059,433.361
+446,nochange,female,2059,368.707
+446,nochange,male,2059,346.982
+446,zeromigration,female,2059,297.903
+446,zeromigration,male,2059,282.184
+446,constantfertility,female,2060,397.725
+446,constantfertility,male,2060,381.111
+446,constantmortality,female,2060,419.49
+446,constantmortality,male,2060,400.66
+446,highvariant,female,2060,510.23
+446,highvariant,male,2060,499.081
+446,instantreplacement,female,2060,514.511
+446,instantreplacement,male,2060,503.536
+446,lowvariant,female,2060,395.57
+446,lowvariant,male,2060,378.862
+446,mediumvariant,female,2060,450.009
+446,mediumvariant,male,2060,435.943
+446,nochange,female,2060,367.582
+446,nochange,male,2060,346.416
+446,zeromigration,female,2060,295.814
+446,zeromigration,male,2060,280.878
+446,constantfertility,female,2061,397.372
+446,constantfertility,male,2061,381.435
+446,constantmortality,female,2061,420.357
+446,constantmortality,male,2061,402.14
+446,highvariant,female,2061,514.315
+446,highvariant,male,2061,504.056
+446,instantreplacement,female,2061,518.051
+446,instantreplacement,male,2061,507.937
+446,lowvariant,female,2061,395.455
+446,lowvariant,male,2061,379.436
+446,mediumvariant,female,2061,451.748
+446,mediumvariant,male,2061,438.46
+446,nochange,female,2061,366.385
+446,nochange,male,2061,345.745
+446,zeromigration,female,2061,293.68
+446,zeromigration,male,2061,279.516
+446,constantfertility,female,2062,396.948
+446,constantfertility,male,2062,381.671
+446,constantmortality,female,2062,421.173
+446,constantmortality,male,2062,403.537
+446,highvariant,female,2062,518.376
+446,highvariant,male,2062,508.992
+446,instantreplacement,female,2062,521.516
+446,instantreplacement,male,2062,512.246
+446,lowvariant,female,2062,395.277
+446,lowvariant,male,2062,379.93
+446,mediumvariant,female,2062,453.437
+446,mediumvariant,male,2062,440.909
+446,nochange,female,2062,365.117
+446,nochange,male,2062,344.972
+446,zeromigration,female,2062,291.504
+446,zeromigration,male,2062,278.098
+446,constantfertility,female,2063,396.455
+446,constantfertility,male,2063,381.817
+446,constantmortality,female,2063,421.934
+446,constantmortality,male,2063,404.853
+446,highvariant,female,2063,522.413
+446,highvariant,male,2063,513.885
+446,instantreplacement,female,2063,524.908
+446,instantreplacement,male,2063,516.46
+446,lowvariant,female,2063,395.037
+446,lowvariant,male,2063,380.343
+446,mediumvariant,female,2063,455.077
+446,mediumvariant,male,2063,443.29
+446,nochange,female,2063,363.776
+446,nochange,male,2063,344.1
+446,zeromigration,female,2063,289.29
+446,zeromigration,male,2063,276.625
+446,constantfertility,female,2064,395.896
+446,constantfertility,male,2064,381.875
+446,constantmortality,female,2064,422.63
+446,constantmortality,male,2064,406.088
+446,highvariant,female,2064,526.425
+446,highvariant,male,2064,518.734
+446,instantreplacement,female,2064,528.23
+446,instantreplacement,male,2064,520.582
+446,lowvariant,female,2064,394.739
+446,lowvariant,male,2064,380.675
+446,mediumvariant,female,2064,456.667
+446,mediumvariant,male,2064,445.601
+446,nochange,female,2064,362.355
+446,nochange,male,2064,343.131
+446,zeromigration,female,2064,287.042
+446,zeromigration,male,2064,275.099
+446,constantfertility,female,2065,395.273
+446,constantfertility,male,2065,381.846
+446,constantmortality,female,2065,423.26
+446,constantmortality,male,2065,407.247
+446,highvariant,female,2065,530.414
+446,highvariant,male,2065,523.537
+446,instantreplacement,female,2065,531.487
+446,instantreplacement,male,2065,524.615
+446,lowvariant,female,2065,394.382
+446,lowvariant,male,2065,380.926
+446,mediumvariant,female,2065,458.21
+446,mediumvariant,male,2065,447.841
+446,nochange,female,2065,360.852
+446,nochange,male,2065,342.071
+446,zeromigration,female,2065,284.764
+446,zeromigration,male,2065,273.523
+446,constantfertility,female,2066,394.588
+446,constantfertility,male,2066,381.73
+446,constantmortality,female,2066,423.824
+446,constantmortality,male,2066,408.332
+446,highvariant,female,2066,534.381
+446,highvariant,male,2066,528.295
+446,instantreplacement,female,2066,534.68
+446,instantreplacement,male,2066,528.558
+446,lowvariant,female,2066,393.969
+446,lowvariant,male,2066,381.096
+446,mediumvariant,female,2066,459.706
+446,mediumvariant,male,2066,450.011
+446,nochange,female,2066,359.27
+446,nochange,male,2066,340.924
+446,zeromigration,female,2066,282.461
+446,zeromigration,male,2066,271.899
+446,constantfertility,female,2067,393.843
+446,constantfertility,male,2067,381.529
+446,constantmortality,female,2067,424.329
+446,constantmortality,male,2067,409.35
+446,highvariant,female,2067,538.328
+446,highvariant,male,2067,533.011
+446,instantreplacement,female,2067,537.814
+446,instantreplacement,male,2067,532.417
+446,lowvariant,female,2067,393.501
+446,lowvariant,male,2067,381.187
+446,mediumvariant,female,2067,461.158
+446,mediumvariant,male,2067,452.111
+446,nochange,female,2067,357.615
+446,nochange,male,2067,339.695
+446,zeromigration,female,2067,280.135
+446,zeromigration,male,2067,270.232
+446,constantfertility,female,2068,393.037
+446,constantfertility,male,2068,381.243
+446,constantmortality,female,2068,424.78
+446,constantmortality,male,2068,410.31
+446,highvariant,female,2068,542.262
+446,highvariant,male,2068,537.69
+446,instantreplacement,female,2068,540.899
+446,instantreplacement,male,2068,536.202
+446,lowvariant,female,2068,392.977
+446,lowvariant,male,2068,381.198
+446,mediumvariant,female,2068,462.566
+446,mediumvariant,male,2068,454.144
+446,nochange,female,2068,355.891
+446,nochange,male,2068,338.394
+446,zeromigration,female,2068,277.793
+446,zeromigration,male,2068,268.525
+446,constantfertility,female,2069,392.17
+446,constantfertility,male,2069,380.873
+446,constantmortality,female,2069,425.184
+446,constantmortality,male,2069,411.229
+446,highvariant,female,2069,546.19
+446,highvariant,male,2069,542.343
+446,instantreplacement,female,2069,543.949
+446,instantreplacement,male,2069,539.93
+446,lowvariant,female,2069,392.396
+446,lowvariant,male,2069,381.13
+446,mediumvariant,female,2069,463.932
+446,mediumvariant,male,2069,456.114
+446,nochange,female,2069,354.101
+446,nochange,male,2069,337.034
+446,zeromigration,female,2069,275.437
+446,zeromigration,male,2069,266.786
+446,constantfertility,female,2070,391.24
+446,constantfertility,male,2070,380.42
+446,constantmortality,female,2070,425.55
+446,constantmortality,male,2070,412.119
+446,highvariant,female,2070,550.117
+446,highvariant,male,2070,546.978
+446,instantreplacement,female,2070,546.975
+446,instantreplacement,male,2070,543.615
+446,lowvariant,female,2070,391.758
+446,lowvariant,male,2070,380.985
+446,mediumvariant,female,2070,465.259
+446,mediumvariant,male,2070,458.025
+446,nochange,female,2070,352.253
+446,nochange,male,2070,335.626
+446,zeromigration,female,2070,273.073
+446,zeromigration,male,2070,265.022
+446,constantfertility,female,2071,390.25
+446,constantfertility,male,2071,379.888
+446,constantmortality,female,2071,425.884
+446,constantmortality,male,2071,412.987
+446,highvariant,female,2071,554.05
+446,highvariant,male,2071,551.601
+446,instantreplacement,female,2071,549.984
+446,instantreplacement,male,2071,547.264
+446,lowvariant,female,2071,391.065
+446,lowvariant,male,2071,380.765
+446,mediumvariant,female,2071,466.549
+446,mediumvariant,male,2071,459.88
+446,nochange,female,2071,350.351
+446,nochange,male,2071,334.176
+446,zeromigration,female,2071,270.706
+446,zeromigration,male,2071,263.238
+446,constantfertility,female,2072,389.202
+446,constantfertility,male,2072,379.279
+446,constantmortality,female,2072,426.195
+446,constantmortality,male,2072,413.841
+446,highvariant,female,2072,557.994
+446,highvariant,male,2072,556.22
+446,instantreplacement,female,2072,552.982
+446,instantreplacement,male,2072,550.884
+446,lowvariant,female,2072,390.318
+446,lowvariant,male,2072,380.475
+446,mediumvariant,female,2072,467.805
+446,mediumvariant,male,2072,461.683
+446,nochange,female,2072,348.405
+446,nochange,male,2072,332.691
+446,zeromigration,female,2072,268.341
+446,zeromigration,male,2072,261.441
+446,constantfertility,female,2073,388.094
+446,constantfertility,male,2073,378.596
+446,constantmortality,female,2073,426.503
+446,constantmortality,male,2073,414.697
+446,highvariant,female,2073,561.955
+446,highvariant,male,2073,560.845
+446,instantreplacement,female,2073,555.975
+446,instantreplacement,male,2073,554.487
+446,lowvariant,female,2073,389.518
+446,lowvariant,male,2073,380.117
+446,mediumvariant,female,2073,469.028
+446,mediumvariant,male,2073,463.442
+446,nochange,female,2073,346.43
+446,nochange,male,2073,331.183
+446,zeromigration,female,2073,265.982
+446,zeromigration,male,2073,259.639
+446,constantfertility,female,2074,386.924
+446,constantfertility,male,2074,377.845
+446,constantmortality,female,2074,426.83
+446,constantmortality,male,2074,415.572
+446,highvariant,female,2074,565.94
+446,highvariant,male,2074,565.49
+446,instantreplacement,female,2074,558.968
+446,instantreplacement,male,2074,558.085
+446,lowvariant,female,2074,388.661
+446,lowvariant,male,2074,379.696
+446,mediumvariant,female,2074,470.221
+446,mediumvariant,male,2074,465.163
+446,nochange,female,2074,344.446
+446,nochange,male,2074,329.668
+446,zeromigration,female,2074,263.634
+446,zeromigration,male,2074,257.845
+446,constantfertility,female,2075,385.691
+446,constantfertility,male,2075,377.028
+446,constantmortality,female,2075,427.197
+446,constantmortality,male,2075,416.481
+446,highvariant,female,2075,569.958
+446,highvariant,male,2075,570.169
+446,instantreplacement,female,2075,561.968
+446,instantreplacement,male,2075,561.69
+446,lowvariant,female,2075,387.748
+446,lowvariant,male,2075,379.217
+446,mediumvariant,female,2075,471.384
+446,mediumvariant,male,2075,466.854
+446,nochange,female,2075,342.471
+446,nochange,male,2075,328.156
+446,zeromigration,female,2075,261.301
+446,zeromigration,male,2075,256.066
+446,constantfertility,female,2076,384.398
+446,constantfertility,male,2076,376.15
+446,constantmortality,female,2076,427.611
+446,constantmortality,male,2076,417.431
+446,highvariant,female,2076,574.014
+446,highvariant,male,2076,574.888
+446,instantreplacement,female,2076,564.982
+446,instantreplacement,male,2076,565.309
+446,lowvariant,female,2076,386.783
+446,lowvariant,male,2076,378.685
+446,mediumvariant,female,2076,472.523
+446,mediumvariant,male,2076,468.521
+446,nochange,female,2076,340.511
+446,nochange,male,2076,326.654
+446,zeromigration,female,2076,258.99
+446,zeromigration,male,2076,254.31
+446,constantfertility,female,2077,383.05
+446,constantfertility,male,2077,375.215
+446,constantmortality,female,2077,428.08
+446,constantmortality,male,2077,418.425
+446,highvariant,female,2077,578.117
+446,highvariant,male,2077,579.656
+446,instantreplacement,female,2077,568.016
+446,instantreplacement,male,2077,568.948
+446,lowvariant,female,2077,385.77
+446,lowvariant,male,2077,378.104
+446,mediumvariant,female,2077,473.643
+446,mediumvariant,male,2077,470.168
+446,nochange,female,2077,338.572
+446,nochange,male,2077,325.164
+446,zeromigration,female,2077,256.709
+446,zeromigration,male,2077,252.585
+446,constantfertility,female,2078,381.652
+446,constantfertility,male,2078,374.233
+446,constantmortality,female,2078,428.619
+446,constantmortality,male,2078,419.47
+446,highvariant,female,2078,582.276
+446,highvariant,male,2078,584.484
+446,instantreplacement,female,2078,571.078
+446,instantreplacement,male,2078,572.619
+446,lowvariant,female,2078,384.716
+446,lowvariant,male,2078,377.484
+446,mediumvariant,female,2078,474.752
+446,mediumvariant,male,2078,471.808
+446,nochange,female,2078,336.67
+446,nochange,male,2078,323.693
+446,zeromigration,female,2078,254.465
+446,zeromigration,male,2078,250.901
+446,constantfertility,female,2079,380.209
+446,constantfertility,male,2079,373.21
+446,constantmortality,female,2079,429.247
+446,constantmortality,male,2079,420.572
+446,highvariant,female,2079,586.501
+446,highvariant,male,2079,589.388
+446,instantreplacement,female,2079,574.175
+446,instantreplacement,male,2079,576.331
+446,lowvariant,female,2079,383.627
+446,lowvariant,male,2079,376.835
+446,mediumvariant,female,2079,475.857
+446,mediumvariant,male,2079,473.45
+446,nochange,female,2079,334.819
+446,nochange,male,2079,322.244
+446,zeromigration,female,2079,252.268
+446,zeromigration,male,2079,249.268
+446,constantfertility,female,2080,378.729
+446,constantfertility,male,2080,372.157
+446,constantmortality,female,2080,429.977
+446,constantmortality,male,2080,421.736
+446,highvariant,female,2080,590.802
+446,highvariant,male,2080,594.378
+446,instantreplacement,female,2080,577.312
+446,instantreplacement,male,2080,580.092
+446,lowvariant,female,2080,382.511
+446,lowvariant,male,2080,376.166
+446,mediumvariant,female,2080,476.967
+446,mediumvariant,male,2080,475.104
+446,nochange,female,2080,333.033
+446,nochange,male,2080,320.821
+446,zeromigration,female,2080,250.127
+446,zeromigration,male,2080,247.698
+446,constantfertility,female,2081,377.214
+446,constantfertility,male,2081,371.077
+446,constantmortality,female,2081,430.813
+446,constantmortality,male,2081,422.962
+446,highvariant,female,2081,595.184
+446,highvariant,male,2081,599.46
+446,instantreplacement,female,2081,580.494
+446,instantreplacement,male,2081,583.907
+446,lowvariant,female,2081,381.372
+446,lowvariant,male,2081,375.482
+446,mediumvariant,female,2081,478.085
+446,mediumvariant,male,2081,476.776
+446,nochange,female,2081,331.315
+446,nochange,male,2081,319.425
+446,zeromigration,female,2081,248.046
+446,zeromigration,male,2081,246.195
+446,constantfertility,female,2082,375.674
+446,constantfertility,male,2082,369.974
+446,constantmortality,female,2082,431.752
+446,constantmortality,male,2082,424.247
+446,highvariant,female,2082,599.653
+446,highvariant,male,2082,604.638
+446,instantreplacement,female,2082,583.727
+446,instantreplacement,male,2082,587.778
+446,lowvariant,female,2082,380.217
+446,lowvariant,male,2082,374.788
+446,mediumvariant,female,2082,479.22
+446,mediumvariant,male,2082,478.469
+446,nochange,female,2082,329.664
+446,nochange,male,2082,318.054
+446,zeromigration,female,2082,246.035
+446,zeromigration,male,2082,244.764
+446,constantfertility,female,2083,374.122
+446,constantfertility,male,2083,368.857
+446,constantmortality,female,2083,432.791
+446,constantmortality,male,2083,425.584
+446,highvariant,female,2083,604.224
+446,highvariant,male,2083,609.916
+446,instantreplacement,female,2083,587.02
+446,instantreplacement,male,2083,591.706
+446,lowvariant,female,2083,379.062
+446,lowvariant,male,2083,374.092
+446,mediumvariant,female,2083,480.385
+446,mediumvariant,male,2083,480.19
+446,nochange,female,2083,328.077
+446,nochange,male,2083,316.702
+446,zeromigration,female,2083,244.109
+446,zeromigration,male,2083,243.412
+446,constantfertility,female,2084,372.578
+446,constantfertility,male,2084,367.732
+446,constantmortality,female,2084,433.921
+446,constantmortality,male,2084,426.961
+446,highvariant,female,2084,608.912
+446,highvariant,male,2084,615.298
+446,instantreplacement,female,2084,590.387
+446,instantreplacement,male,2084,595.692
+446,lowvariant,female,2084,377.928
+446,lowvariant,male,2084,373.4
+446,mediumvariant,female,2084,481.599
+446,mediumvariant,male,2084,481.945
+446,nochange,female,2084,326.547
+446,nochange,male,2084,315.36
+446,zeromigration,female,2084,242.286
+446,zeromigration,male,2084,242.146
+446,constantfertility,female,2085,371.058
+446,constantfertility,male,2085,366.605
+446,constantmortality,female,2085,435.132
+446,constantmortality,male,2085,428.367
+446,highvariant,female,2085,613.727
+446,highvariant,male,2085,620.786
+446,instantreplacement,female,2085,593.836
+446,instantreplacement,male,2085,599.734
+446,lowvariant,female,2085,376.83
+446,lowvariant,male,2085,372.72
+446,mediumvariant,female,2085,482.875
+446,mediumvariant,male,2085,483.738
+446,nochange,female,2085,325.065
+446,nochange,male,2085,314.019
+446,zeromigration,female,2085,240.581
+446,zeromigration,male,2085,240.969
+446,constantfertility,female,2086,369.567
+446,constantfertility,male,2086,365.48
+446,constantmortality,female,2086,436.421
+446,constantmortality,male,2086,429.798
+446,highvariant,female,2086,618.674
+446,highvariant,male,2086,626.38
+446,instantreplacement,female,2086,597.369
+446,instantreplacement,male,2086,603.832
+446,lowvariant,female,2086,375.774
+446,lowvariant,male,2086,372.055
+446,mediumvariant,female,2086,484.219
+446,mediumvariant,male,2086,485.571
+446,nochange,female,2086,323.63
+446,nochange,male,2086,312.676
+446,zeromigration,female,2086,238.999
+446,zeromigration,male,2086,239.884
+446,constantfertility,female,2087,368.108
+446,constantfertility,male,2087,364.359
+446,constantmortality,female,2087,437.777
+446,constantmortality,male,2087,431.246
+446,highvariant,female,2087,623.753
+446,highvariant,male,2087,632.079
+446,instantreplacement,female,2087,600.985
+446,instantreplacement,male,2087,607.982
+446,lowvariant,female,2087,374.761
+446,lowvariant,male,2087,371.406
+446,mediumvariant,female,2087,485.631
+446,mediumvariant,male,2087,487.445
+446,nochange,female,2087,322.234
+446,nochange,male,2087,311.326
+446,zeromigration,female,2087,237.541
+446,zeromigration,male,2087,238.891
+446,constantfertility,female,2088,366.688
+446,constantfertility,male,2088,363.243
+446,constantmortality,female,2088,439.182
+446,constantmortality,male,2088,432.696
+446,highvariant,female,2088,628.964
+446,highvariant,male,2088,637.878
+446,instantreplacement,female,2088,604.683
+446,instantreplacement,male,2088,612.178
+446,lowvariant,female,2088,373.799
+446,lowvariant,male,2088,370.775
+446,mediumvariant,female,2088,487.116
+446,mediumvariant,male,2088,489.357
+446,nochange,female,2088,320.861
+446,nochange,male,2088,309.958
+446,zeromigration,female,2088,236.212
+446,zeromigration,male,2088,237.988
+446,constantfertility,female,2089,365.314
+446,constantfertility,male,2089,362.134
+446,constantmortality,female,2089,440.61
+446,constantmortality,male,2089,434.128
+446,highvariant,female,2089,634.305
+446,highvariant,male,2089,643.767
+446,instantreplacement,female,2089,608.462
+446,instantreplacement,male,2089,616.41
+446,lowvariant,female,2089,372.893
+446,lowvariant,male,2089,370.162
+446,mediumvariant,female,2089,488.676
+446,mediumvariant,male,2089,491.305
+446,nochange,female,2089,319.492
+446,nochange,male,2089,308.559
+446,zeromigration,female,2089,235.013
+446,zeromigration,male,2089,237.17
+446,constantfertility,female,2090,363.99
+446,constantfertility,male,2090,361.032
+446,constantmortality,female,2090,442.039
+446,constantmortality,male,2090,435.528
+446,highvariant,female,2090,639.774
+446,highvariant,male,2090,649.741
+446,instantreplacement,female,2090,612.316
+446,instantreplacement,male,2090,620.67
+446,lowvariant,female,2090,372.045
+446,lowvariant,male,2090,369.566
+446,mediumvariant,female,2090,490.312
+446,mediumvariant,male,2090,493.286
+446,nochange,female,2090,318.107
+446,nochange,male,2090,307.118
+446,zeromigration,female,2090,233.946
+446,zeromigration,male,2090,236.434
+446,constantfertility,female,2091,362.716
+446,constantfertility,male,2091,359.936
+446,constantmortality,female,2091,443.453
+446,constantmortality,male,2091,436.884
+446,highvariant,female,2091,645.366
+446,highvariant,male,2091,655.791
+446,instantreplacement,female,2091,616.241
+446,instantreplacement,male,2091,624.95
+446,lowvariant,female,2091,371.256
+446,lowvariant,male,2091,368.985
+446,mediumvariant,female,2091,492.022
+446,mediumvariant,male,2091,495.296
+446,nochange,female,2091,316.695
+446,nochange,male,2091,305.628
+446,zeromigration,female,2091,233.007
+446,zeromigration,male,2091,235.775
+446,constantfertility,female,2092,361.49
+446,constantfertility,male,2092,358.844
+446,constantmortality,female,2092,444.841
+446,constantmortality,male,2092,438.188
+446,highvariant,female,2092,651.073
+446,highvariant,male,2092,661.912
+446,instantreplacement,female,2092,620.229
+446,instantreplacement,male,2092,629.241
+446,lowvariant,female,2092,370.522
+446,lowvariant,male,2092,368.419
+446,mediumvariant,female,2092,493.8
+446,mediumvariant,male,2092,497.33
+446,nochange,female,2092,315.249
+446,nochange,male,2092,304.086
+446,zeromigration,female,2092,232.19
+446,zeromigration,male,2092,235.187
+446,constantfertility,female,2093,360.306
+446,constantfertility,male,2093,357.754
+446,constantmortality,female,2093,446.196
+446,constantmortality,male,2093,439.438
+446,highvariant,female,2093,656.888
+446,highvariant,male,2093,668.097
+446,instantreplacement,female,2093,624.271
+446,instantreplacement,male,2093,633.538
+446,lowvariant,female,2093,369.839
+446,lowvariant,male,2093,367.862
+446,mediumvariant,female,2093,495.64
+446,mediumvariant,male,2093,499.384
+446,nochange,female,2093,313.763
+446,nochange,male,2093,302.49
+446,zeromigration,female,2093,231.487
+446,zeromigration,male,2093,234.664
+446,constantfertility,female,2094,359.156
+446,constantfertility,male,2094,356.661
+446,constantmortality,female,2094,447.509
+446,constantmortality,male,2094,440.629
+446,highvariant,female,2094,662.801
+446,highvariant,male,2094,674.339
+446,instantreplacement,female,2094,628.356
+446,instantreplacement,male,2094,637.832
+446,lowvariant,female,2094,369.197
+446,lowvariant,male,2094,367.313
+446,mediumvariant,female,2094,497.534
+446,mediumvariant,male,2094,501.452
+446,nochange,female,2094,312.232
+446,nochange,male,2094,300.839
+446,zeromigration,female,2094,230.888
+446,zeromigration,male,2094,234.2
+446,constantfertility,female,2095,358.032
+446,constantfertility,male,2095,355.561
+446,constantmortality,female,2095,448.77
+446,constantmortality,male,2095,441.756
+446,highvariant,female,2095,668.798
+446,highvariant,male,2095,680.628
+446,instantreplacement,female,2095,632.471
+446,instantreplacement,male,2095,642.114
+446,lowvariant,female,2095,368.59
+446,lowvariant,male,2095,366.766
+446,mediumvariant,female,2095,499.47
+446,mediumvariant,male,2095,503.528
+446,nochange,female,2095,310.65
+446,nochange,male,2095,299.132
+446,zeromigration,female,2095,230.379
+446,zeromigration,male,2095,233.786
+446,constantfertility,female,2096,356.925
+446,constantfertility,male,2096,354.449
+446,constantmortality,female,2096,449.966
+446,constantmortality,male,2096,442.813
+446,highvariant,female,2096,674.866
+446,highvariant,male,2096,686.954
+446,instantreplacement,female,2096,636.602
+446,instantreplacement,male,2096,646.372
+446,lowvariant,female,2096,368.006
+446,lowvariant,male,2096,366.215
+446,mediumvariant,female,2096,501.437
+446,mediumvariant,male,2096,505.603
+446,nochange,female,2096,309.007
+446,nochange,male,2096,297.367
+446,zeromigration,female,2096,229.947
+446,zeromigration,male,2096,233.412
+446,constantfertility,female,2097,355.823
+446,constantfertility,male,2097,353.318
+446,constantmortality,female,2097,451.081
+446,constantmortality,male,2097,443.792
+446,highvariant,female,2097,680.99
+446,highvariant,male,2097,693.305
+446,instantreplacement,female,2097,640.734
+446,instantreplacement,male,2097,650.594
+446,lowvariant,female,2097,367.435
+446,lowvariant,male,2097,365.654
+446,mediumvariant,female,2097,503.421
+446,mediumvariant,male,2097,507.667
+446,nochange,female,2097,307.292
+446,nochange,male,2097,295.539
+446,zeromigration,female,2097,229.576
+446,zeromigration,male,2097,233.065
+446,constantfertility,female,2098,354.715
+446,constantfertility,male,2098,352.162
+446,constantmortality,female,2098,452.094
+446,constantmortality,male,2098,444.682
+446,highvariant,female,2098,687.15
+446,highvariant,male,2098,699.666
+446,instantreplacement,female,2098,644.848
+446,instantreplacement,male,2098,654.765
+446,lowvariant,female,2098,366.863
+446,lowvariant,male,2098,365.074
+446,mediumvariant,female,2098,505.407
+446,mediumvariant,male,2098,509.709
+446,nochange,female,2098,305.488
+446,nochange,male,2098,293.645
+446,zeromigration,female,2098,229.25
+446,zeromigration,male,2098,232.734
+446,constantfertility,female,2099,353.59
+446,constantfertility,male,2099,350.971
+446,constantmortality,female,2099,452.98
+446,constantmortality,male,2099,445.47
+446,highvariant,female,2099,693.328
+446,highvariant,male,2099,706.019
+446,instantreplacement,female,2099,648.925
+446,instantreplacement,male,2099,658.869
+446,lowvariant,female,2099,366.278
+446,lowvariant,male,2099,364.466
+446,mediumvariant,female,2099,507.38
+446,mediumvariant,male,2099,511.717
+446,nochange,female,2099,303.578
+446,nochange,male,2099,291.675
+446,zeromigration,female,2099,228.948
+446,zeromigration,male,2099,232.404
+446,constantfertility,female,2100,352.434
+446,constantfertility,male,2100,349.739
+446,constantmortality,female,2100,453.713
+446,constantmortality,male,2100,446.142
+446,highvariant,female,2100,699.501
+446,highvariant,male,2100,712.347
+446,instantreplacement,female,2100,652.944
+446,instantreplacement,male,2100,662.887
+446,lowvariant,female,2100,365.665
+446,lowvariant,male,2100,363.821
+446,mediumvariant,female,2100,509.321
+446,mediumvariant,male,2100,513.678
+446,nochange,female,2100,301.541
+446,nochange,male,2100,289.624
+446,zeromigration,female,2100,228.652
+446,zeromigration,male,2100,232.057
