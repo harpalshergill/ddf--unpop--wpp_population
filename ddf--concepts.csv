@@ -18,17 +18,17 @@ domain,string,,,,
 description,string,,,,
 sourceurl,string,,,,
 birthper1000population,measure,,"Crude birth rate (births per 1,000 population)","File FERT/3: Crude birth rate by major area, region and country, 1950-2100 (births per 1,000 population)",https://esa.un.org/unpd/wpp/DVD/
-childdependencyratio1564,measure,,Child dependency ratio (ratio of population aged 0-14 per 100 population 15-64),"File POP/12-A: Child dependency ratio <15/(15-64) by major area, region and country, 1950-2100 (ratio of population 0-14 per 100 population 15-64)",https://esa.un.org/unpd/wpp/DVD/
-childdependencyratio2064,measure,,Child dependency ratio (ratio of population aged 0-19 per 100 population 20-64),"File POP/12-B: Child dependency ratio <20/(20-64) by major area, region and country, 1950-2100 (ratio of population 0-19 per 100 population 20-64)",https://esa.un.org/unpd/wpp/DVD/
-childdependencyratio2069,measure,,Child dependency ratio (ratio of population aged 0-19 per 100 population 20-69),"File POP/12-C: Child dependency ratio <20/(20-69) by major area, region and country, 1950-2100 (ratio of population 0-19 per 100 population 20-69)",https://esa.un.org/unpd/wpp/DVD/
-childdependencyratio2564,measure,,Child dependency ratio (ratio of population aged 0-24 per 100 population 25-64),"File POP/12-D: Child dependency ratio <25/(25-64) by major area, region and country, 1950-2100 (ratio of population 0-24 per 100 population 25-64)",https://esa.un.org/unpd/wpp/DVD/
-childdependencyratio2569,measure,,Child dependency ratio (ratio of population aged 0-24 per 100 population 25-69),"File POP/12-E: Child dependency ratio <25/(25-69) by major area, region and country, 1950-2100 (ratio of population 0-24 per 100 population 25-69)",https://esa.un.org/unpd/wpp/DVD/
+childdependencyratio1564,measure,,,,
+childdependencyratio2064,measure,,,,
+childdependencyratio2069,measure,,,,
+childdependencyratio2564,measure,,,,
+childdependencyratio2569,measure,,,,
 crudedeathrateper1000population,measure,,"Crude death rate (deaths per 1,000 population)","File MORT/2: Crude death rate by major area, region and country, 1950-2100 (deaths per 1,000 population)",https://esa.un.org/unpd/wpp/DVD/
-dependencyratio1564,measure,,Total dependency ratio (ratio of population aged 0-14 and 65+ per 100 population 15-64),"File POP/11-A: Total dependency ratio (<15 & 65+)/(15-64) by major area, region and country, 1950-2100 (ratio of population 0-19 and 65+ per 100 population 15-64)",https://esa.un.org/unpd/wpp/DVD/
-dependencyratio2064,measure,,Total dependency ratio (ratio of population aged 0-19 and 65+ per 100 population 20-64),"File POP/11-B: Total dependency ratio (<20 & 65+)/(20-64) by major area, region and country, 1950-2100 (ratio of population 0-19 and 65+ per 100 population 20-64)",https://esa.un.org/unpd/wpp/DVD/
-dependencyratio2069,measure,,Total dependency ratio (ratio of population aged 0-19 and 70+ per 100 population 20-69),"File POP/11-C: Total dependency ratio (<20 & 70+)/(20-69) by major area, region and country, 1950-2100 (ratio of population 0-19 and 70+ per 100 population 20-69)",https://esa.un.org/unpd/wpp/DVD/
-dependencyratio2564,measure,,Total dependency ratio (ratio of population aged 0-24 and 65+ per 100 population 25-64),"File POP/11-D: Total dependency ratio (<25 & 65+)/(25-64) by major area, region and country, 1950-2100 (ratio of population 0-24 and 65+ per 100 population 25-64)",https://esa.un.org/unpd/wpp/DVD/
-dependencyratio2569,measure,,Total dependency ratio (ratio of population aged 0-24 and 70+ per 100 population 25-69),"File POP/11-E: Total dependency ratio (<25 & 70+)/(25-69) by major area, region and country, 1950-2100 (ratio of population 0-24 and 70+ per 100 population 25-69)",https://esa.un.org/unpd/wpp/DVD/
+dependencyratio1564,measure,,,,
+dependencyratio2064,measure,,,,
+dependencyratio2069,measure,,,,
+dependencyratio2564,measure,,,,
+dependencyratio2569,measure,,,,
 feminityratio_femaleper100male,measure,,Feminity ratio by broad age group (females per 100 males by age group),"File POP/10-2: Feminity ratio by broad age group, major area, region and country, 1950-2100 (females per 100 males by age group)",https://esa.un.org/unpd/wpp/DVD/
 fertilityrateper1000women,measure,,"Age-specific fertility rates (births per 1,000 women)","File FERT/7: Age-specific fertility rates by major area, region and country, 1950-2100 (births per 1,000 women)",https://esa.un.org/unpd/wpp/DVD/
 infantmortalityper1000livebirth,measure,,"Infant mortality rate, 1q0, for both sexes combined (infant deaths per 1,000 live births)","File MORT/1-1: Infant mortality rate (both sexes combined) by major area, region and country, 1950-2100 (infant deaths per 1,000 live births)",https://esa.un.org/unpd/wpp/DVD/
@@ -46,21 +46,21 @@ netnumberofmigrants,measure,,"Net number of migrants, both sexes combined (thous
 netreporductionrate,measure,,Net reproduction rate (surviving daughters per woman),"File FERT/5: Net reproduction rate by major area, region and country, 1950-2100 (surviving daughters per woman)",https://esa.un.org/unpd/wpp/DVD/
 noofbirth,measure,,"Number of births, both sexes combined (thousands)","File FERT/1: Births (both sexes combined) by major area, region and country, 1950-2100 (thousands)",https://esa.un.org/unpd/wpp/DVD/
 noofbirthbymother,measure,,Number of births by five-year age group of mother (thousands),"File FERT/6: Births by five-year age group of mother, major area, region and country, 1950-2100 (thousands)",https://esa.un.org/unpd/wpp/DVD/
-oldagedependencyratio1564,measure,,Old-age dependency ratio (ratio of population aged 65+ per 100 population 15-64),"File POP/13-A: Old-age dependency ratio 65+/(15-64) by major area, region and country, 1950-2100 (ratio of population 65+ per 100 population 15-64)",https://esa.un.org/unpd/wpp/DVD/
-oldagedependencyratio2064,measure,,Old-age dependency ratio (ratio of population aged 65+ per 100 population 20-64),"File POP/13-B: Old-age dependency ratio 65+/(20-64) by major area, region and country, 1950-2100 (ratio of population 65+ per 100 population 20-64)",https://esa.un.org/unpd/wpp/DVD/
-oldagedependencyratio2069,measure,,Old-age dependency ratio (ratio of population aged 70+ per 100 population 20-69),"File POP/13-C: Old-age dependency ratio 70+/(20-69) by major area, region and country, 1950-2100 (ratio of population 70+ per 100 population 20-69)",https://esa.un.org/unpd/wpp/DVD/
-oldagedependencyratio2564,measure,,Old-age dependency ratio (ratio of population aged 65+ per 100 population 25-64),"File POP/13-D: Old-age dependency ratio 65+/(25-64) by major area, region and country, 1950-2100 (ratio of population 65+ per 100 population 25-64)",https://esa.un.org/unpd/wpp/DVD/
-oldagedependencyratio2569,measure,,Old-age dependency ratio (ratio of population aged 70+ per 100 population 25-69),"File POP/13-E: Old-age dependency ratio 70+/(25-69) by major area, region and country, 1950-2100 (ratio of population 70+ per 100 population 25-69)",https://esa.un.org/unpd/wpp/DVD/
+oldagedependencyratio1564,measure,,,,
+oldagedependencyratio2064,measure,,,,
+oldagedependencyratio2069,measure,,,,
+oldagedependencyratio2564,measure,,,,
+oldagedependencyratio2569,measure,,,,
 percentagetotaldeaths,measure,,Percentage of deaths by age group (per 100 (male/female/all) total population),"Percentage of deaths by age group, major area, region and country, 1950-2100",https://esa.un.org/unpd/wpp/DVD/
-percentagetotalpopulation,measure,,Percentage of population by age group (per 100 (male/female/all) total population),"Percentage population by age group, major area, region and country, 1950-2100",https://esa.un.org/unpd/wpp/DVD/
+percentagetotalpopulation,measure,,,,
 population,measure,,population by age group (thousands),"population by age group, major area, region and country, 1950-2100 (thousands)",https://esa.un.org/unpd/wpp/DVD/
 populationdensitypersqkm,measure,,"Population density (persons per square km), as of 1 July","File POP/6: Population density by major area, region and country, 1950-2100 (persons per square km)",https://esa.un.org/unpd/wpp/DVD/
 populationgrowthrate,measure,,Average annual rate of population change (percentage),"File POP/2: Average annual rate of population change by major area, region and country, 1950-2100 (percentage)",https://esa.un.org/unpd/wpp/DVD/
-potentialsupport1664_65,measure,,Potential support ratio (ratio of population aged 15-64 per population 65+),"File POP/14-A: Potential support ratio (15-64/65+) by major area, region and country, 1950-2100 (ratio of population 15-64 per population 65+)",https://esa.un.org/unpd/wpp/DVD/
-potentialsupport2064_65,measure,,Potential support ratio (ratio of population aged 20-64 per population 65+),"File POP/14-B: Potential support ratio (20-64/65+) by major area, region and country, 1950-2100 (ratio of population 20-64 per population 65+)",https://esa.un.org/unpd/wpp/DVD/
-potentialsupport2069_65,measure,,Potential support ratio (ratio of population aged 20-69 per population 70+),"File POP/14-C: Potential support ratio (20-69/70+) by major area, region and country, 1950-2100 (ratio of population 20-69 per population 70+)",https://esa.un.org/unpd/wpp/DVD/
-potentialsupport2564_65,measure,,Potential support ratio (ratio of population aged 25-64 per population 65+),"File POP/14-D: Potential support ratio (25-64/65+) by major area, region and country, 1950-2100 (ratio of population 25-64 per population 65+)",https://esa.un.org/unpd/wpp/DVD/
-potentialsupport2569_70,measure,,Potential support ratio (ratio of population aged 25-69 per population 70+),"File POP/14-E: Potential support ratio (25-69/70+) by major area, region and country, 1950-2100 (ratio of population 25-69 per population 70+)",https://esa.un.org/unpd/wpp/DVD/
+potentialsupport1664_65,measure,,,,
+potentialsupport2064_65,measure,,,,
+potentialsupport2069_65,measure,,,,
+potentialsupport2564_65,measure,,,,
+potentialsupport2569_70,measure,,,,
 rateofnaturalincreaseper1000population,measure,,"Rate of natural increase (per 1,000 population)","File POP/3: Rate of natural increase by major area, region and country, 1950-2100 (per 1,000 population)",https://esa.un.org/unpd/wpp/DVD/
 sexratio_maleper100female,measure,,Sex ratio by age group (males per 100 females by age group),"Sex ratio by age group, major area, region and country, 1950-2100 (males per 100 females by age group)",https://esa.un.org/unpd/wpp/DVD/
 sexratio_maleperfemale,measure,,Sex ratio at birth (male births per female births),"File FERT/2: Sex ratio at birth by major area, region and country, 1950-2100 (male births per female births)",https://esa.un.org/unpd/wpp/DVD/
