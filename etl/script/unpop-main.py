@@ -29,15 +29,15 @@ ageBroad = []
 age5YrInterval = []
 ref_AreaCode = []
 
-metadata_df = pd.read_excel('source/metadata.xlsx', sheetname= 'metadata', parse_cols = "A:G")
+metadata_df = pd.read_excel('../source/metadata.xlsx', sheetname= 'metadata', parse_cols = "A:G")
 metadata_df['name'] = ''
 metadata_df['description'] = ''
 metadata_df['sourceurl'] = 'https://esa.un.org/unpd/wpp/Download/Standard/Population/'
 
-Ref_Area_List = pd.read_excel('source/countrymetadata.xlsx', parse_cols = "A:G")
-NewFormatInfo = pd.read_excel ('source/metadata.xlsx', sheetname= 'DemographyFormat', parse_cols = "A:C")
-BroadAgeMap = pd.read_excel ('source/metadata.xlsx', sheetname= 'BroadAgeMap', parse_cols = "A:B")
-DependencyMap = pd.read_excel('source/metadata.xlsx', sheetname= 'DependencyFormat', parse_cols = "A:C")
+Ref_Area_List = pd.read_excel('../source/countrymetadata.xlsx', parse_cols = "A:G")
+NewFormatInfo = pd.read_excel ('../source/metadata.xlsx', sheetname= 'DemographyFormat', parse_cols = "A:C")
+BroadAgeMap = pd.read_excel ('../source/metadata.xlsx', sheetname= 'BroadAgeMap', parse_cols = "A:B")
+DependencyMap = pd.read_excel('../source/metadata.xlsx', sheetname= 'DependencyFormat', parse_cols = "A:C")
 
 
 # In[3]:
@@ -129,7 +129,7 @@ def load_Files_new(source, variant, gender, TypeBy):
     
     #rename country column and country code column
     data = data.rename(columns={
-        'Major area, region, country or area *': 'Ref_Area',
+        #'Major area, region, country or area *': 'Ref_Area',
         'Country code': 'Ref_Area_Code',
         'Reference date (1 January - 31 December)': 'Year'
     })
@@ -164,7 +164,7 @@ def load_Files(source, variant, gender, TypeBy):
     
     #rename country column and country code column
     data = data.rename(columns={
-        'Major area, region, country or area *': 'Ref_Area',
+        #'Major area, region, country or area *': 'Ref_Area',
         'Country code': 'Ref_Area_Code'
     })
     #year column is present in Age Type sheets
@@ -212,7 +212,7 @@ def GetDataFromWorkBookSheets(source, gender, indicator, TypeBy):
         else:
             #first load the files
             mydata = load_Files(source, sheetName, gender, TypeBy)
-            mydata = mydata.drop(['Ref_Area'], axis=1)
+            #mydata = mydata.drop(['Ref_Area'], axis=1)
             #based on File format type apply the index and set the column value
             if (TypeBy == "Age"):
                 mydata = mydata.set_index(['Ref_Area_Code','Year','Variant','Gender'])
@@ -409,10 +409,10 @@ def updateMetaData(df, TypeBY, Directory, FileName, Indicator):
     
     #read the excel file to get indicator and description
     if(TypeBY == 'Age'or TypeBY == "AgeYearInterval"):
-        myDSvals = pd.read_excel("source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,G")
+        myDSvals = pd.read_excel("../source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,G")
         df = updateConceptDF(df, myDSvals, Indicator)
     else:
-        myDSvals = pd.read_excel("source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,F")
+        myDSvals = pd.read_excel("../source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,F")
         df = updateConceptDF(df, myDSvals, Indicator)
     return df
 
@@ -511,7 +511,7 @@ def load_Files_nonEst(source, variant, gender, TypeBy):
     
     #rename country column and country code column
     data = data.rename(columns={
-        'Major area, region, country or area *': 'Ref_Area',
+        #'Major area, region, country or area *': 'Ref_Area',
         'Country code': 'Ref_Area_Code'
     })
     #year column is present in Age Type sheets
@@ -541,7 +541,7 @@ def GetDataFromWorkBook(source, gender, indicator, TypeBy):
         else:
             #first load the files
             mydata = load_Files_new(source, sheetName, gender, TypeBy)
-            mydata = mydata.drop(['Ref_Area'], axis=1)
+            #mydata = mydata.drop(['Ref_Area'], axis=1)
             #mydata = mydata.set_index(['Ref_Area_Code','Variant', 'Year'])
             #print(mydata.Gender.unique())
             all_variants.append(mydata)
@@ -564,7 +564,7 @@ def GetNonEstimateDataFromWorkBook(source, gender, indicator, TypeBy):
         else:
             #first load the files
             mydata = load_Files_new(source, sheetName, gender, TypeBy)
-            mydata = mydata.drop(['Ref_Area'], axis=1)
+            #mydata = mydata.drop(['Ref_Area'], axis=1)
             #mydata = mydata.set_index(['Ref_Area_Code','Variant', 'Year'])
             #print(mydata.Gender.unique())
             all_variants.append(mydata)
@@ -585,7 +585,7 @@ def GetNonESTIMATE_MidVariant_Data(FileName, SEX, Indicator, TypeBY , hasGender)
                 SEX = "male"
             elif "_FEMALE" in file:
                 SEX = "female"
-            ds_sex = GetNonEstimateDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY) 
+            ds_sex = GetNonEstimateDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY) 
             ds_allSex.append(ds_sex)
 
         #concat all the sheets and files together as one list
@@ -597,7 +597,7 @@ def GetNonESTIMATE_MidVariant_Data(FileName, SEX, Indicator, TypeBY , hasGender)
         dataSet = pd.concat(mainds, ignore_index=True) 
         
     else:
-        ds_sex = GetNonEstimateDataFromWorkBook("source/"+FileName, SEX, Indicator, TypeBY) 
+        ds_sex = GetNonEstimateDataFromWorkBook("../source/"+FileName, SEX, Indicator, TypeBY) 
         dataSet = pd.concat(ds_sex, ignore_index=True) 
     dataSet = dataSet.rename(columns={
     'Reference date (as of 1 July)': 'Year'
@@ -627,11 +627,11 @@ def callBroadAgeFormat(FileName, Indicator, TypeBY, OtherFiles, Directory):
             if "_MALE" in file:
                 hasGender = True
                 SEX = "male"
-                ds_sex = GetDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY )
+                ds_sex = GetDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY )
             elif "_FEMALE" in file:
                 hasGender = True
                 SEX = "female"
-                ds_sex = GetDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY )
+                ds_sex = GetDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY )
             ds_allSex.append(ds_sex)
                                                 #concat all the sheets and files together as one list
         mainds = []
@@ -641,7 +641,7 @@ def callBroadAgeFormat(FileName, Indicator, TypeBY, OtherFiles, Directory):
         ds = pd.concat(mainds, ignore_index = True)
     else:
         SEX = ''
-        ds_vals = GetDataFromWorkBook("source/"+FileName, SEX, Indicator, TypeBY )
+        ds_vals = GetDataFromWorkBook("../source/"+FileName, SEX, Indicator, TypeBY )
         ds = pd.concat(ds_vals, ignore_index = True)
         hasGender = False
 
@@ -695,7 +695,7 @@ def callDependencyFormat(ds, FileName, Indicator, TypeBY, OtherFiles, Directory,
         
         if checkOtherFiles:
             #get the other files
-            vals = GetNonEstimateDataFromWorkBook("source/"+DepenndencyExtraFiles, 'gender', Indicator, TypeBY)
+            vals = GetNonEstimateDataFromWorkBook("../source/"+DepenndencyExtraFiles, 'gender', Indicator, TypeBY)
             other_ds = pd.concat(vals, ignore_index=True) 
             other_ds = pd.melt(other_ds, id_vars=[  'Variant', 'Ref_Area_Code'], var_name='Year', value_name=DependencyNew)
             other_ds.columns = list(map(to_concept_id, other_ds.columns))        
@@ -737,7 +737,7 @@ def callDataPointFiles(metadata_df, cdf):
         if(Include == 1):
             #if (Indicator.lower() == "feminityratio_femaleper100male"):
             if(TypeBY == "DemographyFormat" ):
-                ds1 = GetDataFromWorkBook("source/"+FileName, SEX, Indicator, TypeBY )
+                ds1 = GetDataFromWorkBook("../source/"+FileName, SEX, Indicator, TypeBY )
                 ds = pd.concat(ds1, ignore_index = True)
                 
                 createDataFiles_new(ds)
@@ -767,13 +767,13 @@ def callDataPointFiles(metadata_df, cdf):
                         if "_MALE" in file:
                             hasGender = True
                             SEX = "male"
-                            ds_sex = GetDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY )
+                            ds_sex = GetDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY )
                             ds_sex_new = pd.concat(ds_sex, ignore_index = True)
                             ds_sex_new['Gender'] = 'male'
                         elif "_FEMALE" in file:
                             hasGender = True
                             SEX = "female"
-                            ds_sex = GetDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY )
+                            ds_sex = GetDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY )
                             ds_sex_new = pd.concat(ds_sex, ignore_index = True)
                             ds_sex_new['Gender'] = 'female'
                         ds_allSex.append(ds_sex_new)
@@ -786,7 +786,7 @@ def callDataPointFiles(metadata_df, cdf):
                     end = time.time()
                     print ('Time Taken: ' + str(end-start)) 
                 else:
-                    ds1 = GetDataFromWorkBook("source/"+FileName, SEX, Indicator, TypeBY )
+                    ds1 = GetDataFromWorkBook("../source/"+FileName, SEX, Indicator, TypeBY )
                     ds = pd.concat(ds1, ignore_index = True)
                     
                     #print('otherfilesname: ' + OtherFiles)
@@ -815,7 +815,7 @@ def callDataPointFiles(metadata_df, cdf):
                             SEX = "male"
                         elif "_FEMALE" in file:
                             SEX = "female"
-                        ds_sex = GetDataFromWorkBookSheets("source/"+file, SEX, Indicator, TypeBY) 
+                        ds_sex = GetDataFromWorkBookSheets("../source/"+file, SEX, Indicator, TypeBY) 
                         ds_allSex.append(ds_sex)
 
                     #concat all the sheets and files together as one list
@@ -825,7 +825,7 @@ def callDataPointFiles(metadata_df, cdf):
                             mainds.append(dss1)
                     dataSet = sortDataSets(mainds, TypeBY, FileName)
                 else:
-                    ds_sex = GetDataFromWorkBookSheets("source/"+FileName, SEX, Indicator, TypeBY) 
+                    ds_sex = GetDataFromWorkBookSheets("../source/"+FileName, SEX, Indicator, TypeBY) 
                     dataSet = sortDataSets(ds_sex, TypeBY, FileName)
 
                 dataSet = dataSet.drop_duplicates()

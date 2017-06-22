@@ -1,5 +1,5 @@
 country,variant,freq,year,netnumberofmigrants
-705,estimates,5yearly,1950,-20
+705,estimates,5yearly,1950,-20.0
 705,estimates,5yearly,1955,-9.672
 705,estimates,5yearly,1960,-22.059
 705,estimates,5yearly,1965,-14.95
@@ -10,8 +10,8 @@ country,variant,freq,year,netnumberofmigrants
 705,estimates,5yearly,1990,-17.461
 705,estimates,5yearly,1995,1.487
 705,estimates,5yearly,2000,14.998
-705,estimates,5yearly,2005,49.624
-705,estimates,5yearly,2010,4.324
+705,estimates,5yearly,2005,39.348
+705,estimates,5yearly,2010,16.571
 705,medium_variant,5yearly,2015,6.002
 705,medium_variant,5yearly,2020,6.002
 705,medium_variant,5yearly,2025,6.002
@@ -29,3 +29,5 @@ country,variant,freq,year,netnumberofmigrants
 705,medium_variant,5yearly,2085,3.598
 705,medium_variant,5yearly,2090,3.3
 705,medium_variant,5yearly,2095,2.999
+705,estimates,5yearly,Regi,Slovenia
+705,medium_variant,5yearly,Regi,Slovenia

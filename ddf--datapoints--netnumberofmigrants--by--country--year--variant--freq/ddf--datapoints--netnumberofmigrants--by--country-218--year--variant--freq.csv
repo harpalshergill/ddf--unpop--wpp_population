@@ -1,5 +1,5 @@
 country,variant,freq,year,netnumberofmigrants
-218,estimates,5yearly,1950,-2
+218,estimates,5yearly,1950,-2.0
 218,estimates,5yearly,1955,-7.999
 218,estimates,5yearly,1960,-9.002
 218,estimates,5yearly,1965,-5.5
@@ -7,7 +7,7 @@ country,variant,freq,year,netnumberofmigrants
 218,estimates,5yearly,1975,-7.198
 218,estimates,5yearly,1980,-14.001
 218,estimates,5yearly,1985,-16.998
-218,estimates,5yearly,1990,-19
+218,estimates,5yearly,1990,-19.0
 218,estimates,5yearly,1995,-69.999
 218,estimates,5yearly,2000,-120.002
 218,estimates,5yearly,2005,-44.999
@@ -29,3 +29,5 @@ country,variant,freq,year,netnumberofmigrants
 218,medium_variant,5yearly,2085,-8.052
 218,medium_variant,5yearly,2090,-7.382
 218,medium_variant,5yearly,2095,-6.713
+218,estimates,5yearly,Regi,Ecuador
+218,medium_variant,5yearly,Regi,Ecuador
