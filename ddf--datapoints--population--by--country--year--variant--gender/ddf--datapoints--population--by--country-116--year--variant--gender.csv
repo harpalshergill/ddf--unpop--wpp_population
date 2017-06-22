@@ -526,7 +526,7 @@ country,variant,gender,year,population
 116,no_change,female,2036,10377.716
 116,no_change,male,2036,9992.955
 116,zero_migration,female,2036,10453.538
-116,zero_migration,male,2036,10197.0
+116,zero_migration,male,2036,10197
 116,constant_fertility,female,2037,10855.428
 116,constant_fertility,male,2037,10427.545
 116,constant_mortality,female,2037,9909.414
@@ -1577,7 +1577,7 @@ country,variant,gender,year,population
 116,constant_mortality,male,2095,8595.589
 116,high_variant,female,2095,17095.159
 116,high_variant,male,2095,16939.438
-116,instant_replacement,female,2095,11974.0
+116,instant_replacement,female,2095,11974
 116,instant_replacement,male,2095,11641.884
 116,low_variant,female,2095,7420.421
 116,low_variant,male,2095,6896.949
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 116,no_change,male,2100,16681.816
 116,zero_migration,female,2100,12688.755
 116,zero_migration,male,2100,12725.488
-116,constant_fertility,female,"Region, subregion, country or area *",Cambodia
-116,constant_fertility,male,"Region, subregion, country or area *",Cambodia
-116,constant_mortality,female,"Region, subregion, country or area *",Cambodia
-116,constant_mortality,male,"Region, subregion, country or area *",Cambodia
-116,estimates,female,"Region, subregion, country or area *",Cambodia
-116,estimates,male,"Region, subregion, country or area *",Cambodia
-116,high_variant,female,"Region, subregion, country or area *",Cambodia
-116,high_variant,male,"Region, subregion, country or area *",Cambodia
-116,instant_replacement,female,"Region, subregion, country or area *",Cambodia
-116,instant_replacement,male,"Region, subregion, country or area *",Cambodia
-116,low_variant,female,"Region, subregion, country or area *",Cambodia
-116,low_variant,male,"Region, subregion, country or area *",Cambodia
-116,medium_variant,female,"Region, subregion, country or area *",Cambodia
-116,medium_variant,male,"Region, subregion, country or area *",Cambodia
-116,momentum,female,"Region, subregion, country or area *",Cambodia
-116,momentum,male,"Region, subregion, country or area *",Cambodia
-116,no_change,female,"Region, subregion, country or area *",Cambodia
-116,no_change,male,"Region, subregion, country or area *",Cambodia
-116,zero_migration,female,"Region, subregion, country or area *",Cambodia
-116,zero_migration,male,"Region, subregion, country or area *",Cambodia

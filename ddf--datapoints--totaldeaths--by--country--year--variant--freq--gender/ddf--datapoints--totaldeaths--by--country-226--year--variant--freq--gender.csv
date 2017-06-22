@@ -79,7 +79,7 @@ country,variant,gender,freq,year,totaldeaths
 226,no_change,male,5yearly,2025,54.128
 226,zero_migration,female,5yearly,2025,26.996
 226,zero_migration,male,5yearly,2025,36.618
-226,constant_fertility,female,5yearly,2030,31.0
+226,constant_fertility,female,5yearly,2030,31
 226,constant_fertility,male,5yearly,2030,42.557
 226,constant_mortality,female,5yearly,2030,42.589
 226,constant_mortality,male,5yearly,2030,55.528
@@ -157,7 +157,7 @@ country,variant,gender,freq,year,totaldeaths
 226,constant_mortality,male,5yearly,2050,84.569
 226,high_variant,female,5yearly,2050,31.315
 226,high_variant,male,5yearly,2050,50.87
-226,instant_replacement,female,5yearly,2050,26.0
+226,instant_replacement,female,5yearly,2050,26
 226,instant_replacement,male,5yearly,2050,42.541
 226,low_variant,female,5yearly,2050,27.938
 226,low_variant,male,5yearly,2050,45.657
@@ -331,23 +331,3 @@ country,variant,gender,freq,year,totaldeaths
 226,no_change,male,5yearly,2095,359.706
 226,zero_migration,female,5yearly,2095,68.017
 226,zero_migration,male,5yearly,2095,76.064
-226,constant_fertility,female,5yearly,Regi,Equatorial Guinea
-226,constant_fertility,male,5yearly,Regi,Equatorial Guinea
-226,constant_mortality,female,5yearly,Regi,Equatorial Guinea
-226,constant_mortality,male,5yearly,Regi,Equatorial Guinea
-226,estimates,female,5yearly,Regi,Equatorial Guinea
-226,estimates,male,5yearly,Regi,Equatorial Guinea
-226,high_variant,female,5yearly,Regi,Equatorial Guinea
-226,high_variant,male,5yearly,Regi,Equatorial Guinea
-226,instant_replacement,female,5yearly,Regi,Equatorial Guinea
-226,instant_replacement,male,5yearly,Regi,Equatorial Guinea
-226,low_variant,female,5yearly,Regi,Equatorial Guinea
-226,low_variant,male,5yearly,Regi,Equatorial Guinea
-226,medium_variant,female,5yearly,Regi,Equatorial Guinea
-226,medium_variant,male,5yearly,Regi,Equatorial Guinea
-226,momentum,female,5yearly,Regi,Equatorial Guinea
-226,momentum,male,5yearly,Regi,Equatorial Guinea
-226,no_change,female,5yearly,Regi,Equatorial Guinea
-226,no_change,male,5yearly,Regi,Equatorial Guinea
-226,zero_migration,female,5yearly,Regi,Equatorial Guinea
-226,zero_migration,male,5yearly,Regi,Equatorial Guinea

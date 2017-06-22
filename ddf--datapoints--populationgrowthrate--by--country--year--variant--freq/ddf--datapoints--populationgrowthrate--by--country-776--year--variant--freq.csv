@@ -24,7 +24,7 @@ country,variant,freq,year,populationgrowthrate
 776,constant_fertility,5yearly,2020,1.1
 776,constant_mortality,5yearly,2020,0.792
 776,high_variant,5yearly,2020,1.089
-776,instant_replacement,5yearly,2020,0.0
+776,instant_replacement,5yearly,2020,0
 776,low_variant,5yearly,2020,0.584
 776,medium_variant,5yearly,2020,0.84
 776,momentum,5yearly,2020,1.013
@@ -161,17 +161,7 @@ country,variant,freq,year,populationgrowthrate
 776,high_variant,5yearly,2095,0.755
 776,instant_replacement,5yearly,2095,-1.202
 776,low_variant,5yearly,2095,-1.053
-776,medium_variant,5yearly,2095,0.0
+776,medium_variant,5yearly,2095,0
 776,momentum,5yearly,2095,0.042
 776,no_change,5yearly,2095,1.745
 776,zero_migration,5yearly,2095,0.467
-776,constant_fertility,5yearly,Regi,Tonga
-776,constant_mortality,5yearly,Regi,Tonga
-776,estimates,5yearly,Regi,Tonga
-776,high_variant,5yearly,Regi,Tonga
-776,instant_replacement,5yearly,Regi,Tonga
-776,low_variant,5yearly,Regi,Tonga
-776,medium_variant,5yearly,Regi,Tonga
-776,momentum,5yearly,Regi,Tonga
-776,no_change,5yearly,Regi,Tonga
-776,zero_migration,5yearly,Regi,Tonga

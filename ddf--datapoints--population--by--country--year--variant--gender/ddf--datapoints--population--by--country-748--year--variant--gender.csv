@@ -30,7 +30,7 @@ country,variant,gender,year,population
 748,estimates,female,1964,199.325
 748,estimates,male,1964,183.135
 748,estimates,female,1965,204.536
-748,estimates,male,1965,187.0
+748,estimates,male,1965,187
 748,estimates,female,1966,209.96
 748,estimates,male,1966,191.219
 748,estimates,female,1967,215.605
@@ -286,7 +286,7 @@ country,variant,gender,year,population
 748,low_variant,female,2023,764.617
 748,low_variant,male,2023,714.857
 748,medium_variant,female,2023,779.57
-748,medium_variant,male,2023,730.0
+748,medium_variant,male,2023,730
 748,momentum,female,2023,744.487
 748,momentum,male,2023,700.646
 748,no_change,female,2023,784.718
@@ -909,7 +909,7 @@ country,variant,gender,year,population
 748,constant_fertility,male,2058,1460.661
 748,constant_mortality,female,2058,968.712
 748,constant_mortality,male,2058,859.835
-748,high_variant,female,2058,1340.0
+748,high_variant,female,2058,1340
 748,high_variant,male,2058,1279.336
 748,instant_replacement,female,2058,1019.659
 748,instant_replacement,male,2058,953.062
@@ -1087,7 +1087,7 @@ country,variant,gender,year,population
 748,zero_migration,male,2067,1204.265
 748,constant_fertility,female,2068,1817.594
 748,constant_fertility,male,2068,1760.782
-748,constant_mortality,female,2068,957.0
+748,constant_mortality,female,2068,957
 748,constant_mortality,male,2068,838.268
 748,high_variant,female,2068,1495.25
 748,high_variant,male,2068,1430.844
@@ -1412,7 +1412,7 @@ country,variant,gender,year,population
 748,constant_fertility,female,2086,2502.143
 748,constant_fertility,male,2086,2454.906
 748,constant_mortality,female,2086,879.512
-748,constant_mortality,male,2086,758.0
+748,constant_mortality,male,2086,758
 748,high_variant,female,2086,1754.135
 748,high_variant,male,2086,1687.095
 748,instant_replacement,female,2086,1142.259
@@ -1498,7 +1498,7 @@ country,variant,gender,year,population
 748,no_change,female,2090,1898.488
 748,no_change,male,2090,1762.361
 748,zero_migration,female,2090,1309.692
-748,zero_migration,male,2090,1275.0
+748,zero_migration,male,2090,1275
 748,constant_fertility,female,2091,2734.48
 748,constant_fertility,male,2091,2692.049
 748,constant_mortality,female,2091,850.079
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 748,no_change,male,2100,1993.773
 748,zero_migration,female,2100,1310.289
 748,zero_migration,male,2100,1272.832
-748,constant_fertility,female,"Region, subregion, country or area *",Swaziland
-748,constant_fertility,male,"Region, subregion, country or area *",Swaziland
-748,constant_mortality,female,"Region, subregion, country or area *",Swaziland
-748,constant_mortality,male,"Region, subregion, country or area *",Swaziland
-748,estimates,female,"Region, subregion, country or area *",Swaziland
-748,estimates,male,"Region, subregion, country or area *",Swaziland
-748,high_variant,female,"Region, subregion, country or area *",Swaziland
-748,high_variant,male,"Region, subregion, country or area *",Swaziland
-748,instant_replacement,female,"Region, subregion, country or area *",Swaziland
-748,instant_replacement,male,"Region, subregion, country or area *",Swaziland
-748,low_variant,female,"Region, subregion, country or area *",Swaziland
-748,low_variant,male,"Region, subregion, country or area *",Swaziland
-748,medium_variant,female,"Region, subregion, country or area *",Swaziland
-748,medium_variant,male,"Region, subregion, country or area *",Swaziland
-748,momentum,female,"Region, subregion, country or area *",Swaziland
-748,momentum,male,"Region, subregion, country or area *",Swaziland
-748,no_change,female,"Region, subregion, country or area *",Swaziland
-748,no_change,male,"Region, subregion, country or area *",Swaziland
-748,zero_migration,female,"Region, subregion, country or area *",Swaziland
-748,zero_migration,male,"Region, subregion, country or area *",Swaziland

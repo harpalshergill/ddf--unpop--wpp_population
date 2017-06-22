@@ -7,7 +7,7 @@ country,variant,freq,year,populationgrowthrate
 450,estimates,5yearly,1975,2.858
 450,estimates,5yearly,1980,2.874
 450,estimates,5yearly,1985,2.839
-450,estimates,5yearly,1990,3.0
+450,estimates,5yearly,1990,3
 450,estimates,5yearly,1995,3.141
 450,estimates,5yearly,2000,3.02
 450,estimates,5yearly,2005,2.856
@@ -165,13 +165,3 @@ country,variant,freq,year,populationgrowthrate
 450,momentum,5yearly,2095,0.013
 450,no_change,5yearly,2095,2.464
 450,zero_migration,5yearly,2095,0.72
-450,constant_fertility,5yearly,Regi,Madagascar
-450,constant_mortality,5yearly,Regi,Madagascar
-450,estimates,5yearly,Regi,Madagascar
-450,high_variant,5yearly,Regi,Madagascar
-450,instant_replacement,5yearly,Regi,Madagascar
-450,low_variant,5yearly,Regi,Madagascar
-450,medium_variant,5yearly,Regi,Madagascar
-450,momentum,5yearly,Regi,Madagascar
-450,no_change,5yearly,Regi,Madagascar
-450,zero_migration,5yearly,Regi,Madagascar

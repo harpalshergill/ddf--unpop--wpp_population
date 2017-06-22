@@ -1,6 +1,6 @@
 country,variant,gender,freq,year,lifeexpectancyatbirth
 562,estimates,female,5yearly,1950,34.92
-562,estimates,male,5yearly,1950,34.0
+562,estimates,male,5yearly,1950,34
 562,estimates,female,5yearly,1955,35.23
 562,estimates,male,5yearly,1955,34.33
 562,estimates,female,5yearly,1960,35.72
@@ -31,7 +31,7 @@ country,variant,gender,freq,year,lifeexpectancyatbirth
 562,medium_variant,male,5yearly,2020,61.29
 562,medium_variant,female,5yearly,2025,65.39
 562,medium_variant,male,5yearly,2025,62.85
-562,medium_variant,female,5yearly,2030,67.0
+562,medium_variant,female,5yearly,2030,67
 562,medium_variant,male,5yearly,2030,64.2
 562,medium_variant,female,5yearly,2035,68.44
 562,medium_variant,male,5yearly,2035,65.38
@@ -59,7 +59,3 @@ country,variant,gender,freq,year,lifeexpectancyatbirth
 562,medium_variant,male,5yearly,2090,72.87
 562,medium_variant,female,5yearly,2095,78.49
 562,medium_variant,male,5yearly,2095,73.52
-562,estimates,female,5yearly,Regi,Niger
-562,estimates,male,5yearly,Regi,Niger
-562,medium_variant,female,5yearly,Regi,Niger
-562,medium_variant,male,5yearly,Regi,Niger

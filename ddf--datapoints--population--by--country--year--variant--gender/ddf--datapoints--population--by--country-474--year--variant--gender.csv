@@ -189,7 +189,7 @@ country,variant,gender,year,population
 474,constant_fertility,male,2018,175.558
 474,constant_mortality,female,2018,210.013
 474,constant_mortality,male,2018,174.956
-474,high_variant,female,2018,211.0
+474,high_variant,female,2018,211
 474,high_variant,male,2018,176.102
 474,instant_replacement,female,2018,210.55
 474,instant_replacement,male,2018,175.598
@@ -868,7 +868,7 @@ country,variant,gender,year,population
 474,no_change,female,2055,182.794
 474,no_change,male,2055,149.67
 474,zero_migration,female,2055,203.372
-474,zero_migration,male,2055,175.0
+474,zero_migration,male,2055,175
 474,constant_fertility,female,2056,195.46
 474,constant_fertility,male,2056,160.055
 474,constant_mortality,female,2056,174.614
@@ -882,7 +882,7 @@ country,variant,gender,year,population
 474,medium_variant,female,2056,188.672
 474,medium_variant,male,2056,153.021
 474,momentum,female,2056,201.644
-474,momentum,male,2056,177.0
+474,momentum,male,2056,177
 474,no_change,female,2056,181.345
 474,no_change,male,2056,148.977
 474,zero_migration,female,2056,202.366
@@ -1507,7 +1507,7 @@ country,variant,gender,year,population
 474,high_variant,male,2091,204.038
 474,instant_replacement,female,2091,185.162
 474,instant_replacement,male,2091,170.366
-474,low_variant,female,2091,106.0
+474,low_variant,female,2091,106
 474,low_variant,male,2091,88.617
 474,medium_variant,female,2091,154.187
 474,medium_variant,male,2091,138.366
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 474,no_change,male,2100,132.615
 474,zero_migration,female,2100,175.129
 474,zero_migration,male,2100,168.45
-474,constant_fertility,female,"Region, subregion, country or area *",Martinique
-474,constant_fertility,male,"Region, subregion, country or area *",Martinique
-474,constant_mortality,female,"Region, subregion, country or area *",Martinique
-474,constant_mortality,male,"Region, subregion, country or area *",Martinique
-474,estimates,female,"Region, subregion, country or area *",Martinique
-474,estimates,male,"Region, subregion, country or area *",Martinique
-474,high_variant,female,"Region, subregion, country or area *",Martinique
-474,high_variant,male,"Region, subregion, country or area *",Martinique
-474,instant_replacement,female,"Region, subregion, country or area *",Martinique
-474,instant_replacement,male,"Region, subregion, country or area *",Martinique
-474,low_variant,female,"Region, subregion, country or area *",Martinique
-474,low_variant,male,"Region, subregion, country or area *",Martinique
-474,medium_variant,female,"Region, subregion, country or area *",Martinique
-474,medium_variant,male,"Region, subregion, country or area *",Martinique
-474,momentum,female,"Region, subregion, country or area *",Martinique
-474,momentum,male,"Region, subregion, country or area *",Martinique
-474,no_change,female,"Region, subregion, country or area *",Martinique
-474,no_change,male,"Region, subregion, country or area *",Martinique
-474,zero_migration,female,"Region, subregion, country or area *",Martinique
-474,zero_migration,male,"Region, subregion, country or area *",Martinique

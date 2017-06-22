@@ -49,7 +49,7 @@ region,variant,freq,year,totaldeaths
 922,no_change,5yearly,2030,11814.022
 922,zero_migration,5yearly,2030,9334.526
 922,constant_fertility,5yearly,2035,10576.513
-922,constant_mortality,5yearly,2035,13288.0
+922,constant_mortality,5yearly,2035,13288
 922,high_variant,5yearly,2035,10456.251
 922,instant_replacement,5yearly,2035,10170.777
 922,low_variant,5yearly,2035,10206.343
@@ -97,7 +97,7 @@ region,variant,freq,year,totaldeaths
 922,constant_mortality,5yearly,2060,22553.433
 922,high_variant,5yearly,2060,17874.527
 922,instant_replacement,5yearly,2060,17329.339
-922,low_variant,5yearly,2060,17379.0
+922,low_variant,5yearly,2060,17379
 922,medium_variant,5yearly,2060,17610.777
 922,momentum,5yearly,2060,22709.077
 922,no_change,5yearly,2060,24447.837
@@ -165,13 +165,3 @@ region,variant,freq,year,totaldeaths
 922,momentum,5yearly,2095,24563.695
 922,no_change,5yearly,2095,39402.292
 922,zero_migration,5yearly,2095,23743.403
-922,constant_fertility,5yearly,Regi,Western Asia
-922,constant_mortality,5yearly,Regi,Western Asia
-922,estimates,5yearly,Regi,Western Asia
-922,high_variant,5yearly,Regi,Western Asia
-922,instant_replacement,5yearly,Regi,Western Asia
-922,low_variant,5yearly,Regi,Western Asia
-922,medium_variant,5yearly,Regi,Western Asia
-922,momentum,5yearly,Regi,Western Asia
-922,no_change,5yearly,Regi,Western Asia
-922,zero_migration,5yearly,Regi,Western Asia

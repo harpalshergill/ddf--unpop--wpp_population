@@ -144,7 +144,7 @@ country,variant,year,population
 60,low_variant,2023,59.454
 60,medium_variant,2023,60.256
 60,momentum,2023,62.525
-60,no_change,2023,60.0
+60,no_change,2023,60
 60,zero_migration,2023,61.431
 60,constant_fertility,2024,60.298
 60,constant_mortality,2024,59.687
@@ -300,7 +300,7 @@ country,variant,year,population
 60,no_change,2040,54.512
 60,zero_migration,2040,58.228
 60,constant_fertility,2041,56.604
-60,constant_mortality,2041,54.0
+60,constant_mortality,2041,54
 60,high_variant,2041,60.353
 60,instant_replacement,2041,60.85
 60,low_variant,2041,52.793
@@ -832,20 +832,10 @@ country,variant,year,population
 60,zero_migration,2099,42.725
 60,constant_fertility,2100,38.857
 60,constant_mortality,2100,35.246
-60,high_variant,2100,64.0
+60,high_variant,2100,64
 60,instant_replacement,2100,60.662
 60,low_variant,2100,25.131
 60,medium_variant,2100,41.336
 60,momentum,2100,55.775
 60,no_change,2100,32.807
 60,zero_migration,2100,42.533
-60,constant_fertility,"Region, subregion, country or area *",Bermuda
-60,constant_mortality,"Region, subregion, country or area *",Bermuda
-60,estimates,"Region, subregion, country or area *",Bermuda
-60,high_variant,"Region, subregion, country or area *",Bermuda
-60,instant_replacement,"Region, subregion, country or area *",Bermuda
-60,low_variant,"Region, subregion, country or area *",Bermuda
-60,medium_variant,"Region, subregion, country or area *",Bermuda
-60,momentum,"Region, subregion, country or area *",Bermuda
-60,no_change,"Region, subregion, country or area *",Bermuda
-60,zero_migration,"Region, subregion, country or area *",Bermuda

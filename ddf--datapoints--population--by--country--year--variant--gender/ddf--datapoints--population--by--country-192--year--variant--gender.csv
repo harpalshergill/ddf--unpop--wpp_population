@@ -441,7 +441,7 @@ country,variant,gender,year,population
 192,constant_fertility,male,2032,5699.858
 192,constant_mortality,female,2032,5654.407
 192,constant_mortality,male,2032,5611.043
-192,high_variant,female,2032,5955.0
+192,high_variant,female,2032,5955
 192,high_variant,male,2032,5958.069
 192,instant_replacement,female,2032,5933.069
 192,instant_replacement,male,2032,5934.871
@@ -828,7 +828,7 @@ country,variant,gender,year,population
 192,medium_variant,female,2053,5308.973
 192,medium_variant,male,2053,5340.059
 192,momentum,female,2053,5735.01
-192,momentum,male,2053,5674.0
+192,momentum,male,2053,5674
 192,no_change,female,2053,4903.657
 192,no_change,male,2053,4811.809
 192,zero_migration,female,2053,5554.643
@@ -870,7 +870,7 @@ country,variant,gender,year,population
 192,zero_migration,female,2055,5500.122
 192,zero_migration,male,2055,5539.483
 192,constant_fertility,female,2056,5111.439
-192,constant_fertility,male,2056,5145.0
+192,constant_fertility,male,2056,5145
 192,constant_mortality,female,2056,4858.434
 192,constant_mortality,male,2056,4776.091
 192,high_variant,female,2056,5899.122
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 192,no_change,male,2100,3118.448
 192,zero_migration,female,2100,4449.969
 192,zero_migration,male,2100,4557.264
-192,constant_fertility,female,"Region, subregion, country or area *",Cuba
-192,constant_fertility,male,"Region, subregion, country or area *",Cuba
-192,constant_mortality,female,"Region, subregion, country or area *",Cuba
-192,constant_mortality,male,"Region, subregion, country or area *",Cuba
-192,estimates,female,"Region, subregion, country or area *",Cuba
-192,estimates,male,"Region, subregion, country or area *",Cuba
-192,high_variant,female,"Region, subregion, country or area *",Cuba
-192,high_variant,male,"Region, subregion, country or area *",Cuba
-192,instant_replacement,female,"Region, subregion, country or area *",Cuba
-192,instant_replacement,male,"Region, subregion, country or area *",Cuba
-192,low_variant,female,"Region, subregion, country or area *",Cuba
-192,low_variant,male,"Region, subregion, country or area *",Cuba
-192,medium_variant,female,"Region, subregion, country or area *",Cuba
-192,medium_variant,male,"Region, subregion, country or area *",Cuba
-192,momentum,female,"Region, subregion, country or area *",Cuba
-192,momentum,male,"Region, subregion, country or area *",Cuba
-192,no_change,female,"Region, subregion, country or area *",Cuba
-192,no_change,male,"Region, subregion, country or area *",Cuba
-192,zero_migration,female,"Region, subregion, country or area *",Cuba
-192,zero_migration,male,"Region, subregion, country or area *",Cuba

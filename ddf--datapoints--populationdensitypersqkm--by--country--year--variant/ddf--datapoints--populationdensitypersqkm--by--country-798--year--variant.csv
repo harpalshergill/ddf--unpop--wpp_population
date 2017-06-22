@@ -1,12 +1,12 @@
 country,variant,year,populationdensitypersqkm
 798,estimates,1950,172.2
-798,estimates,1951,174.0
+798,estimates,1951,174
 798,estimates,1952,176.433333333333
 798,estimates,1953,179.033333333333
 798,estimates,1954,182.433333333333
 798,estimates,1955,185.633333333333
 798,estimates,1956,188.6
-798,estimates,1957,192.0
+798,estimates,1957,192
 798,estimates,1958,195.466666666667
 798,estimates,1959,199.4
 798,estimates,1960,203.466666666667
@@ -36,7 +36,7 @@ country,variant,year,populationdensitypersqkm
 798,estimates,1984,284.333333333333
 798,estimates,1985,288.333333333333
 798,estimates,1986,291.566666666667
-798,estimates,1987,294.0
+798,estimates,1987,294
 798,estimates,1988,296.1
 798,estimates,1989,298.233333333333
 798,estimates,1990,300.1
@@ -49,7 +49,7 @@ country,variant,year,populationdensitypersqkm
 798,estimates,1997,309.233333333333
 798,estimates,1998,310.2
 798,estimates,1999,311.5
-798,estimates,2000,314.0
+798,estimates,2000,314
 798,estimates,2001,317.066666666667
 798,estimates,2002,321.166666666667
 798,estimates,2003,325.566666666667
@@ -113,7 +113,7 @@ country,variant,year,populationdensitypersqkm
 798,constant_fertility,2020,385.733333333333
 798,constant_mortality,2020,382.466666666667
 798,high_variant,2020,386.466666666667
-798,instant_replacement,2020,371.0
+798,instant_replacement,2020,371
 798,low_variant,2020,380.2
 798,medium_variant,2020,383.3
 798,momentum,2020,380.5
@@ -144,7 +144,7 @@ country,variant,year,populationdensitypersqkm
 798,low_variant,2023,388.466666666667
 798,medium_variant,2023,394.733333333333
 798,momentum,2023,390.466666666667
-798,no_change,2023,398.0
+798,no_change,2023,398
 798,zero_migration,2023,411.633333333333
 798,constant_fertility,2024,404.966666666667
 798,constant_mortality,2024,396.3
@@ -195,7 +195,7 @@ country,variant,year,populationdensitypersqkm
 798,constant_mortality,2029,414.866666666667
 798,high_variant,2029,434.7
 798,instant_replacement,2029,386.066666666667
-798,low_variant,2029,404.0
+798,low_variant,2029,404
 798,medium_variant,2029,419.2
 798,momentum,2029,412.733333333333
 798,no_change,2029,427.833333333333
@@ -221,7 +221,7 @@ country,variant,year,populationdensitypersqkm
 798,constant_fertility,2032,449.266666666667
 798,constant_mortality,2032,425.133333333333
 798,high_variant,2032,451.6
-798,instant_replacement,2032,392.0
+798,instant_replacement,2032,392
 798,low_variant,2032,411.133333333333
 798,medium_variant,2032,431.233333333333
 798,momentum,2032,424.033333333333
@@ -235,7 +235,7 @@ country,variant,year,populationdensitypersqkm
 798,medium_variant,2033,435.1
 798,momentum,2033,427.833333333333
 798,no_change,2033,448.066666666667
-798,zero_migration,2033,476.0
+798,zero_migration,2033,476
 798,constant_fertility,2034,460.333333333333
 798,constant_mortality,2034,431.333333333333
 798,high_variant,2034,462.3
@@ -337,7 +337,7 @@ country,variant,year,populationdensitypersqkm
 798,zero_migration,2044,537.4
 798,constant_fertility,2045,522.666666666667
 798,constant_mortality,2045,456.733333333333
-798,high_variant,2045,516.0
+798,high_variant,2045,516
 798,instant_replacement,2045,407.466666666667
 798,low_variant,2045,429.566666666667
 798,medium_variant,2045,471.933333333333
@@ -385,10 +385,10 @@ country,variant,year,populationdensitypersqkm
 798,high_variant,2050,542.866666666667
 798,instant_replacement,2050,407.433333333333
 798,low_variant,2050,432.166666666667
-798,medium_variant,2050,486.0
+798,medium_variant,2050,486
 798,momentum,2050,470.166666666667
 798,no_change,2050,535.033333333333
-798,zero_migration,2050,569.0
+798,zero_migration,2050,569
 798,constant_fertility,2051,563.8
 798,constant_mortality,2051,468.633333333333
 798,high_variant,2051,548.766666666667
@@ -433,7 +433,7 @@ country,variant,year,populationdensitypersqkm
 798,medium_variant,2055,501.7
 798,momentum,2055,477.466666666667
 798,no_change,2055,568.8
-798,zero_migration,2055,597.0
+798,zero_migration,2055,597
 798,constant_fertility,2056,604.966666666667
 798,constant_mortality,2056,479.133333333333
 798,high_variant,2056,581.466666666667
@@ -450,7 +450,7 @@ country,variant,year,populationdensitypersqkm
 798,low_variant,2057,434.033333333333
 798,medium_variant,2057,507.7
 798,momentum,2057,480.7
-798,no_change,2057,584.0
+798,no_change,2057,584
 798,zero_migration,2057,608.066666666667
 798,constant_fertility,2058,622.933333333333
 798,constant_mortality,2058,483.366666666667
@@ -467,7 +467,7 @@ country,variant,year,populationdensitypersqkm
 798,instant_replacement,2059,408.266666666667
 798,low_variant,2059,434.166666666667
 798,medium_variant,2059,514.266666666667
-798,momentum,2059,484.0
+798,momentum,2059,484
 798,no_change,2059,599.5
 798,zero_migration,2059,619.5
 798,constant_fertility,2060,641.733333333333
@@ -482,8 +482,8 @@ country,variant,year,populationdensitypersqkm
 798,constant_fertility,2061,651.333333333333
 798,constant_mortality,2061,489.166666666667
 798,high_variant,2061,616.166666666667
-798,instant_replacement,2061,409.0
-798,low_variant,2061,434.0
+798,instant_replacement,2061,409
+798,low_variant,2061,434
 798,medium_variant,2061,520.4
 798,momentum,2061,487.033333333333
 798,no_change,2061,615.333333333333
@@ -508,14 +508,14 @@ country,variant,year,populationdensitypersqkm
 798,zero_migration,2063,640.5
 798,constant_fertility,2064,681.066666666667
 798,constant_mortality,2064,493.933333333333
-798,high_variant,2064,637.0
+798,high_variant,2064,637
 798,instant_replacement,2064,410.1
 798,low_variant,2064,432.966666666667
 798,medium_variant,2064,529.133333333333
 798,momentum,2064,491.166666666667
 798,no_change,2064,639.633333333333
 798,zero_migration,2064,645.2
-798,constant_fertility,2065,691.0
+798,constant_fertility,2065,691
 798,constant_mortality,2065,495.1
 798,high_variant,2065,643.533333333333
 798,instant_replacement,2065,410.333333333333
@@ -573,7 +573,7 @@ country,variant,year,populationdensitypersqkm
 798,constant_mortality,2071,500.633333333333
 798,high_variant,2071,682.533333333333
 798,instant_replacement,2071,410.766666666667
-798,low_variant,2071,427.0
+798,low_variant,2071,427
 798,medium_variant,2071,545.6
 798,momentum,2071,497.266666666667
 798,no_change,2071,699.033333333333
@@ -646,7 +646,7 @@ country,variant,year,populationdensitypersqkm
 798,high_variant,2079,734.766666666667
 798,instant_replacement,2079,407.033333333333
 798,low_variant,2079,414.533333333333
-798,medium_variant,2079,560.0
+798,medium_variant,2079,560
 798,momentum,2079,497.2
 798,no_change,2079,775.033333333333
 798,zero_migration,2079,703.766666666667
@@ -691,7 +691,7 @@ country,variant,year,populationdensitypersqkm
 798,high_variant,2084,769.666666666667
 798,instant_replacement,2084,403.033333333333
 798,low_variant,2084,403.766666666667
-798,medium_variant,2084,568.0
+798,medium_variant,2084,568
 798,momentum,2084,495.7
 798,no_change,2084,829.333333333333
 798,zero_migration,2084,719.366666666667
@@ -708,7 +708,7 @@ country,variant,year,populationdensitypersqkm
 798,constant_mortality,2086,501.866666666667
 798,high_variant,2086,783.966666666667
 798,instant_replacement,2086,401.266666666667
-798,low_variant,2086,399.0
+798,low_variant,2086,399
 798,medium_variant,2086,570.8
 798,momentum,2086,495.233333333333
 798,no_change,2086,852.4
@@ -805,7 +805,7 @@ country,variant,year,populationdensitypersqkm
 798,zero_migration,2096,750.433333333333
 798,constant_fertility,2097,1133.7
 798,constant_mortality,2097,495.933333333333
-798,high_variant,2097,864.0
+798,high_variant,2097,864
 798,instant_replacement,2097,397.533333333333
 798,low_variant,2097,371.033333333333
 798,medium_variant,2097,583.566666666667
@@ -816,7 +816,7 @@ country,variant,year,populationdensitypersqkm
 798,constant_mortality,2098,495.066666666667
 798,high_variant,2098,870.766666666667
 798,instant_replacement,2098,397.566666666667
-798,low_variant,2098,368.0
+798,low_variant,2098,368
 798,medium_variant,2098,584.4
 798,momentum,2098,496.5
 798,no_change,2098,1006.53333333333
@@ -839,13 +839,3 @@ country,variant,year,populationdensitypersqkm
 798,momentum,2100,496.7
 798,no_change,2100,1034.4
 798,zero_migration,2100,757.6
-798,constant_fertility,"Region, subregion, country or area *",Tuvalu
-798,constant_mortality,"Region, subregion, country or area *",Tuvalu
-798,estimates,"Region, subregion, country or area *",Tuvalu
-798,high_variant,"Region, subregion, country or area *",Tuvalu
-798,instant_replacement,"Region, subregion, country or area *",Tuvalu
-798,low_variant,"Region, subregion, country or area *",Tuvalu
-798,medium_variant,"Region, subregion, country or area *",Tuvalu
-798,momentum,"Region, subregion, country or area *",Tuvalu
-798,no_change,"Region, subregion, country or area *",Tuvalu
-798,zero_migration,"Region, subregion, country or area *",Tuvalu

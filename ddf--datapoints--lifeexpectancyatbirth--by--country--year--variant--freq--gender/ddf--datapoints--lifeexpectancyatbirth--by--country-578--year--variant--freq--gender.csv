@@ -1,6 +1,6 @@
 country,variant,gender,freq,year,lifeexpectancyatbirth
 578,estimates,female,5yearly,1950,74.6
-578,estimates,male,5yearly,1950,71.0
+578,estimates,male,5yearly,1950,71
 578,estimates,female,5yearly,1955,75.59
 578,estimates,male,5yearly,1955,71.4
 578,estimates,female,5yearly,1960,75.96
@@ -14,7 +14,7 @@ country,variant,gender,freq,year,lifeexpectancyatbirth
 578,estimates,female,5yearly,1980,79.45
 578,estimates,male,5yearly,1980,72.7
 578,estimates,female,5yearly,1985,79.67
-578,estimates,male,5yearly,1985,73.0
+578,estimates,male,5yearly,1985,73
 578,estimates,female,5yearly,1990,80.32
 578,estimates,male,5yearly,1990,74.28
 578,estimates,female,5yearly,1995,81.1
@@ -59,7 +59,3 @@ country,variant,gender,freq,year,lifeexpectancyatbirth
 578,medium_variant,male,5yearly,2090,90.13
 578,medium_variant,female,5yearly,2095,93.38
 578,medium_variant,male,5yearly,2095,90.66
-578,estimates,female,5yearly,Regi,Norway
-578,estimates,male,5yearly,Regi,Norway
-578,medium_variant,female,5yearly,Regi,Norway
-578,medium_variant,male,5yearly,Regi,Norway

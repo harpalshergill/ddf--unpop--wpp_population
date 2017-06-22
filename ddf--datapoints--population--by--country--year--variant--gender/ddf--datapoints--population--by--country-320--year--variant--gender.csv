@@ -106,7 +106,7 @@ country,variant,gender,year,population
 320,estimates,female,2002,6222.528
 320,estimates,male,2002,5986.326
 320,estimates,female,2003,6371.479
-320,estimates,male,2003,6129.0
+320,estimates,male,2003,6129
 320,estimates,female,2004,6522.089
 320,estimates,male,2004,6274.837
 320,estimates,female,2005,6673.511
@@ -130,25 +130,25 @@ country,variant,gender,year,population
 320,estimates,female,2014,8092.463
 320,estimates,male,2014,7831.099
 320,constant_fertility,female,2015,8257.425
-320,constant_fertility,male,2015,7995.0
+320,constant_fertility,male,2015,7995
 320,constant_mortality,female,2015,8257.425
-320,constant_mortality,male,2015,7995.0
+320,constant_mortality,male,2015,7995
 320,estimates,female,2015,8257.425
-320,estimates,male,2015,7995.0
+320,estimates,male,2015,7995
 320,high_variant,female,2015,8257.425
-320,high_variant,male,2015,7995.0
+320,high_variant,male,2015,7995
 320,instant_replacement,female,2015,8257.425
-320,instant_replacement,male,2015,7995.0
+320,instant_replacement,male,2015,7995
 320,low_variant,female,2015,8257.425
-320,low_variant,male,2015,7995.0
+320,low_variant,male,2015,7995
 320,medium_variant,female,2015,8257.425
-320,medium_variant,male,2015,7995.0
+320,medium_variant,male,2015,7995
 320,momentum,female,2015,8257.425
-320,momentum,male,2015,7995.0
+320,momentum,male,2015,7995
 320,no_change,female,2015,8257.425
-320,no_change,male,2015,7995.0
+320,no_change,male,2015,7995
 320,zero_migration,female,2015,8257.425
-320,zero_migration,male,2015,7995.0
+320,zero_migration,male,2015,7995
 320,constant_fertility,female,2016,8433.96
 320,constant_fertility,male,2016,8170.905
 320,constant_mortality,female,2016,8420.622
@@ -1410,7 +1410,7 @@ country,variant,gender,year,population
 320,zero_migration,female,2085,16476.504
 320,zero_migration,male,2085,16404.243
 320,constant_fertility,female,2086,29749.678
-320,constant_fertility,male,2086,30296.0
+320,constant_fertility,male,2086,30296
 320,constant_mortality,female,2086,14017.396
 320,constant_mortality,male,2086,13422.773
 320,high_variant,female,2086,21624.567
@@ -1659,7 +1659,7 @@ country,variant,gender,year,population
 320,momentum,male,2099,13141.854
 320,no_change,female,2099,31997.475
 320,no_change,male,2099,31594.878
-320,zero_migration,female,2099,16490.0
+320,zero_migration,female,2099,16490
 320,zero_migration,male,2099,16464.413
 320,constant_fertility,female,2100,37154.525
 320,constant_fertility,male,2100,38059.403
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 320,no_change,male,2100,32039.947
 320,zero_migration,female,2100,16475.931
 320,zero_migration,male,2100,16452.883
-320,constant_fertility,female,"Region, subregion, country or area *",Guatemala
-320,constant_fertility,male,"Region, subregion, country or area *",Guatemala
-320,constant_mortality,female,"Region, subregion, country or area *",Guatemala
-320,constant_mortality,male,"Region, subregion, country or area *",Guatemala
-320,estimates,female,"Region, subregion, country or area *",Guatemala
-320,estimates,male,"Region, subregion, country or area *",Guatemala
-320,high_variant,female,"Region, subregion, country or area *",Guatemala
-320,high_variant,male,"Region, subregion, country or area *",Guatemala
-320,instant_replacement,female,"Region, subregion, country or area *",Guatemala
-320,instant_replacement,male,"Region, subregion, country or area *",Guatemala
-320,low_variant,female,"Region, subregion, country or area *",Guatemala
-320,low_variant,male,"Region, subregion, country or area *",Guatemala
-320,medium_variant,female,"Region, subregion, country or area *",Guatemala
-320,medium_variant,male,"Region, subregion, country or area *",Guatemala
-320,momentum,female,"Region, subregion, country or area *",Guatemala
-320,momentum,male,"Region, subregion, country or area *",Guatemala
-320,no_change,female,"Region, subregion, country or area *",Guatemala
-320,no_change,male,"Region, subregion, country or area *",Guatemala
-320,zero_migration,female,"Region, subregion, country or area *",Guatemala
-320,zero_migration,male,"Region, subregion, country or area *",Guatemala

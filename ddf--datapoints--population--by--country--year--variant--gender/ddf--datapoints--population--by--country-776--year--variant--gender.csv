@@ -276,7 +276,7 @@ country,variant,gender,year,population
 776,zero_migration,female,2022,60.233
 776,zero_migration,male,2022,60.7
 776,constant_fertility,female,2023,57.462
-776,constant_fertility,male,2023,58.0
+776,constant_fertility,male,2023,58
 776,constant_mortality,female,2023,56.522
 776,constant_mortality,male,2023,57.026
 776,high_variant,female,2023,57.497
@@ -890,7 +890,7 @@ country,variant,gender,year,population
 776,constant_fertility,female,2057,88.491
 776,constant_fertility,male,2057,91.274
 776,constant_mortality,female,2057,68.59
-776,constant_mortality,male,2057,70.0
+776,constant_mortality,male,2057,70
 776,high_variant,female,2057,81.721
 776,high_variant,male,2057,84.153
 776,instant_replacement,female,2057,50.319
@@ -1131,7 +1131,7 @@ country,variant,gender,year,population
 776,instant_replacement,male,2070,47.335
 776,low_variant,female,2070,59.535
 776,low_variant,male,2070,61.182
-776,medium_variant,female,2070,75.0
+776,medium_variant,female,2070,75
 776,medium_variant,male,2070,77.462
 776,momentum,female,2070,81.418
 776,momentum,male,2070,79.965
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 776,no_change,male,2100,171.173
 776,zero_migration,female,2100,148.264
 776,zero_migration,male,2100,150.891
-776,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,estimates,female,"Region, subregion, country or area *",Tonga
-776,estimates,male,"Region, subregion, country or area *",Tonga
-776,high_variant,female,"Region, subregion, country or area *",Tonga
-776,high_variant,male,"Region, subregion, country or area *",Tonga
-776,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,low_variant,female,"Region, subregion, country or area *",Tonga
-776,low_variant,male,"Region, subregion, country or area *",Tonga
-776,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,momentum,female,"Region, subregion, country or area *",Tonga
-776,momentum,male,"Region, subregion, country or area *",Tonga
-776,no_change,female,"Region, subregion, country or area *",Tonga
-776,no_change,male,"Region, subregion, country or area *",Tonga
-776,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,zero_migration,male,"Region, subregion, country or area *",Tonga

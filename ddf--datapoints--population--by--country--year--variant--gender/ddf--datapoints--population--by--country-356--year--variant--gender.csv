@@ -1120,7 +1120,7 @@ country,variant,gender,year,population
 356,no_change,female,2069,895917.409
 356,no_change,male,2069,955336.175
 356,zero_migration,female,2069,837066.895
-356,zero_migration,male,2069,861826.0
+356,zero_migration,male,2069,861826
 356,constant_fertility,female,2070,1007830.352
 356,constant_fertility,male,2070,1062276.242
 356,constant_mortality,female,2070,727365.782
@@ -1296,7 +1296,7 @@ country,variant,gender,year,population
 356,medium_variant,female,2079,806335.115
 356,medium_variant,male,2079,825204.048
 356,momentum,female,2079,851802.709
-356,momentum,male,2079,889250.0
+356,momentum,male,2079,889250
 356,no_change,female,2079,915556.524
 356,no_change,male,2079,976633.891
 356,zero_migration,female,2079,824175.28
@@ -1449,7 +1449,7 @@ country,variant,gender,year,population
 356,constant_fertility,male,2088,1175765.482
 356,constant_mortality,female,2088,647481.41
 356,constant_mortality,male,2088,668025.74
-356,high_variant,female,2088,1115241.0
+356,high_variant,female,2088,1115241
 356,high_variant,male,2088,1154963.5
 356,instant_replacement,female,2088,920029.232
 356,instant_replacement,male,2088,946509.075
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 356,no_change,male,2100,1020691.527
 356,zero_migration,female,2100,772000.521
 356,zero_migration,male,2100,789103.379
-356,constant_fertility,female,"Region, subregion, country or area *",India
-356,constant_fertility,male,"Region, subregion, country or area *",India
-356,constant_mortality,female,"Region, subregion, country or area *",India
-356,constant_mortality,male,"Region, subregion, country or area *",India
-356,estimates,female,"Region, subregion, country or area *",India
-356,estimates,male,"Region, subregion, country or area *",India
-356,high_variant,female,"Region, subregion, country or area *",India
-356,high_variant,male,"Region, subregion, country or area *",India
-356,instant_replacement,female,"Region, subregion, country or area *",India
-356,instant_replacement,male,"Region, subregion, country or area *",India
-356,low_variant,female,"Region, subregion, country or area *",India
-356,low_variant,male,"Region, subregion, country or area *",India
-356,medium_variant,female,"Region, subregion, country or area *",India
-356,medium_variant,male,"Region, subregion, country or area *",India
-356,momentum,female,"Region, subregion, country or area *",India
-356,momentum,male,"Region, subregion, country or area *",India
-356,no_change,female,"Region, subregion, country or area *",India
-356,no_change,male,"Region, subregion, country or area *",India
-356,zero_migration,female,"Region, subregion, country or area *",India
-356,zero_migration,male,"Region, subregion, country or area *",India

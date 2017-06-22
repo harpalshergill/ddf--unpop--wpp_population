@@ -168,7 +168,7 @@ country,variant,gender,year,population
 752,zero_migration,female,2016,4893.963
 752,zero_migration,male,2016,4896.805
 752,constant_fertility,female,2017,4951.151
-752,constant_fertility,male,2017,4960.0
+752,constant_fertility,male,2017,4960
 752,constant_mortality,female,2017,4948.181
 752,constant_mortality,male,2017,4954.442
 752,high_variant,female,2017,4962.372
@@ -193,7 +193,7 @@ country,variant,gender,year,population
 752,high_variant,male,2018,5019.48
 752,instant_replacement,female,2018,4997.657
 752,instant_replacement,male,2018,5013.191
-752,low_variant,female,2018,4965.0
+752,low_variant,female,2018,4965
 752,low_variant,male,2018,4978.808
 752,medium_variant,female,2018,4983.988
 752,medium_variant,male,2018,4998.715
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 752,no_change,male,2100,5879.493
 752,zero_migration,female,2100,4718.162
 752,zero_migration,male,2100,4849.069
-752,constant_fertility,female,"Region, subregion, country or area *",Sweden
-752,constant_fertility,male,"Region, subregion, country or area *",Sweden
-752,constant_mortality,female,"Region, subregion, country or area *",Sweden
-752,constant_mortality,male,"Region, subregion, country or area *",Sweden
-752,estimates,female,"Region, subregion, country or area *",Sweden
-752,estimates,male,"Region, subregion, country or area *",Sweden
-752,high_variant,female,"Region, subregion, country or area *",Sweden
-752,high_variant,male,"Region, subregion, country or area *",Sweden
-752,instant_replacement,female,"Region, subregion, country or area *",Sweden
-752,instant_replacement,male,"Region, subregion, country or area *",Sweden
-752,low_variant,female,"Region, subregion, country or area *",Sweden
-752,low_variant,male,"Region, subregion, country or area *",Sweden
-752,medium_variant,female,"Region, subregion, country or area *",Sweden
-752,medium_variant,male,"Region, subregion, country or area *",Sweden
-752,momentum,female,"Region, subregion, country or area *",Sweden
-752,momentum,male,"Region, subregion, country or area *",Sweden
-752,no_change,female,"Region, subregion, country or area *",Sweden
-752,no_change,male,"Region, subregion, country or area *",Sweden
-752,zero_migration,female,"Region, subregion, country or area *",Sweden
-752,zero_migration,male,"Region, subregion, country or area *",Sweden

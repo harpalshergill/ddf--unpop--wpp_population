@@ -101,7 +101,7 @@ country,variant,gender,year,population
 578,estimates,male,1999,2215.803
 578,estimates,female,2000,2270.364
 578,estimates,male,2000,2229.011
-578,estimates,female,2001,2282.0
+578,estimates,female,2001,2282
 578,estimates,male,2001,2241.139
 578,estimates,female,2002,2293.372
 578,estimates,male,2002,2252.645
@@ -989,7 +989,7 @@ country,variant,gender,year,population
 578,low_variant,male,2062,3189.495
 578,medium_variant,female,2062,3520.002
 578,medium_variant,male,2062,3697.251
-578,momentum,female,2062,2720.0
+578,momentum,female,2062,2720
 578,momentum,male,2062,2727.995
 578,no_change,female,2062,3320.84
 578,no_change,male,2062,3424.541
@@ -1313,7 +1313,7 @@ country,variant,gender,year,population
 578,low_variant,male,2080,3131.236
 578,medium_variant,female,2080,3769.63
 578,medium_variant,male,2080,3960.67
-578,momentum,female,2080,2681.0
+578,momentum,female,2080,2681
 578,momentum,male,2080,2691.834
 578,no_change,female,2080,3446.088
 578,no_change,male,2080,3544.411
@@ -1470,7 +1470,7 @@ country,variant,gender,year,population
 578,high_variant,female,2089,5083.258
 578,high_variant,male,2089,5341.692
 578,instant_replacement,female,2089,4397.135
-578,instant_replacement,male,2089,4618.0
+578,instant_replacement,male,2089,4618
 578,low_variant,female,2089,2904.368
 578,low_variant,male,2089,3045.996
 578,medium_variant,female,2089,3865.43
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 578,no_change,male,2100,3567.179
 578,zero_migration,female,2100,2442.314
 578,zero_migration,male,2100,2491.443
-578,constant_fertility,female,"Region, subregion, country or area *",Norway
-578,constant_fertility,male,"Region, subregion, country or area *",Norway
-578,constant_mortality,female,"Region, subregion, country or area *",Norway
-578,constant_mortality,male,"Region, subregion, country or area *",Norway
-578,estimates,female,"Region, subregion, country or area *",Norway
-578,estimates,male,"Region, subregion, country or area *",Norway
-578,high_variant,female,"Region, subregion, country or area *",Norway
-578,high_variant,male,"Region, subregion, country or area *",Norway
-578,instant_replacement,female,"Region, subregion, country or area *",Norway
-578,instant_replacement,male,"Region, subregion, country or area *",Norway
-578,low_variant,female,"Region, subregion, country or area *",Norway
-578,low_variant,male,"Region, subregion, country or area *",Norway
-578,medium_variant,female,"Region, subregion, country or area *",Norway
-578,medium_variant,male,"Region, subregion, country or area *",Norway
-578,momentum,female,"Region, subregion, country or area *",Norway
-578,momentum,male,"Region, subregion, country or area *",Norway
-578,no_change,female,"Region, subregion, country or area *",Norway
-578,no_change,male,"Region, subregion, country or area *",Norway
-578,zero_migration,female,"Region, subregion, country or area *",Norway
-578,zero_migration,male,"Region, subregion, country or area *",Norway

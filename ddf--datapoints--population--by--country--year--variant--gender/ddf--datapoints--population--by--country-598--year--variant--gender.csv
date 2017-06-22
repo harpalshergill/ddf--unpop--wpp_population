@@ -120,7 +120,7 @@ country,variant,gender,year,population
 598,estimates,female,2009,3414.494
 598,estimates,male,2009,3532.944
 598,estimates,female,2010,3493.248
-598,estimates,male,2010,3615.0
+598,estimates,male,2010,3615
 598,estimates,female,2011,3572.15
 598,estimates,male,2011,3697.204
 598,estimates,female,2012,3651.252
@@ -1073,7 +1073,7 @@ country,variant,gender,year,population
 598,constant_mortality,male,2067,7684.424
 598,high_variant,female,2067,9645.879
 598,high_variant,male,2067,9845.511
-598,instant_replacement,female,2067,6014.0
+598,instant_replacement,female,2067,6014
 598,instant_replacement,male,2067,5995.092
 598,low_variant,female,2067,6717.847
 598,low_variant,male,2067,6733.905
@@ -1308,7 +1308,7 @@ country,variant,gender,year,population
 598,high_variant,female,2080,11244.429
 598,high_variant,male,2080,11404.879
 598,instant_replacement,female,2080,6213.126
-598,instant_replacement,male,2080,6110.0
+598,instant_replacement,male,2080,6110
 598,low_variant,female,2080,6811.722
 598,low_variant,male,2080,6713.727
 598,medium_variant,female,2080,8833.868
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 598,no_change,male,2100,19797.139
 598,zero_migration,female,2100,9532.203
 598,zero_migration,male,2100,9450.619
-598,constant_fertility,female,"Region, subregion, country or area *",Papua New Guinea
-598,constant_fertility,male,"Region, subregion, country or area *",Papua New Guinea
-598,constant_mortality,female,"Region, subregion, country or area *",Papua New Guinea
-598,constant_mortality,male,"Region, subregion, country or area *",Papua New Guinea
-598,estimates,female,"Region, subregion, country or area *",Papua New Guinea
-598,estimates,male,"Region, subregion, country or area *",Papua New Guinea
-598,high_variant,female,"Region, subregion, country or area *",Papua New Guinea
-598,high_variant,male,"Region, subregion, country or area *",Papua New Guinea
-598,instant_replacement,female,"Region, subregion, country or area *",Papua New Guinea
-598,instant_replacement,male,"Region, subregion, country or area *",Papua New Guinea
-598,low_variant,female,"Region, subregion, country or area *",Papua New Guinea
-598,low_variant,male,"Region, subregion, country or area *",Papua New Guinea
-598,medium_variant,female,"Region, subregion, country or area *",Papua New Guinea
-598,medium_variant,male,"Region, subregion, country or area *",Papua New Guinea
-598,momentum,female,"Region, subregion, country or area *",Papua New Guinea
-598,momentum,male,"Region, subregion, country or area *",Papua New Guinea
-598,no_change,female,"Region, subregion, country or area *",Papua New Guinea
-598,no_change,male,"Region, subregion, country or area *",Papua New Guinea
-598,zero_migration,female,"Region, subregion, country or area *",Papua New Guinea
-598,zero_migration,male,"Region, subregion, country or area *",Papua New Guinea

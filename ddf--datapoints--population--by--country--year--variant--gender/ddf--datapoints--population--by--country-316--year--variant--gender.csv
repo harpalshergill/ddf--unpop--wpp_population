@@ -103,7 +103,7 @@ country,variant,gender,year,population
 316,estimates,male,2000,79.427
 316,estimates,female,2001,76.55
 316,estimates,male,2001,79.845
-316,estimates,female,2002,77.0
+316,estimates,female,2002,77
 316,estimates,male,2002,80.174
 316,estimates,female,2003,77.288
 316,estimates,male,2003,80.433
@@ -543,7 +543,7 @@ country,variant,gender,year,population
 316,momentum,male,2037,97.105
 316,no_change,female,2037,94.427
 316,no_change,male,2037,95.267
-316,zero_migration,female,2037,99.0
+316,zero_migration,female,2037,99
 316,zero_migration,male,2037,101.083
 316,constant_fertility,female,2038,96.657
 316,constant_fertility,male,2038,98.565
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 316,no_change,male,2100,118.334
 316,zero_migration,female,2100,110.913
 316,zero_migration,male,2100,113.105
-316,constant_fertility,female,"Region, subregion, country or area *",Guam
-316,constant_fertility,male,"Region, subregion, country or area *",Guam
-316,constant_mortality,female,"Region, subregion, country or area *",Guam
-316,constant_mortality,male,"Region, subregion, country or area *",Guam
-316,estimates,female,"Region, subregion, country or area *",Guam
-316,estimates,male,"Region, subregion, country or area *",Guam
-316,high_variant,female,"Region, subregion, country or area *",Guam
-316,high_variant,male,"Region, subregion, country or area *",Guam
-316,instant_replacement,female,"Region, subregion, country or area *",Guam
-316,instant_replacement,male,"Region, subregion, country or area *",Guam
-316,low_variant,female,"Region, subregion, country or area *",Guam
-316,low_variant,male,"Region, subregion, country or area *",Guam
-316,medium_variant,female,"Region, subregion, country or area *",Guam
-316,medium_variant,male,"Region, subregion, country or area *",Guam
-316,momentum,female,"Region, subregion, country or area *",Guam
-316,momentum,male,"Region, subregion, country or area *",Guam
-316,no_change,female,"Region, subregion, country or area *",Guam
-316,no_change,male,"Region, subregion, country or area *",Guam
-316,zero_migration,female,"Region, subregion, country or area *",Guam
-316,zero_migration,male,"Region, subregion, country or area *",Guam

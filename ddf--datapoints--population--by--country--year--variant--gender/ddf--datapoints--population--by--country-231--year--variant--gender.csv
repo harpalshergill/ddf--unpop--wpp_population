@@ -743,7 +743,7 @@ country,variant,gender,year,population
 231,no_change,male,2048,119592.431
 231,zero_migration,female,2048,93553.381
 231,zero_migration,male,2048,93103.662
-231,constant_fertility,female,2049,132436.0
+231,constant_fertility,female,2049,132436
 231,constant_fertility,male,2049,133069.923
 231,constant_mortality,female,2049,87360.783
 231,constant_mortality,male,2049,86961.068
@@ -906,7 +906,7 @@ country,variant,gender,year,population
 231,zero_migration,female,2057,103937.114
 231,zero_migration,male,2057,103026.535
 231,constant_fertility,female,2058,170924.262
-231,constant_fertility,male,2058,171941.0
+231,constant_fertility,male,2058,171941
 231,constant_mortality,female,2058,93494.704
 231,constant_mortality,male,2058,92748.703
 231,high_variant,female,2058,120253.777
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 231,no_change,male,2100,422289.023
 231,zero_migration,female,2100,126338.746
 231,zero_migration,male,2100,124347.95
-231,constant_fertility,female,"Region, subregion, country or area *",Ethiopia
-231,constant_fertility,male,"Region, subregion, country or area *",Ethiopia
-231,constant_mortality,female,"Region, subregion, country or area *",Ethiopia
-231,constant_mortality,male,"Region, subregion, country or area *",Ethiopia
-231,estimates,female,"Region, subregion, country or area *",Ethiopia
-231,estimates,male,"Region, subregion, country or area *",Ethiopia
-231,high_variant,female,"Region, subregion, country or area *",Ethiopia
-231,high_variant,male,"Region, subregion, country or area *",Ethiopia
-231,instant_replacement,female,"Region, subregion, country or area *",Ethiopia
-231,instant_replacement,male,"Region, subregion, country or area *",Ethiopia
-231,low_variant,female,"Region, subregion, country or area *",Ethiopia
-231,low_variant,male,"Region, subregion, country or area *",Ethiopia
-231,medium_variant,female,"Region, subregion, country or area *",Ethiopia
-231,medium_variant,male,"Region, subregion, country or area *",Ethiopia
-231,momentum,female,"Region, subregion, country or area *",Ethiopia
-231,momentum,male,"Region, subregion, country or area *",Ethiopia
-231,no_change,female,"Region, subregion, country or area *",Ethiopia
-231,no_change,male,"Region, subregion, country or area *",Ethiopia
-231,zero_migration,female,"Region, subregion, country or area *",Ethiopia
-231,zero_migration,male,"Region, subregion, country or area *",Ethiopia

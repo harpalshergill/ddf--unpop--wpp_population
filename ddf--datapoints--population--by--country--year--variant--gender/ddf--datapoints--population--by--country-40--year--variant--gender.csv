@@ -93,7 +93,7 @@ country,variant,gender,year,population
 40,estimates,male,1995,3856.496
 40,estimates,female,1996,4142.292
 40,estimates,male,1996,3875.56
-40,estimates,female,1997,4145.0
+40,estimates,female,1997,4145
 40,estimates,male,1997,3887.873
 40,estimates,female,1998,4144.851
 40,estimates,male,1998,3896.203
@@ -576,7 +576,7 @@ country,variant,gender,year,population
 40,medium_variant,female,2039,4531.653
 40,medium_variant,male,2039,4434.16
 40,momentum,female,2039,4387.574
-40,momentum,male,2039,4239.0
+40,momentum,male,2039,4239
 40,no_change,female,2039,4308.505
 40,no_change,male,2039,4138.943
 40,zero_migration,female,2039,4231.926
@@ -1490,7 +1490,7 @@ country,variant,gender,year,population
 40,instant_replacement,female,2090,5368.931
 40,instant_replacement,male,2090,5410.197
 40,low_variant,female,2090,3003.834
-40,low_variant,male,2090,2935.0
+40,low_variant,male,2090,2935
 40,medium_variant,female,2090,4135.896
 40,medium_variant,male,2090,4120.612
 40,momentum,female,2090,3877.234
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 40,no_change,male,2100,2744.342
 40,zero_migration,female,2100,3024.814
 40,zero_migration,male,2100,3033.434
-40,constant_fertility,female,"Region, subregion, country or area *",Austria
-40,constant_fertility,male,"Region, subregion, country or area *",Austria
-40,constant_mortality,female,"Region, subregion, country or area *",Austria
-40,constant_mortality,male,"Region, subregion, country or area *",Austria
-40,estimates,female,"Region, subregion, country or area *",Austria
-40,estimates,male,"Region, subregion, country or area *",Austria
-40,high_variant,female,"Region, subregion, country or area *",Austria
-40,high_variant,male,"Region, subregion, country or area *",Austria
-40,instant_replacement,female,"Region, subregion, country or area *",Austria
-40,instant_replacement,male,"Region, subregion, country or area *",Austria
-40,low_variant,female,"Region, subregion, country or area *",Austria
-40,low_variant,male,"Region, subregion, country or area *",Austria
-40,medium_variant,female,"Region, subregion, country or area *",Austria
-40,medium_variant,male,"Region, subregion, country or area *",Austria
-40,momentum,female,"Region, subregion, country or area *",Austria
-40,momentum,male,"Region, subregion, country or area *",Austria
-40,no_change,female,"Region, subregion, country or area *",Austria
-40,no_change,male,"Region, subregion, country or area *",Austria
-40,zero_migration,female,"Region, subregion, country or area *",Austria
-40,zero_migration,male,"Region, subregion, country or area *",Austria

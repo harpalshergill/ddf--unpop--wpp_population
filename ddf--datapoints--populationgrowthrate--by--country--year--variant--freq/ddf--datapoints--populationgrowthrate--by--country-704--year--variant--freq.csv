@@ -12,7 +12,7 @@ country,variant,freq,year,populationgrowthrate
 704,estimates,5yearly,2000,0.978
 704,estimates,5yearly,2005,0.964
 704,estimates,5yearly,2010,1.121
-704,constant_fertility,5yearly,2015,1.0
+704,constant_fertility,5yearly,2015,1
 704,constant_mortality,5yearly,2015,0.964
 704,high_variant,5yearly,2015,1.197
 704,instant_replacement,5yearly,2015,1.164
@@ -27,7 +27,7 @@ country,variant,freq,year,populationgrowthrate
 704,instant_replacement,5yearly,2020,1.013
 704,low_variant,5yearly,2020,0.578
 704,medium_variant,5yearly,2020,0.876
-704,momentum,5yearly,2020,1.0
+704,momentum,5yearly,2020,1
 704,no_change,5yearly,2020,0.741
 704,zero_migration,5yearly,2020,0.921
 704,constant_fertility,5yearly,2025,0.645
@@ -165,13 +165,3 @@ country,variant,freq,year,populationgrowthrate
 704,momentum,5yearly,2095,-0.028
 704,no_change,5yearly,2095,-0.43
 704,zero_migration,5yearly,2095,-0.152
-704,constant_fertility,5yearly,Regi,Viet Nam
-704,constant_mortality,5yearly,Regi,Viet Nam
-704,estimates,5yearly,Regi,Viet Nam
-704,high_variant,5yearly,Regi,Viet Nam
-704,instant_replacement,5yearly,Regi,Viet Nam
-704,low_variant,5yearly,Regi,Viet Nam
-704,medium_variant,5yearly,Regi,Viet Nam
-704,momentum,5yearly,Regi,Viet Nam
-704,no_change,5yearly,Regi,Viet Nam
-704,zero_migration,5yearly,Regi,Viet Nam

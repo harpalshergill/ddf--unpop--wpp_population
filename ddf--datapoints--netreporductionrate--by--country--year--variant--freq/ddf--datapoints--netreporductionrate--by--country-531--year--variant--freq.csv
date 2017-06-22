@@ -84,7 +84,7 @@ country,variant,freq,year,netreporductionrate
 531,momentum,5yearly,2050,1
 531,no_change,5yearly,2050,0.99
 531,zero_migration,5yearly,2050,0.899
-531,constant_fertility,5yearly,2055,1.0
+531,constant_fertility,5yearly,2055,1
 531,constant_mortality,5yearly,2055,0.887
 531,high_variant,5yearly,2055,1.138
 531,instant_replacement,5yearly,2055,1
@@ -93,7 +93,7 @@ country,variant,freq,year,netreporductionrate
 531,momentum,5yearly,2055,1
 531,no_change,5yearly,2055,0.99
 531,zero_migration,5yearly,2055,0.896
-531,constant_fertility,5yearly,2060,1.0
+531,constant_fertility,5yearly,2060,1
 531,constant_mortality,5yearly,2060,0.885
 531,high_variant,5yearly,2060,1.137
 531,instant_replacement,5yearly,2060,1
@@ -165,13 +165,3 @@ country,variant,freq,year,netreporductionrate
 531,momentum,5yearly,2095,1
 531,no_change,5yearly,2095,0.99
 531,zero_migration,5yearly,2095,0.894
-531,constant_fertility,5yearly,Regi,Curaçao
-531,constant_mortality,5yearly,Regi,Curaçao
-531,estimates,5yearly,Regi,Curaçao
-531,high_variant,5yearly,Regi,Curaçao
-531,instant_replacement,5yearly,Regi,Curaçao
-531,low_variant,5yearly,Regi,Curaçao
-531,medium_variant,5yearly,Regi,Curaçao
-531,momentum,5yearly,Regi,Curaçao
-531,no_change,5yearly,Regi,Curaçao
-531,zero_migration,5yearly,Regi,Curaçao

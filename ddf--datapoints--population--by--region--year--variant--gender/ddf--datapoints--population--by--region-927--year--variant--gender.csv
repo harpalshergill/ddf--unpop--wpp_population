@@ -438,7 +438,7 @@ region,variant,gender,year,population
 927,zero_migration,female,2031,15325.275
 927,zero_migration,male,2031,15215.531
 927,constant_fertility,female,2032,17272.004
-927,constant_fertility,male,2032,17056.0
+927,constant_fertility,male,2032,17056
 927,constant_mortality,female,2032,16957.862
 927,constant_mortality,male,2032,16627.193
 927,high_variant,female,2032,17819.462
@@ -1473,7 +1473,7 @@ region,variant,gender,year,population
 927,instant_replacement,male,2089,27297.616
 927,low_variant,female,2089,17798.88
 927,low_variant,male,2089,17341.684
-927,medium_variant,female,2089,23354.0
+927,medium_variant,female,2089,23354
 927,medium_variant,male,2089,23178.643
 927,momentum,female,2089,15561.309
 927,momentum,male,2089,15634.81
@@ -1543,7 +1543,7 @@ region,variant,gender,year,population
 927,high_variant,male,2093,31556.236
 927,instant_replacement,female,2093,27922.495
 927,instant_replacement,male,2093,27973.716
-927,low_variant,female,2093,17603.0
+927,low_variant,female,2093,17603
 927,low_variant,male,2093,17137.131
 927,medium_variant,female,2093,23626.866
 927,medium_variant,male,2093,23462.275
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 927,no_change,male,2100,23185.662
 927,zero_migration,female,2100,13609.078
 927,zero_migration,male,2100,13776.651
-927,constant_fertility,female,"Region, subregion, country or area *",Australia/New Zealand
-927,constant_fertility,male,"Region, subregion, country or area *",Australia/New Zealand
-927,constant_mortality,female,"Region, subregion, country or area *",Australia/New Zealand
-927,constant_mortality,male,"Region, subregion, country or area *",Australia/New Zealand
-927,estimates,female,"Region, subregion, country or area *",Australia/New Zealand
-927,estimates,male,"Region, subregion, country or area *",Australia/New Zealand
-927,high_variant,female,"Region, subregion, country or area *",Australia/New Zealand
-927,high_variant,male,"Region, subregion, country or area *",Australia/New Zealand
-927,instant_replacement,female,"Region, subregion, country or area *",Australia/New Zealand
-927,instant_replacement,male,"Region, subregion, country or area *",Australia/New Zealand
-927,low_variant,female,"Region, subregion, country or area *",Australia/New Zealand
-927,low_variant,male,"Region, subregion, country or area *",Australia/New Zealand
-927,medium_variant,female,"Region, subregion, country or area *",Australia/New Zealand
-927,medium_variant,male,"Region, subregion, country or area *",Australia/New Zealand
-927,momentum,female,"Region, subregion, country or area *",Australia/New Zealand
-927,momentum,male,"Region, subregion, country or area *",Australia/New Zealand
-927,no_change,female,"Region, subregion, country or area *",Australia/New Zealand
-927,no_change,male,"Region, subregion, country or area *",Australia/New Zealand
-927,zero_migration,female,"Region, subregion, country or area *",Australia/New Zealand
-927,zero_migration,male,"Region, subregion, country or area *",Australia/New Zealand

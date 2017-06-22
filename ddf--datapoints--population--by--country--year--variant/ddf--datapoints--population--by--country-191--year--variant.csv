@@ -186,7 +186,7 @@ country,variant,year,population
 191,constant_mortality,2028,3872.718
 191,high_variant,2028,4051.343
 191,instant_replacement,2028,4134.027
-191,low_variant,2028,3825.0
+191,low_variant,2028,3825
 191,medium_variant,2028,3938.168
 191,momentum,2028,4151.037
 191,no_change,2028,3875.829
@@ -316,7 +316,7 @@ country,variant,year,population
 191,medium_variant,2042,3637.797
 191,momentum,2042,3920.629
 191,no_change,2042,3437.403
-191,zero_migration,2042,3734.0
+191,zero_migration,2042,3734
 191,constant_fertility,2043,3595.19
 191,constant_mortality,2043,3425.048
 191,high_variant,2043,3888.439
@@ -552,8 +552,8 @@ country,variant,year,population
 191,no_change,2068,2597.225
 191,zero_migration,2068,3178.944
 191,constant_fertility,2069,2921.818
-191,constant_mortality,2069,2686.0
-191,high_variant,2069,3748.0
+191,constant_mortality,2069,2686
+191,high_variant,2069,3748
 191,instant_replacement,2069,3878.947
 191,low_variant,2069,2439.478
 191,medium_variant,2069,3041.28
@@ -839,13 +839,3 @@ country,variant,year,population
 191,momentum,2100,3637.001
 191,no_change,2100,1800.869
 191,zero_migration,2100,2629.323
-191,constant_fertility,"Region, subregion, country or area *",Croatia
-191,constant_mortality,"Region, subregion, country or area *",Croatia
-191,estimates,"Region, subregion, country or area *",Croatia
-191,high_variant,"Region, subregion, country or area *",Croatia
-191,instant_replacement,"Region, subregion, country or area *",Croatia
-191,low_variant,"Region, subregion, country or area *",Croatia
-191,medium_variant,"Region, subregion, country or area *",Croatia
-191,momentum,"Region, subregion, country or area *",Croatia
-191,no_change,"Region, subregion, country or area *",Croatia
-191,zero_migration,"Region, subregion, country or area *",Croatia

@@ -437,7 +437,7 @@ country,variant,gender,year,population
 204,no_change,male,2031,8390.305
 204,zero_migration,female,2031,8008.576
 204,zero_migration,male,2031,8038.568
-204,constant_fertility,female,2032,8760.0
+204,constant_fertility,female,2032,8760
 204,constant_fertility,male,2032,8798.821
 204,constant_mortality,female,2032,8025.147
 204,constant_mortality,male,2032,8056.931
@@ -567,7 +567,7 @@ country,variant,gender,year,population
 204,constant_fertility,male,2039,10853.455
 204,constant_mortality,female,2039,9270.221
 204,constant_mortality,male,2039,9319.745
-204,high_variant,female,2039,10146.0
+204,high_variant,female,2039,10146
 204,high_variant,male,2039,10191.138
 204,instant_replacement,female,2039,7176.937
 204,instant_replacement,male,2039,7147.217
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 204,no_change,male,2100,55620.19
 204,zero_migration,female,2100,22571.579
 204,zero_migration,male,2100,22001.095
-204,constant_fertility,female,"Region, subregion, country or area *",Benin
-204,constant_fertility,male,"Region, subregion, country or area *",Benin
-204,constant_mortality,female,"Region, subregion, country or area *",Benin
-204,constant_mortality,male,"Region, subregion, country or area *",Benin
-204,estimates,female,"Region, subregion, country or area *",Benin
-204,estimates,male,"Region, subregion, country or area *",Benin
-204,high_variant,female,"Region, subregion, country or area *",Benin
-204,high_variant,male,"Region, subregion, country or area *",Benin
-204,instant_replacement,female,"Region, subregion, country or area *",Benin
-204,instant_replacement,male,"Region, subregion, country or area *",Benin
-204,low_variant,female,"Region, subregion, country or area *",Benin
-204,low_variant,male,"Region, subregion, country or area *",Benin
-204,medium_variant,female,"Region, subregion, country or area *",Benin
-204,medium_variant,male,"Region, subregion, country or area *",Benin
-204,momentum,female,"Region, subregion, country or area *",Benin
-204,momentum,male,"Region, subregion, country or area *",Benin
-204,no_change,female,"Region, subregion, country or area *",Benin
-204,no_change,male,"Region, subregion, country or area *",Benin
-204,zero_migration,female,"Region, subregion, country or area *",Benin
-204,zero_migration,male,"Region, subregion, country or area *",Benin

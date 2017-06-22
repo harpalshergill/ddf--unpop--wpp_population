@@ -415,7 +415,7 @@ country,variant,gender,year,population
 250,medium_variant,male,2030,33448.983
 250,momentum,female,2030,33599.3
 250,momentum,male,2030,32455.209
-250,no_change,female,2030,34087.0
+250,no_change,female,2030,34087
 250,no_change,male,2030,32930.993
 250,zero_migration,female,2030,33717.788
 250,zero_migration,male,2030,32719.97
@@ -461,7 +461,7 @@ country,variant,gender,year,population
 250,constant_mortality,male,2033,33006.543
 250,high_variant,female,2033,36125.32
 250,high_variant,male,2033,35172.649
-250,instant_replacement,female,2033,35097.0
+250,instant_replacement,female,2033,35097
 250,instant_replacement,male,2033,34091.229
 250,low_variant,female,2033,33388.605
 250,low_variant,male,2033,32294.609
@@ -1382,7 +1382,7 @@ country,variant,gender,year,population
 250,instant_replacement,female,2084,39298.337
 250,instant_replacement,male,2084,38715.536
 250,low_variant,female,2084,28041.847
-250,low_variant,male,2084,26955.0
+250,low_variant,male,2084,26955
 250,medium_variant,female,2084,36936.67
 250,medium_variant,male,2084,36248.005
 250,momentum,female,2084,32373.589
@@ -1423,7 +1423,7 @@ country,variant,gender,year,population
 250,medium_variant,male,2086,36329.739
 250,momentum,female,2086,32377.201
 250,momentum,male,2086,31565.536
-250,no_change,female,2086,34379.0
+250,no_change,female,2086,34379
 250,no_change,male,2086,33348.918
 250,zero_migration,female,2086,32889.816
 250,zero_migration,male,2086,32310.324
@@ -1513,7 +1513,7 @@ country,variant,gender,year,population
 250,medium_variant,male,2091,36517.051
 250,momentum,female,2091,32385.018
 250,momentum,male,2091,31568.651
-250,no_change,female,2091,34364.0
+250,no_change,female,2091,34364
 250,no_change,male,2091,33323.429
 250,zero_migration,female,2091,32843.001
 250,zero_migration,male,2091,32270.461
@@ -1647,7 +1647,7 @@ country,variant,gender,year,population
 250,constant_fertility,male,2099,37605.653
 250,constant_mortality,female,2099,33476.632
 250,constant_mortality,male,2099,32413.612
-250,high_variant,female,2099,53520.0
+250,high_variant,female,2099,53520
 250,high_variant,male,2099,53473.379
 250,instant_replacement,female,2099,40756.777
 250,instant_replacement,male,2099,40182.524
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 250,no_change,male,2100,33231.095
 250,zero_migration,female,2100,32731.631
 250,zero_migration,male,2100,32154.232
-250,constant_fertility,female,"Region, subregion, country or area *",France
-250,constant_fertility,male,"Region, subregion, country or area *",France
-250,constant_mortality,female,"Region, subregion, country or area *",France
-250,constant_mortality,male,"Region, subregion, country or area *",France
-250,estimates,female,"Region, subregion, country or area *",France
-250,estimates,male,"Region, subregion, country or area *",France
-250,high_variant,female,"Region, subregion, country or area *",France
-250,high_variant,male,"Region, subregion, country or area *",France
-250,instant_replacement,female,"Region, subregion, country or area *",France
-250,instant_replacement,male,"Region, subregion, country or area *",France
-250,low_variant,female,"Region, subregion, country or area *",France
-250,low_variant,male,"Region, subregion, country or area *",France
-250,medium_variant,female,"Region, subregion, country or area *",France
-250,medium_variant,male,"Region, subregion, country or area *",France
-250,momentum,female,"Region, subregion, country or area *",France
-250,momentum,male,"Region, subregion, country or area *",France
-250,no_change,female,"Region, subregion, country or area *",France
-250,no_change,male,"Region, subregion, country or area *",France
-250,zero_migration,female,"Region, subregion, country or area *",France
-250,zero_migration,male,"Region, subregion, country or area *",France

@@ -168,7 +168,7 @@ country,variant,gender,year,population
 28,zero_migration,female,2016,52.499
 28,zero_migration,male,2016,48.476
 28,constant_fertility,female,2017,53.077
-28,constant_fertility,male,2017,49.0
+28,constant_fertility,male,2017,49
 28,constant_mortality,female,2017,53.016
 28,constant_mortality,male,2017,48.939
 28,high_variant,female,2017,53.18
@@ -284,7 +284,7 @@ country,variant,gender,year,population
 28,instant_replacement,female,2023,56.303
 28,instant_replacement,male,2023,52.108
 28,low_variant,female,2023,55.218
-28,low_variant,male,2023,51.0
+28,low_variant,male,2023,51
 28,medium_variant,female,2023,56.171
 28,medium_variant,male,2023,51.969
 28,momentum,female,2023,56.083
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 28,no_change,male,2100,64.559
 28,zero_migration,female,2100,61.397
 28,zero_migration,male,2100,61.091
-28,constant_fertility,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,constant_fertility,male,"Region, subregion, country or area *",Antigua and Barbuda
-28,constant_mortality,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,constant_mortality,male,"Region, subregion, country or area *",Antigua and Barbuda
-28,estimates,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,estimates,male,"Region, subregion, country or area *",Antigua and Barbuda
-28,high_variant,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,high_variant,male,"Region, subregion, country or area *",Antigua and Barbuda
-28,instant_replacement,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,instant_replacement,male,"Region, subregion, country or area *",Antigua and Barbuda
-28,low_variant,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,low_variant,male,"Region, subregion, country or area *",Antigua and Barbuda
-28,medium_variant,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,medium_variant,male,"Region, subregion, country or area *",Antigua and Barbuda
-28,momentum,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,momentum,male,"Region, subregion, country or area *",Antigua and Barbuda
-28,no_change,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,no_change,male,"Region, subregion, country or area *",Antigua and Barbuda
-28,zero_migration,female,"Region, subregion, country or area *",Antigua and Barbuda
-28,zero_migration,male,"Region, subregion, country or area *",Antigua and Barbuda

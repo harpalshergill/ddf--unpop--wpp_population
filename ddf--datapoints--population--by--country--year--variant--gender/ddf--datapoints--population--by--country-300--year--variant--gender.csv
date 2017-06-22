@@ -86,7 +86,7 @@ country,variant,gender,year,population
 300,estimates,female,1992,5264.819
 300,estimates,male,1992,5186.593
 300,estimates,female,1993,5321.423
-300,estimates,male,1993,5248.0
+300,estimates,male,1993,5248
 300,estimates,female,1994,5376.756
 300,estimates,male,1994,5308.063
 300,estimates,female,1995,5427.077
@@ -1247,7 +1247,7 @@ country,variant,gender,year,population
 300,no_change,male,2076,3306.415
 300,zero_migration,female,2076,3785.132
 300,zero_migration,male,2076,3757.406
-300,constant_fertility,female,2077,3837.0
+300,constant_fertility,female,2077,3837
 300,constant_fertility,male,2077,3780.013
 300,constant_mortality,female,2077,3729.489
 300,constant_mortality,male,2077,3616.037
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 300,no_change,male,2100,2499.74
 300,zero_migration,female,2100,3202.088
 300,zero_migration,male,2100,3209.631
-300,constant_fertility,female,"Region, subregion, country or area *",Greece
-300,constant_fertility,male,"Region, subregion, country or area *",Greece
-300,constant_mortality,female,"Region, subregion, country or area *",Greece
-300,constant_mortality,male,"Region, subregion, country or area *",Greece
-300,estimates,female,"Region, subregion, country or area *",Greece
-300,estimates,male,"Region, subregion, country or area *",Greece
-300,high_variant,female,"Region, subregion, country or area *",Greece
-300,high_variant,male,"Region, subregion, country or area *",Greece
-300,instant_replacement,female,"Region, subregion, country or area *",Greece
-300,instant_replacement,male,"Region, subregion, country or area *",Greece
-300,low_variant,female,"Region, subregion, country or area *",Greece
-300,low_variant,male,"Region, subregion, country or area *",Greece
-300,medium_variant,female,"Region, subregion, country or area *",Greece
-300,medium_variant,male,"Region, subregion, country or area *",Greece
-300,momentum,female,"Region, subregion, country or area *",Greece
-300,momentum,male,"Region, subregion, country or area *",Greece
-300,no_change,female,"Region, subregion, country or area *",Greece
-300,no_change,male,"Region, subregion, country or area *",Greece
-300,zero_migration,female,"Region, subregion, country or area *",Greece
-300,zero_migration,male,"Region, subregion, country or area *",Greece

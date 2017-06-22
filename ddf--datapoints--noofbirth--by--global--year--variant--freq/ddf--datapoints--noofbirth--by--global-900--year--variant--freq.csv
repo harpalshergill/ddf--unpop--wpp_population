@@ -69,7 +69,7 @@ global,variant,freq,year,noofbirth
 900,constant_fertility,5yearly,2045,1083684.845
 900,constant_mortality,5yearly,2045,689545.581
 900,high_variant,5yearly,2045,963264.218
-900,instant_replacement,5yearly,2045,630066.0
+900,instant_replacement,5yearly,2045,630066
 900,low_variant,5yearly,2045,500709.257
 900,medium_variant,5yearly,2045,714733.652
 900,momentum,5yearly,2045,651470.8
@@ -165,13 +165,3 @@ global,variant,freq,year,noofbirth
 900,momentum,5yearly,2095,648893.419
 900,no_change,5yearly,2095,2761885.849
 900,zero_migration,5yearly,2095,655791.776
-900,constant_fertility,5yearly,Regi,WORLD
-900,constant_mortality,5yearly,Regi,WORLD
-900,estimates,5yearly,Regi,WORLD
-900,high_variant,5yearly,Regi,WORLD
-900,instant_replacement,5yearly,Regi,WORLD
-900,low_variant,5yearly,Regi,WORLD
-900,medium_variant,5yearly,Regi,WORLD
-900,momentum,5yearly,Regi,WORLD
-900,no_change,5yearly,Regi,WORLD
-900,zero_migration,5yearly,Regi,WORLD

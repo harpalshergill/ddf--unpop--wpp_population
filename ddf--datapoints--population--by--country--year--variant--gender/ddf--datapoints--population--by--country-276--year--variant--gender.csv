@@ -816,7 +816,7 @@ country,variant,gender,year,population
 276,zero_migration,female,2052,34094.76
 276,zero_migration,male,2052,33739.187
 276,constant_fertility,female,2053,38040.261
-276,constant_fertility,male,2053,37609.0
+276,constant_fertility,male,2053,37609
 276,constant_mortality,female,2053,37246.576
 276,constant_mortality,male,2053,35945.514
 276,high_variant,female,2053,43621.282
@@ -1008,7 +1008,7 @@ country,variant,gender,year,population
 276,medium_variant,female,2063,38229.168
 276,medium_variant,male,2063,38085.818
 276,momentum,female,2063,34882.037
-276,momentum,male,2063,34301.0
+276,momentum,male,2063,34301
 276,no_change,female,2063,33435.015
 276,no_change,male,2063,32235.628
 276,zero_migration,female,2063,31112.156
@@ -1447,7 +1447,7 @@ country,variant,gender,year,population
 276,zero_migration,male,2087,26469.041
 276,constant_fertility,female,2088,31760.567
 276,constant_fertility,male,2088,31578.776
-276,constant_mortality,female,2088,32357.0
+276,constant_mortality,female,2088,32357
 276,constant_mortality,male,2088,31528.342
 276,high_variant,female,2088,48139.239
 276,high_variant,male,2088,48826.478
@@ -1542,7 +1542,7 @@ country,variant,gender,year,population
 276,high_variant,female,2093,49293.79
 276,high_variant,male,2093,50074.208
 276,instant_replacement,female,2093,49199.686
-276,instant_replacement,male,2093,49940.0
+276,instant_replacement,male,2093,49940
 276,low_variant,female,2093,25435.172
 276,low_variant,male,2093,25004.728
 276,medium_variant,female,2093,35810.856
@@ -1570,7 +1570,7 @@ country,variant,gender,year,population
 276,no_change,female,2094,26882.322
 276,no_change,male,2094,25888.127
 276,zero_migration,female,2094,25293.926
-276,zero_migration,male,2094,25502.0
+276,zero_migration,male,2094,25502
 276,constant_fertility,female,2095,30573.114
 276,constant_fertility,male,2095,30403.096
 276,constant_mortality,female,2095,31707.038
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 276,no_change,male,2100,24753.407
 276,zero_migration,female,2100,24576.506
 276,zero_migration,male,2100,24794.913
-276,constant_fertility,female,"Region, subregion, country or area *",Germany
-276,constant_fertility,male,"Region, subregion, country or area *",Germany
-276,constant_mortality,female,"Region, subregion, country or area *",Germany
-276,constant_mortality,male,"Region, subregion, country or area *",Germany
-276,estimates,female,"Region, subregion, country or area *",Germany
-276,estimates,male,"Region, subregion, country or area *",Germany
-276,high_variant,female,"Region, subregion, country or area *",Germany
-276,high_variant,male,"Region, subregion, country or area *",Germany
-276,instant_replacement,female,"Region, subregion, country or area *",Germany
-276,instant_replacement,male,"Region, subregion, country or area *",Germany
-276,low_variant,female,"Region, subregion, country or area *",Germany
-276,low_variant,male,"Region, subregion, country or area *",Germany
-276,medium_variant,female,"Region, subregion, country or area *",Germany
-276,medium_variant,male,"Region, subregion, country or area *",Germany
-276,momentum,female,"Region, subregion, country or area *",Germany
-276,momentum,male,"Region, subregion, country or area *",Germany
-276,no_change,female,"Region, subregion, country or area *",Germany
-276,no_change,male,"Region, subregion, country or area *",Germany
-276,zero_migration,female,"Region, subregion, country or area *",Germany
-276,zero_migration,male,"Region, subregion, country or area *",Germany

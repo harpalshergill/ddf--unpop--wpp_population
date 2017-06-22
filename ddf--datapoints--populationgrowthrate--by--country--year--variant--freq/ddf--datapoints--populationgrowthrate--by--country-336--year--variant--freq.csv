@@ -1,5 +1,5 @@
 country,variant,freq,year,populationgrowthrate
-336,estimates,5yearly,1950,0.0
+336,estimates,5yearly,1950,0
 336,estimates,5yearly,1955,0.022
 336,estimates,5yearly,1960,-1.159
 336,estimates,5yearly,1965,-5.544
@@ -30,7 +30,7 @@ country,variant,freq,year,populationgrowthrate
 336,momentum,5yearly,2020,-1.841
 336,no_change,5yearly,2020,-0.305
 336,zero_migration,5yearly,2020,-2.141
-336,constant_fertility,5yearly,2025,0.0
+336,constant_fertility,5yearly,2025,0
 336,constant_mortality,5yearly,2025,-0.154
 336,high_variant,5yearly,2025,0.221
 336,instant_replacement,5yearly,2025,0.472
@@ -44,7 +44,7 @@ country,variant,freq,year,populationgrowthrate
 336,high_variant,5yearly,2030,0.17
 336,instant_replacement,5yearly,2030,0.484
 336,low_variant,5yearly,2030,-0.284
-336,medium_variant,5yearly,2030,0.0
+336,medium_variant,5yearly,2030,0
 336,momentum,5yearly,2030,-1.929
 336,no_change,5yearly,2030,-0.207
 336,zero_migration,5yearly,2030,-2.287
@@ -165,13 +165,3 @@ country,variant,freq,year,populationgrowthrate
 336,momentum,5yearly,2095,0.089
 336,no_change,5yearly,2095,-0.115
 336,zero_migration,5yearly,2095,-2.056
-336,constant_fertility,5yearly,Regi,Holy See
-336,constant_mortality,5yearly,Regi,Holy See
-336,estimates,5yearly,Regi,Holy See
-336,high_variant,5yearly,Regi,Holy See
-336,instant_replacement,5yearly,Regi,Holy See
-336,low_variant,5yearly,Regi,Holy See
-336,medium_variant,5yearly,Regi,Holy See
-336,momentum,5yearly,Regi,Holy See
-336,no_change,5yearly,Regi,Holy See
-336,zero_migration,5yearly,Regi,Holy See

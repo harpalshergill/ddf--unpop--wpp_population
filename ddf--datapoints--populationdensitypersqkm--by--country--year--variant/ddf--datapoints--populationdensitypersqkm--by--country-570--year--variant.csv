@@ -365,7 +365,7 @@ country,variant,year,populationdensitypersqkm
 570,constant_fertility,2048,7.54615384615385
 570,constant_mortality,2048,6.61923076923077
 570,high_variant,2048,7.60769230769231
-570,instant_replacement,2048,7.0
+570,instant_replacement,2048,7
 570,low_variant,2048,6.12307692307692
 570,medium_variant,2048,6.83076923076923
 570,momentum,2048,7.40384615384615
@@ -429,7 +429,7 @@ country,variant,year,populationdensitypersqkm
 570,constant_mortality,2055,6.65384615384615
 570,high_variant,2055,7.98461538461538
 570,instant_replacement,2055,7.19230769230769
-570,low_variant,2055,6.0
+570,low_variant,2055,6
 570,medium_variant,2055,6.94230769230769
 570,momentum,2055,7.55384615384615
 570,no_change,2055,7.65
@@ -637,7 +637,7 @@ country,variant,year,populationdensitypersqkm
 570,high_variant,2078,9.11923076923077
 570,instant_replacement,2078,7.75384615384615
 570,low_variant,2078,5.24615384615385
-570,medium_variant,2078,7.0
+570,medium_variant,2078,7
 570,momentum,2078,7.83846153846154
 570,no_change,2078,8.64615384615385
 570,zero_migration,2078,7.64230769230769
@@ -779,7 +779,7 @@ country,variant,year,populationdensitypersqkm
 570,constant_fertility,2094,10.3769230769231
 570,constant_mortality,2094,5.90384615384615
 570,high_variant,2094,9.88846153846154
-570,instant_replacement,2094,8.0
+570,instant_replacement,2094,8
 570,low_variant,2094,4.44230769230769
 570,medium_variant,2094,6.78846153846154
 570,momentum,2094,7.90384615384615
@@ -796,7 +796,7 @@ country,variant,year,populationdensitypersqkm
 570,zero_migration,2095,7.38461538461539
 570,constant_fertility,2096,10.5153846153846
 570,constant_mortality,2096,5.83846153846154
-570,high_variant,2096,10.0
+570,high_variant,2096,10
 570,instant_replacement,2096,8.03461538461539
 570,low_variant,2096,4.32692307692308
 570,medium_variant,2096,6.77692307692308
@@ -839,13 +839,3 @@ country,variant,year,populationdensitypersqkm
 570,momentum,2100,7.88846153846154
 570,no_change,2100,9.67307692307692
 570,zero_migration,2100,7.3
-570,constant_fertility,"Region, subregion, country or area *",Niue
-570,constant_mortality,"Region, subregion, country or area *",Niue
-570,estimates,"Region, subregion, country or area *",Niue
-570,high_variant,"Region, subregion, country or area *",Niue
-570,instant_replacement,"Region, subregion, country or area *",Niue
-570,low_variant,"Region, subregion, country or area *",Niue
-570,medium_variant,"Region, subregion, country or area *",Niue
-570,momentum,"Region, subregion, country or area *",Niue
-570,no_change,"Region, subregion, country or area *",Niue
-570,zero_migration,"Region, subregion, country or area *",Niue

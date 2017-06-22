@@ -51,7 +51,7 @@ region,variant,freq,year,crudedeathrateper1000population
 915,constant_fertility,5yearly,2035,8.852
 915,constant_mortality,5yearly,2035,11.169
 915,high_variant,5yearly,2035,8.651
-915,instant_replacement,5yearly,2035,9.0
+915,instant_replacement,5yearly,2035,9
 915,low_variant,5yearly,2035,9.614
 915,medium_variant,5yearly,2035,9.103
 915,momentum,5yearly,2035,10.641
@@ -75,7 +75,7 @@ region,variant,freq,year,crudedeathrateper1000population
 915,momentum,5yearly,2045,12.001
 915,no_change,5yearly,2045,12.329
 915,zero_migration,5yearly,2045,9.773
-915,constant_fertility,5yearly,2050,10.0
+915,constant_fertility,5yearly,2050,10
 915,constant_mortality,5yearly,2050,13.788
 915,high_variant,5yearly,2050,9.756
 915,instant_replacement,5yearly,2050,10.535
@@ -165,13 +165,3 @@ region,variant,freq,year,crudedeathrateper1000population
 915,momentum,5yearly,2095,13.968
 915,no_change,5yearly,2095,13.149
 915,zero_migration,5yearly,2095,12.808
-915,constant_fertility,5yearly,Regi,Caribbean
-915,constant_mortality,5yearly,Regi,Caribbean
-915,estimates,5yearly,Regi,Caribbean
-915,high_variant,5yearly,Regi,Caribbean
-915,instant_replacement,5yearly,Regi,Caribbean
-915,low_variant,5yearly,Regi,Caribbean
-915,medium_variant,5yearly,Regi,Caribbean
-915,momentum,5yearly,Regi,Caribbean
-915,no_change,5yearly,Regi,Caribbean
-915,zero_migration,5yearly,Regi,Caribbean

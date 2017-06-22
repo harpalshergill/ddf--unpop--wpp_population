@@ -195,7 +195,7 @@ country,variant,gender,year,population
 262,instant_replacement,male,2018,483.072
 262,low_variant,female,2018,481.653
 262,low_variant,male,2018,484.991
-262,medium_variant,female,2018,484.0
+262,medium_variant,female,2018,484
 262,medium_variant,male,2018,487.411
 262,momentum,female,2018,478.275
 262,momentum,male,2018,481.615
@@ -587,7 +587,7 @@ country,variant,gender,year,population
 262,constant_mortality,male,2040,601.275
 262,high_variant,female,2040,665.151
 262,high_variant,male,2040,662.906
-262,instant_replacement,female,2040,614.0
+262,instant_replacement,female,2040,614
 262,instant_replacement,male,2040,610.725
 262,low_variant,female,2040,575.149
 262,low_variant,male,2040,570.949
@@ -949,7 +949,7 @@ country,variant,gender,year,population
 262,high_variant,male,2060,776.687
 262,instant_replacement,female,2060,695.041
 262,instant_replacement,male,2060,679.86
-262,low_variant,female,2060,580.0
+262,low_variant,female,2060,580
 262,low_variant,male,2060,562.87
 262,medium_variant,female,2060,680.852
 262,medium_variant,male,2060,665.109
@@ -1351,7 +1351,7 @@ country,variant,gender,year,population
 262,medium_variant,male,2082,647.759
 262,momentum,female,2082,648.66
 262,momentum,male,2082,639.76
-262,no_change,female,2082,1017.0
+262,no_change,female,2082,1017
 262,no_change,male,2082,1011.12
 262,zero_migration,female,2082,638.356
 262,zero_migration,male,2082,610.224
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 262,no_change,male,2100,1182.411
 262,zero_migration,female,2100,605.036
 262,zero_migration,male,2100,570.049
-262,constant_fertility,female,"Region, subregion, country or area *",Djibouti
-262,constant_fertility,male,"Region, subregion, country or area *",Djibouti
-262,constant_mortality,female,"Region, subregion, country or area *",Djibouti
-262,constant_mortality,male,"Region, subregion, country or area *",Djibouti
-262,estimates,female,"Region, subregion, country or area *",Djibouti
-262,estimates,male,"Region, subregion, country or area *",Djibouti
-262,high_variant,female,"Region, subregion, country or area *",Djibouti
-262,high_variant,male,"Region, subregion, country or area *",Djibouti
-262,instant_replacement,female,"Region, subregion, country or area *",Djibouti
-262,instant_replacement,male,"Region, subregion, country or area *",Djibouti
-262,low_variant,female,"Region, subregion, country or area *",Djibouti
-262,low_variant,male,"Region, subregion, country or area *",Djibouti
-262,medium_variant,female,"Region, subregion, country or area *",Djibouti
-262,medium_variant,male,"Region, subregion, country or area *",Djibouti
-262,momentum,female,"Region, subregion, country or area *",Djibouti
-262,momentum,male,"Region, subregion, country or area *",Djibouti
-262,no_change,female,"Region, subregion, country or area *",Djibouti
-262,no_change,male,"Region, subregion, country or area *",Djibouti
-262,zero_migration,female,"Region, subregion, country or area *",Djibouti
-262,zero_migration,male,"Region, subregion, country or area *",Djibouti

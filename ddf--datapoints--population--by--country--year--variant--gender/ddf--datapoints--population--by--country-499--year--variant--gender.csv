@@ -658,7 +658,7 @@ country,variant,gender,year,population
 499,constant_mortality,female,2044,290.029
 499,constant_mortality,male,2044,282.694
 499,high_variant,female,2044,328.248
-499,high_variant,male,2044,324.0
+499,high_variant,male,2044,324
 499,instant_replacement,female,2044,327.923
 499,instant_replacement,male,2044,323.67
 499,low_variant,female,2044,279.745
@@ -854,7 +854,7 @@ country,variant,gender,year,population
 499,constant_fertility,female,2055,290.926
 499,constant_fertility,male,2055,291.527
 499,constant_mortality,female,2055,269.121
-499,constant_mortality,male,2055,263.0
+499,constant_mortality,male,2055,263
 499,high_variant,female,2055,327.702
 499,high_variant,male,2055,327.87
 499,instant_replacement,female,2055,325.935
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 499,no_change,male,2100,186.573
 499,zero_migration,female,2100,246.695
 499,zero_migration,male,2100,250.739
-499,constant_fertility,female,"Region, subregion, country or area *",Montenegro
-499,constant_fertility,male,"Region, subregion, country or area *",Montenegro
-499,constant_mortality,female,"Region, subregion, country or area *",Montenegro
-499,constant_mortality,male,"Region, subregion, country or area *",Montenegro
-499,estimates,female,"Region, subregion, country or area *",Montenegro
-499,estimates,male,"Region, subregion, country or area *",Montenegro
-499,high_variant,female,"Region, subregion, country or area *",Montenegro
-499,high_variant,male,"Region, subregion, country or area *",Montenegro
-499,instant_replacement,female,"Region, subregion, country or area *",Montenegro
-499,instant_replacement,male,"Region, subregion, country or area *",Montenegro
-499,low_variant,female,"Region, subregion, country or area *",Montenegro
-499,low_variant,male,"Region, subregion, country or area *",Montenegro
-499,medium_variant,female,"Region, subregion, country or area *",Montenegro
-499,medium_variant,male,"Region, subregion, country or area *",Montenegro
-499,momentum,female,"Region, subregion, country or area *",Montenegro
-499,momentum,male,"Region, subregion, country or area *",Montenegro
-499,no_change,female,"Region, subregion, country or area *",Montenegro
-499,no_change,male,"Region, subregion, country or area *",Montenegro
-499,zero_migration,female,"Region, subregion, country or area *",Montenegro
-499,zero_migration,male,"Region, subregion, country or area *",Montenegro

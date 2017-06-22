@@ -197,7 +197,7 @@ region,variant,gender,year,population
 924,low_variant,male,2018,51478.401
 924,medium_variant,female,2018,53071.395
 924,medium_variant,male,2018,51690.199
-924,momentum,female,2018,52828.0
+924,momentum,female,2018,52828
 924,momentum,male,2018,51419.406
 924,no_change,female,2018,53013.641
 924,no_change,male,2018,51602.154
@@ -919,7 +919,7 @@ region,variant,gender,year,population
 924,medium_variant,male,2058,59951.526
 924,momentum,female,2058,52246.397
 924,momentum,male,2058,51524.653
-924,no_change,female,2058,56461.0
+924,no_change,female,2058,56461
 924,no_change,male,2058,55701.423
 924,zero_migration,female,2058,51670.976
 924,zero_migration,male,2058,51763.613
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 924,no_change,male,2100,55268.568
 924,zero_migration,female,2100,47296.004
 924,zero_migration,male,2100,48110.533
-924,constant_fertility,female,"Region, subregion, country or area *",Northern Europe
-924,constant_fertility,male,"Region, subregion, country or area *",Northern Europe
-924,constant_mortality,female,"Region, subregion, country or area *",Northern Europe
-924,constant_mortality,male,"Region, subregion, country or area *",Northern Europe
-924,estimates,female,"Region, subregion, country or area *",Northern Europe
-924,estimates,male,"Region, subregion, country or area *",Northern Europe
-924,high_variant,female,"Region, subregion, country or area *",Northern Europe
-924,high_variant,male,"Region, subregion, country or area *",Northern Europe
-924,instant_replacement,female,"Region, subregion, country or area *",Northern Europe
-924,instant_replacement,male,"Region, subregion, country or area *",Northern Europe
-924,low_variant,female,"Region, subregion, country or area *",Northern Europe
-924,low_variant,male,"Region, subregion, country or area *",Northern Europe
-924,medium_variant,female,"Region, subregion, country or area *",Northern Europe
-924,medium_variant,male,"Region, subregion, country or area *",Northern Europe
-924,momentum,female,"Region, subregion, country or area *",Northern Europe
-924,momentum,male,"Region, subregion, country or area *",Northern Europe
-924,no_change,female,"Region, subregion, country or area *",Northern Europe
-924,no_change,male,"Region, subregion, country or area *",Northern Europe
-924,zero_migration,female,"Region, subregion, country or area *",Northern Europe
-924,zero_migration,male,"Region, subregion, country or area *",Northern Europe

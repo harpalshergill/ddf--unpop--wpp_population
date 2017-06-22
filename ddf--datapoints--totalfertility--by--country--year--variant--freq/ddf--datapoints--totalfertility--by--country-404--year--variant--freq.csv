@@ -9,7 +9,7 @@ country,variant,freq,year,totalfertility
 404,estimates,5yearly,1985,6.538
 404,estimates,5yearly,1990,5.65
 404,estimates,5yearly,1995,5.35
-404,estimates,5yearly,2000,5.0
+404,estimates,5yearly,2000,5
 404,estimates,5yearly,2005,4.65
 404,estimates,5yearly,2010,4.1
 404,constant_fertility,5yearly,2015,4.1
@@ -165,13 +165,3 @@ country,variant,freq,year,totalfertility
 404,momentum,5yearly,2095,2.234195
 404,no_change,5yearly,2095,4.1
 404,zero_migration,5yearly,2095,1.8766
-404,constant_fertility,5yearly,Regi,Kenya
-404,constant_mortality,5yearly,Regi,Kenya
-404,estimates,5yearly,Regi,Kenya
-404,high_variant,5yearly,Regi,Kenya
-404,instant_replacement,5yearly,Regi,Kenya
-404,low_variant,5yearly,Regi,Kenya
-404,medium_variant,5yearly,Regi,Kenya
-404,momentum,5yearly,Regi,Kenya
-404,no_change,5yearly,Regi,Kenya
-404,zero_migration,5yearly,Regi,Kenya

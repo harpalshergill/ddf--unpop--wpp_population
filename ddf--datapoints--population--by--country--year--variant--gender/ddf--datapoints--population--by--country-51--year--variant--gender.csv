@@ -715,7 +715,7 @@ country,variant,gender,year,population
 51,high_variant,male,2047,1444.788
 51,instant_replacement,female,2047,1614.666
 51,instant_replacement,male,2047,1484.701
-51,low_variant,female,2047,1314.0
+51,low_variant,female,2047,1314
 51,low_variant,male,2047,1155.231
 51,medium_variant,female,2047,1443.379
 51,medium_variant,male,2047,1296.866
@@ -1412,7 +1412,7 @@ country,variant,gender,year,population
 51,constant_fertility,female,2086,996.141
 51,constant_fertility,male,2086,990.662
 51,constant_mortality,female,2086,908.598
-51,constant_mortality,male,2086,832.0
+51,constant_mortality,male,2086,832
 51,high_variant,female,2086,1501.238
 51,high_variant,male,2086,1489.706
 51,instant_replacement,female,2086,1523.793
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 51,no_change,male,2100,672.796
 51,zero_migration,female,2100,1122.175
 51,zero_migration,male,2100,1152.308
-51,constant_fertility,female,"Region, subregion, country or area *",Armenia
-51,constant_fertility,male,"Region, subregion, country or area *",Armenia
-51,constant_mortality,female,"Region, subregion, country or area *",Armenia
-51,constant_mortality,male,"Region, subregion, country or area *",Armenia
-51,estimates,female,"Region, subregion, country or area *",Armenia
-51,estimates,male,"Region, subregion, country or area *",Armenia
-51,high_variant,female,"Region, subregion, country or area *",Armenia
-51,high_variant,male,"Region, subregion, country or area *",Armenia
-51,instant_replacement,female,"Region, subregion, country or area *",Armenia
-51,instant_replacement,male,"Region, subregion, country or area *",Armenia
-51,low_variant,female,"Region, subregion, country or area *",Armenia
-51,low_variant,male,"Region, subregion, country or area *",Armenia
-51,medium_variant,female,"Region, subregion, country or area *",Armenia
-51,medium_variant,male,"Region, subregion, country or area *",Armenia
-51,momentum,female,"Region, subregion, country or area *",Armenia
-51,momentum,male,"Region, subregion, country or area *",Armenia
-51,no_change,female,"Region, subregion, country or area *",Armenia
-51,no_change,male,"Region, subregion, country or area *",Armenia
-51,zero_migration,female,"Region, subregion, country or area *",Armenia
-51,zero_migration,male,"Region, subregion, country or area *",Armenia

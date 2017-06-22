@@ -747,7 +747,7 @@ region,variant,gender,year,population
 1503,constant_fertility,male,2049,638190.027
 1503,constant_mortality,female,2049,616944.247
 1503,constant_mortality,male,2049,608512.516
-1503,high_variant,female,2049,702219.0
+1503,high_variant,female,2049,702219
 1503,high_variant,male,2049,705823.203
 1503,instant_replacement,female,2049,686011.833
 1503,instant_replacement,male,2049,688946.722
@@ -1578,7 +1578,7 @@ region,variant,gender,year,population
 1503,high_variant,female,2095,894399.062
 1503,high_variant,male,2095,913224.865
 1503,instant_replacement,female,2095,785870.816
-1503,instant_replacement,male,2095,799698.0
+1503,instant_replacement,male,2095,799698
 1503,low_variant,female,2095,448303.553
 1503,low_variant,male,2095,447017.235
 1503,medium_variant,female,2095,640787.807
@@ -1631,7 +1631,7 @@ region,variant,gender,year,population
 1503,constant_mortality,male,2098,563213.988
 1503,high_variant,female,2098,911800.147
 1503,high_variant,male,2098,931135.598
-1503,instant_replacement,female,2098,793697.0
+1503,instant_replacement,female,2098,793697
 1503,instant_replacement,male,2098,807575.65
 1503,low_variant,female,2098,438040.074
 1503,low_variant,male,2098,436494.936
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 1503,no_change,male,2100,542389.003
 1503,zero_migration,female,2100,491205.653
 1503,zero_migration,male,2100,492811.979
-1503,constant_fertility,female,"Region, subregion, country or area *",High-income countries
-1503,constant_fertility,male,"Region, subregion, country or area *",High-income countries
-1503,constant_mortality,female,"Region, subregion, country or area *",High-income countries
-1503,constant_mortality,male,"Region, subregion, country or area *",High-income countries
-1503,estimates,female,"Region, subregion, country or area *",High-income countries
-1503,estimates,male,"Region, subregion, country or area *",High-income countries
-1503,high_variant,female,"Region, subregion, country or area *",High-income countries
-1503,high_variant,male,"Region, subregion, country or area *",High-income countries
-1503,instant_replacement,female,"Region, subregion, country or area *",High-income countries
-1503,instant_replacement,male,"Region, subregion, country or area *",High-income countries
-1503,low_variant,female,"Region, subregion, country or area *",High-income countries
-1503,low_variant,male,"Region, subregion, country or area *",High-income countries
-1503,medium_variant,female,"Region, subregion, country or area *",High-income countries
-1503,medium_variant,male,"Region, subregion, country or area *",High-income countries
-1503,momentum,female,"Region, subregion, country or area *",High-income countries
-1503,momentum,male,"Region, subregion, country or area *",High-income countries
-1503,no_change,female,"Region, subregion, country or area *",High-income countries
-1503,no_change,male,"Region, subregion, country or area *",High-income countries
-1503,zero_migration,female,"Region, subregion, country or area *",High-income countries
-1503,zero_migration,male,"Region, subregion, country or area *",High-income countries

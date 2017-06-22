@@ -1297,7 +1297,7 @@ region,variant,gender,year,population
 948,medium_variant,male,2079,4184904.835
 948,momentum,female,2079,3251369.186
 948,momentum,male,2079,3252574.045
-948,no_change,female,2079,5983247.0
+948,no_change,female,2079,5983247
 948,no_change,male,2079,6078956.833
 948,zero_migration,female,2079,4275423.109
 948,zero_migration,male,2079,4274823.354
@@ -1327,7 +1327,7 @@ region,variant,gender,year,population
 948,high_variant,male,2081,5527765.592
 948,instant_replacement,female,2081,3499755.242
 948,instant_replacement,male,2081,3499050.063
-948,low_variant,female,2081,3193324.0
+948,low_variant,female,2081,3193324
 948,low_variant,male,2081,3149765.123
 948,medium_variant,female,2081,4215485.732
 948,medium_variant,male,2081,4214631.219
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 948,no_change,male,2100,9039116.266
 948,zero_migration,female,2100,4547370.718
 948,zero_migration,male,2100,4532394.01
-948,constant_fertility,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,constant_fertility,male,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,constant_mortality,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,constant_mortality,male,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,estimates,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,estimates,male,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,high_variant,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,high_variant,male,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,instant_replacement,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,instant_replacement,male,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,low_variant,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,low_variant,male,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,medium_variant,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,medium_variant,male,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,momentum,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,momentum,male,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,no_change,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,no_change,male,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,zero_migration,female,"Region, subregion, country or area *","Less developed regions, excluding China"
-948,zero_migration,male,"Region, subregion, country or area *","Less developed regions, excluding China"

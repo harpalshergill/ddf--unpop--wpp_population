@@ -5,7 +5,7 @@ country,variant,gender,year,population
 90,estimates,male,1951,50.391
 90,estimates,female,1952,42.664
 90,estimates,male,1952,51.422
-90,estimates,female,1953,44.0
+90,estimates,female,1953,44
 90,estimates,male,1953,52.561
 90,estimates,female,1954,45.382
 90,estimates,male,1954,53.834
@@ -689,7 +689,7 @@ country,variant,gender,year,population
 90,no_change,male,2045,559.662
 90,zero_migration,female,2045,531.122
 90,zero_migration,male,2045,544.833
-90,constant_fertility,female,2046,570.0
+90,constant_fertility,female,2046,570
 90,constant_fertility,male,2046,593.435
 90,constant_mortality,female,2046,464.785
 90,constant_mortality,male,2046,479.013
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 90,no_change,male,2100,1735.64
 90,zero_migration,female,2100,874.01
 90,zero_migration,male,2100,897.696
-90,constant_fertility,female,"Region, subregion, country or area *",Solomon Islands
-90,constant_fertility,male,"Region, subregion, country or area *",Solomon Islands
-90,constant_mortality,female,"Region, subregion, country or area *",Solomon Islands
-90,constant_mortality,male,"Region, subregion, country or area *",Solomon Islands
-90,estimates,female,"Region, subregion, country or area *",Solomon Islands
-90,estimates,male,"Region, subregion, country or area *",Solomon Islands
-90,high_variant,female,"Region, subregion, country or area *",Solomon Islands
-90,high_variant,male,"Region, subregion, country or area *",Solomon Islands
-90,instant_replacement,female,"Region, subregion, country or area *",Solomon Islands
-90,instant_replacement,male,"Region, subregion, country or area *",Solomon Islands
-90,low_variant,female,"Region, subregion, country or area *",Solomon Islands
-90,low_variant,male,"Region, subregion, country or area *",Solomon Islands
-90,medium_variant,female,"Region, subregion, country or area *",Solomon Islands
-90,medium_variant,male,"Region, subregion, country or area *",Solomon Islands
-90,momentum,female,"Region, subregion, country or area *",Solomon Islands
-90,momentum,male,"Region, subregion, country or area *",Solomon Islands
-90,no_change,female,"Region, subregion, country or area *",Solomon Islands
-90,no_change,male,"Region, subregion, country or area *",Solomon Islands
-90,zero_migration,female,"Region, subregion, country or area *",Solomon Islands
-90,zero_migration,male,"Region, subregion, country or area *",Solomon Islands

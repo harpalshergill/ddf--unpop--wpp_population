@@ -1247,7 +1247,7 @@ country,variant,gender,year,population
 36,no_change,male,2076,18544.125
 36,zero_migration,female,2076,12143.222
 36,zero_migration,male,2076,12214.398
-36,constant_fertility,female,2077,20243.0
+36,constant_fertility,female,2077,20243
 36,constant_fertility,male,2077,20128.104
 36,constant_mortality,female,2077,18087.603
 36,constant_mortality,male,2077,17704.327
@@ -1669,7 +1669,7 @@ country,variant,gender,year,population
 36,high_variant,male,2100,28998.003
 36,instant_replacement,female,2100,25365.15
 36,instant_replacement,male,2100,25449.429
-36,low_variant,female,2100,15090.0
+36,low_variant,female,2100,15090
 36,low_variant,male,2100,14679.988
 36,medium_variant,female,2100,20980.919
 36,medium_variant,male,2100,20853.659
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 36,no_change,male,2100,20011.744
 36,zero_migration,female,2100,11288.655
 36,zero_migration,male,2100,11398.966
-36,constant_fertility,female,"Region, subregion, country or area *",Australia
-36,constant_fertility,male,"Region, subregion, country or area *",Australia
-36,constant_mortality,female,"Region, subregion, country or area *",Australia
-36,constant_mortality,male,"Region, subregion, country or area *",Australia
-36,estimates,female,"Region, subregion, country or area *",Australia
-36,estimates,male,"Region, subregion, country or area *",Australia
-36,high_variant,female,"Region, subregion, country or area *",Australia
-36,high_variant,male,"Region, subregion, country or area *",Australia
-36,instant_replacement,female,"Region, subregion, country or area *",Australia
-36,instant_replacement,male,"Region, subregion, country or area *",Australia
-36,low_variant,female,"Region, subregion, country or area *",Australia
-36,low_variant,male,"Region, subregion, country or area *",Australia
-36,medium_variant,female,"Region, subregion, country or area *",Australia
-36,medium_variant,male,"Region, subregion, country or area *",Australia
-36,momentum,female,"Region, subregion, country or area *",Australia
-36,momentum,male,"Region, subregion, country or area *",Australia
-36,no_change,female,"Region, subregion, country or area *",Australia
-36,no_change,male,"Region, subregion, country or area *",Australia
-36,zero_migration,female,"Region, subregion, country or area *",Australia
-36,zero_migration,male,"Region, subregion, country or area *",Australia

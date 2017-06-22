@@ -561,7 +561,7 @@ region,variant,gender,year,population
 912,momentum,male,2038,142815.001
 912,no_change,female,2038,166792.18
 912,no_change,male,2038,168663.839
-912,zero_migration,female,2038,159458.0
+912,zero_migration,female,2038,159458
 912,zero_migration,male,2038,160899.797
 912,constant_fertility,female,2039,173497.789
 912,constant_fertility,male,2039,175260.431
@@ -981,7 +981,7 @@ region,variant,gender,year,population
 912,constant_fertility,male,2062,264255.826
 912,constant_mortality,female,2062,183995.957
 912,constant_mortality,male,2062,184877.423
-912,high_variant,female,2062,231086.0
+912,high_variant,female,2062,231086
 912,high_variant,male,2062,233544.941
 912,instant_replacement,female,2062,163523.625
 912,instant_replacement,male,2062,163138.225
@@ -1432,7 +1432,7 @@ region,variant,gender,year,population
 912,constant_mortality,female,2087,194563.892
 912,constant_mortality,male,2087,194513.347
 912,high_variant,female,2087,299655.147
-912,high_variant,male,2087,304437.0
+912,high_variant,male,2087,304437
 912,instant_replacement,female,2087,171971.911
 912,instant_replacement,male,2087,172225.047
 912,low_variant,female,2087,164193.488
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 912,no_change,male,2100,466982.679
 912,zero_migration,female,2100,241219.715
 912,zero_migration,male,2100,243800.513
-912,constant_fertility,female,"Region, subregion, country or area *",Northern Africa
-912,constant_fertility,male,"Region, subregion, country or area *",Northern Africa
-912,constant_mortality,female,"Region, subregion, country or area *",Northern Africa
-912,constant_mortality,male,"Region, subregion, country or area *",Northern Africa
-912,estimates,female,"Region, subregion, country or area *",Northern Africa
-912,estimates,male,"Region, subregion, country or area *",Northern Africa
-912,high_variant,female,"Region, subregion, country or area *",Northern Africa
-912,high_variant,male,"Region, subregion, country or area *",Northern Africa
-912,instant_replacement,female,"Region, subregion, country or area *",Northern Africa
-912,instant_replacement,male,"Region, subregion, country or area *",Northern Africa
-912,low_variant,female,"Region, subregion, country or area *",Northern Africa
-912,low_variant,male,"Region, subregion, country or area *",Northern Africa
-912,medium_variant,female,"Region, subregion, country or area *",Northern Africa
-912,medium_variant,male,"Region, subregion, country or area *",Northern Africa
-912,momentum,female,"Region, subregion, country or area *",Northern Africa
-912,momentum,male,"Region, subregion, country or area *",Northern Africa
-912,no_change,female,"Region, subregion, country or area *",Northern Africa
-912,no_change,male,"Region, subregion, country or area *",Northern Africa
-912,zero_migration,female,"Region, subregion, country or area *",Northern Africa
-912,zero_migration,male,"Region, subregion, country or area *",Northern Africa

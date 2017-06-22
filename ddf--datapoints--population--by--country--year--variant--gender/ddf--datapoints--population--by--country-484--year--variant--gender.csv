@@ -128,7 +128,7 @@ country,variant,gender,year,population
 484,estimates,female,2013,61535.992
 484,estimates,male,2013,60999.974
 484,estimates,female,2014,62378.594
-484,estimates,male,2014,61843.0
+484,estimates,male,2014,61843
 484,constant_fertility,female,2015,63213.534
 484,constant_fertility,male,2015,62677.416
 484,constant_mortality,female,2015,63213.534
@@ -1553,7 +1553,7 @@ country,variant,gender,year,population
 484,no_change,male,2093,101514.291
 484,zero_migration,female,2093,80088.694
 484,zero_migration,male,2093,80880.047
-484,constant_fertility,female,2094,114875.0
+484,constant_fertility,female,2094,114875
 484,constant_fertility,male,2094,117238.917
 484,constant_mortality,female,2094,67259.446
 484,constant_mortality,male,2094,65414.176
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 484,no_change,male,2100,103580.186
 484,zero_migration,female,2100,77950.154
 484,zero_migration,male,2100,78774.363
-484,constant_fertility,female,"Region, subregion, country or area *",Mexico
-484,constant_fertility,male,"Region, subregion, country or area *",Mexico
-484,constant_mortality,female,"Region, subregion, country or area *",Mexico
-484,constant_mortality,male,"Region, subregion, country or area *",Mexico
-484,estimates,female,"Region, subregion, country or area *",Mexico
-484,estimates,male,"Region, subregion, country or area *",Mexico
-484,high_variant,female,"Region, subregion, country or area *",Mexico
-484,high_variant,male,"Region, subregion, country or area *",Mexico
-484,instant_replacement,female,"Region, subregion, country or area *",Mexico
-484,instant_replacement,male,"Region, subregion, country or area *",Mexico
-484,low_variant,female,"Region, subregion, country or area *",Mexico
-484,low_variant,male,"Region, subregion, country or area *",Mexico
-484,medium_variant,female,"Region, subregion, country or area *",Mexico
-484,medium_variant,male,"Region, subregion, country or area *",Mexico
-484,momentum,female,"Region, subregion, country or area *",Mexico
-484,momentum,male,"Region, subregion, country or area *",Mexico
-484,no_change,female,"Region, subregion, country or area *",Mexico
-484,no_change,male,"Region, subregion, country or area *",Mexico
-484,zero_migration,female,"Region, subregion, country or area *",Mexico
-484,zero_migration,male,"Region, subregion, country or area *",Mexico

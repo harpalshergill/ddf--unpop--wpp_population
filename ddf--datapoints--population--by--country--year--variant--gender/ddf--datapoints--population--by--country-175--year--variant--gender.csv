@@ -158,7 +158,7 @@ country,variant,gender,year,population
 175,instant_replacement,female,2016,124.289
 175,instant_replacement,male,2016,120.042
 175,low_variant,female,2016,125.285
-175,low_variant,male,2016,121.0
+175,low_variant,male,2016,121
 175,medium_variant,female,2016,125.354
 175,medium_variant,male,2016,121.133
 175,momentum,female,2016,124.282
@@ -1591,7 +1591,7 @@ country,variant,gender,year,population
 175,zero_migration,male,2095,363.525
 175,constant_fertility,female,2096,979.452
 175,constant_fertility,male,2096,990.416
-175,constant_mortality,female,2096,337.0
+175,constant_mortality,female,2096,337
 175,constant_mortality,male,2096,321.126
 175,high_variant,female,2096,506.978
 175,high_variant,male,2096,504.759
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 175,no_change,male,2100,1022.276
 175,zero_migration,female,2100,375.132
 175,zero_migration,male,2100,368.713
-175,constant_fertility,female,"Region, subregion, country or area *",Mayotte
-175,constant_fertility,male,"Region, subregion, country or area *",Mayotte
-175,constant_mortality,female,"Region, subregion, country or area *",Mayotte
-175,constant_mortality,male,"Region, subregion, country or area *",Mayotte
-175,estimates,female,"Region, subregion, country or area *",Mayotte
-175,estimates,male,"Region, subregion, country or area *",Mayotte
-175,high_variant,female,"Region, subregion, country or area *",Mayotte
-175,high_variant,male,"Region, subregion, country or area *",Mayotte
-175,instant_replacement,female,"Region, subregion, country or area *",Mayotte
-175,instant_replacement,male,"Region, subregion, country or area *",Mayotte
-175,low_variant,female,"Region, subregion, country or area *",Mayotte
-175,low_variant,male,"Region, subregion, country or area *",Mayotte
-175,medium_variant,female,"Region, subregion, country or area *",Mayotte
-175,medium_variant,male,"Region, subregion, country or area *",Mayotte
-175,momentum,female,"Region, subregion, country or area *",Mayotte
-175,momentum,male,"Region, subregion, country or area *",Mayotte
-175,no_change,female,"Region, subregion, country or area *",Mayotte
-175,no_change,male,"Region, subregion, country or area *",Mayotte
-175,zero_migration,female,"Region, subregion, country or area *",Mayotte
-175,zero_migration,male,"Region, subregion, country or area *",Mayotte

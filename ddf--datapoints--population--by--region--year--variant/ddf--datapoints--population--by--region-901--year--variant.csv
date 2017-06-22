@@ -151,7 +151,7 @@ region,variant,year,population
 901,high_variant,2024,1301389.607
 901,instant_replacement,2024,1306014.839
 901,low_variant,2024,1256960.256
-901,medium_variant,2024,1279181.0
+901,medium_variant,2024,1279181
 901,momentum,2024,1273582.03
 901,no_change,2024,1266475.069
 901,zero_migration,2024,1255783.41
@@ -217,7 +217,7 @@ region,variant,year,population
 901,medium_variant,2031,1291216.898
 901,momentum,2031,1268410.446
 901,no_change,2031,1261324.672
-901,zero_migration,2031,1246475.0
+901,zero_migration,2031,1246475
 901,constant_fertility,2032,1283213.418
 901,constant_mortality,2032,1268816.976
 901,high_variant,2032,1344193.398
@@ -405,7 +405,7 @@ region,variant,year,population
 901,low_variant,2052,1162492.302
 901,medium_variant,2052,1297586.699
 901,momentum,2052,1209368.875
-901,no_change,2052,1198066.0
+901,no_change,2052,1198066
 901,zero_migration,2052,1178794.889
 901,constant_fertility,2053,1267599.579
 901,constant_mortality,2053,1223499.217
@@ -421,7 +421,7 @@ region,variant,year,population
 901,high_variant,2054,1452993.79
 901,instant_replacement,2054,1409303.341
 901,low_variant,2054,1151220.905
-901,medium_variant,2054,1296902.0
+901,medium_variant,2054,1296902
 901,momentum,2054,1204863.432
 901,no_change,2054,1190041.256
 901,zero_migration,2054,1170611.588
@@ -839,13 +839,3 @@ region,variant,year,population
 901,momentum,2100,1163980.372
 901,no_change,2100,1014581.687
 901,zero_migration,2100,1012311.325
-901,constant_fertility,"Region, subregion, country or area *",More developed regions
-901,constant_mortality,"Region, subregion, country or area *",More developed regions
-901,estimates,"Region, subregion, country or area *",More developed regions
-901,high_variant,"Region, subregion, country or area *",More developed regions
-901,instant_replacement,"Region, subregion, country or area *",More developed regions
-901,low_variant,"Region, subregion, country or area *",More developed regions
-901,medium_variant,"Region, subregion, country or area *",More developed regions
-901,momentum,"Region, subregion, country or area *",More developed regions
-901,no_change,"Region, subregion, country or area *",More developed regions
-901,zero_migration,"Region, subregion, country or area *",More developed regions

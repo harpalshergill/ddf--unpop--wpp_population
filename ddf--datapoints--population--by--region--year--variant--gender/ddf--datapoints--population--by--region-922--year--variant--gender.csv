@@ -655,7 +655,7 @@ region,variant,gender,year,population
 922,zero_migration,male,2043,188832.937
 922,constant_fertility,female,2044,202543.328
 922,constant_fertility,male,2044,216546.302
-922,constant_mortality,female,2044,176673.0
+922,constant_mortality,female,2044,176673
 922,constant_mortality,male,2044,187678.343
 922,high_variant,female,2044,197114.967
 922,high_variant,male,2044,210756.188
@@ -840,7 +840,7 @@ region,variant,gender,year,population
 922,high_variant,female,2054,223620.262
 922,high_variant,male,2054,236893.972
 922,instant_replacement,female,2054,179938.148
-922,instant_replacement,male,2054,191063.0
+922,instant_replacement,male,2054,191063
 922,low_variant,female,2054,174615.978
 922,low_variant,male,2054,185543.059
 922,medium_variant,female,2054,198261.979
@@ -1628,7 +1628,7 @@ region,variant,gender,year,population
 922,constant_fertility,female,2098,516339.214
 922,constant_fertility,male,2098,537704.616
 922,constant_mortality,female,2098,201238.664
-922,constant_mortality,male,2098,202605.0
+922,constant_mortality,male,2098,202605
 922,high_variant,female,2098,339446.933
 922,high_variant,male,2098,351800.474
 922,instant_replacement,female,2098,202680.412
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 922,no_change,male,2100,479482.147
 922,zero_migration,female,2100,233625.714
 922,zero_migration,male,2100,235073.037
-922,constant_fertility,female,"Region, subregion, country or area *",Western Asia
-922,constant_fertility,male,"Region, subregion, country or area *",Western Asia
-922,constant_mortality,female,"Region, subregion, country or area *",Western Asia
-922,constant_mortality,male,"Region, subregion, country or area *",Western Asia
-922,estimates,female,"Region, subregion, country or area *",Western Asia
-922,estimates,male,"Region, subregion, country or area *",Western Asia
-922,high_variant,female,"Region, subregion, country or area *",Western Asia
-922,high_variant,male,"Region, subregion, country or area *",Western Asia
-922,instant_replacement,female,"Region, subregion, country or area *",Western Asia
-922,instant_replacement,male,"Region, subregion, country or area *",Western Asia
-922,low_variant,female,"Region, subregion, country or area *",Western Asia
-922,low_variant,male,"Region, subregion, country or area *",Western Asia
-922,medium_variant,female,"Region, subregion, country or area *",Western Asia
-922,medium_variant,male,"Region, subregion, country or area *",Western Asia
-922,momentum,female,"Region, subregion, country or area *",Western Asia
-922,momentum,male,"Region, subregion, country or area *",Western Asia
-922,no_change,female,"Region, subregion, country or area *",Western Asia
-922,no_change,male,"Region, subregion, country or area *",Western Asia
-922,zero_migration,female,"Region, subregion, country or area *",Western Asia
-922,zero_migration,male,"Region, subregion, country or area *",Western Asia

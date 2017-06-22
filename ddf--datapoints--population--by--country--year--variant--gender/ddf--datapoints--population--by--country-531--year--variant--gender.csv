@@ -452,7 +452,7 @@ country,variant,gender,year,population
 531,momentum,female,2032,87.625
 531,momentum,male,2032,75.39
 531,no_change,female,2032,92.074
-531,no_change,male,2032,80.0
+531,no_change,male,2032,80
 531,zero_migration,female,2032,88.073
 531,zero_migration,male,2032,75.899
 531,constant_fertility,female,2033,93.758
@@ -472,7 +472,7 @@ country,variant,gender,year,population
 531,no_change,female,2033,92.241
 531,no_change,male,2033,80.302
 531,zero_migration,female,2033,88.037
-531,zero_migration,male,2033,76.0
+531,zero_migration,male,2033,76
 531,constant_fertility,female,2034,94.035
 531,constant_fertility,male,2034,82.378
 531,constant_mortality,female,2034,91.549
@@ -573,7 +573,7 @@ country,variant,gender,year,population
 531,instant_replacement,male,2039,84.792
 531,low_variant,female,2039,88.941
 531,low_variant,male,2039,77.931
-531,medium_variant,female,2039,94.0
+531,medium_variant,female,2039,94
 531,medium_variant,male,2039,83.236
 531,momentum,female,2039,86.501
 531,momentum,male,2039,75.459
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 531,no_change,male,2100,92.158
 531,zero_migration,female,2100,75.32
 531,zero_migration,male,2100,75.356
-531,constant_fertility,female,"Region, subregion, country or area *",Curaçao
-531,constant_fertility,male,"Region, subregion, country or area *",Curaçao
-531,constant_mortality,female,"Region, subregion, country or area *",Curaçao
-531,constant_mortality,male,"Region, subregion, country or area *",Curaçao
-531,estimates,female,"Region, subregion, country or area *",Curaçao
-531,estimates,male,"Region, subregion, country or area *",Curaçao
-531,high_variant,female,"Region, subregion, country or area *",Curaçao
-531,high_variant,male,"Region, subregion, country or area *",Curaçao
-531,instant_replacement,female,"Region, subregion, country or area *",Curaçao
-531,instant_replacement,male,"Region, subregion, country or area *",Curaçao
-531,low_variant,female,"Region, subregion, country or area *",Curaçao
-531,low_variant,male,"Region, subregion, country or area *",Curaçao
-531,medium_variant,female,"Region, subregion, country or area *",Curaçao
-531,medium_variant,male,"Region, subregion, country or area *",Curaçao
-531,momentum,female,"Region, subregion, country or area *",Curaçao
-531,momentum,male,"Region, subregion, country or area *",Curaçao
-531,no_change,female,"Region, subregion, country or area *",Curaçao
-531,no_change,male,"Region, subregion, country or area *",Curaçao
-531,zero_migration,female,"Region, subregion, country or area *",Curaçao
-531,zero_migration,male,"Region, subregion, country or area *",Curaçao

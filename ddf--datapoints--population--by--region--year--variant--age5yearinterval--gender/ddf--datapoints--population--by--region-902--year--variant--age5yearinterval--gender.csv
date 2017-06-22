@@ -1,6 +1,4 @@
 region,year,variant,gender,age5yearinterval,population
-902,1950,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1950,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1950,estimates,female,0_4,125397.964
 902,1950,estimates,male,0_4,130065.887
 902,1950,estimates,female,5_9,98523.384
@@ -35,8 +33,6 @@ region,year,variant,gender,age5yearinterval,population
 902,1950,estimates,male,75_79,4692.417
 902,1950,estimates,female,80plus,3696.281
 902,1950,estimates,male,80plus,2494.761
-902,1955,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1955,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1955,estimates,female,0_4,155684.134
 902,1955,estimates,male,0_4,162298.665
 902,1955,estimates,female,5_9,114726.476
@@ -71,8 +67,6 @@ region,year,variant,gender,age5yearinterval,population
 902,1955,estimates,male,75_79,4669.851
 902,1955,estimates,female,80plus,3876.374
 902,1955,estimates,male,80plus,2526.469
-902,1960,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1960,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1960,estimates,female,0_4,168036.688
 902,1960,estimates,male,0_4,175101.329
 902,1960,estimates,female,5_9,144185.894
@@ -107,8 +101,6 @@ region,year,variant,gender,age5yearinterval,population
 902,1960,estimates,male,75_79,4761.104
 902,1960,estimates,female,80plus,3957.765
 902,1960,estimates,male,80plus,2540.728
-902,1965,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1965,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1965,estimates,female,0_4,191981.858
 902,1965,estimates,male,0_4,200607.195
 902,1965,estimates,female,5_9,156496.503
@@ -143,8 +135,6 @@ region,year,variant,gender,age5yearinterval,population
 902,1965,estimates,male,75_79,5505.702
 902,1965,estimates,female,80plus,4576.128
 902,1965,estimates,male,80plus,2840.441
-902,1970,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1970,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1970,estimates,female,0_4,216053.428
 902,1970,estimates,male,0_4,224642.32
 902,1970,estimates,female,5_9,181918.768
@@ -157,7 +147,7 @@ region,year,variant,gender,age5yearinterval,population
 902,1970,estimates,male,20_24,110553.146
 902,1970,estimates,female,25_29,88202.5990000001
 902,1970,estimates,male,25_29,92368.272
-902,1970,estimates,female,30_34,81156.0
+902,1970,estimates,female,30_34,81156
 902,1970,estimates,male,30_34,85532.6510000001
 902,1970,estimates,female,35_39,72694.979
 902,1970,estimates,male,35_39,76528.935
@@ -179,8 +169,6 @@ region,year,variant,gender,age5yearinterval,population
 902,1970,estimates,male,75_79,6538.399
 902,1970,estimates,female,80plus,5758.711
 902,1970,estimates,male,80plus,3623.371
-902,1975,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1975,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1975,estimates,female,0_4,225804.422
 902,1975,estimates,male,0_4,235970.904
 902,1975,estimates,female,5_9,206486.477
@@ -215,8 +203,6 @@ region,year,variant,gender,age5yearinterval,population
 902,1975,estimates,male,75_79,8076.702
 902,1975,estimates,female,80plus,6953.631
 902,1975,estimates,male,80plus,4519.368
-902,1980,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1980,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1980,estimates,female,0_4,229874.918
 902,1980,estimates,male,0_4,240134.814
 902,1980,estimates,female,5_9,217127.688
@@ -225,7 +211,7 @@ region,year,variant,gender,age5yearinterval,population
 902,1980,estimates,male,10_14,211873.003
 902,1980,estimates,female,15_19,176728.996
 902,1980,estimates,male,15_19,184326.428
-902,1980,estimates,female,20_24,148832.0
+902,1980,estimates,female,20_24,148832
 902,1980,estimates,male,20_24,155056.937
 902,1980,estimates,female,25_29,132939.949
 902,1980,estimates,male,25_29,138684.352
@@ -251,8 +237,6 @@ region,year,variant,gender,age5yearinterval,population
 902,1980,estimates,male,75_79,9874.89900000001
 902,1980,estimates,female,80plus,8745.518
 902,1980,estimates,male,80plus,5690.14
-902,1985,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1985,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1985,estimates,female,0_4,251361.916
 902,1985,estimates,male,0_4,263159.28
 902,1985,estimates,female,5_9,222123.4
@@ -287,8 +271,6 @@ region,year,variant,gender,age5yearinterval,population
 902,1985,estimates,male,75_79,11876.482
 902,1985,estimates,female,80plus,11066.14
 902,1985,estimates,male,80plus,7165.023
-902,1990,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1990,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1990,estimates,female,0_4,276340.059
 902,1990,estimates,male,0_4,290906.357
 902,1990,estimates,female,5_9,243800.963
@@ -331,12 +313,10 @@ region,year,variant,gender,age5yearinterval,population
 902,1990,estimates,male,95_99,60.857
 902,1990,estimates,female,100plus,19.358
 902,1990,estimates,male,100plus,6.338
-902,1995,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,1995,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,1995,estimates,female,0_4,267371.81
 902,1995,estimates,male,0_4,284381.192
 902,1995,estimates,female,5_9,269303.617
-902,1995,estimates,male,5_9,283615.0
+902,1995,estimates,male,5_9,283615
 902,1995,estimates,female,10_14,241587.107
 902,1995,estimates,male,10_14,253152.078
 902,1995,estimates,female,15_19,217349.625
@@ -375,8 +355,6 @@ region,year,variant,gender,age5yearinterval,population
 902,1995,estimates,male,95_99,86.6109999999999
 902,1995,estimates,female,100plus,26.522
 902,1995,estimates,male,100plus,8.619
-902,2000,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,2000,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,2000,estimates,female,0_4,262912.48
 902,2000,estimates,male,0_4,280615.506
 902,2000,estimates,female,5_9,261276.898
@@ -419,8 +397,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2000,estimates,male,95_99,125.567
 902,2000,estimates,female,100plus,40.286
 902,2000,estimates,male,100plus,12.971
-902,2005,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,2005,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,2005,estimates,female,0_4,269126.172
 902,2005,estimates,male,0_4,288694.777
 902,2005,estimates,female,5_9,257958.279
@@ -463,8 +439,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2005,estimates,male,95_99,181.927
 902,2005,estimates,female,100plus,61.939
 902,2005,estimates,male,100plus,20.328
-902,2010,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,2010,estimates,male,"Region, subregion, country or area *",Less developed regions
 902,2010,estimates,female,0_4,280796.815
 902,2010,estimates,male,0_4,301442.52
 902,2010,estimates,female,5_9,264733.103
@@ -507,26 +481,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2010,estimates,male,95_99,271.714
 902,2010,estimates,female,100plus,90.135
 902,2010,estimates,male,100plus,30.78
-902,2015,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2015,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2015,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2015,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2015,estimates,female,"Region, subregion, country or area *",Less developed regions
-902,2015,estimates,male,"Region, subregion, country or area *",Less developed regions
-902,2015,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2015,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2015,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2015,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2015,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2015,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2015,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2015,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2015,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2015,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2015,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2015,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2015,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2015,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2015,constant_fertility,female,0_4,291758.906
 902,2015,constant_fertility,male,0_4,312770.252
 902,2015,constant_mortality,female,0_4,291758.906
@@ -947,24 +901,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2015,no_change,male,100plus,49.521
 902,2015,zero_migration,female,100plus,140.741
 902,2015,zero_migration,male,100plus,49.521
-902,2020,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2020,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2020,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2020,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2020,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2020,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2020,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2020,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2020,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2020,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2020,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2020,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2020,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2020,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2020,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2020,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2020,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2020,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2020,constant_fertility,female,0_4,311293.471
 902,2020,constant_fertility,male,0_4,332895.06
 902,2020,constant_mortality,female,0_4,293130.156
@@ -999,7 +935,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2020,momentum,male,5_9,308664.45
 902,2020,no_change,female,5_9,287736.991
 902,2020,no_change,male,5_9,308336.766
-902,2020,zero_migration,female,5_9,288670.0
+902,2020,zero_migration,female,5_9,288670
 902,2020,zero_migration,male,5_9,309274.622
 902,2020,constant_fertility,female,10_14,275509.659
 902,2020,constant_fertility,male,10_14,295493.598
@@ -1343,24 +1279,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2020,no_change,male,100plus,74.541
 902,2020,zero_migration,female,100plus,209.21
 902,2020,zero_migration,male,100plus,76.663
-902,2025,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2025,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2025,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2025,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2025,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2025,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2025,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2025,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2025,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2025,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2025,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2025,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2025,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2025,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2025,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2025,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2025,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2025,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2025,constant_fertility,female,0_4,328674.785
 902,2025,constant_fertility,male,0_4,350482.13
 902,2025,constant_mortality,female,0_4,291778.659
@@ -1739,24 +1657,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2025,no_change,male,100plus,105.377
 902,2025,zero_migration,female,100plus,304.786
 902,2025,zero_migration,male,100plus,112.617
-902,2030,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2030,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2030,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2030,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2030,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2030,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2030,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2030,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2030,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2030,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2030,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2030,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2030,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2030,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2030,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2030,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2030,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2030,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2030,constant_fertility,female,0_4,348679.885
 902,2030,constant_fertility,male,0_4,370958.027
 902,2030,constant_mortality,female,0_4,290979.07
@@ -2135,24 +2035,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2030,no_change,male,100plus,140.455
 902,2030,zero_migration,female,100plus,431.802
 902,2030,zero_migration,male,100plus,158.567
-902,2035,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2035,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2035,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2035,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2035,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2035,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2035,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2035,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2035,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2035,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2035,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2035,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2035,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2035,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2035,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2035,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2035,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2035,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2035,constant_fertility,female,0_4,373312.911
 902,2035,constant_fertility,male,0_4,396462.291
 902,2035,constant_mortality,female,0_4,291205.066
@@ -2531,24 +2413,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2035,no_change,male,100plus,171.514
 902,2035,zero_migration,female,100plus,586.395
 902,2035,zero_migration,male,100plus,207.434
-902,2040,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2040,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2040,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2040,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2040,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2040,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2040,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2040,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2040,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2040,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2040,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2040,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2040,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2040,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2040,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2040,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2040,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2040,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2040,constant_fertility,female,0_4,404250.941
 902,2040,constant_fertility,male,0_4,428610.637
 902,2040,constant_mortality,female,0_4,291637.243
@@ -2840,7 +2704,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2040,constant_fertility,female,80_84,62250.812
 902,2040,constant_fertility,male,80_84,47607.119
 902,2040,constant_mortality,female,80_84,52403.837
-902,2040,constant_mortality,male,80_84,39303.0
+902,2040,constant_mortality,male,80_84,39303
 902,2040,high_variant,female,80_84,62250.812
 902,2040,high_variant,male,80_84,47607.119
 902,2040,instant_replacement,female,80_84,62250.098
@@ -2927,24 +2791,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2040,no_change,male,100plus,198.944
 902,2040,zero_migration,female,100plus,758.774
 902,2040,zero_migration,male,100plus,262.253
-902,2045,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2045,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2045,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2045,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2045,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2045,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2045,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2045,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2045,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2045,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2045,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2045,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2045,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2045,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2045,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2045,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2045,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2045,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2045,constant_fertility,female,0_4,442078.848
 902,2045,constant_fertility,male,0_4,467827.47
 902,2045,constant_mortality,female,0_4,291088.52
@@ -3048,7 +2894,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2045,medium_variant,female,25_29,285150.979
 902,2045,medium_variant,male,25_29,303201.335
 902,2045,momentum,female,25_29,246595.366
-902,2045,momentum,male,25_29,264666.0
+902,2045,momentum,male,25_29,264666
 902,2045,no_change,female,25_29,292699.014
 902,2045,no_change,male,25_29,311684.863
 902,2045,zero_migration,female,25_29,288805.257
@@ -3323,24 +3169,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2045,no_change,male,100plus,222.065
 902,2045,zero_migration,female,100plus,964.688
 902,2045,zero_migration,male,100plus,324.472
-902,2050,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2050,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2050,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2050,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2050,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2050,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2050,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2050,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2050,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2050,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2050,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2050,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2050,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2050,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2050,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2050,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2050,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2050,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2050,constant_fertility,female,0_4,486221.042
 902,2050,constant_fertility,male,0_4,513496.478
 902,2050,constant_mortality,female,0_4,288279.605
@@ -3719,24 +3547,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2050,no_change,male,100plus,265.199
 902,2050,zero_migration,female,100plus,1344.768
 902,2050,zero_migration,male,100plus,441.743
-902,2055,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2055,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2055,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2055,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2055,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2055,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2055,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2055,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2055,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2055,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2055,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2055,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2055,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2055,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2055,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2055,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2055,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2055,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2055,constant_fertility,female,0_4,537489.845
 902,2055,constant_fertility,male,0_4,566676.794
 902,2055,constant_mortality,female,0_4,283390.483
@@ -4115,24 +3925,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2055,no_change,male,100plus,340.791
 902,2055,zero_migration,female,100plus,1995.383
 902,2055,zero_migration,male,100plus,660.838999999999
-902,2060,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2060,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2060,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2060,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2060,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2060,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2060,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2060,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2060,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2060,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2060,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2060,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2060,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2060,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2060,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2060,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2060,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2060,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2060,constant_fertility,female,0_4,597803.518
 902,2060,constant_fertility,male,0_4,629313.4
 902,2060,constant_mortality,female,0_4,277591.049
@@ -4511,24 +4303,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2060,no_change,male,100plus,392.301
 902,2060,zero_migration,female,100plus,2671.768
 902,2060,zero_migration,male,100plus,886.332999999999
-902,2065,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2065,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2065,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2065,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2065,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2065,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2065,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2065,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2065,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2065,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2065,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2065,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2065,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2065,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2065,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2065,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2065,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2065,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2065,constant_fertility,female,0_4,669541.912
 902,2065,constant_fertility,male,0_4,703909.468
 902,2065,constant_mortality,female,0_4,272090.716
@@ -4620,7 +4394,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2065,zero_migration,female,20_24,308198.368
 902,2065,zero_migration,male,20_24,322829.243
 902,2065,constant_fertility,female,25_29,394574.916
-902,2065,constant_fertility,male,25_29,415337.0
+902,2065,constant_fertility,male,25_29,415337
 902,2065,constant_mortality,female,25_29,274689.674
 902,2065,constant_mortality,male,25_29,288047.392
 902,2065,high_variant,female,25_29,367323.571
@@ -4770,7 +4544,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2065,high_variant,female,65_69,210513.699
 902,2065,high_variant,male,65_69,205884.799
 902,2065,instant_replacement,female,65_69,210487.637
-902,2065,instant_replacement,male,65_69,205861.0
+902,2065,instant_replacement,male,65_69,205861
 902,2065,low_variant,female,65_69,210513.698
 902,2065,low_variant,male,65_69,205884.799
 902,2065,medium_variant,female,65_69,210513.699
@@ -4907,24 +4681,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2065,no_change,male,100plus,462.218
 902,2065,zero_migration,female,100plus,3648.215
 902,2065,zero_migration,male,100plus,1250.531
-902,2070,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2070,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2070,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2070,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2070,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2070,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2070,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2070,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2070,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2070,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2070,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2070,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2070,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2070,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2070,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2070,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2070,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2070,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2070,constant_fertility,female,0_4,755072.115
 902,2070,constant_fertility,male,0_4,792859.626
 902,2070,constant_mortality,female,0_4,266766.445
@@ -5057,7 +4813,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2070,constant_mortality,male,35_39,277534.12
 902,2070,high_variant,female,35_39,350782.61
 902,2070,high_variant,male,35_39,367221.959
-902,2070,instant_replacement,female,35_39,255799.0
+902,2070,instant_replacement,female,35_39,255799
 902,2070,instant_replacement,male,35_39,269997.364
 902,2070,low_variant,female,35_39,227691.582
 902,2070,low_variant,male,35_39,237646.167
@@ -5081,7 +4837,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2070,low_variant,male,40_44,234268.795
 902,2070,medium_variant,female,40_44,283230.249
 902,2070,medium_variant,male,40_44,295791.532
-902,2070,momentum,female,40_44,247092.0
+902,2070,momentum,female,40_44,247092
 902,2070,momentum,male,40_44,258668.763
 902,2070,no_change,female,40_44,304415.01
 902,2070,no_change,male,40_44,317661.85
@@ -5303,24 +5059,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2070,no_change,male,100plus,523.356
 902,2070,zero_migration,female,100plus,4800.671
 902,2070,zero_migration,male,100plus,1708.125
-902,2075,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2075,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2075,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2075,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2075,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2075,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2075,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2075,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2075,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2075,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2075,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2075,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2075,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2075,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2075,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2075,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2075,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2075,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2075,constant_fertility,female,0_4,856566.143
 902,2075,constant_fertility,male,0_4,898416.754
 902,2075,constant_mortality,female,0_4,261118.521
@@ -5699,24 +5437,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2075,no_change,male,100plus,559.224
 902,2075,zero_migration,female,100plus,5813.336
 902,2075,zero_migration,male,100plus,2141.49
-902,2080,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2080,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2080,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2080,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2080,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2080,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2080,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2080,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2080,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2080,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2080,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2080,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2080,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2080,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2080,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2080,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2080,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2080,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2080,constant_fertility,female,0_4,976737.822
 902,2080,constant_fertility,male,0_4,1023413.741
 902,2080,constant_mortality,female,0_4,254686.818
@@ -5824,7 +5544,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2080,no_change,female,25_29,455830.616
 902,2080,no_change,male,25_29,476658.938
 902,2080,zero_migration,female,25_29,310018.173
-902,2080,zero_migration,male,25_29,323374.0
+902,2080,zero_migration,male,25_29,323374
 902,2080,constant_fertility,female,30_34,474615.722
 902,2080,constant_fertility,male,30_34,496423.418
 902,2080,constant_mortality,female,30_34,267214.463
@@ -5973,7 +5693,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2080,constant_fertility,male,70_74,205282.597
 902,2080,constant_mortality,female,70_74,168978.788
 902,2080,constant_mortality,male,70_74,154141.363
-902,2080,high_variant,female,70_74,214951.0
+902,2080,high_variant,female,70_74,214951
 902,2080,high_variant,male,70_74,205282.578
 902,2080,instant_replacement,female,70_74,214905.074
 902,2080,instant_replacement,male,70_74,205241.876
@@ -6095,24 +5815,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2080,no_change,male,100plus,576.821
 902,2080,zero_migration,female,100plus,6744.874
 902,2080,zero_migration,male,100plus,2509.311
-902,2085,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2085,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2085,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2085,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2085,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2085,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2085,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2085,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2085,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2085,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2085,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2085,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2085,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2085,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2085,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2085,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2085,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2085,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2085,constant_fertility,female,0_4,1119119.902
 902,2085,constant_fertility,male,0_4,1171412.492
 902,2085,constant_mortality,female,0_4,247508.327
@@ -6491,24 +6193,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2085,no_change,male,100plus,620.49
 902,2085,zero_migration,female,100plus,8198.931
 902,2085,zero_migration,male,100plus,3142.219
-902,2090,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2090,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2090,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2090,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2090,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2090,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2090,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2090,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2090,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2090,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2090,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2090,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2090,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2090,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2090,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2090,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2090,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2090,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2090,constant_fertility,female,0_4,1288155.069
 902,2090,constant_fertility,male,0_4,1347215.873
 902,2090,constant_mortality,female,0_4,239891.189
@@ -6887,24 +6571,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2090,no_change,male,100plus,674.892
 902,2090,zero_migration,female,100plus,10089.867
 902,2090,zero_migration,male,100plus,4072.023
-902,2095,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2095,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2095,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2095,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2095,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2095,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2095,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2095,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2095,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2095,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2095,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2095,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2095,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2095,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2095,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2095,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2095,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2095,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2095,constant_fertility,female,0_4,1489285.873
 902,2095,constant_fertility,male,0_4,1556466.007
 902,2095,constant_mortality,female,0_4,232294.309
@@ -7283,24 +6949,6 @@ region,year,variant,gender,age5yearinterval,population
 902,2095,no_change,male,100plus,674.697
 902,2095,zero_migration,female,100plus,11154.139
 902,2095,zero_migration,male,100plus,4528.842
-902,2100,constant_fertility,female,"Region, subregion, country or area *",Less developed regions
-902,2100,constant_fertility,male,"Region, subregion, country or area *",Less developed regions
-902,2100,constant_mortality,female,"Region, subregion, country or area *",Less developed regions
-902,2100,constant_mortality,male,"Region, subregion, country or area *",Less developed regions
-902,2100,high_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2100,high_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2100,instant_replacement,female,"Region, subregion, country or area *",Less developed regions
-902,2100,instant_replacement,male,"Region, subregion, country or area *",Less developed regions
-902,2100,low_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2100,low_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2100,medium_variant,female,"Region, subregion, country or area *",Less developed regions
-902,2100,medium_variant,male,"Region, subregion, country or area *",Less developed regions
-902,2100,momentum,female,"Region, subregion, country or area *",Less developed regions
-902,2100,momentum,male,"Region, subregion, country or area *",Less developed regions
-902,2100,no_change,female,"Region, subregion, country or area *",Less developed regions
-902,2100,no_change,male,"Region, subregion, country or area *",Less developed regions
-902,2100,zero_migration,female,"Region, subregion, country or area *",Less developed regions
-902,2100,zero_migration,male,"Region, subregion, country or area *",Less developed regions
 902,2100,constant_fertility,female,0_4,1728856.091
 902,2100,constant_fertility,male,0_4,1805750.782
 902,2100,constant_mortality,female,0_4,224939.262
@@ -7322,7 +6970,7 @@ region,year,variant,gender,age5yearinterval,population
 902,2100,constant_fertility,female,5_9,1485506.226
 902,2100,constant_fertility,male,5_9,1551550.446
 902,2100,constant_mortality,female,5_9,228283.192
-902,2100,constant_mortality,male,5_9,238529.0
+902,2100,constant_mortality,male,5_9,238529
 902,2100,high_variant,female,5_9,539082.47
 902,2100,high_variant,male,5_9,566231.676
 902,2100,instant_replacement,female,5_9,255640.575

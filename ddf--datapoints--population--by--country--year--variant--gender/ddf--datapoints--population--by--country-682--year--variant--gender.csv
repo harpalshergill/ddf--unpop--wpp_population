@@ -231,7 +231,7 @@ country,variant,gender,year,population
 682,instant_replacement,male,2020,19693.508
 682,low_variant,female,2020,14607.873
 682,low_variant,male,2020,19787.118
-682,medium_variant,female,2020,14763.0
+682,medium_variant,female,2020,14763
 682,medium_variant,male,2020,19946.643
 682,momentum,female,2020,14700.235
 682,momentum,male,2020,18821.503
@@ -837,7 +837,7 @@ country,variant,gender,year,population
 682,constant_fertility,male,2054,28900.293
 682,constant_mortality,female,2054,19933.989
 682,constant_mortality,male,2054,23561.265
-682,high_variant,female,2054,23514.0
+682,high_variant,female,2054,23514
 682,high_variant,male,2054,27568.956
 682,instant_replacement,female,2054,20791.23
 682,instant_replacement,male,2054,24775.4
@@ -1310,7 +1310,7 @@ country,variant,gender,year,population
 682,instant_replacement,female,2080,22670.258
 682,instant_replacement,male,2080,25470.691
 682,low_variant,female,2080,16278.447
-682,low_variant,male,2080,18898.0
+682,low_variant,male,2080,18898
 682,medium_variant,female,2080,21468.336
 682,medium_variant,male,2080,24230.31
 682,momentum,female,2080,19811.017
@@ -1358,7 +1358,7 @@ country,variant,gender,year,population
 682,constant_fertility,female,2083,33369.287
 682,constant_fertility,male,2083,36366.723
 682,constant_mortality,female,2083,19210.708
-682,constant_mortality,male,2083,21084.0
+682,constant_mortality,male,2083,21084
 682,high_variant,female,2083,28225.056
 682,high_variant,male,2083,31074.5
 682,instant_replacement,female,2083,22825.199
@@ -1619,7 +1619,7 @@ country,variant,gender,year,population
 682,low_variant,male,2097,15982.633
 682,medium_variant,female,2097,21121.083
 682,medium_variant,male,2097,23257.02
-682,momentum,female,2097,19774.0
+682,momentum,female,2097,19774
 682,momentum,male,2097,19575.372
 682,no_change,female,2097,34927.027
 682,no_change,male,2097,36454.933
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 682,no_change,male,2100,37282.669
 682,zero_migration,female,2100,19567.136
 682,zero_migration,male,2100,19687.767
-682,constant_fertility,female,"Region, subregion, country or area *",Saudi Arabia
-682,constant_fertility,male,"Region, subregion, country or area *",Saudi Arabia
-682,constant_mortality,female,"Region, subregion, country or area *",Saudi Arabia
-682,constant_mortality,male,"Region, subregion, country or area *",Saudi Arabia
-682,estimates,female,"Region, subregion, country or area *",Saudi Arabia
-682,estimates,male,"Region, subregion, country or area *",Saudi Arabia
-682,high_variant,female,"Region, subregion, country or area *",Saudi Arabia
-682,high_variant,male,"Region, subregion, country or area *",Saudi Arabia
-682,instant_replacement,female,"Region, subregion, country or area *",Saudi Arabia
-682,instant_replacement,male,"Region, subregion, country or area *",Saudi Arabia
-682,low_variant,female,"Region, subregion, country or area *",Saudi Arabia
-682,low_variant,male,"Region, subregion, country or area *",Saudi Arabia
-682,medium_variant,female,"Region, subregion, country or area *",Saudi Arabia
-682,medium_variant,male,"Region, subregion, country or area *",Saudi Arabia
-682,momentum,female,"Region, subregion, country or area *",Saudi Arabia
-682,momentum,male,"Region, subregion, country or area *",Saudi Arabia
-682,no_change,female,"Region, subregion, country or area *",Saudi Arabia
-682,no_change,male,"Region, subregion, country or area *",Saudi Arabia
-682,zero_migration,female,"Region, subregion, country or area *",Saudi Arabia
-682,zero_migration,male,"Region, subregion, country or area *",Saudi Arabia

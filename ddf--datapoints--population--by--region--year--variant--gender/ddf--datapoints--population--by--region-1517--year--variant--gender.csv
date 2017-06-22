@@ -169,7 +169,7 @@ region,variant,gender,year,population
 1517,zero_migration,male,2016,2848761.402
 1517,constant_fertility,female,2017,2804414.923
 1517,constant_fertility,male,2017,2881035.922
-1517,constant_mortality,female,2017,2799152.0
+1517,constant_mortality,female,2017,2799152
 1517,constant_mortality,male,2017,2875385.181
 1517,high_variant,female,2017,2808999.115
 1517,high_variant,male,2017,2885919.051
@@ -427,7 +427,7 @@ region,variant,gender,year,population
 1517,high_variant,male,2031,3378610.39
 1517,instant_replacement,female,2031,3135772.833
 1517,instant_replacement,male,2031,3209161.734
-1517,low_variant,female,2031,3038381.0
+1517,low_variant,female,2031,3038381
 1517,low_variant,male,2031,3099335.049
 1517,medium_variant,female,2031,3167895.21
 1517,medium_variant,male,2031,3239010.026
@@ -1523,7 +1523,7 @@ region,variant,gender,year,population
 1517,constant_mortality,male,2092,2991573.701
 1517,high_variant,female,2092,5224553.662
 1517,high_variant,male,2092,5338869.242
-1517,instant_replacement,female,2092,3705003.0
+1517,instant_replacement,female,2092,3705003
 1517,instant_replacement,male,2092,3771538.664
 1517,low_variant,female,2092,2521043.987
 1517,low_variant,male,2092,2499959.415
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 1517,no_change,male,2100,5682917.145
 1517,zero_migration,female,2100,3783325.716
 1517,zero_migration,male,2100,3819757.884
-1517,constant_fertility,female,"Region, subregion, country or area *",Middle-income countries
-1517,constant_fertility,male,"Region, subregion, country or area *",Middle-income countries
-1517,constant_mortality,female,"Region, subregion, country or area *",Middle-income countries
-1517,constant_mortality,male,"Region, subregion, country or area *",Middle-income countries
-1517,estimates,female,"Region, subregion, country or area *",Middle-income countries
-1517,estimates,male,"Region, subregion, country or area *",Middle-income countries
-1517,high_variant,female,"Region, subregion, country or area *",Middle-income countries
-1517,high_variant,male,"Region, subregion, country or area *",Middle-income countries
-1517,instant_replacement,female,"Region, subregion, country or area *",Middle-income countries
-1517,instant_replacement,male,"Region, subregion, country or area *",Middle-income countries
-1517,low_variant,female,"Region, subregion, country or area *",Middle-income countries
-1517,low_variant,male,"Region, subregion, country or area *",Middle-income countries
-1517,medium_variant,female,"Region, subregion, country or area *",Middle-income countries
-1517,medium_variant,male,"Region, subregion, country or area *",Middle-income countries
-1517,momentum,female,"Region, subregion, country or area *",Middle-income countries
-1517,momentum,male,"Region, subregion, country or area *",Middle-income countries
-1517,no_change,female,"Region, subregion, country or area *",Middle-income countries
-1517,no_change,male,"Region, subregion, country or area *",Middle-income countries
-1517,zero_migration,female,"Region, subregion, country or area *",Middle-income countries
-1517,zero_migration,male,"Region, subregion, country or area *",Middle-income countries

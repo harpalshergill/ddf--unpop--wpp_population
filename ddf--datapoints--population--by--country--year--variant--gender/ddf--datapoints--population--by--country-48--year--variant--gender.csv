@@ -692,7 +692,7 @@ country,variant,gender,year,population
 48,constant_fertility,female,2046,933.326
 48,constant_fertility,male,2046,1482.126
 48,constant_mortality,female,2046,849.345
-48,constant_mortality,male,2046,1386.0
+48,constant_mortality,male,2046,1386
 48,high_variant,female,2046,957.473
 48,high_variant,male,2046,1509.002
 48,instant_replacement,female,2046,920.49
@@ -830,7 +830,7 @@ country,variant,gender,year,population
 48,momentum,female,2053,719.172
 48,momentum,male,2053,914.041
 48,no_change,female,2053,967.963
-48,no_change,male,2053,1494.0
+48,no_change,male,2053,1494
 48,zero_migration,female,2053,695.71
 48,zero_migration,male,2053,916.454
 48,constant_fertility,female,2054,1006.64
@@ -1362,7 +1362,7 @@ country,variant,gender,year,population
 48,high_variant,female,2083,1285.096
 48,high_variant,male,2083,1780.278
 48,instant_replacement,female,2083,1167.309
-48,instant_replacement,male,2083,1658.0
+48,instant_replacement,male,2083,1658
 48,low_variant,female,2083,708.316
 48,low_variant,male,2083,1181.432
 48,medium_variant,female,2083,963.28
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 48,no_change,male,2100,1458.941
 48,zero_migration,female,2100,596.616
 48,zero_migration,male,2100,610.257
-48,constant_fertility,female,"Region, subregion, country or area *",Bahrain
-48,constant_fertility,male,"Region, subregion, country or area *",Bahrain
-48,constant_mortality,female,"Region, subregion, country or area *",Bahrain
-48,constant_mortality,male,"Region, subregion, country or area *",Bahrain
-48,estimates,female,"Region, subregion, country or area *",Bahrain
-48,estimates,male,"Region, subregion, country or area *",Bahrain
-48,high_variant,female,"Region, subregion, country or area *",Bahrain
-48,high_variant,male,"Region, subregion, country or area *",Bahrain
-48,instant_replacement,female,"Region, subregion, country or area *",Bahrain
-48,instant_replacement,male,"Region, subregion, country or area *",Bahrain
-48,low_variant,female,"Region, subregion, country or area *",Bahrain
-48,low_variant,male,"Region, subregion, country or area *",Bahrain
-48,medium_variant,female,"Region, subregion, country or area *",Bahrain
-48,medium_variant,male,"Region, subregion, country or area *",Bahrain
-48,momentum,female,"Region, subregion, country or area *",Bahrain
-48,momentum,male,"Region, subregion, country or area *",Bahrain
-48,no_change,female,"Region, subregion, country or area *",Bahrain
-48,no_change,male,"Region, subregion, country or area *",Bahrain
-48,zero_migration,female,"Region, subregion, country or area *",Bahrain
-48,zero_migration,male,"Region, subregion, country or area *",Bahrain

@@ -622,7 +622,7 @@ country,variant,gender,year,population
 516,constant_mortality,female,2042,1868.677
 516,constant_mortality,male,2042,1795.766
 516,high_variant,female,2042,2146.18
-516,high_variant,male,2042,2090.0
+516,high_variant,male,2042,2090
 516,instant_replacement,female,2042,1710.562
 516,instant_replacement,male,2042,1647.367
 516,low_variant,female,2042,1822.802
@@ -732,7 +732,7 @@ country,variant,gender,year,population
 516,high_variant,female,2048,2376.133
 516,high_variant,male,2048,2325.189
 516,instant_replacement,female,2048,1803.741
-516,instant_replacement,male,2048,1743.0
+516,instant_replacement,male,2048,1743
 516,low_variant,female,2048,1923.061
 516,low_variant,male,2048,1863.714
 516,medium_variant,female,2048,2144.343
@@ -938,7 +938,7 @@ country,variant,gender,year,population
 516,momentum,female,2059,1768.289
 516,momentum,male,2059,1680.738
 516,no_change,female,2059,2870.313
-516,no_change,male,2059,2788.0
+516,no_change,male,2059,2788
 516,zero_migration,female,2059,2420.796
 516,zero_migration,male,2059,2368.069
 516,constant_fertility,female,2060,3276.437
@@ -1419,7 +1419,7 @@ country,variant,gender,year,population
 516,instant_replacement,male,2086,2098.627
 516,low_variant,female,2086,2077.903
 516,low_variant,male,2086,1992.945
-516,medium_variant,female,2086,2862.0
+516,medium_variant,female,2086,2862
 516,medium_variant,male,2086,2793.319
 516,momentum,female,2086,1822.798
 516,momentum,male,2086,1723.453
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 516,no_change,male,2100,5660.544
 516,zero_migration,female,2100,2959.476
 516,zero_migration,male,2100,2881.196
-516,constant_fertility,female,"Region, subregion, country or area *",Namibia
-516,constant_fertility,male,"Region, subregion, country or area *",Namibia
-516,constant_mortality,female,"Region, subregion, country or area *",Namibia
-516,constant_mortality,male,"Region, subregion, country or area *",Namibia
-516,estimates,female,"Region, subregion, country or area *",Namibia
-516,estimates,male,"Region, subregion, country or area *",Namibia
-516,high_variant,female,"Region, subregion, country or area *",Namibia
-516,high_variant,male,"Region, subregion, country or area *",Namibia
-516,instant_replacement,female,"Region, subregion, country or area *",Namibia
-516,instant_replacement,male,"Region, subregion, country or area *",Namibia
-516,low_variant,female,"Region, subregion, country or area *",Namibia
-516,low_variant,male,"Region, subregion, country or area *",Namibia
-516,medium_variant,female,"Region, subregion, country or area *",Namibia
-516,medium_variant,male,"Region, subregion, country or area *",Namibia
-516,momentum,female,"Region, subregion, country or area *",Namibia
-516,momentum,male,"Region, subregion, country or area *",Namibia
-516,no_change,female,"Region, subregion, country or area *",Namibia
-516,no_change,male,"Region, subregion, country or area *",Namibia
-516,zero_migration,female,"Region, subregion, country or area *",Namibia
-516,zero_migration,male,"Region, subregion, country or area *",Namibia

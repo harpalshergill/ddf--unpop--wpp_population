@@ -924,7 +924,7 @@ country,variant,gender,year,population
 800,zero_migration,female,2058,63526.211
 800,zero_migration,male,2058,63229.241
 800,constant_fertility,female,2059,101555.525
-800,constant_fertility,male,2059,101925.0
+800,constant_fertility,male,2059,101925
 800,constant_mortality,female,2059,56107.066
 800,constant_mortality,male,2059,55261.291
 800,high_variant,female,2059,72373.733
@@ -1151,7 +1151,7 @@ country,variant,gender,year,population
 800,low_variant,male,2071,63756.873
 800,medium_variant,female,2071,77818.21
 800,medium_variant,male,2071,77509.416
-800,momentum,female,2071,34513.0
+800,momentum,female,2071,34513
 800,momentum,male,2071,33172.556
 800,no_change,female,2071,133275.726
 800,no_change,male,2071,132707.253
@@ -1469,7 +1469,7 @@ country,variant,gender,year,population
 800,constant_mortality,male,2089,71312.212
 800,high_variant,female,2089,127112.336
 800,high_variant,male,2089,127329.267
-800,instant_replacement,female,2089,39010.0
+800,instant_replacement,female,2089,39010
 800,instant_replacement,male,2089,38244.218
 800,low_variant,female,2089,73163.455
 800,low_variant,male,2089,72493.908
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 800,no_change,male,2100,348961.895
 800,zero_migration,female,2100,109588.928
 800,zero_migration,male,2100,109245.808
-800,constant_fertility,female,"Region, subregion, country or area *",Uganda
-800,constant_fertility,male,"Region, subregion, country or area *",Uganda
-800,constant_mortality,female,"Region, subregion, country or area *",Uganda
-800,constant_mortality,male,"Region, subregion, country or area *",Uganda
-800,estimates,female,"Region, subregion, country or area *",Uganda
-800,estimates,male,"Region, subregion, country or area *",Uganda
-800,high_variant,female,"Region, subregion, country or area *",Uganda
-800,high_variant,male,"Region, subregion, country or area *",Uganda
-800,instant_replacement,female,"Region, subregion, country or area *",Uganda
-800,instant_replacement,male,"Region, subregion, country or area *",Uganda
-800,low_variant,female,"Region, subregion, country or area *",Uganda
-800,low_variant,male,"Region, subregion, country or area *",Uganda
-800,medium_variant,female,"Region, subregion, country or area *",Uganda
-800,medium_variant,male,"Region, subregion, country or area *",Uganda
-800,momentum,female,"Region, subregion, country or area *",Uganda
-800,momentum,male,"Region, subregion, country or area *",Uganda
-800,no_change,female,"Region, subregion, country or area *",Uganda
-800,no_change,male,"Region, subregion, country or area *",Uganda
-800,zero_migration,female,"Region, subregion, country or area *",Uganda
-800,zero_migration,male,"Region, subregion, country or area *",Uganda

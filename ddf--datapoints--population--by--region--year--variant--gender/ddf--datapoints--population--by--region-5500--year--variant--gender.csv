@@ -190,7 +190,7 @@ region,variant,gender,year,population
 5500,constant_mortality,female,2018,36291.462
 5500,constant_mortality,male,2018,35520.684
 5500,high_variant,female,2018,36502.436
-5500,high_variant,male,2018,35740.0
+5500,high_variant,male,2018,35740
 5500,instant_replacement,female,2018,35990.363
 5500,instant_replacement,male,2018,35199.898
 5500,low_variant,female,2018,36135.727
@@ -375,7 +375,7 @@ region,variant,gender,year,population
 5500,instant_replacement,male,2028,38573.637
 5500,low_variant,female,2028,39415.21
 5500,low_variant,male,2028,38375.47
-5500,medium_variant,female,2028,40744.0
+5500,medium_variant,female,2028,40744
 5500,medium_variant,male,2028,39785.842
 5500,momentum,female,2028,39761.792
 5500,momentum,male,2028,38849.797
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 5500,no_change,male,2100,79645.562
 5500,zero_migration,female,2100,53166.785
 5500,zero_migration,male,2100,52788.665
-5500,constant_fertility,female,"Region, subregion, country or area *",Central Asia
-5500,constant_fertility,male,"Region, subregion, country or area *",Central Asia
-5500,constant_mortality,female,"Region, subregion, country or area *",Central Asia
-5500,constant_mortality,male,"Region, subregion, country or area *",Central Asia
-5500,estimates,female,"Region, subregion, country or area *",Central Asia
-5500,estimates,male,"Region, subregion, country or area *",Central Asia
-5500,high_variant,female,"Region, subregion, country or area *",Central Asia
-5500,high_variant,male,"Region, subregion, country or area *",Central Asia
-5500,instant_replacement,female,"Region, subregion, country or area *",Central Asia
-5500,instant_replacement,male,"Region, subregion, country or area *",Central Asia
-5500,low_variant,female,"Region, subregion, country or area *",Central Asia
-5500,low_variant,male,"Region, subregion, country or area *",Central Asia
-5500,medium_variant,female,"Region, subregion, country or area *",Central Asia
-5500,medium_variant,male,"Region, subregion, country or area *",Central Asia
-5500,momentum,female,"Region, subregion, country or area *",Central Asia
-5500,momentum,male,"Region, subregion, country or area *",Central Asia
-5500,no_change,female,"Region, subregion, country or area *",Central Asia
-5500,no_change,male,"Region, subregion, country or area *",Central Asia
-5500,zero_migration,female,"Region, subregion, country or area *",Central Asia
-5500,zero_migration,male,"Region, subregion, country or area *",Central Asia

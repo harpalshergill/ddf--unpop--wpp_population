@@ -1,6 +1,6 @@
 region,variant,year,population
 1501,estimates,1950,778277.186
-1501,estimates,1951,792199.0
+1501,estimates,1951,792199
 1501,estimates,1952,807013.013
 1501,estimates,1953,822676.599
 1501,estimates,1954,839156.194
@@ -111,7 +111,7 @@ region,variant,year,population
 1501,no_change,2019,3148343.506
 1501,zero_migration,2019,3150653.66
 1501,constant_fertility,2020,3202992.24
-1501,constant_mortality,2020,3174091.0
+1501,constant_mortality,2020,3174091
 1501,high_variant,2020,3212087.496
 1501,instant_replacement,2020,3124436.804
 1501,low_variant,2020,3152735.018
@@ -553,7 +553,7 @@ region,variant,year,population
 1501,zero_migration,2068,4809185.306
 1501,constant_fertility,2069,6575047.881
 1501,constant_mortality,2069,4138286.989
-1501,high_variant,2069,5773775.0
+1501,high_variant,2069,5773775
 1501,instant_replacement,2069,4232423.589
 1501,low_variant,2069,3783150.515
 1501,medium_variant,2069,4701989.93
@@ -839,13 +839,3 @@ region,variant,year,population
 1501,momentum,2100,4075229.552
 1501,no_change,2100,8828523.511
 1501,zero_migration,2100,5157384.759
-1501,constant_fertility,"Region, subregion, country or area *",Lower-middle-income countries
-1501,constant_mortality,"Region, subregion, country or area *",Lower-middle-income countries
-1501,estimates,"Region, subregion, country or area *",Lower-middle-income countries
-1501,high_variant,"Region, subregion, country or area *",Lower-middle-income countries
-1501,instant_replacement,"Region, subregion, country or area *",Lower-middle-income countries
-1501,low_variant,"Region, subregion, country or area *",Lower-middle-income countries
-1501,medium_variant,"Region, subregion, country or area *",Lower-middle-income countries
-1501,momentum,"Region, subregion, country or area *",Lower-middle-income countries
-1501,no_change,"Region, subregion, country or area *",Lower-middle-income countries
-1501,zero_migration,"Region, subregion, country or area *",Lower-middle-income countries

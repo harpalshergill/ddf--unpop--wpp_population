@@ -74,7 +74,7 @@ country,variant,gender,year,population
 600,estimates,female,1986,1868.167
 600,estimates,male,1986,1909.601
 600,estimates,female,1987,1921.43
-600,estimates,male,1987,1964.0
+600,estimates,male,1987,1964
 600,estimates,female,1988,1975.411
 600,estimates,male,1988,2018.915
 600,estimates,female,1989,2029.723
@@ -540,7 +540,7 @@ country,variant,gender,year,population
 600,medium_variant,female,2037,4117.436
 600,medium_variant,male,2037,4177.664
 600,momentum,female,2037,4197.069
-600,momentum,male,2037,4261.0
+600,momentum,male,2037,4261
 600,no_change,female,2037,4290.52
 600,no_change,male,2037,4366.169
 600,zero_migration,female,2037,4308.839
@@ -1257,7 +1257,7 @@ country,variant,gender,year,population
 600,instant_replacement,male,2077,4684.426
 600,low_variant,female,2077,3456.56
 600,low_variant,male,2077,3370.626
-600,medium_variant,female,2077,4602.0
+600,medium_variant,female,2077,4602
 600,medium_variant,male,2077,4556.27
 600,momentum,female,2077,4946.444
 600,momentum,male,2077,4904.689
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 600,no_change,male,2100,6732.91
 600,zero_migration,female,2100,4877.502
 600,zero_migration,male,2100,4861.321
-600,constant_fertility,female,"Region, subregion, country or area *",Paraguay
-600,constant_fertility,male,"Region, subregion, country or area *",Paraguay
-600,constant_mortality,female,"Region, subregion, country or area *",Paraguay
-600,constant_mortality,male,"Region, subregion, country or area *",Paraguay
-600,estimates,female,"Region, subregion, country or area *",Paraguay
-600,estimates,male,"Region, subregion, country or area *",Paraguay
-600,high_variant,female,"Region, subregion, country or area *",Paraguay
-600,high_variant,male,"Region, subregion, country or area *",Paraguay
-600,instant_replacement,female,"Region, subregion, country or area *",Paraguay
-600,instant_replacement,male,"Region, subregion, country or area *",Paraguay
-600,low_variant,female,"Region, subregion, country or area *",Paraguay
-600,low_variant,male,"Region, subregion, country or area *",Paraguay
-600,medium_variant,female,"Region, subregion, country or area *",Paraguay
-600,medium_variant,male,"Region, subregion, country or area *",Paraguay
-600,momentum,female,"Region, subregion, country or area *",Paraguay
-600,momentum,male,"Region, subregion, country or area *",Paraguay
-600,no_change,female,"Region, subregion, country or area *",Paraguay
-600,no_change,male,"Region, subregion, country or area *",Paraguay
-600,zero_migration,female,"Region, subregion, country or area *",Paraguay
-600,zero_migration,male,"Region, subregion, country or area *",Paraguay

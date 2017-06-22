@@ -461,7 +461,7 @@ region,variant,gender,year,population
 914,constant_mortality,male,2033,270308.37
 914,high_variant,female,2033,287647.534
 914,high_variant,male,2033,292931.37
-914,instant_replacement,female,2033,213609.0
+914,instant_replacement,female,2033,213609
 914,instant_replacement,male,2033,216058.63
 914,low_variant,female,2033,265043.155
 914,low_variant,male,2033,269474.187
@@ -679,7 +679,7 @@ region,variant,gender,year,population
 914,high_variant,male,2045,397393.072
 914,instant_replacement,female,2045,244630.678
 914,instant_replacement,male,2045,246710.456
-914,low_variant,female,2045,335482.0
+914,low_variant,female,2045,335482
 914,low_variant,male,2045,340883.44
 914,medium_variant,female,2045,362416.389
 914,medium_variant,male,2045,368801.025
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 914,no_change,male,2100,1896618.251
 914,zero_migration,female,2100,801773.877
 914,zero_migration,male,2100,800014.748
-914,constant_fertility,female,"Region, subregion, country or area *",Western Africa
-914,constant_fertility,male,"Region, subregion, country or area *",Western Africa
-914,constant_mortality,female,"Region, subregion, country or area *",Western Africa
-914,constant_mortality,male,"Region, subregion, country or area *",Western Africa
-914,estimates,female,"Region, subregion, country or area *",Western Africa
-914,estimates,male,"Region, subregion, country or area *",Western Africa
-914,high_variant,female,"Region, subregion, country or area *",Western Africa
-914,high_variant,male,"Region, subregion, country or area *",Western Africa
-914,instant_replacement,female,"Region, subregion, country or area *",Western Africa
-914,instant_replacement,male,"Region, subregion, country or area *",Western Africa
-914,low_variant,female,"Region, subregion, country or area *",Western Africa
-914,low_variant,male,"Region, subregion, country or area *",Western Africa
-914,medium_variant,female,"Region, subregion, country or area *",Western Africa
-914,medium_variant,male,"Region, subregion, country or area *",Western Africa
-914,momentum,female,"Region, subregion, country or area *",Western Africa
-914,momentum,male,"Region, subregion, country or area *",Western Africa
-914,no_change,female,"Region, subregion, country or area *",Western Africa
-914,no_change,male,"Region, subregion, country or area *",Western Africa
-914,zero_migration,female,"Region, subregion, country or area *",Western Africa
-914,zero_migration,male,"Region, subregion, country or area *",Western Africa

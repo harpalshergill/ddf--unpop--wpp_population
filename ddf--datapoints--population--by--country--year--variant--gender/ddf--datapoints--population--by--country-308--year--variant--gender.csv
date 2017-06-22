@@ -396,7 +396,7 @@ country,variant,gender,year,population
 308,medium_variant,female,2029,55.541
 308,medium_variant,male,2029,56.375
 308,momentum,female,2029,61.383
-308,momentum,male,2029,62.0
+308,momentum,male,2029,62
 308,no_change,female,2029,56.214
 308,no_change,male,2029,57.136
 308,zero_migration,female,2029,61.144
@@ -664,7 +664,7 @@ country,variant,gender,year,population
 308,low_variant,female,2044,50.157
 308,low_variant,male,2044,50.547
 308,medium_variant,female,2044,55.365
-308,medium_variant,male,2044,56.0
+308,medium_variant,male,2044,56
 308,momentum,female,2044,68.046
 308,momentum,male,2044,68.051
 308,no_change,female,2044,57.252
@@ -1563,7 +1563,7 @@ country,variant,gender,year,population
 308,instant_replacement,male,2094,49.834
 308,low_variant,female,2094,19.711
 308,low_variant,male,2094,20.2
-308,medium_variant,female,2094,37.0
+308,medium_variant,female,2094,37
 308,medium_variant,male,2094,38.129
 308,momentum,female,2094,73.192
 308,momentum,male,2094,71.982
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 308,no_change,male,2100,47.281
 308,zero_migration,female,2100,64.377
 308,zero_migration,male,2100,64.671
-308,constant_fertility,female,"Region, subregion, country or area *",Grenada
-308,constant_fertility,male,"Region, subregion, country or area *",Grenada
-308,constant_mortality,female,"Region, subregion, country or area *",Grenada
-308,constant_mortality,male,"Region, subregion, country or area *",Grenada
-308,estimates,female,"Region, subregion, country or area *",Grenada
-308,estimates,male,"Region, subregion, country or area *",Grenada
-308,high_variant,female,"Region, subregion, country or area *",Grenada
-308,high_variant,male,"Region, subregion, country or area *",Grenada
-308,instant_replacement,female,"Region, subregion, country or area *",Grenada
-308,instant_replacement,male,"Region, subregion, country or area *",Grenada
-308,low_variant,female,"Region, subregion, country or area *",Grenada
-308,low_variant,male,"Region, subregion, country or area *",Grenada
-308,medium_variant,female,"Region, subregion, country or area *",Grenada
-308,medium_variant,male,"Region, subregion, country or area *",Grenada
-308,momentum,female,"Region, subregion, country or area *",Grenada
-308,momentum,male,"Region, subregion, country or area *",Grenada
-308,no_change,female,"Region, subregion, country or area *",Grenada
-308,no_change,male,"Region, subregion, country or area *",Grenada
-308,zero_migration,female,"Region, subregion, country or area *",Grenada
-308,zero_migration,male,"Region, subregion, country or area *",Grenada

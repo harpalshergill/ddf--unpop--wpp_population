@@ -242,7 +242,7 @@ country,variant,gender,year,population
 214,constant_fertility,female,2021,5681.411
 214,constant_fertility,male,2021,5622.219
 214,constant_mortality,female,2021,5628.553
-214,constant_mortality,male,2021,5566.0
+214,constant_mortality,male,2021,5566
 214,high_variant,female,2021,5708.082
 214,high_variant,male,2021,5650.03
 214,instant_replacement,female,2021,5575.644
@@ -1144,7 +1144,7 @@ country,variant,gender,year,population
 214,constant_mortality,female,2071,6194.609
 214,constant_mortality,male,2071,5926.029
 214,high_variant,female,2071,8557.229
-214,high_variant,male,2071,8501.0
+214,high_variant,male,2071,8501
 214,instant_replacement,female,2071,7022.653
 214,instant_replacement,male,2071,6906.182
 214,low_variant,female,2071,5236.959
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 214,no_change,male,2100,9543.846
 214,zero_migration,female,2100,7484.915
 214,zero_migration,male,2100,7459.065
-214,constant_fertility,female,"Region, subregion, country or area *",Dominican Republic
-214,constant_fertility,male,"Region, subregion, country or area *",Dominican Republic
-214,constant_mortality,female,"Region, subregion, country or area *",Dominican Republic
-214,constant_mortality,male,"Region, subregion, country or area *",Dominican Republic
-214,estimates,female,"Region, subregion, country or area *",Dominican Republic
-214,estimates,male,"Region, subregion, country or area *",Dominican Republic
-214,high_variant,female,"Region, subregion, country or area *",Dominican Republic
-214,high_variant,male,"Region, subregion, country or area *",Dominican Republic
-214,instant_replacement,female,"Region, subregion, country or area *",Dominican Republic
-214,instant_replacement,male,"Region, subregion, country or area *",Dominican Republic
-214,low_variant,female,"Region, subregion, country or area *",Dominican Republic
-214,low_variant,male,"Region, subregion, country or area *",Dominican Republic
-214,medium_variant,female,"Region, subregion, country or area *",Dominican Republic
-214,medium_variant,male,"Region, subregion, country or area *",Dominican Republic
-214,momentum,female,"Region, subregion, country or area *",Dominican Republic
-214,momentum,male,"Region, subregion, country or area *",Dominican Republic
-214,no_change,female,"Region, subregion, country or area *",Dominican Republic
-214,no_change,male,"Region, subregion, country or area *",Dominican Republic
-214,zero_migration,female,"Region, subregion, country or area *",Dominican Republic
-214,zero_migration,male,"Region, subregion, country or area *",Dominican Republic

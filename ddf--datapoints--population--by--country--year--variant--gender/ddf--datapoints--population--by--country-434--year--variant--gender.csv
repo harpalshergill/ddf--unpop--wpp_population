@@ -259,7 +259,7 @@ country,variant,gender,year,population
 434,zero_migration,male,2021,3402.262
 434,constant_fertility,female,2022,3427.094
 434,constant_fertility,male,2022,3473.815
-434,constant_mortality,female,2022,3379.0
+434,constant_mortality,female,2022,3379
 434,constant_mortality,male,2022,3424.285
 434,high_variant,female,2022,3437.878
 434,high_variant,male,2022,3485.155
@@ -1503,7 +1503,7 @@ country,variant,gender,year,population
 434,constant_fertility,male,2091,5713.721
 434,constant_mortality,female,2091,3370.669
 434,constant_mortality,male,2091,3239.138
-434,high_variant,female,2091,5453.0
+434,high_variant,female,2091,5453
 434,high_variant,male,2091,5460.812
 434,instant_replacement,female,2091,4639.397
 434,instant_replacement,male,2091,4613.052
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 434,no_change,male,2100,5169.155
 434,zero_migration,female,2100,3801.991
 434,zero_migration,male,2100,3789.767
-434,constant_fertility,female,"Region, subregion, country or area *",Libya
-434,constant_fertility,male,"Region, subregion, country or area *",Libya
-434,constant_mortality,female,"Region, subregion, country or area *",Libya
-434,constant_mortality,male,"Region, subregion, country or area *",Libya
-434,estimates,female,"Region, subregion, country or area *",Libya
-434,estimates,male,"Region, subregion, country or area *",Libya
-434,high_variant,female,"Region, subregion, country or area *",Libya
-434,high_variant,male,"Region, subregion, country or area *",Libya
-434,instant_replacement,female,"Region, subregion, country or area *",Libya
-434,instant_replacement,male,"Region, subregion, country or area *",Libya
-434,low_variant,female,"Region, subregion, country or area *",Libya
-434,low_variant,male,"Region, subregion, country or area *",Libya
-434,medium_variant,female,"Region, subregion, country or area *",Libya
-434,medium_variant,male,"Region, subregion, country or area *",Libya
-434,momentum,female,"Region, subregion, country or area *",Libya
-434,momentum,male,"Region, subregion, country or area *",Libya
-434,no_change,female,"Region, subregion, country or area *",Libya
-434,no_change,male,"Region, subregion, country or area *",Libya
-434,zero_migration,female,"Region, subregion, country or area *",Libya
-434,zero_migration,male,"Region, subregion, country or area *",Libya

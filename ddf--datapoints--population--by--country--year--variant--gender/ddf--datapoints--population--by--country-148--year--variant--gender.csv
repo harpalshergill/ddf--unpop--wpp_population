@@ -64,7 +64,7 @@ country,variant,gender,year,population
 148,estimates,female,1981,2333.476
 148,estimates,male,1981,2276.686
 148,estimates,female,1982,2385.204
-148,estimates,male,1982,2330.0
+148,estimates,male,1982,2330
 148,estimates,female,1983,2441.423
 148,estimates,male,1983,2387.678
 148,estimates,female,1984,2503.163
@@ -1466,7 +1466,7 @@ country,variant,gender,year,population
 148,constant_fertility,female,2089,109647.513
 148,constant_fertility,male,2089,109660.191
 148,constant_mortality,female,2089,19860.032
-148,constant_mortality,male,2089,19634.0
+148,constant_mortality,male,2089,19634
 148,high_variant,female,2089,37086.724
 148,high_variant,male,2089,36432.887
 148,instant_replacement,female,2089,12539.93
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 148,no_change,male,2100,105099.076
 148,zero_migration,female,2100,31434.131
 148,zero_migration,male,2100,30435.907
-148,constant_fertility,female,"Region, subregion, country or area *",Chad
-148,constant_fertility,male,"Region, subregion, country or area *",Chad
-148,constant_mortality,female,"Region, subregion, country or area *",Chad
-148,constant_mortality,male,"Region, subregion, country or area *",Chad
-148,estimates,female,"Region, subregion, country or area *",Chad
-148,estimates,male,"Region, subregion, country or area *",Chad
-148,high_variant,female,"Region, subregion, country or area *",Chad
-148,high_variant,male,"Region, subregion, country or area *",Chad
-148,instant_replacement,female,"Region, subregion, country or area *",Chad
-148,instant_replacement,male,"Region, subregion, country or area *",Chad
-148,low_variant,female,"Region, subregion, country or area *",Chad
-148,low_variant,male,"Region, subregion, country or area *",Chad
-148,medium_variant,female,"Region, subregion, country or area *",Chad
-148,medium_variant,male,"Region, subregion, country or area *",Chad
-148,momentum,female,"Region, subregion, country or area *",Chad
-148,momentum,male,"Region, subregion, country or area *",Chad
-148,no_change,female,"Region, subregion, country or area *",Chad
-148,no_change,male,"Region, subregion, country or area *",Chad
-148,zero_migration,female,"Region, subregion, country or area *",Chad
-148,zero_migration,male,"Region, subregion, country or area *",Chad

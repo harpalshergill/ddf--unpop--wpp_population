@@ -261,7 +261,7 @@ continent,variant,gender,year,population
 903,constant_fertility,male,2022,722596.568
 903,constant_mortality,female,2022,704189.416
 903,constant_mortality,male,2022,703424.252
-903,high_variant,female,2022,719045.0
+903,high_variant,female,2022,719045
 903,high_variant,male,2022,718622.406
 903,instant_replacement,female,2022,643743.813
 903,instant_replacement,male,2022,641096.996
@@ -1679,23 +1679,3 @@ continent,variant,gender,year,population
 903,no_change,male,2100,5662861.294
 903,zero_migration,female,2100,2280156.571
 903,zero_migration,male,2100,2256846.075
-903,constant_fertility,female,"Region, subregion, country or area *",AFRICA
-903,constant_fertility,male,"Region, subregion, country or area *",AFRICA
-903,constant_mortality,female,"Region, subregion, country or area *",AFRICA
-903,constant_mortality,male,"Region, subregion, country or area *",AFRICA
-903,estimates,female,"Region, subregion, country or area *",AFRICA
-903,estimates,male,"Region, subregion, country or area *",AFRICA
-903,high_variant,female,"Region, subregion, country or area *",AFRICA
-903,high_variant,male,"Region, subregion, country or area *",AFRICA
-903,instant_replacement,female,"Region, subregion, country or area *",AFRICA
-903,instant_replacement,male,"Region, subregion, country or area *",AFRICA
-903,low_variant,female,"Region, subregion, country or area *",AFRICA
-903,low_variant,male,"Region, subregion, country or area *",AFRICA
-903,medium_variant,female,"Region, subregion, country or area *",AFRICA
-903,medium_variant,male,"Region, subregion, country or area *",AFRICA
-903,momentum,female,"Region, subregion, country or area *",AFRICA
-903,momentum,male,"Region, subregion, country or area *",AFRICA
-903,no_change,female,"Region, subregion, country or area *",AFRICA
-903,no_change,male,"Region, subregion, country or area *",AFRICA
-903,zero_migration,female,"Region, subregion, country or area *",AFRICA
-903,zero_migration,male,"Region, subregion, country or area *",AFRICA

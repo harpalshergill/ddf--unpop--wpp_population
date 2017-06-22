@@ -30,7 +30,7 @@ region,variant,freq,year,rateofnaturalincreaseper1000population
 901,momentum,5yearly,2020,0.882
 901,no_change,5yearly,2020,-1.396
 901,zero_migration,5yearly,2020,-0.218999999999999
-901,constant_fertility,5yearly,2025,-1.0
+901,constant_fertility,5yearly,2025,-1
 901,constant_mortality,5yearly,2025,-1.903
 901,high_variant,5yearly,2025,2.375
 901,instant_replacement,5yearly,2025,1.392
@@ -165,13 +165,3 @@ region,variant,freq,year,rateofnaturalincreaseper1000population
 901,momentum,5yearly,2095,-0.0310000000000006
 901,no_change,5yearly,2095,-4.807
 901,zero_migration,5yearly,2095,-2.362
-901,constant_fertility,5yearly,Regi,More developed regions
-901,constant_mortality,5yearly,Regi,More developed regions
-901,estimates,5yearly,Regi,More developed regions
-901,high_variant,5yearly,Regi,More developed regions
-901,instant_replacement,5yearly,Regi,More developed regions
-901,low_variant,5yearly,Regi,More developed regions
-901,medium_variant,5yearly,Regi,More developed regions
-901,momentum,5yearly,Regi,More developed regions
-901,no_change,5yearly,Regi,More developed regions
-901,zero_migration,5yearly,Regi,More developed regions

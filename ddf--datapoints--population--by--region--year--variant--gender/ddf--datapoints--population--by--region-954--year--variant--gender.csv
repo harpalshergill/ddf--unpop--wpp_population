@@ -941,7 +941,7 @@ region,variant,gender,year,population
 954,no_change,male,2059,394.39
 954,zero_migration,female,2059,409.175
 954,zero_migration,male,2059,410.73
-954,constant_fertility,female,2060,415.0
+954,constant_fertility,female,2060,415
 954,constant_fertility,male,2060,422.674
 954,constant_mortality,female,2060,316.796
 954,constant_mortality,male,2060,316.677
@@ -1144,7 +1144,7 @@ region,variant,gender,year,population
 954,constant_mortality,female,2071,316.144
 954,constant_mortality,male,2071,314.354
 954,high_variant,female,2071,425.876
-954,high_variant,male,2071,430.0
+954,high_variant,male,2071,430
 954,instant_replacement,female,2071,296.373
 954,instant_replacement,male,2071,296.369
 954,low_variant,female,2071,272.994
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 954,no_change,male,2100,632.7
 954,zero_migration,female,2100,466.263
 954,zero_migration,male,2100,461.913
-954,constant_fertility,female,"Region, subregion, country or area *",Micronesia
-954,constant_fertility,male,"Region, subregion, country or area *",Micronesia
-954,constant_mortality,female,"Region, subregion, country or area *",Micronesia
-954,constant_mortality,male,"Region, subregion, country or area *",Micronesia
-954,estimates,female,"Region, subregion, country or area *",Micronesia
-954,estimates,male,"Region, subregion, country or area *",Micronesia
-954,high_variant,female,"Region, subregion, country or area *",Micronesia
-954,high_variant,male,"Region, subregion, country or area *",Micronesia
-954,instant_replacement,female,"Region, subregion, country or area *",Micronesia
-954,instant_replacement,male,"Region, subregion, country or area *",Micronesia
-954,low_variant,female,"Region, subregion, country or area *",Micronesia
-954,low_variant,male,"Region, subregion, country or area *",Micronesia
-954,medium_variant,female,"Region, subregion, country or area *",Micronesia
-954,medium_variant,male,"Region, subregion, country or area *",Micronesia
-954,momentum,female,"Region, subregion, country or area *",Micronesia
-954,momentum,male,"Region, subregion, country or area *",Micronesia
-954,no_change,female,"Region, subregion, country or area *",Micronesia
-954,no_change,male,"Region, subregion, country or area *",Micronesia
-954,zero_migration,female,"Region, subregion, country or area *",Micronesia
-954,zero_migration,male,"Region, subregion, country or area *",Micronesia

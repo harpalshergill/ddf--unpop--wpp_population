@@ -378,7 +378,7 @@ region,variant,gender,year,population
 916,medium_variant,female,2028,101110.803
 916,medium_variant,male,2028,99643.946
 916,momentum,female,2028,101315.133
-916,momentum,male,2028,99780.0
+916,momentum,male,2028,99780
 916,no_change,female,2028,103135.774
 916,no_change,male,2028,101635.817
 916,zero_migration,female,2028,101895.833
@@ -402,7 +402,7 @@ region,variant,gender,year,population
 916,zero_migration,female,2029,102907.965
 916,zero_migration,male,2029,101507.921
 916,constant_fertility,female,2030,106347.193
-916,constant_fertility,male,2030,104999.0
+916,constant_fertility,male,2030,104999
 916,constant_mortality,female,2030,102201.052
 916,constant_mortality,male,2030,100504.216
 916,high_variant,female,2030,107246.71
@@ -1461,7 +1461,7 @@ region,variant,gender,year,population
 916,momentum,male,2088,123817.841
 916,no_change,female,2088,154695.394
 916,no_change,male,2088,152577.354
-916,zero_migration,female,2088,119508.0
+916,zero_migration,female,2088,119508
 916,zero_migration,male,2088,119972.832
 916,constant_fertility,female,2089,172935.559
 916,constant_fertility,male,2089,175882.077
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 916,no_change,male,2100,162358.236
 916,zero_migration,female,2100,115111.156
 916,zero_migration,male,2100,115767.178
-916,constant_fertility,female,"Region, subregion, country or area *",Central America
-916,constant_fertility,male,"Region, subregion, country or area *",Central America
-916,constant_mortality,female,"Region, subregion, country or area *",Central America
-916,constant_mortality,male,"Region, subregion, country or area *",Central America
-916,estimates,female,"Region, subregion, country or area *",Central America
-916,estimates,male,"Region, subregion, country or area *",Central America
-916,high_variant,female,"Region, subregion, country or area *",Central America
-916,high_variant,male,"Region, subregion, country or area *",Central America
-916,instant_replacement,female,"Region, subregion, country or area *",Central America
-916,instant_replacement,male,"Region, subregion, country or area *",Central America
-916,low_variant,female,"Region, subregion, country or area *",Central America
-916,low_variant,male,"Region, subregion, country or area *",Central America
-916,medium_variant,female,"Region, subregion, country or area *",Central America
-916,medium_variant,male,"Region, subregion, country or area *",Central America
-916,momentum,female,"Region, subregion, country or area *",Central America
-916,momentum,male,"Region, subregion, country or area *",Central America
-916,no_change,female,"Region, subregion, country or area *",Central America
-916,no_change,male,"Region, subregion, country or area *",Central America
-916,zero_migration,female,"Region, subregion, country or area *",Central America
-916,zero_migration,male,"Region, subregion, country or area *",Central America

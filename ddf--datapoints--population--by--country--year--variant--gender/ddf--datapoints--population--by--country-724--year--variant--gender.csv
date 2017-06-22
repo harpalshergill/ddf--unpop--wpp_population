@@ -234,7 +234,7 @@ country,variant,gender,year,population
 724,medium_variant,female,2020,23661.428
 724,medium_variant,male,2020,22797.79
 724,momentum,female,2020,23945.765
-724,momentum,male,2020,23134.0
+724,momentum,male,2020,23134
 724,no_change,female,2020,23546.667
 724,no_change,male,2020,22661.778
 724,zero_migration,female,2020,23535.731
@@ -523,7 +523,7 @@ country,variant,gender,year,population
 724,medium_variant,male,2036,22364.491
 724,momentum,female,2036,23588.074
 724,momentum,male,2036,22754.537
-724,no_change,female,2036,22547.0
+724,no_change,female,2036,22547
 724,no_change,male,2036,21354.464
 724,zero_migration,female,2036,22573.353
 724,zero_migration,male,2036,21737.146
@@ -751,7 +751,7 @@ country,variant,gender,year,population
 724,high_variant,male,2049,23638.848
 724,instant_replacement,female,2049,25538.768
 724,instant_replacement,male,2049,24341.629
-724,low_variant,female,2049,21101.0
+724,low_variant,female,2049,21101
 724,low_variant,male,2049,19624.965
 724,medium_variant,female,2049,22956.263
 724,medium_variant,male,2049,21597.026
@@ -933,7 +933,7 @@ country,variant,gender,year,population
 724,instant_replacement,male,2059,24410.955
 724,low_variant,female,2059,19421.886
 724,low_variant,male,2059,17775.07
-724,medium_variant,female,2059,22001.0
+724,medium_variant,female,2059,22001
 724,medium_variant,male,2059,20515.228
 724,momentum,female,2059,21657.239
 724,momentum,male,2059,20865.143
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 724,no_change,male,2100,11625.45
 724,zero_migration,female,2100,14515.818
 724,zero_migration,male,2100,14203.125
-724,constant_fertility,female,"Region, subregion, country or area *",Spain
-724,constant_fertility,male,"Region, subregion, country or area *",Spain
-724,constant_mortality,female,"Region, subregion, country or area *",Spain
-724,constant_mortality,male,"Region, subregion, country or area *",Spain
-724,estimates,female,"Region, subregion, country or area *",Spain
-724,estimates,male,"Region, subregion, country or area *",Spain
-724,high_variant,female,"Region, subregion, country or area *",Spain
-724,high_variant,male,"Region, subregion, country or area *",Spain
-724,instant_replacement,female,"Region, subregion, country or area *",Spain
-724,instant_replacement,male,"Region, subregion, country or area *",Spain
-724,low_variant,female,"Region, subregion, country or area *",Spain
-724,low_variant,male,"Region, subregion, country or area *",Spain
-724,medium_variant,female,"Region, subregion, country or area *",Spain
-724,medium_variant,male,"Region, subregion, country or area *",Spain
-724,momentum,female,"Region, subregion, country or area *",Spain
-724,momentum,male,"Region, subregion, country or area *",Spain
-724,no_change,female,"Region, subregion, country or area *",Spain
-724,no_change,male,"Region, subregion, country or area *",Spain
-724,zero_migration,female,"Region, subregion, country or area *",Spain
-724,zero_migration,male,"Region, subregion, country or area *",Spain

@@ -161,7 +161,7 @@ country,variant,gender,year,population
 470,low_variant,male,2016,215.022
 470,medium_variant,female,2016,213.814
 470,medium_variant,male,2016,215.543
-470,momentum,female,2016,214.0
+470,momentum,female,2016,214
 470,momentum,male,2016,215.758
 470,no_change,female,2016,213.599
 470,no_change,male,2016,215.114
@@ -1087,7 +1087,7 @@ country,variant,gender,year,population
 470,zero_migration,male,2067,183.695
 470,constant_fertility,female,2068,177.571
 470,constant_fertility,male,2068,183.183
-470,constant_mortality,female,2068,179.0
+470,constant_mortality,female,2068,179
 470,constant_mortality,male,2068,179.942
 470,high_variant,female,2068,235.142
 470,high_variant,male,2068,244.181
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 470,no_change,male,2100,114.153
 470,zero_migration,female,2100,147.142
 470,zero_migration,male,2100,152.197
-470,constant_fertility,female,"Region, subregion, country or area *",Malta
-470,constant_fertility,male,"Region, subregion, country or area *",Malta
-470,constant_mortality,female,"Region, subregion, country or area *",Malta
-470,constant_mortality,male,"Region, subregion, country or area *",Malta
-470,estimates,female,"Region, subregion, country or area *",Malta
-470,estimates,male,"Region, subregion, country or area *",Malta
-470,high_variant,female,"Region, subregion, country or area *",Malta
-470,high_variant,male,"Region, subregion, country or area *",Malta
-470,instant_replacement,female,"Region, subregion, country or area *",Malta
-470,instant_replacement,male,"Region, subregion, country or area *",Malta
-470,low_variant,female,"Region, subregion, country or area *",Malta
-470,low_variant,male,"Region, subregion, country or area *",Malta
-470,medium_variant,female,"Region, subregion, country or area *",Malta
-470,medium_variant,male,"Region, subregion, country or area *",Malta
-470,momentum,female,"Region, subregion, country or area *",Malta
-470,momentum,male,"Region, subregion, country or area *",Malta
-470,no_change,female,"Region, subregion, country or area *",Malta
-470,no_change,male,"Region, subregion, country or area *",Malta
-470,zero_migration,female,"Region, subregion, country or area *",Malta
-470,zero_migration,male,"Region, subregion, country or area *",Malta

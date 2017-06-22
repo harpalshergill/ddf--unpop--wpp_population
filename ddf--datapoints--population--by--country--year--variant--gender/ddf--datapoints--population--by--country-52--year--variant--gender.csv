@@ -191,7 +191,7 @@ country,variant,gender,year,population
 52,constant_mortality,male,2018,136.862
 52,high_variant,female,2018,149.912
 52,high_variant,male,2018,137.656
-52,instant_replacement,female,2018,150.0
+52,instant_replacement,female,2018,150
 52,instant_replacement,male,2018,137.747
 52,low_variant,female,2018,148.749
 52,low_variant,male,2018,136.451
@@ -355,7 +355,7 @@ country,variant,gender,year,population
 52,high_variant,male,2027,142.039
 52,instant_replacement,female,2027,154.609
 52,instant_replacement,male,2027,141.094
-52,low_variant,female,2027,148.0
+52,low_variant,female,2027,148
 52,low_variant,male,2027,134.253
 52,medium_variant,female,2027,151.76
 52,medium_variant,male,2027,138.151
@@ -724,7 +724,7 @@ country,variant,gender,year,population
 52,no_change,female,2047,140.088
 52,no_change,male,2047,125.758
 52,zero_migration,female,2047,146.609
-52,zero_migration,male,2047,138.0
+52,zero_migration,male,2047,138
 52,constant_fertility,female,2048,146.865
 52,constant_fertility,male,2048,132.725
 52,constant_mortality,female,2048,140.39
@@ -1185,7 +1185,7 @@ country,variant,gender,year,population
 52,instant_replacement,male,2073,147.091
 52,low_variant,female,2073,109.025
 52,low_variant,male,2073,98.879
-52,medium_variant,female,2073,138.0
+52,medium_variant,female,2073,138
 52,medium_variant,male,2073,128.798
 52,momentum,female,2073,143.613
 52,momentum,male,2073,139.404
@@ -1537,7 +1537,7 @@ country,variant,gender,year,population
 52,zero_migration,male,2092,131.437
 52,constant_fertility,female,2093,127.336
 52,constant_fertility,male,2093,121.073
-52,constant_mortality,female,2093,116.0
+52,constant_mortality,female,2093,116
 52,constant_mortality,male,2093,106.922
 52,high_variant,female,2093,189.421
 52,high_variant,male,2093,185.138
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 52,no_change,male,2100,98.982
 52,zero_migration,female,2100,128.741
 52,zero_migration,male,2100,129.207
-52,constant_fertility,female,"Region, subregion, country or area *",Barbados
-52,constant_fertility,male,"Region, subregion, country or area *",Barbados
-52,constant_mortality,female,"Region, subregion, country or area *",Barbados
-52,constant_mortality,male,"Region, subregion, country or area *",Barbados
-52,estimates,female,"Region, subregion, country or area *",Barbados
-52,estimates,male,"Region, subregion, country or area *",Barbados
-52,high_variant,female,"Region, subregion, country or area *",Barbados
-52,high_variant,male,"Region, subregion, country or area *",Barbados
-52,instant_replacement,female,"Region, subregion, country or area *",Barbados
-52,instant_replacement,male,"Region, subregion, country or area *",Barbados
-52,low_variant,female,"Region, subregion, country or area *",Barbados
-52,low_variant,male,"Region, subregion, country or area *",Barbados
-52,medium_variant,female,"Region, subregion, country or area *",Barbados
-52,medium_variant,male,"Region, subregion, country or area *",Barbados
-52,momentum,female,"Region, subregion, country or area *",Barbados
-52,momentum,male,"Region, subregion, country or area *",Barbados
-52,no_change,female,"Region, subregion, country or area *",Barbados
-52,no_change,male,"Region, subregion, country or area *",Barbados
-52,zero_migration,female,"Region, subregion, country or area *",Barbados
-52,zero_migration,male,"Region, subregion, country or area *",Barbados

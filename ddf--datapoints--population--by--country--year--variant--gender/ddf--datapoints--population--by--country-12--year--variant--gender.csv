@@ -358,7 +358,7 @@ country,variant,gender,year,population
 12,low_variant,female,2027,22769.227
 12,low_variant,male,2027,23208.451
 12,medium_variant,female,2027,23446.003
-12,medium_variant,male,2027,23914.0
+12,medium_variant,male,2027,23914
 12,momentum,female,2027,22654.06
 12,momentum,male,2027,23094.534
 12,no_change,female,2027,24141.435
@@ -483,7 +483,7 @@ country,variant,gender,year,population
 12,instant_replacement,male,2034,24628.627
 12,low_variant,female,2034,23844.409
 12,low_variant,male,2034,24262.186
-12,medium_variant,female,2034,25080.0
+12,medium_variant,female,2034,25080
 12,medium_variant,male,2034,25550.918
 12,momentum,female,2034,24063.048
 12,momentum,male,2034,24498.823
@@ -1434,7 +1434,7 @@ country,variant,gender,year,population
 12,high_variant,female,2087,41406.341
 12,high_variant,male,2087,42838.109
 12,instant_replacement,female,2087,30313.86
-12,instant_replacement,male,2087,31237.0
+12,instant_replacement,male,2087,31237
 12,low_variant,female,2087,22522.137
 12,low_variant,male,2087,23068.19
 12,medium_variant,female,2087,30903.732
@@ -1503,7 +1503,7 @@ country,variant,gender,year,population
 12,constant_fertility,male,2091,56321.116
 12,constant_mortality,female,2091,26880.025
 12,constant_mortality,male,2091,27280.151
-12,high_variant,female,2091,42525.0
+12,high_variant,female,2091,42525
 12,high_variant,male,2091,44019.969
 12,instant_replacement,female,2091,30492.783
 12,instant_replacement,male,2091,31441.39
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 12,no_change,male,2100,54592.945
 12,zero_migration,female,2100,31370.776
 12,zero_migration,male,2100,32314.683
-12,constant_fertility,female,"Region, subregion, country or area *",Algeria
-12,constant_fertility,male,"Region, subregion, country or area *",Algeria
-12,constant_mortality,female,"Region, subregion, country or area *",Algeria
-12,constant_mortality,male,"Region, subregion, country or area *",Algeria
-12,estimates,female,"Region, subregion, country or area *",Algeria
-12,estimates,male,"Region, subregion, country or area *",Algeria
-12,high_variant,female,"Region, subregion, country or area *",Algeria
-12,high_variant,male,"Region, subregion, country or area *",Algeria
-12,instant_replacement,female,"Region, subregion, country or area *",Algeria
-12,instant_replacement,male,"Region, subregion, country or area *",Algeria
-12,low_variant,female,"Region, subregion, country or area *",Algeria
-12,low_variant,male,"Region, subregion, country or area *",Algeria
-12,medium_variant,female,"Region, subregion, country or area *",Algeria
-12,medium_variant,male,"Region, subregion, country or area *",Algeria
-12,momentum,female,"Region, subregion, country or area *",Algeria
-12,momentum,male,"Region, subregion, country or area *",Algeria
-12,no_change,female,"Region, subregion, country or area *",Algeria
-12,no_change,male,"Region, subregion, country or area *",Algeria
-12,zero_migration,female,"Region, subregion, country or area *",Algeria
-12,zero_migration,male,"Region, subregion, country or area *",Algeria

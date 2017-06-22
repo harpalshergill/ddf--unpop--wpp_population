@@ -5,7 +5,7 @@ country,variant,freq,year,populationgrowthrate
 238,estimates,5yearly,1965,-0.817
 238,estimates,5yearly,1970,-0.758
 238,estimates,5yearly,1975,-0.647
-238,estimates,5yearly,1980,0.0
+238,estimates,5yearly,1980,0
 238,estimates,5yearly,1985,1.424
 238,estimates,5yearly,1990,4.039
 238,estimates,5yearly,1995,3.331
@@ -60,7 +60,7 @@ country,variant,freq,year,populationgrowthrate
 238,constant_fertility,5yearly,2040,-0.146
 238,constant_mortality,5yearly,2040,-0.319
 238,high_variant,5yearly,2040,0.182
-238,instant_replacement,5yearly,2040,0.0
+238,instant_replacement,5yearly,2040,0
 238,low_variant,5yearly,2040,-0.493
 238,medium_variant,5yearly,2040,-0.146
 238,momentum,5yearly,2040,-0.154
@@ -96,7 +96,7 @@ country,variant,freq,year,populationgrowthrate
 238,constant_fertility,5yearly,2060,-0.208
 238,constant_mortality,5yearly,2060,-0.4
 238,high_variant,5yearly,2060,0.327
-238,instant_replacement,5yearly,2060,0.0
+238,instant_replacement,5yearly,2060,0
 238,low_variant,5yearly,2060,-0.809
 238,medium_variant,5yearly,2060,-0.224
 238,momentum,5yearly,2060,-0.13
@@ -165,13 +165,3 @@ country,variant,freq,year,populationgrowthrate
 238,momentum,5yearly,2095,0.015
 238,no_change,5yearly,2095,-0.314
 238,zero_migration,5yearly,2095,-0.178
-238,constant_fertility,5yearly,Regi,Falkland Islands (Malvinas)
-238,constant_mortality,5yearly,Regi,Falkland Islands (Malvinas)
-238,estimates,5yearly,Regi,Falkland Islands (Malvinas)
-238,high_variant,5yearly,Regi,Falkland Islands (Malvinas)
-238,instant_replacement,5yearly,Regi,Falkland Islands (Malvinas)
-238,low_variant,5yearly,Regi,Falkland Islands (Malvinas)
-238,medium_variant,5yearly,Regi,Falkland Islands (Malvinas)
-238,momentum,5yearly,Regi,Falkland Islands (Malvinas)
-238,no_change,5yearly,Regi,Falkland Islands (Malvinas)
-238,zero_migration,5yearly,Regi,Falkland Islands (Malvinas)

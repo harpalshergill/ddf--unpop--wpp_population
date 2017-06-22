@@ -139,7 +139,7 @@ region,variant,freq,year,populationgrowthrate
 912,no_change,5yearly,2080,1.695
 912,zero_migration,5yearly,2080,0.435
 912,constant_fertility,5yearly,2085,1.989
-912,constant_mortality,5yearly,2085,0.0
+912,constant_mortality,5yearly,2085,0
 912,high_variant,5yearly,2085,0.95
 912,instant_replacement,5yearly,2085,0.104
 912,low_variant,5yearly,2085,-0.356
@@ -165,13 +165,3 @@ region,variant,freq,year,populationgrowthrate
 912,momentum,5yearly,2095,-0.008
 912,no_change,5yearly,2095,1.751
 912,zero_migration,5yearly,2095,0.243
-912,constant_fertility,5yearly,Regi,Northern Africa
-912,constant_mortality,5yearly,Regi,Northern Africa
-912,estimates,5yearly,Regi,Northern Africa
-912,high_variant,5yearly,Regi,Northern Africa
-912,instant_replacement,5yearly,Regi,Northern Africa
-912,low_variant,5yearly,Regi,Northern Africa
-912,medium_variant,5yearly,Regi,Northern Africa
-912,momentum,5yearly,Regi,Northern Africa
-912,no_change,5yearly,Regi,Northern Africa
-912,zero_migration,5yearly,Regi,Northern Africa

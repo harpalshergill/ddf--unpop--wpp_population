@@ -1,7 +1,7 @@
 country,variant,freq,year,crudedeathrateper1000population
 531,estimates,5yearly,1950,11.121
 531,estimates,5yearly,1955,9.289
-531,estimates,5yearly,1960,8.0
+531,estimates,5yearly,1960,8
 531,estimates,5yearly,1965,6.847
 531,estimates,5yearly,1970,6.389
 531,estimates,5yearly,1975,5.975
@@ -79,7 +79,7 @@ country,variant,freq,year,crudedeathrateper1000population
 531,constant_mortality,5yearly,2050,14.148
 531,high_variant,5yearly,2050,10.555
 531,instant_replacement,5yearly,2050,11.309
-531,low_variant,5yearly,2050,13.0
+531,low_variant,5yearly,2050,13
 531,medium_variant,5yearly,2050,11.691
 531,momentum,5yearly,2050,14.449
 531,no_change,5yearly,2050,13.752
@@ -165,13 +165,3 @@ country,variant,freq,year,crudedeathrateper1000population
 531,momentum,5yearly,2095,12.887
 531,no_change,5yearly,2095,13.267
 531,zero_migration,5yearly,2095,11.632
-531,constant_fertility,5yearly,Regi,Curaçao
-531,constant_mortality,5yearly,Regi,Curaçao
-531,estimates,5yearly,Regi,Curaçao
-531,high_variant,5yearly,Regi,Curaçao
-531,instant_replacement,5yearly,Regi,Curaçao
-531,low_variant,5yearly,Regi,Curaçao
-531,medium_variant,5yearly,Regi,Curaçao
-531,momentum,5yearly,Regi,Curaçao
-531,no_change,5yearly,Regi,Curaçao
-531,zero_migration,5yearly,Regi,Curaçao

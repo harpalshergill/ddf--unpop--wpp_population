@@ -179,7 +179,7 @@ country,variant,gender,year,population
 450,low_variant,male,2017,12715.968
 450,medium_variant,female,2017,12818.84
 450,medium_variant,male,2017,12752.052
-450,momentum,female,2017,12516.0
+450,momentum,female,2017,12516
 450,momentum,male,2017,12442.66
 450,no_change,female,2017,12837.251
 450,no_change,male,2017,12771.799
@@ -770,7 +770,7 @@ country,variant,gender,year,population
 450,instant_replacement,female,2050,18954.668
 450,instant_replacement,male,2050,18632.195
 450,low_variant,female,2050,24169.507
-450,low_variant,male,2050,23959.0
+450,low_variant,male,2050,23959
 450,medium_variant,female,2050,26972.489
 450,medium_variant,male,2050,26830.081
 450,momentum,female,2050,18160.218
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 450,no_change,male,2100,105928.323
 450,zero_migration,female,2100,49292.243
 450,zero_migration,male,2100,48925.8
-450,constant_fertility,female,"Region, subregion, country or area *",Madagascar
-450,constant_fertility,male,"Region, subregion, country or area *",Madagascar
-450,constant_mortality,female,"Region, subregion, country or area *",Madagascar
-450,constant_mortality,male,"Region, subregion, country or area *",Madagascar
-450,estimates,female,"Region, subregion, country or area *",Madagascar
-450,estimates,male,"Region, subregion, country or area *",Madagascar
-450,high_variant,female,"Region, subregion, country or area *",Madagascar
-450,high_variant,male,"Region, subregion, country or area *",Madagascar
-450,instant_replacement,female,"Region, subregion, country or area *",Madagascar
-450,instant_replacement,male,"Region, subregion, country or area *",Madagascar
-450,low_variant,female,"Region, subregion, country or area *",Madagascar
-450,low_variant,male,"Region, subregion, country or area *",Madagascar
-450,medium_variant,female,"Region, subregion, country or area *",Madagascar
-450,medium_variant,male,"Region, subregion, country or area *",Madagascar
-450,momentum,female,"Region, subregion, country or area *",Madagascar
-450,momentum,male,"Region, subregion, country or area *",Madagascar
-450,no_change,female,"Region, subregion, country or area *",Madagascar
-450,no_change,male,"Region, subregion, country or area *",Madagascar
-450,zero_migration,female,"Region, subregion, country or area *",Madagascar
-450,zero_migration,male,"Region, subregion, country or area *",Madagascar

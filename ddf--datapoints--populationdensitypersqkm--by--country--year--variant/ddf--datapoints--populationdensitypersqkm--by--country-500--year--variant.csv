@@ -5,7 +5,7 @@ country,variant,year,populationdensitypersqkm
 500,estimates,1953,146.29
 500,estimates,1954,145.5
 500,estimates,1955,142.97
-500,estimates,1956,139.0
+500,estimates,1956,139
 500,estimates,1957,134.2
 500,estimates,1958,129.23
 500,estimates,1959,124.57
@@ -128,7 +128,7 @@ country,variant,year,populationdensitypersqkm
 500,momentum,2021,53.13
 500,no_change,2021,52.61
 500,zero_migration,2021,53.29
-500,constant_fertility,2022,53.0
+500,constant_fertility,2022,53
 500,constant_mortality,2022,52.56
 500,high_variant,2022,53.45
 500,instant_replacement,2022,52.87
@@ -140,7 +140,7 @@ country,variant,year,populationdensitypersqkm
 500,constant_fertility,2023,53.22
 500,constant_mortality,2023,52.64
 500,high_variant,2023,53.74
-500,instant_replacement,2023,53.0
+500,instant_replacement,2023,53
 500,low_variant,2023,52.19
 500,medium_variant,2023,52.94
 500,momentum,2023,53.59
@@ -183,7 +183,7 @@ country,variant,year,populationdensitypersqkm
 500,no_change,2027,53.53
 500,zero_migration,2027,54.96
 500,constant_fertility,2028,54.29
-500,constant_mortality,2028,53.0
+500,constant_mortality,2028,53
 500,high_variant,2028,55.3
 500,instant_replacement,2028,53.94
 500,low_variant,2028,52.22
@@ -336,7 +336,7 @@ country,variant,year,populationdensitypersqkm
 500,no_change,2044,54.17
 500,zero_migration,2044,57.75
 500,constant_fertility,2045,56.52
-500,constant_mortality,2045,52.0
+500,constant_mortality,2045,52
 500,high_variant,2045,59.1
 500,instant_replacement,2045,55.46
 500,low_variant,2045,49.75
@@ -634,7 +634,7 @@ country,variant,year,populationdensitypersqkm
 500,zero_migration,2077,56.44
 500,constant_fertility,2078,58.23
 500,constant_mortality,2078,44.72
-500,high_variant,2078,66.0
+500,high_variant,2078,66
 500,instant_replacement,2078,54.83
 500,low_variant,2078,37.39
 500,medium_variant,2078,50.07
@@ -839,13 +839,3 @@ country,variant,year,populationdensitypersqkm
 500,momentum,2100,56.6
 500,no_change,2100,52.85
 500,zero_migration,2100,54.49
-500,constant_fertility,"Region, subregion, country or area *",Montserrat
-500,constant_mortality,"Region, subregion, country or area *",Montserrat
-500,estimates,"Region, subregion, country or area *",Montserrat
-500,high_variant,"Region, subregion, country or area *",Montserrat
-500,instant_replacement,"Region, subregion, country or area *",Montserrat
-500,low_variant,"Region, subregion, country or area *",Montserrat
-500,medium_variant,"Region, subregion, country or area *",Montserrat
-500,momentum,"Region, subregion, country or area *",Montserrat
-500,no_change,"Region, subregion, country or area *",Montserrat
-500,zero_migration,"Region, subregion, country or area *",Montserrat

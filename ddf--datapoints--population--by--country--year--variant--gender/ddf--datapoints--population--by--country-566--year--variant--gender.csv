@@ -643,7 +643,7 @@ country,variant,gender,year,population
 566,high_variant,male,2043,192888.517
 566,instant_replacement,female,2043,120602.38
 566,instant_replacement,male,2043,123507.219
-566,low_variant,female,2043,163563.0
+566,low_variant,female,2043,163563
 566,low_variant,male,2043,168363.988
 566,medium_variant,female,2043,175200.374
 566,medium_variant,male,2043,180523.245
@@ -772,7 +772,7 @@ country,variant,gender,year,population
 566,low_variant,female,2050,184510.727
 566,low_variant,male,2050,189644.364
 566,medium_variant,female,2050,202359.864
-566,medium_variant,male,2050,208278.0
+566,medium_variant,male,2050,208278
 566,momentum,female,2050,121855.643
 566,momentum,male,2050,125678.666
 566,no_change,female,2050,224418.787
@@ -950,7 +950,7 @@ country,variant,gender,year,population
 566,instant_replacement,female,2060,136650.309
 566,instant_replacement,male,2060,138649.172
 566,low_variant,female,2060,213216.298
-566,low_variant,male,2060,218308.0
+566,low_variant,male,2060,218308
 566,medium_variant,female,2060,243128.327
 566,medium_variant,male,2060,249515.031
 566,momentum,female,2060,126204.806
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 566,no_change,male,2100,868646.728
 566,zero_migration,female,2100,400372.685
 566,zero_migration,male,2100,402302.091
-566,constant_fertility,female,"Region, subregion, country or area *",Nigeria
-566,constant_fertility,male,"Region, subregion, country or area *",Nigeria
-566,constant_mortality,female,"Region, subregion, country or area *",Nigeria
-566,constant_mortality,male,"Region, subregion, country or area *",Nigeria
-566,estimates,female,"Region, subregion, country or area *",Nigeria
-566,estimates,male,"Region, subregion, country or area *",Nigeria
-566,high_variant,female,"Region, subregion, country or area *",Nigeria
-566,high_variant,male,"Region, subregion, country or area *",Nigeria
-566,instant_replacement,female,"Region, subregion, country or area *",Nigeria
-566,instant_replacement,male,"Region, subregion, country or area *",Nigeria
-566,low_variant,female,"Region, subregion, country or area *",Nigeria
-566,low_variant,male,"Region, subregion, country or area *",Nigeria
-566,medium_variant,female,"Region, subregion, country or area *",Nigeria
-566,medium_variant,male,"Region, subregion, country or area *",Nigeria
-566,momentum,female,"Region, subregion, country or area *",Nigeria
-566,momentum,male,"Region, subregion, country or area *",Nigeria
-566,no_change,female,"Region, subregion, country or area *",Nigeria
-566,no_change,male,"Region, subregion, country or area *",Nigeria
-566,zero_migration,female,"Region, subregion, country or area *",Nigeria
-566,zero_migration,male,"Region, subregion, country or area *",Nigeria

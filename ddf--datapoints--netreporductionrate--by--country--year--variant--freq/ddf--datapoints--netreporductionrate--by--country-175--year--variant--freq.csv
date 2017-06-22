@@ -11,7 +11,7 @@ country,variant,freq,year,netreporductionrate
 175,estimates,5yearly,1995,2.45
 175,estimates,5yearly,2000,2.327
 175,estimates,5yearly,2005,2.238
-175,estimates,5yearly,2010,2.0
+175,estimates,5yearly,2010,2
 175,constant_fertility,5yearly,2015,2.002
 175,constant_mortality,5yearly,2015,1.819
 175,high_variant,5yearly,2015,1.943
@@ -19,7 +19,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2015,1.699
 175,medium_variant,5yearly,2015,1.821
 175,momentum,5yearly,2015,1
-175,no_change,5yearly,2015,2.0
+175,no_change,5yearly,2015,2
 175,zero_migration,5yearly,2015,1.821
 175,constant_fertility,5yearly,2020,2.004
 175,constant_mortality,5yearly,2020,1.67
@@ -28,7 +28,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2020,1.478
 175,medium_variant,5yearly,2020,1.673
 175,momentum,5yearly,2020,1
-175,no_change,5yearly,2020,2.0
+175,no_change,5yearly,2020,2
 175,zero_migration,5yearly,2020,1.673
 175,constant_fertility,5yearly,2025,2.005
 175,constant_mortality,5yearly,2025,1.547
@@ -37,7 +37,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2025,1.307
 175,medium_variant,5yearly,2025,1.552
 175,momentum,5yearly,2025,1
-175,no_change,5yearly,2025,2.0
+175,no_change,5yearly,2025,2
 175,zero_migration,5yearly,2025,1.552
 175,constant_fertility,5yearly,2030,2.006
 175,constant_mortality,5yearly,2030,1.444
@@ -46,7 +46,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2030,1.205
 175,medium_variant,5yearly,2030,1.449
 175,momentum,5yearly,2030,1
-175,no_change,5yearly,2030,2.0
+175,no_change,5yearly,2030,2
 175,zero_migration,5yearly,2030,1.449
 175,constant_fertility,5yearly,2035,2.008
 175,constant_mortality,5yearly,2035,1.356
@@ -55,7 +55,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2035,1.116
 175,medium_variant,5yearly,2035,1.361
 175,momentum,5yearly,2035,1
-175,no_change,5yearly,2035,2.0
+175,no_change,5yearly,2035,2
 175,zero_migration,5yearly,2035,1.361
 175,constant_fertility,5yearly,2040,2.009
 175,constant_mortality,5yearly,2040,1.278
@@ -64,7 +64,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2040,1.039
 175,medium_variant,5yearly,2040,1.284
 175,momentum,5yearly,2040,1
-175,no_change,5yearly,2040,2.0
+175,no_change,5yearly,2040,2
 175,zero_migration,5yearly,2040,1.284
 175,constant_fertility,5yearly,2045,2.009
 175,constant_mortality,5yearly,2045,1.209
@@ -73,7 +73,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2045,0.969
 175,medium_variant,5yearly,2045,1.214
 175,momentum,5yearly,2045,1
-175,no_change,5yearly,2045,2.0
+175,no_change,5yearly,2045,2
 175,zero_migration,5yearly,2045,1.214
 175,constant_fertility,5yearly,2050,2.01
 175,constant_mortality,5yearly,2050,1.146
@@ -82,7 +82,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2050,0.907
 175,medium_variant,5yearly,2050,1.152
 175,momentum,5yearly,2050,1
-175,no_change,5yearly,2050,2.0
+175,no_change,5yearly,2050,2
 175,zero_migration,5yearly,2050,1.152
 175,constant_fertility,5yearly,2055,2.011
 175,constant_mortality,5yearly,2055,1.091
@@ -91,7 +91,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2055,0.851
 175,medium_variant,5yearly,2055,1.097
 175,momentum,5yearly,2055,1
-175,no_change,5yearly,2055,2.0
+175,no_change,5yearly,2055,2
 175,zero_migration,5yearly,2055,1.097
 175,constant_fertility,5yearly,2060,2.012
 175,constant_mortality,5yearly,2060,1.041
@@ -100,16 +100,16 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2060,0.801
 175,medium_variant,5yearly,2060,1.047
 175,momentum,5yearly,2060,1
-175,no_change,5yearly,2060,2.0
+175,no_change,5yearly,2060,2
 175,zero_migration,5yearly,2060,1.047
 175,constant_fertility,5yearly,2065,2.012
-175,constant_mortality,5yearly,2065,1.0
+175,constant_mortality,5yearly,2065,1
 175,high_variant,5yearly,2065,1.251
 175,instant_replacement,5yearly,2065,1
 175,low_variant,5yearly,2065,0.76
 175,medium_variant,5yearly,2065,1.006
 175,momentum,5yearly,2065,1
-175,no_change,5yearly,2065,2.0
+175,no_change,5yearly,2065,2
 175,zero_migration,5yearly,2065,1.006
 175,constant_fertility,5yearly,2070,2.013
 175,constant_mortality,5yearly,2070,0.966
@@ -118,7 +118,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2070,0.727
 175,medium_variant,5yearly,2070,0.972
 175,momentum,5yearly,2070,1
-175,no_change,5yearly,2070,2.0
+175,no_change,5yearly,2070,2
 175,zero_migration,5yearly,2070,0.972
 175,constant_fertility,5yearly,2075,2.013
 175,constant_mortality,5yearly,2075,0.939
@@ -127,7 +127,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2075,0.7
 175,medium_variant,5yearly,2075,0.946
 175,momentum,5yearly,2075,1
-175,no_change,5yearly,2075,2.0
+175,no_change,5yearly,2075,2
 175,zero_migration,5yearly,2075,0.946
 175,constant_fertility,5yearly,2080,2.014
 175,constant_mortality,5yearly,2080,0.919
@@ -136,7 +136,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2080,0.68
 175,medium_variant,5yearly,2080,0.925
 175,momentum,5yearly,2080,1
-175,no_change,5yearly,2080,2.0
+175,no_change,5yearly,2080,2
 175,zero_migration,5yearly,2080,0.925
 175,constant_fertility,5yearly,2085,2.014
 175,constant_mortality,5yearly,2085,0.904
@@ -145,7 +145,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2085,0.664
 175,medium_variant,5yearly,2085,0.91
 175,momentum,5yearly,2085,1
-175,no_change,5yearly,2085,2.0
+175,no_change,5yearly,2085,2
 175,zero_migration,5yearly,2085,0.91
 175,constant_fertility,5yearly,2090,2.015
 175,constant_mortality,5yearly,2090,0.894
@@ -154,7 +154,7 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2090,0.655
 175,medium_variant,5yearly,2090,0.901
 175,momentum,5yearly,2090,1
-175,no_change,5yearly,2090,2.0
+175,no_change,5yearly,2090,2
 175,zero_migration,5yearly,2090,0.901
 175,constant_fertility,5yearly,2095,2.015
 175,constant_mortality,5yearly,2095,0.888
@@ -163,15 +163,5 @@ country,variant,freq,year,netreporductionrate
 175,low_variant,5yearly,2095,0.649
 175,medium_variant,5yearly,2095,0.894
 175,momentum,5yearly,2095,1
-175,no_change,5yearly,2095,2.0
+175,no_change,5yearly,2095,2
 175,zero_migration,5yearly,2095,0.894
-175,constant_fertility,5yearly,Regi,Mayotte
-175,constant_mortality,5yearly,Regi,Mayotte
-175,estimates,5yearly,Regi,Mayotte
-175,high_variant,5yearly,Regi,Mayotte
-175,instant_replacement,5yearly,Regi,Mayotte
-175,low_variant,5yearly,Regi,Mayotte
-175,medium_variant,5yearly,Regi,Mayotte
-175,momentum,5yearly,Regi,Mayotte
-175,no_change,5yearly,Regi,Mayotte
-175,zero_migration,5yearly,Regi,Mayotte

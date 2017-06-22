@@ -121,7 +121,7 @@ country,variant,freq,year,netreporductionrate
 454,no_change,5yearly,2070,2.099
 454,zero_migration,5yearly,2070,1.141
 454,constant_fertility,5yearly,2075,2.322
-454,constant_mortality,5yearly,2075,1.0
+454,constant_mortality,5yearly,2075,1
 454,high_variant,5yearly,2075,1.338
 454,instant_replacement,5yearly,2075,1
 454,low_variant,5yearly,2075,0.862
@@ -152,10 +152,10 @@ country,variant,freq,year,netreporductionrate
 454,high_variant,5yearly,2090,1.239
 454,instant_replacement,5yearly,2090,1
 454,low_variant,5yearly,2090,0.76
-454,medium_variant,5yearly,2090,1.0
+454,medium_variant,5yearly,2090,1
 454,momentum,5yearly,2090,1
 454,no_change,5yearly,2090,2.099
-454,zero_migration,5yearly,2090,1.0
+454,zero_migration,5yearly,2090,1
 454,constant_fertility,5yearly,2095,2.34
 454,constant_mortality,5yearly,2095,0.878
 454,high_variant,5yearly,2095,1.215
@@ -165,13 +165,3 @@ country,variant,freq,year,netreporductionrate
 454,momentum,5yearly,2095,1
 454,no_change,5yearly,2095,2.099
 454,zero_migration,5yearly,2095,0.975
-454,constant_fertility,5yearly,Regi,Malawi
-454,constant_mortality,5yearly,Regi,Malawi
-454,estimates,5yearly,Regi,Malawi
-454,high_variant,5yearly,Regi,Malawi
-454,instant_replacement,5yearly,Regi,Malawi
-454,low_variant,5yearly,Regi,Malawi
-454,medium_variant,5yearly,Regi,Malawi
-454,momentum,5yearly,Regi,Malawi
-454,no_change,5yearly,Regi,Malawi
-454,zero_migration,5yearly,Regi,Malawi

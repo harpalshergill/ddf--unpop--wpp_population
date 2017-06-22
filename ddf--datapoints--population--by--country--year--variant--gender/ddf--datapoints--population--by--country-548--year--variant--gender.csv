@@ -575,7 +575,7 @@ country,variant,gender,year,population
 548,low_variant,male,2039,191.466
 548,medium_variant,female,2039,203.673
 548,medium_variant,male,2039,205.321
-548,momentum,female,2039,174.0
+548,momentum,female,2039,174
 548,momentum,male,2039,176.378
 548,no_change,female,2039,213.628
 548,no_change,male,2039,217.41
@@ -699,7 +699,7 @@ country,variant,gender,year,population
 548,instant_replacement,male,2046,191.541
 548,low_variant,female,2046,205.33
 548,low_variant,male,2046,205.579
-548,medium_variant,female,2046,225.0
+548,medium_variant,female,2046,225
 548,medium_variant,male,2046,226.183
 548,momentum,female,2046,184.605
 548,momentum,male,2046,186.641
@@ -1070,7 +1070,7 @@ country,variant,gender,year,population
 548,constant_fertility,female,2067,366.867
 548,constant_fertility,male,2067,376.816
 548,constant_mortality,female,2067,262.768
-548,constant_mortality,male,2067,262.0
+548,constant_mortality,male,2067,262
 548,high_variant,female,2067,335.926
 548,high_variant,male,2067,339.261
 548,instant_replacement,female,2067,220.764
@@ -1173,7 +1173,7 @@ country,variant,gender,year,population
 548,momentum,male,2072,204.433
 548,no_change,female,2072,374.204
 548,no_change,male,2072,382.55
-548,zero_migration,female,2072,288.0
+548,zero_migration,female,2072,288
 548,zero_migration,male,2072,292.479
 548,constant_fertility,female,2073,408.029
 548,constant_fertility,male,2073,420.764
@@ -1191,7 +1191,7 @@ country,variant,gender,year,population
 548,momentum,male,2073,204.64
 548,no_change,female,2073,380.288
 548,no_change,male,2073,388.87
-548,zero_migration,female,2073,290.0
+548,zero_migration,female,2073,290
 548,zero_migration,male,2073,294.583
 548,constant_fertility,female,2074,415.29
 548,constant_fertility,male,2074,428.558
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 548,no_change,male,2100,603.249
 548,zero_migration,female,2100,326.705
 548,zero_migration,male,2100,333.784
-548,constant_fertility,female,"Region, subregion, country or area *",Vanuatu
-548,constant_fertility,male,"Region, subregion, country or area *",Vanuatu
-548,constant_mortality,female,"Region, subregion, country or area *",Vanuatu
-548,constant_mortality,male,"Region, subregion, country or area *",Vanuatu
-548,estimates,female,"Region, subregion, country or area *",Vanuatu
-548,estimates,male,"Region, subregion, country or area *",Vanuatu
-548,high_variant,female,"Region, subregion, country or area *",Vanuatu
-548,high_variant,male,"Region, subregion, country or area *",Vanuatu
-548,instant_replacement,female,"Region, subregion, country or area *",Vanuatu
-548,instant_replacement,male,"Region, subregion, country or area *",Vanuatu
-548,low_variant,female,"Region, subregion, country or area *",Vanuatu
-548,low_variant,male,"Region, subregion, country or area *",Vanuatu
-548,medium_variant,female,"Region, subregion, country or area *",Vanuatu
-548,medium_variant,male,"Region, subregion, country or area *",Vanuatu
-548,momentum,female,"Region, subregion, country or area *",Vanuatu
-548,momentum,male,"Region, subregion, country or area *",Vanuatu
-548,no_change,female,"Region, subregion, country or area *",Vanuatu
-548,no_change,male,"Region, subregion, country or area *",Vanuatu
-548,zero_migration,female,"Region, subregion, country or area *",Vanuatu
-548,zero_migration,male,"Region, subregion, country or area *",Vanuatu

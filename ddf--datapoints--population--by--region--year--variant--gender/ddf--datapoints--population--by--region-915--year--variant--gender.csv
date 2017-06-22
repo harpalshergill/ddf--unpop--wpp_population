@@ -109,7 +109,7 @@ region,variant,gender,year,population
 915,estimates,male,2003,19563.251
 915,estimates,female,2004,20060.966
 915,estimates,male,2004,19725.601
-915,estimates,female,2005,20230.0
+915,estimates,female,2005,20230
 915,estimates,male,2005,19885.786
 915,estimates,female,2006,20397.637
 915,estimates,male,2006,20043.888
@@ -368,7 +368,7 @@ region,variant,gender,year,population
 915,constant_fertility,female,2028,23967.646
 915,constant_fertility,male,2028,23407.209
 915,constant_mortality,female,2028,23332.49
-915,constant_mortality,male,2028,22720.0
+915,constant_mortality,male,2028,22720
 915,high_variant,female,2028,24291.68
 915,high_variant,male,2028,23748.1
 915,instant_replacement,female,2028,23570.986
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 915,no_change,male,2100,27876.036
 915,zero_migration,female,2100,24935.678
 915,zero_migration,male,2100,24524.965
-915,constant_fertility,female,"Region, subregion, country or area *",Caribbean
-915,constant_fertility,male,"Region, subregion, country or area *",Caribbean
-915,constant_mortality,female,"Region, subregion, country or area *",Caribbean
-915,constant_mortality,male,"Region, subregion, country or area *",Caribbean
-915,estimates,female,"Region, subregion, country or area *",Caribbean
-915,estimates,male,"Region, subregion, country or area *",Caribbean
-915,high_variant,female,"Region, subregion, country or area *",Caribbean
-915,high_variant,male,"Region, subregion, country or area *",Caribbean
-915,instant_replacement,female,"Region, subregion, country or area *",Caribbean
-915,instant_replacement,male,"Region, subregion, country or area *",Caribbean
-915,low_variant,female,"Region, subregion, country or area *",Caribbean
-915,low_variant,male,"Region, subregion, country or area *",Caribbean
-915,medium_variant,female,"Region, subregion, country or area *",Caribbean
-915,medium_variant,male,"Region, subregion, country or area *",Caribbean
-915,momentum,female,"Region, subregion, country or area *",Caribbean
-915,momentum,male,"Region, subregion, country or area *",Caribbean
-915,no_change,female,"Region, subregion, country or area *",Caribbean
-915,no_change,male,"Region, subregion, country or area *",Caribbean
-915,zero_migration,female,"Region, subregion, country or area *",Caribbean
-915,zero_migration,male,"Region, subregion, country or area *",Caribbean

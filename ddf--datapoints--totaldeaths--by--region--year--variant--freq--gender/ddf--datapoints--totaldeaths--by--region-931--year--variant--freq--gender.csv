@@ -81,7 +81,7 @@ region,variant,gender,freq,year,totaldeaths
 931,zero_migration,male,5yearly,2025,8673.197
 931,constant_fertility,female,5yearly,2030,8124.35
 931,constant_fertility,male,5yearly,2030,9372.141
-931,constant_mortality,female,5yearly,2030,9647.0
+931,constant_mortality,female,5yearly,2030,9647
 931,constant_mortality,male,5yearly,2030,11332.578
 931,high_variant,female,5yearly,2030,8147.251
 931,high_variant,male,5yearly,2030,9402.884
@@ -143,7 +143,7 @@ region,variant,gender,freq,year,totaldeaths
 931,instant_replacement,male,5yearly,2045,11459.978
 931,low_variant,female,5yearly,2045,10790.459
 931,low_variant,male,5yearly,2045,11276.626
-931,medium_variant,female,5yearly,2045,10856.0
+931,medium_variant,female,5yearly,2045,10856
 931,medium_variant,male,5yearly,2045,11391.286
 931,momentum,female,5yearly,2045,13422.892
 931,momentum,male,5yearly,2045,14924.966
@@ -331,23 +331,3 @@ region,variant,gender,freq,year,totaldeaths
 931,no_change,male,5yearly,2095,17546.424
 931,zero_migration,female,5yearly,2095,14684.085
 931,zero_migration,male,5yearly,2095,14738.431
-931,constant_fertility,female,5yearly,Regi,South America
-931,constant_fertility,male,5yearly,Regi,South America
-931,constant_mortality,female,5yearly,Regi,South America
-931,constant_mortality,male,5yearly,Regi,South America
-931,estimates,female,5yearly,Regi,South America
-931,estimates,male,5yearly,Regi,South America
-931,high_variant,female,5yearly,Regi,South America
-931,high_variant,male,5yearly,Regi,South America
-931,instant_replacement,female,5yearly,Regi,South America
-931,instant_replacement,male,5yearly,Regi,South America
-931,low_variant,female,5yearly,Regi,South America
-931,low_variant,male,5yearly,Regi,South America
-931,medium_variant,female,5yearly,Regi,South America
-931,medium_variant,male,5yearly,Regi,South America
-931,momentum,female,5yearly,Regi,South America
-931,momentum,male,5yearly,Regi,South America
-931,no_change,female,5yearly,Regi,South America
-931,no_change,male,5yearly,Regi,South America
-931,zero_migration,female,5yearly,Regi,South America
-931,zero_migration,male,5yearly,Regi,South America

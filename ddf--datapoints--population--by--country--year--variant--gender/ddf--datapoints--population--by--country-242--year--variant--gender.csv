@@ -1,6 +1,6 @@
 country,variant,gender,year,population
 242,estimates,female,1950,137.994
-242,estimates,male,1950,151.0
+242,estimates,male,1950,151
 242,estimates,female,1951,143.131
 242,estimates,male,1951,153.075
 242,estimates,female,1952,148.53
@@ -744,7 +744,7 @@ country,variant,gender,year,population
 242,zero_migration,female,2048,586.869
 242,zero_migration,male,2048,582.047
 242,constant_fertility,female,2049,554.828
-242,constant_fertility,male,2049,554.0
+242,constant_fertility,male,2049,554
 242,constant_mortality,female,2049,481.349
 242,constant_mortality,male,2049,479.118
 242,high_variant,female,2049,561.213
@@ -1048,7 +1048,7 @@ country,variant,gender,year,population
 242,no_change,female,2065,567.86
 242,no_change,male,2065,566.342
 242,zero_migration,female,2065,622.677
-242,zero_migration,male,2065,612.0
+242,zero_migration,male,2065,612
 242,constant_fertility,female,2066,609.87
 242,constant_fertility,male,2066,609.286
 242,constant_mortality,female,2066,452.593
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 242,no_change,male,2100,672.938
 242,zero_migration,female,2100,621.107
 242,zero_migration,male,2100,613.646
-242,constant_fertility,female,"Region, subregion, country or area *",Fiji
-242,constant_fertility,male,"Region, subregion, country or area *",Fiji
-242,constant_mortality,female,"Region, subregion, country or area *",Fiji
-242,constant_mortality,male,"Region, subregion, country or area *",Fiji
-242,estimates,female,"Region, subregion, country or area *",Fiji
-242,estimates,male,"Region, subregion, country or area *",Fiji
-242,high_variant,female,"Region, subregion, country or area *",Fiji
-242,high_variant,male,"Region, subregion, country or area *",Fiji
-242,instant_replacement,female,"Region, subregion, country or area *",Fiji
-242,instant_replacement,male,"Region, subregion, country or area *",Fiji
-242,low_variant,female,"Region, subregion, country or area *",Fiji
-242,low_variant,male,"Region, subregion, country or area *",Fiji
-242,medium_variant,female,"Region, subregion, country or area *",Fiji
-242,medium_variant,male,"Region, subregion, country or area *",Fiji
-242,momentum,female,"Region, subregion, country or area *",Fiji
-242,momentum,male,"Region, subregion, country or area *",Fiji
-242,no_change,female,"Region, subregion, country or area *",Fiji
-242,no_change,male,"Region, subregion, country or area *",Fiji
-242,zero_migration,female,"Region, subregion, country or area *",Fiji
-242,zero_migration,male,"Region, subregion, country or area *",Fiji

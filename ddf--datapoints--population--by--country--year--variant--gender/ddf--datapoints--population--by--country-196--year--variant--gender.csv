@@ -3,7 +3,7 @@ country,variant,gender,year,population
 196,estimates,male,1950,243.639
 196,estimates,female,1951,254.289
 196,estimates,male,1951,246.095
-196,estimates,female,1952,258.0
+196,estimates,female,1952,258
 196,estimates,male,1952,248.63
 196,estimates,female,1953,261.827
 196,estimates,male,1953,251.602
@@ -450,7 +450,7 @@ country,variant,gender,year,population
 196,medium_variant,female,2032,647.599
 196,medium_variant,male,2032,647.553
 196,momentum,female,2032,645.35
-196,momentum,male,2032,648.0
+196,momentum,male,2032,648
 196,no_change,female,2032,639.866
 196,no_change,male,2032,635.434
 196,zero_migration,female,2032,602.705
@@ -587,7 +587,7 @@ country,variant,gender,year,population
 196,constant_mortality,male,2040,647.757
 196,high_variant,female,2040,713.79
 196,high_variant,male,2040,719.855
-196,instant_replacement,female,2040,741.0
+196,instant_replacement,female,2040,741
 196,instant_replacement,male,2040,748.942
 196,low_variant,female,2040,624.921
 196,low_variant,male,2040,624.847
@@ -1663,7 +1663,7 @@ country,variant,gender,year,population
 196,zero_migration,male,2099,429.779
 196,constant_fertility,female,2100,563.988
 196,constant_fertility,male,2100,576.623
-196,constant_mortality,female,2100,571.0
+196,constant_mortality,female,2100,571
 196,constant_mortality,male,2100,570.759
 196,high_variant,female,2100,946.776
 196,high_variant,male,2100,985.053
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 196,no_change,male,2100,477.601
 196,zero_migration,female,2100,416.278
 196,zero_migration,male,2100,427.341
-196,constant_fertility,female,"Region, subregion, country or area *",Cyprus
-196,constant_fertility,male,"Region, subregion, country or area *",Cyprus
-196,constant_mortality,female,"Region, subregion, country or area *",Cyprus
-196,constant_mortality,male,"Region, subregion, country or area *",Cyprus
-196,estimates,female,"Region, subregion, country or area *",Cyprus
-196,estimates,male,"Region, subregion, country or area *",Cyprus
-196,high_variant,female,"Region, subregion, country or area *",Cyprus
-196,high_variant,male,"Region, subregion, country or area *",Cyprus
-196,instant_replacement,female,"Region, subregion, country or area *",Cyprus
-196,instant_replacement,male,"Region, subregion, country or area *",Cyprus
-196,low_variant,female,"Region, subregion, country or area *",Cyprus
-196,low_variant,male,"Region, subregion, country or area *",Cyprus
-196,medium_variant,female,"Region, subregion, country or area *",Cyprus
-196,medium_variant,male,"Region, subregion, country or area *",Cyprus
-196,momentum,female,"Region, subregion, country or area *",Cyprus
-196,momentum,male,"Region, subregion, country or area *",Cyprus
-196,no_change,female,"Region, subregion, country or area *",Cyprus
-196,no_change,male,"Region, subregion, country or area *",Cyprus
-196,zero_migration,female,"Region, subregion, country or area *",Cyprus
-196,zero_migration,male,"Region, subregion, country or area *",Cyprus

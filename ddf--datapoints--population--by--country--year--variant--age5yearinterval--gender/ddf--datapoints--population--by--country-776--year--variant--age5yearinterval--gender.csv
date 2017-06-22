@@ -1,11 +1,9 @@
 country,year,variant,gender,age5yearinterval,population
-776,1950,estimates,female,"Region, subregion, country or area *",Tonga
-776,1950,estimates,male,"Region, subregion, country or area *",Tonga
 776,1950,estimates,female,0_4,4.565
 776,1950,estimates,male,0_4,4.886
 776,1950,estimates,female,5_9,3.627
 776,1950,estimates,male,5_9,3.826
-776,1950,estimates,female,10_14,3.0
+776,1950,estimates,female,10_14,3
 776,1950,estimates,male,10_14,3.159
 776,1950,estimates,female,15_19,2.481
 776,1950,estimates,male,15_19,2.608
@@ -35,8 +33,6 @@ country,year,variant,gender,age5yearinterval,population
 776,1950,estimates,male,75_79,0.053
 776,1950,estimates,female,80plus,0.045
 776,1950,estimates,male,80plus,0.023
-776,1955,estimates,female,"Region, subregion, country or area *",Tonga
-776,1955,estimates,male,"Region, subregion, country or area *",Tonga
 776,1955,estimates,female,0_4,5.055
 776,1955,estimates,male,0_4,5.383
 776,1955,estimates,female,5_9,3.805
@@ -71,8 +67,6 @@ country,year,variant,gender,age5yearinterval,population
 776,1955,estimates,male,75_79,0.111
 776,1955,estimates,female,80plus,0.084
 776,1955,estimates,male,80plus,0.049
-776,1960,estimates,female,"Region, subregion, country or area *",Tonga
-776,1960,estimates,male,"Region, subregion, country or area *",Tonga
 776,1960,estimates,female,0_4,5.654
 776,1960,estimates,male,0_4,6.071
 776,1960,estimates,female,5_9,4.218
@@ -107,8 +101,6 @@ country,year,variant,gender,age5yearinterval,population
 776,1960,estimates,male,75_79,0.164
 776,1960,estimates,female,80plus,0.173
 776,1960,estimates,male,80plus,0.11
-776,1965,estimates,female,"Region, subregion, country or area *",Tonga
-776,1965,estimates,male,"Region, subregion, country or area *",Tonga
 776,1965,estimates,female,0_4,7.116
 776,1965,estimates,male,0_4,7.569
 776,1965,estimates,female,5_9,5.391
@@ -143,8 +135,6 @@ country,year,variant,gender,age5yearinterval,population
 776,1965,estimates,male,75_79,0.173
 776,1965,estimates,female,80plus,0.189
 776,1965,estimates,male,80plus,0.125
-776,1970,estimates,female,"Region, subregion, country or area *",Tonga
-776,1970,estimates,male,"Region, subregion, country or area *",Tonga
 776,1970,estimates,female,0_4,7.307
 776,1970,estimates,male,0_4,7.775
 776,1970,estimates,female,5_9,6.871
@@ -179,8 +169,6 @@ country,year,variant,gender,age5yearinterval,population
 776,1970,estimates,male,75_79,0.157
 776,1970,estimates,female,80plus,0.185
 776,1970,estimates,male,80plus,0.128
-776,1975,estimates,female,"Region, subregion, country or area *",Tonga
-776,1975,estimates,male,"Region, subregion, country or area *",Tonga
 776,1975,estimates,female,0_4,6.215
 776,1975,estimates,male,0_4,6.645
 776,1975,estimates,female,5_9,6.724
@@ -215,8 +203,6 @@ country,year,variant,gender,age5yearinterval,population
 776,1975,estimates,male,75_79,0.222
 776,1975,estimates,female,80plus,0.206
 776,1975,estimates,male,80plus,0.131
-776,1980,estimates,female,"Region, subregion, country or area *",Tonga
-776,1980,estimates,male,"Region, subregion, country or area *",Tonga
 776,1980,estimates,female,0_4,6.431
 776,1980,estimates,male,0_4,6.84
 776,1980,estimates,female,5_9,5.721
@@ -251,8 +237,6 @@ country,year,variant,gender,age5yearinterval,population
 776,1980,estimates,male,75_79,0.263
 776,1980,estimates,female,80plus,0.269
 776,1980,estimates,male,80plus,0.174
-776,1985,estimates,female,"Region, subregion, country or area *",Tonga
-776,1985,estimates,male,"Region, subregion, country or area *",Tonga
 776,1985,estimates,female,0_4,6.953
 776,1985,estimates,male,0_4,7.386
 776,1985,estimates,female,5_9,5.81
@@ -287,8 +271,6 @@ country,year,variant,gender,age5yearinterval,population
 776,1985,estimates,male,75_79,0.294
 776,1985,estimates,female,80plus,0.329
 776,1985,estimates,male,80plus,0.218
-776,1990,estimates,female,"Region, subregion, country or area *",Tonga
-776,1990,estimates,male,"Region, subregion, country or area *",Tonga
 776,1990,estimates,female,0_4,6.461
 776,1990,estimates,male,0_4,6.949
 776,1990,estimates,female,5_9,6.271
@@ -330,9 +312,7 @@ country,year,variant,gender,age5yearinterval,population
 776,1990,estimates,female,95_99,0.007
 776,1990,estimates,male,95_99,0.002
 776,1990,estimates,female,100plus,0.001
-776,1990,estimates,male,100plus,0.0
-776,1995,estimates,female,"Region, subregion, country or area *",Tonga
-776,1995,estimates,male,"Region, subregion, country or area *",Tonga
+776,1990,estimates,male,100plus,0
 776,1995,estimates,female,0_4,6.571
 776,1995,estimates,male,0_4,6.999
 776,1995,estimates,female,5_9,5.666
@@ -374,9 +354,7 @@ country,year,variant,gender,age5yearinterval,population
 776,1995,estimates,female,95_99,0.01
 776,1995,estimates,male,95_99,0.003
 776,1995,estimates,female,100plus,0.001
-776,1995,estimates,male,100plus,0.0
-776,2000,estimates,female,"Region, subregion, country or area *",Tonga
-776,2000,estimates,male,"Region, subregion, country or area *",Tonga
+776,1995,estimates,male,100plus,0
 776,2000,estimates,female,0_4,6.449
 776,2000,estimates,male,0_4,6.831
 776,2000,estimates,female,5_9,6.319
@@ -418,9 +396,7 @@ country,year,variant,gender,age5yearinterval,population
 776,2000,estimates,female,95_99,0.012
 776,2000,estimates,male,95_99,0.004
 776,2000,estimates,female,100plus,0.002
-776,2000,estimates,male,100plus,0.0
-776,2005,estimates,female,"Region, subregion, country or area *",Tonga
-776,2005,estimates,male,"Region, subregion, country or area *",Tonga
+776,2000,estimates,male,100plus,0
 776,2005,estimates,female,0_4,6.645
 776,2005,estimates,male,0_4,7.109
 776,2005,estimates,female,5_9,6.117
@@ -462,9 +438,7 @@ country,year,variant,gender,age5yearinterval,population
 776,2005,estimates,female,95_99,0.013
 776,2005,estimates,male,95_99,0.005
 776,2005,estimates,female,100plus,0.002
-776,2005,estimates,male,100plus,0.0
-776,2010,estimates,female,"Region, subregion, country or area *",Tonga
-776,2010,estimates,male,"Region, subregion, country or area *",Tonga
+776,2005,estimates,male,100plus,0
 776,2010,estimates,female,0_4,6.656
 776,2010,estimates,male,0_4,7.095
 776,2010,estimates,female,5_9,6.216
@@ -507,26 +481,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2010,estimates,male,95_99,0.007
 776,2010,estimates,female,100plus,0.002
 776,2010,estimates,male,100plus,0.001
-776,2015,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2015,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2015,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2015,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2015,estimates,female,"Region, subregion, country or area *",Tonga
-776,2015,estimates,male,"Region, subregion, country or area *",Tonga
-776,2015,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2015,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2015,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2015,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2015,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2015,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2015,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2015,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2015,momentum,female,"Region, subregion, country or area *",Tonga
-776,2015,momentum,male,"Region, subregion, country or area *",Tonga
-776,2015,no_change,female,"Region, subregion, country or area *",Tonga
-776,2015,no_change,male,"Region, subregion, country or area *",Tonga
-776,2015,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2015,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2015,constant_fertility,female,0_4,6.305
 776,2015,constant_fertility,male,0_4,6.629
 776,2015,constant_mortality,female,0_4,6.305
@@ -947,24 +901,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2015,no_change,male,100plus,0.001
 776,2015,zero_migration,female,100plus,0.003
 776,2015,zero_migration,male,100plus,0.001
-776,2020,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2020,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2020,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2020,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2020,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2020,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2020,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2020,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2020,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2020,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2020,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2020,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2020,momentum,female,"Region, subregion, country or area *",Tonga
-776,2020,momentum,male,"Region, subregion, country or area *",Tonga
-776,2020,no_change,female,"Region, subregion, country or area *",Tonga
-776,2020,no_change,male,"Region, subregion, country or area *",Tonga
-776,2020,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2020,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2020,constant_fertility,female,0_4,6.387
 776,2020,constant_fertility,male,0_4,6.713
 776,2020,constant_mortality,female,0_4,5.996
@@ -1343,24 +1279,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2020,no_change,male,100plus,0.001
 776,2020,zero_migration,female,100plus,0.005
 776,2020,zero_migration,male,100plus,0.001
-776,2025,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2025,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2025,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2025,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2025,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2025,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2025,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2025,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2025,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2025,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2025,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2025,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2025,momentum,female,"Region, subregion, country or area *",Tonga
-776,2025,momentum,male,"Region, subregion, country or area *",Tonga
-776,2025,no_change,female,"Region, subregion, country or area *",Tonga
-776,2025,no_change,male,"Region, subregion, country or area *",Tonga
-776,2025,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2025,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2025,constant_fertility,female,0_4,6.886
 776,2025,constant_fertility,male,0_4,7.239
 776,2025,constant_mortality,female,0_4,6.103
@@ -1539,7 +1457,7 @@ country,year,variant,gender,age5yearinterval,population
 776,2025,momentum,male,45_49,2.759
 776,2025,no_change,female,45_49,2.687
 776,2025,no_change,male,45_49,2.435
-776,2025,zero_migration,female,45_49,3.0
+776,2025,zero_migration,female,45_49,3
 776,2025,zero_migration,male,45_49,2.77
 776,2025,constant_fertility,female,50_54,2.681
 776,2025,constant_fertility,male,50_54,2.494
@@ -1739,24 +1657,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2025,no_change,male,100plus,0.001
 776,2025,zero_migration,female,100plus,0.007
 776,2025,zero_migration,male,100plus,0.001
-776,2030,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2030,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2030,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2030,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2030,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2030,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2030,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2030,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2030,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2030,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2030,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2030,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2030,momentum,female,"Region, subregion, country or area *",Tonga
-776,2030,momentum,male,"Region, subregion, country or area *",Tonga
-776,2030,no_change,female,"Region, subregion, country or area *",Tonga
-776,2030,no_change,male,"Region, subregion, country or area *",Tonga
-776,2030,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2030,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2030,constant_fertility,female,0_4,7.582
 776,2030,constant_fertility,male,0_4,7.972
 776,2030,constant_mortality,female,0_4,6.396
@@ -2135,24 +2035,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2030,no_change,male,100plus,0.001
 776,2030,zero_migration,female,100plus,0.01
 776,2030,zero_migration,male,100plus,0.001
-776,2035,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2035,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2035,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2035,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2035,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2035,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2035,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2035,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2035,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2035,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2035,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2035,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2035,momentum,female,"Region, subregion, country or area *",Tonga
-776,2035,momentum,male,"Region, subregion, country or area *",Tonga
-776,2035,no_change,female,"Region, subregion, country or area *",Tonga
-776,2035,no_change,male,"Region, subregion, country or area *",Tonga
-776,2035,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2035,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2035,constant_fertility,female,0_4,8.215
 776,2035,constant_fertility,male,0_4,8.64
 776,2035,constant_mortality,female,0_4,6.611
@@ -2531,24 +2413,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2035,no_change,male,100plus,0.001
 776,2035,zero_migration,female,100plus,0.012
 776,2035,zero_migration,male,100plus,0.001
-776,2040,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2040,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2040,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2040,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2040,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2040,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2040,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2040,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2040,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2040,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2040,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2040,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2040,momentum,female,"Region, subregion, country or area *",Tonga
-776,2040,momentum,male,"Region, subregion, country or area *",Tonga
-776,2040,no_change,female,"Region, subregion, country or area *",Tonga
-776,2040,no_change,male,"Region, subregion, country or area *",Tonga
-776,2040,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2040,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2040,constant_fertility,female,0_4,8.616
 776,2040,constant_fertility,male,0_4,9.066
 776,2040,constant_mortality,female,0_4,6.594
@@ -2591,7 +2455,7 @@ country,year,variant,gender,age5yearinterval,population
 776,2040,constant_mortality,male,10_14,6.516
 776,2040,high_variant,female,10_14,7.244
 776,2040,high_variant,male,10_14,7.628
-776,2040,instant_replacement,female,10_14,4.0
+776,2040,instant_replacement,female,10_14,4
 776,2040,instant_replacement,male,10_14,4.22
 776,2040,low_variant,female,10_14,5.232
 776,2040,low_variant,male,10_14,5.512
@@ -2927,24 +2791,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2040,no_change,male,100plus,0.001
 776,2040,zero_migration,female,100plus,0.014
 776,2040,zero_migration,male,100plus,0.001
-776,2045,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2045,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2045,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2045,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2045,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2045,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2045,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2045,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2045,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2045,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2045,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2045,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2045,momentum,female,"Region, subregion, country or area *",Tonga
-776,2045,momentum,male,"Region, subregion, country or area *",Tonga
-776,2045,no_change,female,"Region, subregion, country or area *",Tonga
-776,2045,no_change,male,"Region, subregion, country or area *",Tonga
-776,2045,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2045,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2045,constant_fertility,female,0_4,8.866
 776,2045,constant_fertility,male,0_4,9.335
 776,2045,constant_mortality,female,0_4,6.319
@@ -3323,24 +3169,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2045,no_change,male,100plus,0.001
 776,2045,zero_migration,female,100plus,0.016
 776,2045,zero_migration,male,100plus,0.001
-776,2050,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2050,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2050,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2050,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2050,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2050,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2050,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2050,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2050,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2050,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2050,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2050,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2050,momentum,female,"Region, subregion, country or area *",Tonga
-776,2050,momentum,male,"Region, subregion, country or area *",Tonga
-776,2050,no_change,female,"Region, subregion, country or area *",Tonga
-776,2050,no_change,male,"Region, subregion, country or area *",Tonga
-776,2050,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2050,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2050,constant_fertility,female,0_4,9.216
 776,2050,constant_fertility,male,0_4,9.705
 776,2050,constant_mortality,female,0_4,5.966
@@ -3719,24 +3547,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2050,no_change,male,100plus,0.001
 776,2050,zero_migration,female,100plus,0.02
 776,2050,zero_migration,male,100plus,0.002
-776,2055,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2055,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2055,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2055,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2055,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2055,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2055,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2055,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2055,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2055,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2055,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2055,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2055,momentum,female,"Region, subregion, country or area *",Tonga
-776,2055,momentum,male,"Region, subregion, country or area *",Tonga
-776,2055,no_change,female,"Region, subregion, country or area *",Tonga
-776,2055,no_change,male,"Region, subregion, country or area *",Tonga
-776,2055,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2055,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2055,constant_fertility,female,0_4,9.882
 776,2055,constant_fertility,male,0_4,10.409
 776,2055,constant_mortality,female,0_4,5.767
@@ -4115,24 +3925,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2055,no_change,male,100plus,0.001
 776,2055,zero_migration,female,100plus,0.026
 776,2055,zero_migration,male,100plus,0.002
-776,2060,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2060,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2060,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2060,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2060,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2060,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2060,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2060,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2060,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2060,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2060,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2060,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2060,momentum,female,"Region, subregion, country or area *",Tonga
-776,2060,momentum,male,"Region, subregion, country or area *",Tonga
-776,2060,no_change,female,"Region, subregion, country or area *",Tonga
-776,2060,no_change,male,"Region, subregion, country or area *",Tonga
-776,2060,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2060,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2060,constant_fertility,female,0_4,10.837
 776,2060,constant_fertility,male,0_4,11.421
 776,2060,constant_mortality,female,0_4,5.759
@@ -4188,7 +3980,7 @@ country,year,variant,gender,age5yearinterval,population
 776,2060,zero_migration,female,10_14,8.57
 776,2060,zero_migration,male,10_14,9.024
 776,2060,constant_fertility,female,15_19,8.517
-776,2060,constant_fertility,male,15_19,9.0
+776,2060,constant_fertility,male,15_19,9
 776,2060,constant_mortality,female,15_19,5.961
 776,2060,constant_mortality,male,15_19,6.28
 776,2060,high_variant,female,15_19,7.415
@@ -4204,7 +3996,7 @@ country,year,variant,gender,age5yearinterval,population
 776,2060,no_change,female,15_19,8.395
 776,2060,no_change,male,15_19,8.834
 776,2060,zero_migration,female,15_19,8.551
-776,2060,zero_migration,male,15_19,9.0
+776,2060,zero_migration,male,15_19,9
 776,2060,constant_fertility,female,20_24,7.887
 776,2060,constant_fertility,male,20_24,8.375
 776,2060,constant_mortality,female,20_24,5.854
@@ -4511,24 +4303,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2060,no_change,male,100plus,0.002
 776,2060,zero_migration,female,100plus,0.041
 776,2060,zero_migration,male,100plus,0.004
-776,2065,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2065,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2065,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2065,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2065,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2065,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2065,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2065,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2065,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2065,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2065,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2065,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2065,momentum,female,"Region, subregion, country or area *",Tonga
-776,2065,momentum,male,"Region, subregion, country or area *",Tonga
-776,2065,no_change,female,"Region, subregion, country or area *",Tonga
-776,2065,no_change,male,"Region, subregion, country or area *",Tonga
-776,2065,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2065,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2065,constant_fertility,female,0_4,11.881
 776,2065,constant_fertility,male,0_4,12.521
 776,2065,constant_mortality,female,0_4,5.774
@@ -4907,24 +4681,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2065,no_change,male,100plus,0.002
 776,2065,zero_migration,female,100plus,0.05
 776,2065,zero_migration,male,100plus,0.005
-776,2070,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2070,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2070,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2070,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2070,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2070,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2070,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2070,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2070,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2070,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2070,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2070,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2070,momentum,female,"Region, subregion, country or area *",Tonga
-776,2070,momentum,male,"Region, subregion, country or area *",Tonga
-776,2070,no_change,female,"Region, subregion, country or area *",Tonga
-776,2070,no_change,male,"Region, subregion, country or area *",Tonga
-776,2070,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2070,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2070,constant_fertility,female,0_4,12.841
 776,2070,constant_fertility,male,0_4,13.533
 776,2070,constant_mortality,female,0_4,5.655
@@ -5303,24 +5059,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2070,no_change,male,100plus,0.002
 776,2070,zero_migration,female,100plus,0.066
 776,2070,zero_migration,male,100plus,0.008
-776,2075,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2075,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2075,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2075,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2075,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2075,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2075,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2075,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2075,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2075,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2075,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2075,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2075,momentum,female,"Region, subregion, country or area *",Tonga
-776,2075,momentum,male,"Region, subregion, country or area *",Tonga
-776,2075,no_change,female,"Region, subregion, country or area *",Tonga
-776,2075,no_change,male,"Region, subregion, country or area *",Tonga
-776,2075,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2075,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2075,constant_fertility,female,0_4,13.73
 776,2075,constant_fertility,male,0_4,14.473
 776,2075,constant_mortality,female,0_4,5.38
@@ -5699,24 +5437,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2075,no_change,male,100plus,0.002
 776,2075,zero_migration,female,100plus,0.092
 776,2075,zero_migration,male,100plus,0.012
-776,2080,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2080,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2080,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2080,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2080,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2080,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2080,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2080,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2080,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2080,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2080,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2080,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2080,momentum,female,"Region, subregion, country or area *",Tonga
-776,2080,momentum,male,"Region, subregion, country or area *",Tonga
-776,2080,no_change,female,"Region, subregion, country or area *",Tonga
-776,2080,no_change,male,"Region, subregion, country or area *",Tonga
-776,2080,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2080,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2080,constant_fertility,female,0_4,14.732
 776,2080,constant_fertility,male,0_4,15.527
 776,2080,constant_mortality,female,0_4,5.05
@@ -6095,24 +5815,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2080,no_change,male,100plus,0.002
 776,2080,zero_migration,female,100plus,0.111
 776,2080,zero_migration,male,100plus,0.016
-776,2085,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2085,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2085,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2085,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2085,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2085,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2085,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2085,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2085,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2085,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2085,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2085,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2085,momentum,female,"Region, subregion, country or area *",Tonga
-776,2085,momentum,male,"Region, subregion, country or area *",Tonga
-776,2085,no_change,female,"Region, subregion, country or area *",Tonga
-776,2085,no_change,male,"Region, subregion, country or area *",Tonga
-776,2085,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2085,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2085,constant_fertility,female,0_4,16.018
 776,2085,constant_fertility,male,0_4,16.884
 776,2085,constant_mortality,female,0_4,4.784
@@ -6491,24 +6193,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2085,no_change,male,100plus,0.002
 776,2085,zero_migration,female,100plus,0.136
 776,2085,zero_migration,male,100plus,0.024
-776,2090,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2090,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2090,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2090,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2090,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2090,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2090,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2090,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2090,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2090,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2090,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2090,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2090,momentum,female,"Region, subregion, country or area *",Tonga
-776,2090,momentum,male,"Region, subregion, country or area *",Tonga
-776,2090,no_change,female,"Region, subregion, country or area *",Tonga
-776,2090,no_change,male,"Region, subregion, country or area *",Tonga
-776,2090,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2090,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2090,constant_fertility,female,0_4,17.624
 776,2090,constant_fertility,male,0_4,18.575
 776,2090,constant_mortality,female,0_4,4.632
@@ -6887,24 +6571,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2090,no_change,male,100plus,0.002
 776,2090,zero_migration,female,100plus,0.158
 776,2090,zero_migration,male,100plus,0.034
-776,2095,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2095,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2095,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2095,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2095,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2095,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2095,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2095,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2095,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2095,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2095,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2095,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2095,momentum,female,"Region, subregion, country or area *",Tonga
-776,2095,momentum,male,"Region, subregion, country or area *",Tonga
-776,2095,no_change,female,"Region, subregion, country or area *",Tonga
-776,2095,no_change,male,"Region, subregion, country or area *",Tonga
-776,2095,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2095,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2095,constant_fertility,female,0_4,19.44
 776,2095,constant_fertility,male,0_4,20.488
 776,2095,constant_mortality,female,0_4,4.532
@@ -7283,24 +6949,6 @@ country,year,variant,gender,age5yearinterval,population
 776,2095,no_change,male,100plus,0.002
 776,2095,zero_migration,female,100plus,0.237
 776,2095,zero_migration,male,100plus,0.062
-776,2100,constant_fertility,female,"Region, subregion, country or area *",Tonga
-776,2100,constant_fertility,male,"Region, subregion, country or area *",Tonga
-776,2100,constant_mortality,female,"Region, subregion, country or area *",Tonga
-776,2100,constant_mortality,male,"Region, subregion, country or area *",Tonga
-776,2100,high_variant,female,"Region, subregion, country or area *",Tonga
-776,2100,high_variant,male,"Region, subregion, country or area *",Tonga
-776,2100,instant_replacement,female,"Region, subregion, country or area *",Tonga
-776,2100,instant_replacement,male,"Region, subregion, country or area *",Tonga
-776,2100,low_variant,female,"Region, subregion, country or area *",Tonga
-776,2100,low_variant,male,"Region, subregion, country or area *",Tonga
-776,2100,medium_variant,female,"Region, subregion, country or area *",Tonga
-776,2100,medium_variant,male,"Region, subregion, country or area *",Tonga
-776,2100,momentum,female,"Region, subregion, country or area *",Tonga
-776,2100,momentum,male,"Region, subregion, country or area *",Tonga
-776,2100,no_change,female,"Region, subregion, country or area *",Tonga
-776,2100,no_change,male,"Region, subregion, country or area *",Tonga
-776,2100,zero_migration,female,"Region, subregion, country or area *",Tonga
-776,2100,zero_migration,male,"Region, subregion, country or area *",Tonga
 776,2100,constant_fertility,female,0_4,21.338
 776,2100,constant_fertility,male,0_4,22.484
 776,2100,constant_mortality,female,0_4,4.401
@@ -7391,7 +7039,7 @@ country,year,variant,gender,age5yearinterval,population
 776,2100,no_change,male,20_24,14.381
 776,2100,zero_migration,female,20_24,9.209
 776,2100,zero_migration,male,20_24,9.708
-776,2100,constant_fertility,female,25_29,13.0
+776,2100,constant_fertility,female,25_29,13
 776,2100,constant_fertility,male,25_29,13.789
 776,2100,constant_mortality,female,25_29,4.645
 776,2100,constant_mortality,male,25_29,4.924

@@ -25,7 +25,7 @@ country,variant,year,populationdensitypersqkm
 674,estimates,1973,324.433333333333
 674,estimates,1974,326.033333333333
 674,estimates,1975,328.916666666667
-674,estimates,1976,333.0
+674,estimates,1976,333
 674,estimates,1977,338.266666666667
 674,estimates,1978,344.333333333333
 674,estimates,1979,350.5
@@ -102,7 +102,7 @@ country,variant,year,populationdensitypersqkm
 674,no_change,2018,557.05
 674,zero_migration,2018,550.266666666667
 674,constant_fertility,2019,559.866666666667
-674,constant_mortality,2019,560.0
+674,constant_mortality,2019,560
 674,high_variant,2019,564.633333333333
 674,instant_replacement,2019,571.8
 674,low_variant,2019,557.716666666667
@@ -162,7 +162,7 @@ country,variant,year,populationdensitypersqkm
 674,low_variant,2025,560.416666666667
 674,medium_variant,2025,572.116666666667
 674,momentum,2025,567.833333333333
-674,no_change,2025,563.0
+674,no_change,2025,563
 674,zero_migration,2025,548.516666666667
 674,constant_fertility,2026,567.85
 674,constant_mortality,2026,568.633333333333
@@ -223,7 +223,7 @@ country,variant,year,populationdensitypersqkm
 674,high_variant,2032,603.033333333333
 674,instant_replacement,2032,617.516666666667
 674,low_variant,2032,556.766666666667
-674,medium_variant,2032,580.0
+674,medium_variant,2032,580
 674,momentum,2032,566.233333333333
 674,no_change,2032,559.666666666667
 674,zero_migration,2032,540.7
@@ -240,7 +240,7 @@ country,variant,year,populationdensitypersqkm
 674,constant_mortality,2034,569.7
 674,high_variant,2034,607.35
 674,instant_replacement,2034,622.183333333333
-674,low_variant,2034,555.0
+674,low_variant,2034,555
 674,medium_variant,2034,581.166666666667
 674,momentum,2034,563.833333333333
 674,no_change,2034,557.333333333333
@@ -249,7 +249,7 @@ country,variant,year,populationdensitypersqkm
 674,constant_mortality,2035,569.216666666667
 674,high_variant,2035,609.433333333333
 674,instant_replacement,2035,624.166666666667
-674,low_variant,2035,554.0
+674,low_variant,2035,554
 674,medium_variant,2035,581.7
 674,momentum,2035,562.266666666667
 674,no_change,2035,555.916666666667
@@ -334,7 +334,7 @@ country,variant,year,populationdensitypersqkm
 674,medium_variant,2044,581.983333333333
 674,momentum,2044,543.133333333333
 674,no_change,2044,536.5
-674,zero_migration,2044,514.0
+674,zero_migration,2044,514
 674,constant_fertility,2045,557.583333333333
 674,constant_mortality,2045,557.583333333333
 674,high_variant,2045,625.116666666667
@@ -397,7 +397,7 @@ country,variant,year,populationdensitypersqkm
 674,medium_variant,2051,577.516666666667
 674,momentum,2051,528.216666666667
 674,no_change,2051,514.566666666667
-674,zero_migration,2051,492.0
+674,zero_migration,2051,492
 674,constant_fertility,2052,543.066666666667
 674,constant_mortality,2052,544.333333333333
 674,high_variant,2052,634.9
@@ -481,9 +481,9 @@ country,variant,year,populationdensitypersqkm
 674,zero_migration,2060,460.133333333333
 674,constant_fertility,2061,518.316666666667
 674,constant_mortality,2061,526.1
-674,high_variant,2061,651.0
+674,high_variant,2061,651
 674,instant_replacement,2061,671.3
-674,low_variant,2061,491.0
+674,low_variant,2061,491
 674,medium_variant,2061,566.95
 674,momentum,2061,511.116666666667
 674,no_change,2061,477.816666666667
@@ -539,7 +539,7 @@ country,variant,year,populationdensitypersqkm
 674,instant_replacement,2067,680.933333333333
 674,low_variant,2067,469.95
 674,medium_variant,2067,560.083333333333
-674,momentum,2067,500.0
+674,momentum,2067,500
 674,no_change,2067,455.083333333333
 674,zero_migration,2067,435.183333333333
 674,constant_fertility,2068,497.183333333333
@@ -622,14 +622,14 @@ country,variant,year,populationdensitypersqkm
 674,medium_variant,2076,550.366666666667
 674,momentum,2076,486.883333333333
 674,no_change,2076,421.7
-674,zero_migration,2076,406.0
+674,zero_migration,2076,406
 674,constant_fertility,2077,469.4
 674,constant_mortality,2077,497.533333333333
 674,high_variant,2077,684.216666666667
 674,instant_replacement,2077,696.766666666667
 674,low_variant,2077,435.766666666667
 674,medium_variant,2077,549.3
-674,momentum,2077,486.0
+674,momentum,2077,486
 674,no_change,2077,418.166666666667
 674,zero_migration,2077,403.15
 674,constant_fertility,2078,466.283333333333
@@ -694,7 +694,7 @@ country,variant,year,populationdensitypersqkm
 674,medium_variant,2084,543.833333333333
 674,momentum,2084,484.716666666667
 674,no_change,2084,394.2
-674,zero_migration,2084,385.0
+674,zero_migration,2084,385
 674,constant_fertility,2085,445.183333333333
 674,constant_mortality,2085,487.5
 674,high_variant,2085,707.833333333333
@@ -719,7 +719,7 @@ country,variant,year,populationdensitypersqkm
 674,instant_replacement,2087,722.25
 674,low_variant,2087,403.283333333333
 674,medium_variant,2087,542.1
-674,momentum,2087,486.0
+674,momentum,2087,486
 674,no_change,2087,384.233333333333
 674,zero_migration,2087,378.316666666667
 674,constant_fertility,2088,436.433333333333
@@ -839,13 +839,3 @@ country,variant,year,populationdensitypersqkm
 674,momentum,2100,490.5
 674,no_change,2100,342.2
 674,zero_migration,2100,355.333333333333
-674,constant_fertility,"Region, subregion, country or area *",San Marino
-674,constant_mortality,"Region, subregion, country or area *",San Marino
-674,estimates,"Region, subregion, country or area *",San Marino
-674,high_variant,"Region, subregion, country or area *",San Marino
-674,instant_replacement,"Region, subregion, country or area *",San Marino
-674,low_variant,"Region, subregion, country or area *",San Marino
-674,medium_variant,"Region, subregion, country or area *",San Marino
-674,momentum,"Region, subregion, country or area *",San Marino
-674,no_change,"Region, subregion, country or area *",San Marino
-674,zero_migration,"Region, subregion, country or area *",San Marino

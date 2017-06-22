@@ -154,7 +154,7 @@ country,variant,gender,year,population
 756,constant_mortality,female,2016,4237.988
 756,constant_mortality,male,2016,4155.345
 756,high_variant,female,2016,4243.684
-756,high_variant,male,2016,4162.0
+756,high_variant,male,2016,4162
 756,instant_replacement,female,2016,4250.797
 756,instant_replacement,male,2016,4170.427
 756,low_variant,female,2016,4234.815
@@ -860,7 +860,7 @@ country,variant,gender,year,population
 756,instant_replacement,female,2055,5633.339
 756,instant_replacement,male,2055,5580.282
 756,low_variant,female,2055,4506.233
-756,low_variant,male,2055,4396.0
+756,low_variant,male,2055,4396
 756,medium_variant,female,2055,5034.627
 756,medium_variant,male,2055,4951.239
 756,momentum,female,2055,4150.051
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 756,no_change,male,2100,4138.924
 756,zero_migration,female,2100,2945.262
 756,zero_migration,male,2100,2946.922
-756,constant_fertility,female,"Region, subregion, country or area *",Switzerland
-756,constant_fertility,male,"Region, subregion, country or area *",Switzerland
-756,constant_mortality,female,"Region, subregion, country or area *",Switzerland
-756,constant_mortality,male,"Region, subregion, country or area *",Switzerland
-756,estimates,female,"Region, subregion, country or area *",Switzerland
-756,estimates,male,"Region, subregion, country or area *",Switzerland
-756,high_variant,female,"Region, subregion, country or area *",Switzerland
-756,high_variant,male,"Region, subregion, country or area *",Switzerland
-756,instant_replacement,female,"Region, subregion, country or area *",Switzerland
-756,instant_replacement,male,"Region, subregion, country or area *",Switzerland
-756,low_variant,female,"Region, subregion, country or area *",Switzerland
-756,low_variant,male,"Region, subregion, country or area *",Switzerland
-756,medium_variant,female,"Region, subregion, country or area *",Switzerland
-756,medium_variant,male,"Region, subregion, country or area *",Switzerland
-756,momentum,female,"Region, subregion, country or area *",Switzerland
-756,momentum,male,"Region, subregion, country or area *",Switzerland
-756,no_change,female,"Region, subregion, country or area *",Switzerland
-756,no_change,male,"Region, subregion, country or area *",Switzerland
-756,zero_migration,female,"Region, subregion, country or area *",Switzerland
-756,zero_migration,male,"Region, subregion, country or area *",Switzerland

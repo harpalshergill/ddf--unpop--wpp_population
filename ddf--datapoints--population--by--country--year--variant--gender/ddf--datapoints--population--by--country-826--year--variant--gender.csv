@@ -107,7 +107,7 @@ country,variant,gender,year,population
 826,estimates,male,2002,28968.781
 826,estimates,female,2003,30468.351
 826,estimates,male,2003,29111.872
-826,estimates,female,2004,30594.0
+826,estimates,female,2004,30594
 826,estimates,male,2004,29290.124
 826,estimates,female,2005,30772.228
 826,estimates,male,2005,29514.523
@@ -570,7 +570,7 @@ country,variant,gender,year,population
 826,high_variant,female,2039,38691.845
 826,high_variant,male,2039,38515.796
 826,instant_replacement,female,2039,37586.991
-826,instant_replacement,male,2039,37355.0
+826,instant_replacement,male,2039,37355
 826,low_variant,female,2039,34483.086
 826,low_variant,male,2039,34094.335
 826,medium_variant,female,2039,36583.268
@@ -1642,7 +1642,7 @@ country,variant,gender,year,population
 826,no_change,female,2098,36275.756
 826,no_change,male,2098,36127.242
 826,zero_migration,female,2098,30285.36
-826,zero_migration,male,2098,30922.0
+826,zero_migration,male,2098,30922
 826,constant_fertility,female,2099,40452.911
 826,constant_fertility,male,2099,41195.984
 826,constant_mortality,female,2099,35897.638
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 826,no_change,male,2100,36063.396
 826,zero_migration,female,2100,30189.408
 826,zero_migration,male,2100,30818.536
-826,constant_fertility,female,"Region, subregion, country or area *",United Kingdom
-826,constant_fertility,male,"Region, subregion, country or area *",United Kingdom
-826,constant_mortality,female,"Region, subregion, country or area *",United Kingdom
-826,constant_mortality,male,"Region, subregion, country or area *",United Kingdom
-826,estimates,female,"Region, subregion, country or area *",United Kingdom
-826,estimates,male,"Region, subregion, country or area *",United Kingdom
-826,high_variant,female,"Region, subregion, country or area *",United Kingdom
-826,high_variant,male,"Region, subregion, country or area *",United Kingdom
-826,instant_replacement,female,"Region, subregion, country or area *",United Kingdom
-826,instant_replacement,male,"Region, subregion, country or area *",United Kingdom
-826,low_variant,female,"Region, subregion, country or area *",United Kingdom
-826,low_variant,male,"Region, subregion, country or area *",United Kingdom
-826,medium_variant,female,"Region, subregion, country or area *",United Kingdom
-826,medium_variant,male,"Region, subregion, country or area *",United Kingdom
-826,momentum,female,"Region, subregion, country or area *",United Kingdom
-826,momentum,male,"Region, subregion, country or area *",United Kingdom
-826,no_change,female,"Region, subregion, country or area *",United Kingdom
-826,no_change,male,"Region, subregion, country or area *",United Kingdom
-826,zero_migration,female,"Region, subregion, country or area *",United Kingdom
-826,zero_migration,male,"Region, subregion, country or area *",United Kingdom

@@ -511,7 +511,7 @@ country,variant,gender,year,population
 232,zero_migration,male,2035,3838.436
 232,constant_fertility,female,2036,4189.005
 232,constant_fertility,male,2036,4240.141
-232,constant_mortality,female,2036,3628.0
+232,constant_mortality,female,2036,3628
 232,constant_mortality,male,2036,3653.454
 232,high_variant,female,2036,3977.551
 232,high_variant,male,2036,4018.486
@@ -1234,7 +1234,7 @@ country,variant,gender,year,population
 232,constant_mortality,female,2076,5348.182
 232,constant_mortality,male,2076,5324.622
 232,high_variant,female,2076,8006.935
-232,high_variant,male,2076,8094.0
+232,high_variant,male,2076,8094
 232,instant_replacement,female,2076,4108.255
 232,instant_replacement,male,2076,4040.936
 232,low_variant,female,2076,5092.574
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 232,no_change,male,2100,18026.139
 232,zero_migration,female,2100,7878.659
 232,zero_migration,male,2100,7936.012
-232,constant_fertility,female,"Region, subregion, country or area *",Eritrea
-232,constant_fertility,male,"Region, subregion, country or area *",Eritrea
-232,constant_mortality,female,"Region, subregion, country or area *",Eritrea
-232,constant_mortality,male,"Region, subregion, country or area *",Eritrea
-232,estimates,female,"Region, subregion, country or area *",Eritrea
-232,estimates,male,"Region, subregion, country or area *",Eritrea
-232,high_variant,female,"Region, subregion, country or area *",Eritrea
-232,high_variant,male,"Region, subregion, country or area *",Eritrea
-232,instant_replacement,female,"Region, subregion, country or area *",Eritrea
-232,instant_replacement,male,"Region, subregion, country or area *",Eritrea
-232,low_variant,female,"Region, subregion, country or area *",Eritrea
-232,low_variant,male,"Region, subregion, country or area *",Eritrea
-232,medium_variant,female,"Region, subregion, country or area *",Eritrea
-232,medium_variant,male,"Region, subregion, country or area *",Eritrea
-232,momentum,female,"Region, subregion, country or area *",Eritrea
-232,momentum,male,"Region, subregion, country or area *",Eritrea
-232,no_change,female,"Region, subregion, country or area *",Eritrea
-232,no_change,male,"Region, subregion, country or area *",Eritrea
-232,zero_migration,female,"Region, subregion, country or area *",Eritrea
-232,zero_migration,male,"Region, subregion, country or area *",Eritrea

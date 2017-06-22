@@ -33,7 +33,7 @@ country,variant,gender,year,population
 840,estimates,male,1965,98791.94
 840,estimates,female,1966,102188.666
 840,estimates,male,1966,99786.566
-840,estimates,female,1967,103292.0
+840,estimates,female,1967,103292
 840,estimates,male,1967,100689.925
 840,estimates,female,1968,104346.626
 840,estimates,male,1968,101533.791
@@ -652,7 +652,7 @@ country,variant,gender,year,population
 840,no_change,female,2043,184106.43
 840,no_change,male,2043,180246.899
 840,zero_migration,female,2043,172052.054
-840,zero_migration,male,2043,170506.0
+840,zero_migration,male,2043,170506
 840,constant_fertility,female,2044,189615.002
 840,constant_fertility,male,2044,188200.165
 840,constant_mortality,female,2044,185808.795
@@ -1378,7 +1378,7 @@ country,variant,gender,year,population
 840,constant_mortality,female,2084,199290.809
 840,constant_mortality,male,2084,195158.663
 840,high_variant,female,2084,281017.401
-840,high_variant,male,2084,286037.0
+840,high_variant,male,2084,286037
 840,instant_replacement,female,2084,237167.345
 840,instant_replacement,male,2084,240254.894
 840,low_variant,female,2084,164092.827
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 840,no_change,male,2100,187898.846
 840,zero_migration,female,2100,162518.216
 840,zero_migration,male,2100,165054.491
-840,constant_fertility,female,"Region, subregion, country or area *",United States of America
-840,constant_fertility,male,"Region, subregion, country or area *",United States of America
-840,constant_mortality,female,"Region, subregion, country or area *",United States of America
-840,constant_mortality,male,"Region, subregion, country or area *",United States of America
-840,estimates,female,"Region, subregion, country or area *",United States of America
-840,estimates,male,"Region, subregion, country or area *",United States of America
-840,high_variant,female,"Region, subregion, country or area *",United States of America
-840,high_variant,male,"Region, subregion, country or area *",United States of America
-840,instant_replacement,female,"Region, subregion, country or area *",United States of America
-840,instant_replacement,male,"Region, subregion, country or area *",United States of America
-840,low_variant,female,"Region, subregion, country or area *",United States of America
-840,low_variant,male,"Region, subregion, country or area *",United States of America
-840,medium_variant,female,"Region, subregion, country or area *",United States of America
-840,medium_variant,male,"Region, subregion, country or area *",United States of America
-840,momentum,female,"Region, subregion, country or area *",United States of America
-840,momentum,male,"Region, subregion, country or area *",United States of America
-840,no_change,female,"Region, subregion, country or area *",United States of America
-840,no_change,male,"Region, subregion, country or area *",United States of America
-840,zero_migration,female,"Region, subregion, country or area *",United States of America
-840,zero_migration,male,"Region, subregion, country or area *",United States of America

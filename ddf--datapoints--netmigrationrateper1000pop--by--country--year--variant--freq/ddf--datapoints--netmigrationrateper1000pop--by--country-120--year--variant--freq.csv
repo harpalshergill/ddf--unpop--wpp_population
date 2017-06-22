@@ -1,10 +1,10 @@
 country,variant,freq,year,netmigrationrateper1000pop
-120,estimates,5yearly,1950,0.0
-120,estimates,5yearly,1955,0.0
-120,estimates,5yearly,1960,0.0
+120,estimates,5yearly,1950,0
+120,estimates,5yearly,1955,0
+120,estimates,5yearly,1960,0
 120,estimates,5yearly,1965,-0.033
 120,estimates,5yearly,1970,-0.072
-120,estimates,5yearly,1975,0.0
+120,estimates,5yearly,1975,0
 120,estimates,5yearly,1980,-0.354
 120,estimates,5yearly,1985,-0.358
 120,estimates,5yearly,1990,-0.763
@@ -29,5 +29,3 @@ country,variant,freq,year,netmigrationrateper1000pop
 120,medium_variant,5yearly,2085,-0.035
 120,medium_variant,5yearly,2090,-0.03
 120,medium_variant,5yearly,2095,-0.027
-120,estimates,5yearly,Regi,Cameroon
-120,medium_variant,5yearly,Regi,Cameroon

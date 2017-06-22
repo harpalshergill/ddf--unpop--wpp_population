@@ -99,7 +99,7 @@ region,variant,gender,year,population
 941,estimates,male,1998,315216.81
 941,estimates,female,1999,325037.747
 941,estimates,male,1999,323191.372
-941,estimates,female,2000,333366.0
+941,estimates,female,2000,333366
 941,estimates,male,2000,331438.772
 941,estimates,female,2001,341933.599
 941,estimates,male,2001,339998.562
@@ -434,7 +434,7 @@ region,variant,gender,year,population
 941,momentum,female,2031,581942.675
 941,momentum,male,2031,578055.889
 941,no_change,female,2031,713908.653
-941,no_change,male,2031,711942.0
+941,no_change,male,2031,711942
 941,zero_migration,female,2031,690800.784
 941,zero_migration,male,2031,688677.524
 941,constant_fertility,female,2032,751759.628
@@ -1137,7 +1137,7 @@ region,variant,gender,year,population
 941,momentum,male,2070,739436.399
 941,no_change,female,2070,1914449.234
 941,no_change,male,2070,1921661.608
-941,zero_migration,female,2070,1290176.0
+941,zero_migration,female,2070,1290176
 941,zero_migration,male,2070,1280008.893
 941,constant_fertility,female,2071,2348573.934
 941,constant_fertility,male,2071,2360902.425
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 941,no_change,male,2100,4420218.19
 941,zero_migration,female,2100,1658253.974
 941,zero_migration,male,2100,1633824.086
-941,constant_fertility,female,"Region, subregion, country or area *",Least developed countries
-941,constant_fertility,male,"Region, subregion, country or area *",Least developed countries
-941,constant_mortality,female,"Region, subregion, country or area *",Least developed countries
-941,constant_mortality,male,"Region, subregion, country or area *",Least developed countries
-941,estimates,female,"Region, subregion, country or area *",Least developed countries
-941,estimates,male,"Region, subregion, country or area *",Least developed countries
-941,high_variant,female,"Region, subregion, country or area *",Least developed countries
-941,high_variant,male,"Region, subregion, country or area *",Least developed countries
-941,instant_replacement,female,"Region, subregion, country or area *",Least developed countries
-941,instant_replacement,male,"Region, subregion, country or area *",Least developed countries
-941,low_variant,female,"Region, subregion, country or area *",Least developed countries
-941,low_variant,male,"Region, subregion, country or area *",Least developed countries
-941,medium_variant,female,"Region, subregion, country or area *",Least developed countries
-941,medium_variant,male,"Region, subregion, country or area *",Least developed countries
-941,momentum,female,"Region, subregion, country or area *",Least developed countries
-941,momentum,male,"Region, subregion, country or area *",Least developed countries
-941,no_change,female,"Region, subregion, country or area *",Least developed countries
-941,no_change,male,"Region, subregion, country or area *",Least developed countries
-941,zero_migration,female,"Region, subregion, country or area *",Least developed countries
-941,zero_migration,male,"Region, subregion, country or area *",Least developed countries

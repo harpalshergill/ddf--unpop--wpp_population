@@ -189,7 +189,7 @@ country,variant,gender,year,population
 372,constant_fertility,male,2018,2390.226
 372,constant_mortality,female,2018,2423.135
 372,constant_mortality,male,2018,2387.152
-372,high_variant,female,2018,2435.0
+372,high_variant,female,2018,2435
 372,high_variant,male,2018,2400.419
 372,instant_replacement,female,2018,2424.486
 372,instant_replacement,male,2018,2387.561
@@ -634,7 +634,7 @@ country,variant,gender,year,population
 372,no_change,female,2042,2750.054
 372,no_change,male,2042,2697.875
 372,zero_migration,female,2042,2649.757
-372,zero_migration,male,2042,2624.0
+372,zero_migration,male,2042,2624
 372,constant_fertility,female,2043,2837.283
 372,constant_fertility,male,2043,2821.162
 372,constant_mortality,female,2043,2745.783
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 372,no_change,male,2100,2931.279
 372,zero_migration,female,2100,2614.887
 372,zero_migration,male,2100,2654.998
-372,constant_fertility,female,"Region, subregion, country or area *",Ireland
-372,constant_fertility,male,"Region, subregion, country or area *",Ireland
-372,constant_mortality,female,"Region, subregion, country or area *",Ireland
-372,constant_mortality,male,"Region, subregion, country or area *",Ireland
-372,estimates,female,"Region, subregion, country or area *",Ireland
-372,estimates,male,"Region, subregion, country or area *",Ireland
-372,high_variant,female,"Region, subregion, country or area *",Ireland
-372,high_variant,male,"Region, subregion, country or area *",Ireland
-372,instant_replacement,female,"Region, subregion, country or area *",Ireland
-372,instant_replacement,male,"Region, subregion, country or area *",Ireland
-372,low_variant,female,"Region, subregion, country or area *",Ireland
-372,low_variant,male,"Region, subregion, country or area *",Ireland
-372,medium_variant,female,"Region, subregion, country or area *",Ireland
-372,medium_variant,male,"Region, subregion, country or area *",Ireland
-372,momentum,female,"Region, subregion, country or area *",Ireland
-372,momentum,male,"Region, subregion, country or area *",Ireland
-372,no_change,female,"Region, subregion, country or area *",Ireland
-372,no_change,male,"Region, subregion, country or area *",Ireland
-372,zero_migration,female,"Region, subregion, country or area *",Ireland
-372,zero_migration,male,"Region, subregion, country or area *",Ireland

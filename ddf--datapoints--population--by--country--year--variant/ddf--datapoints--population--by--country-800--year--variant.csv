@@ -75,7 +75,7 @@ country,variant,year,population
 800,no_change,2015,40144.87
 800,zero_migration,2015,40144.87
 800,constant_fertility,2016,41554.516
-800,constant_mortality,2016,41467.0
+800,constant_mortality,2016,41467
 800,high_variant,2016,41529.28
 800,instant_replacement,2016,40859.811
 800,low_variant,2016,41443.612
@@ -208,7 +208,7 @@ country,variant,year,population
 800,medium_variant,2030,63842.36
 800,momentum,2030,48928.008
 800,no_change,2030,67376.955
-800,zero_migration,2030,64416.0
+800,zero_migration,2030,64416
 800,constant_fertility,2031,71438.779
 800,constant_mortality,2031,64155.656
 800,high_variant,2031,68175.886
@@ -531,7 +531,7 @@ country,variant,year,population
 800,low_variant,2066,121124.485
 800,medium_variant,2066,143530.647
 800,momentum,2066,66715.24
-800,no_change,2066,225213.0
+800,no_change,2066,225213
 800,zero_migration,2066,146390.15
 800,constant_fertility,2067,275822.833
 800,constant_mortality,2067,123087.302
@@ -684,7 +684,7 @@ country,variant,year,population
 800,low_variant,2083,141196.041
 800,medium_variant,2083,182244.196
 800,momentum,2083,68048.019
-800,no_change,2083,396741.0
+800,no_change,2083,396741
 800,zero_migration,2083,186302.804
 800,constant_fertility,2084,528651.573
 800,constant_mortality,2084,141488.42
@@ -839,13 +839,3 @@ country,variant,year,population
 800,momentum,2100,67898.468
 800,no_change,2100,699377.215
 800,zero_migration,2100,218834.74
-800,constant_fertility,"Region, subregion, country or area *",Uganda
-800,constant_mortality,"Region, subregion, country or area *",Uganda
-800,estimates,"Region, subregion, country or area *",Uganda
-800,high_variant,"Region, subregion, country or area *",Uganda
-800,instant_replacement,"Region, subregion, country or area *",Uganda
-800,low_variant,"Region, subregion, country or area *",Uganda
-800,medium_variant,"Region, subregion, country or area *",Uganda
-800,momentum,"Region, subregion, country or area *",Uganda
-800,no_change,"Region, subregion, country or area *",Uganda
-800,zero_migration,"Region, subregion, country or area *",Uganda

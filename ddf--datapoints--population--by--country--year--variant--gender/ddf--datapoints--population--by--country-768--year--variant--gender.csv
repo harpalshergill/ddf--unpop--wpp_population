@@ -1505,7 +1505,7 @@ country,variant,gender,year,population
 768,constant_mortality,male,2091,9583.459
 768,high_variant,female,2091,16541.034
 768,high_variant,male,2091,16108.433
-768,instant_replacement,female,2091,6185.0
+768,instant_replacement,female,2091,6185
 768,instant_replacement,male,2091,5916.893
 768,low_variant,female,2091,8777.917
 768,low_variant,male,2091,8420.844
@@ -1621,7 +1621,7 @@ country,variant,gender,year,population
 768,medium_variant,male,2097,12201.811
 768,momentum,female,2097,5667.721
 768,momentum,male,2097,5629.314
-768,no_change,female,2097,27111.0
+768,no_change,female,2097,27111
 768,no_change,male,2097,27204.288
 768,zero_migration,female,2097,12799.6
 768,zero_migration,male,2097,12325.838
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 768,no_change,male,2100,29214.238
 768,zero_migration,female,2100,13009.657
 768,zero_migration,male,2100,12496.742
-768,constant_fertility,female,"Region, subregion, country or area *",Togo
-768,constant_fertility,male,"Region, subregion, country or area *",Togo
-768,constant_mortality,female,"Region, subregion, country or area *",Togo
-768,constant_mortality,male,"Region, subregion, country or area *",Togo
-768,estimates,female,"Region, subregion, country or area *",Togo
-768,estimates,male,"Region, subregion, country or area *",Togo
-768,high_variant,female,"Region, subregion, country or area *",Togo
-768,high_variant,male,"Region, subregion, country or area *",Togo
-768,instant_replacement,female,"Region, subregion, country or area *",Togo
-768,instant_replacement,male,"Region, subregion, country or area *",Togo
-768,low_variant,female,"Region, subregion, country or area *",Togo
-768,low_variant,male,"Region, subregion, country or area *",Togo
-768,medium_variant,female,"Region, subregion, country or area *",Togo
-768,medium_variant,male,"Region, subregion, country or area *",Togo
-768,momentum,female,"Region, subregion, country or area *",Togo
-768,momentum,male,"Region, subregion, country or area *",Togo
-768,no_change,female,"Region, subregion, country or area *",Togo
-768,no_change,male,"Region, subregion, country or area *",Togo
-768,zero_migration,female,"Region, subregion, country or area *",Togo
-768,zero_migration,male,"Region, subregion, country or area *",Togo

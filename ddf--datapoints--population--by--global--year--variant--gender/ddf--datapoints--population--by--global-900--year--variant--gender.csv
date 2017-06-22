@@ -853,7 +853,7 @@ global,variant,gender,year,population
 900,zero_migration,male,2054,5006583.64
 900,constant_fertility,female,2055,5770285.974
 900,constant_fertility,male,2055,5868757.986
-900,constant_mortality,female,2055,4617748.0
+900,constant_mortality,female,2055,4617748
 900,constant_mortality,male,2055,4644613.55
 900,high_variant,female,2055,5643604.708
 900,high_variant,male,2055,5728391.979
@@ -1257,7 +1257,7 @@ global,variant,gender,year,population
 900,instant_replacement,male,2077,5010007.582
 900,low_variant,female,2077,4169235.696
 900,low_variant,male,2077,4149675.335
-900,medium_variant,female,2077,5367840.0
+900,medium_variant,female,2077,5367840
 900,medium_variant,male,2077,5407076.252
 900,momentum,female,2077,4515715.705
 900,momentum,male,2077,4543650.121
@@ -1403,7 +1403,7 @@ global,variant,gender,year,population
 900,low_variant,male,2085,3985976.004
 900,medium_variant,female,2085,5462012.787
 900,medium_variant,male,2085,5495553.231
-900,momentum,female,2085,4513096.0
+900,momentum,female,2085,4513096
 900,momentum,male,2085,4536671.869
 900,no_change,female,2085,7599112.33
 900,no_change,male,2085,7719821.486
@@ -1679,23 +1679,3 @@ global,variant,gender,year,population
 900,no_change,male,2100,9899467.307
 900,zero_migration,female,2100,5573024.012
 900,zero_migration,male,2100,5593715.715
-900,constant_fertility,female,"Region, subregion, country or area *",WORLD
-900,constant_fertility,male,"Region, subregion, country or area *",WORLD
-900,constant_mortality,female,"Region, subregion, country or area *",WORLD
-900,constant_mortality,male,"Region, subregion, country or area *",WORLD
-900,estimates,female,"Region, subregion, country or area *",WORLD
-900,estimates,male,"Region, subregion, country or area *",WORLD
-900,high_variant,female,"Region, subregion, country or area *",WORLD
-900,high_variant,male,"Region, subregion, country or area *",WORLD
-900,instant_replacement,female,"Region, subregion, country or area *",WORLD
-900,instant_replacement,male,"Region, subregion, country or area *",WORLD
-900,low_variant,female,"Region, subregion, country or area *",WORLD
-900,low_variant,male,"Region, subregion, country or area *",WORLD
-900,medium_variant,female,"Region, subregion, country or area *",WORLD
-900,medium_variant,male,"Region, subregion, country or area *",WORLD
-900,momentum,female,"Region, subregion, country or area *",WORLD
-900,momentum,male,"Region, subregion, country or area *",WORLD
-900,no_change,female,"Region, subregion, country or area *",WORLD
-900,no_change,male,"Region, subregion, country or area *",WORLD
-900,zero_migration,female,"Region, subregion, country or area *",WORLD
-900,zero_migration,male,"Region, subregion, country or area *",WORLD

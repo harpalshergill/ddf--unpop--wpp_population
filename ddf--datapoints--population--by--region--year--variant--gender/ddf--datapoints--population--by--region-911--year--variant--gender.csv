@@ -26,7 +26,7 @@ region,variant,gender,year,population
 911,estimates,female,1962,17473.523
 911,estimates,male,1962,16440.682
 911,estimates,female,1963,17865.762
-911,estimates,male,1963,16835.0
+911,estimates,male,1963,16835
 911,estimates,female,1964,18273.571
 911,estimates,male,1964,17244.873
 911,estimates,female,1965,18697.493
@@ -104,7 +104,7 @@ region,variant,gender,year,population
 911,estimates,female,2001,49893.596
 911,estimates,male,2001,49010.585
 911,estimates,female,2002,51394.5
-911,estimates,male,2002,50521.0
+911,estimates,male,2002,50521
 911,estimates,female,2003,52989.483
 911,estimates,male,2003,52126.265
 911,estimates,female,2004,54660.65
@@ -223,7 +223,7 @@ region,variant,gender,year,population
 911,zero_migration,male,2019,86550.158
 911,constant_fertility,female,2020,90835.119
 911,constant_fertility,male,2020,90308.71
-911,constant_mortality,female,2020,89296.0
+911,constant_mortality,female,2020,89296
 911,constant_mortality,male,2020,88740.014
 911,high_variant,female,2020,90437.797
 911,high_variant,male,2020,89904.46
@@ -510,7 +510,7 @@ region,variant,gender,year,population
 911,zero_migration,female,2035,136146.007
 911,zero_migration,male,2035,135331.346
 911,constant_fertility,female,2036,157246.062
-911,constant_fertility,male,2036,156766.0
+911,constant_fertility,male,2036,156766
 911,constant_mortality,female,2036,133555.391
 911,constant_mortality,male,2036,132866.045
 911,high_variant,female,2036,146298.758
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 911,no_change,male,2100,1157027.675
 911,zero_migration,female,2100,383150.769
 911,zero_migration,male,2100,372270.172
-911,constant_fertility,female,"Region, subregion, country or area *",Middle Africa
-911,constant_fertility,male,"Region, subregion, country or area *",Middle Africa
-911,constant_mortality,female,"Region, subregion, country or area *",Middle Africa
-911,constant_mortality,male,"Region, subregion, country or area *",Middle Africa
-911,estimates,female,"Region, subregion, country or area *",Middle Africa
-911,estimates,male,"Region, subregion, country or area *",Middle Africa
-911,high_variant,female,"Region, subregion, country or area *",Middle Africa
-911,high_variant,male,"Region, subregion, country or area *",Middle Africa
-911,instant_replacement,female,"Region, subregion, country or area *",Middle Africa
-911,instant_replacement,male,"Region, subregion, country or area *",Middle Africa
-911,low_variant,female,"Region, subregion, country or area *",Middle Africa
-911,low_variant,male,"Region, subregion, country or area *",Middle Africa
-911,medium_variant,female,"Region, subregion, country or area *",Middle Africa
-911,medium_variant,male,"Region, subregion, country or area *",Middle Africa
-911,momentum,female,"Region, subregion, country or area *",Middle Africa
-911,momentum,male,"Region, subregion, country or area *",Middle Africa
-911,no_change,female,"Region, subregion, country or area *",Middle Africa
-911,no_change,male,"Region, subregion, country or area *",Middle Africa
-911,zero_migration,female,"Region, subregion, country or area *",Middle Africa
-911,zero_migration,male,"Region, subregion, country or area *",Middle Africa

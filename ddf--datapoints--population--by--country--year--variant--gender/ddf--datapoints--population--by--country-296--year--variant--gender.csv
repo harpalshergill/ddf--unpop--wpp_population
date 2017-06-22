@@ -263,7 +263,7 @@ country,variant,gender,year,population
 296,constant_mortality,male,2022,62.125
 296,high_variant,female,2022,64.955
 296,high_variant,male,2022,63.204
-296,instant_replacement,female,2022,60.0
+296,instant_replacement,female,2022,60
 296,instant_replacement,male,2022,58.093
 296,low_variant,female,2022,63.248
 296,low_variant,male,2022,61.447
@@ -739,7 +739,7 @@ country,variant,gender,year,population
 296,medium_variant,male,2048,85.558
 296,momentum,female,2048,77.884
 296,momentum,male,2048,75.517
-296,no_change,female,2048,97.0
+296,no_change,female,2048,97
 296,no_change,male,2048,95.328
 296,zero_migration,female,2048,98.864
 296,zero_migration,male,2048,96.431
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 296,no_change,male,2100,224.193
 296,zero_migration,female,2100,152.842
 296,zero_migration,male,2100,146.629
-296,constant_fertility,female,"Region, subregion, country or area *",Kiribati
-296,constant_fertility,male,"Region, subregion, country or area *",Kiribati
-296,constant_mortality,female,"Region, subregion, country or area *",Kiribati
-296,constant_mortality,male,"Region, subregion, country or area *",Kiribati
-296,estimates,female,"Region, subregion, country or area *",Kiribati
-296,estimates,male,"Region, subregion, country or area *",Kiribati
-296,high_variant,female,"Region, subregion, country or area *",Kiribati
-296,high_variant,male,"Region, subregion, country or area *",Kiribati
-296,instant_replacement,female,"Region, subregion, country or area *",Kiribati
-296,instant_replacement,male,"Region, subregion, country or area *",Kiribati
-296,low_variant,female,"Region, subregion, country or area *",Kiribati
-296,low_variant,male,"Region, subregion, country or area *",Kiribati
-296,medium_variant,female,"Region, subregion, country or area *",Kiribati
-296,medium_variant,male,"Region, subregion, country or area *",Kiribati
-296,momentum,female,"Region, subregion, country or area *",Kiribati
-296,momentum,male,"Region, subregion, country or area *",Kiribati
-296,no_change,female,"Region, subregion, country or area *",Kiribati
-296,no_change,male,"Region, subregion, country or area *",Kiribati
-296,zero_migration,female,"Region, subregion, country or area *",Kiribati
-296,zero_migration,male,"Region, subregion, country or area *",Kiribati

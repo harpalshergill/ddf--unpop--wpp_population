@@ -28,7 +28,7 @@ region,variant,gender,year,population
 906,estimates,female,1963,413043.803
 906,estimates,male,1963,431621.279
 906,estimates,female,1964,421269.57
-906,estimates,male,1964,439995.0
+906,estimates,male,1964,439995
 906,estimates,female,1965,430502.153
 906,estimates,male,1965,449410.919
 906,estimates,female,1966,440826.473
@@ -510,7 +510,7 @@ region,variant,gender,year,population
 906,zero_migration,female,2035,818342.244
 906,zero_migration,male,2035,854651.734
 906,constant_fertility,female,2036,801826.717
-906,constant_fertility,male,2036,839272.0
+906,constant_fertility,male,2036,839272
 906,constant_mortality,female,2036,795347.781
 906,constant_mortality,male,2036,828785.986
 906,high_variant,female,2036,854839.087
@@ -1679,23 +1679,3 @@ region,variant,gender,year,population
 906,no_change,male,2100,415025.92
 906,zero_migration,female,2100,590743.135
 906,zero_migration,male,2100,625889.244
-906,constant_fertility,female,"Region, subregion, country or area *",Eastern Asia
-906,constant_fertility,male,"Region, subregion, country or area *",Eastern Asia
-906,constant_mortality,female,"Region, subregion, country or area *",Eastern Asia
-906,constant_mortality,male,"Region, subregion, country or area *",Eastern Asia
-906,estimates,female,"Region, subregion, country or area *",Eastern Asia
-906,estimates,male,"Region, subregion, country or area *",Eastern Asia
-906,high_variant,female,"Region, subregion, country or area *",Eastern Asia
-906,high_variant,male,"Region, subregion, country or area *",Eastern Asia
-906,instant_replacement,female,"Region, subregion, country or area *",Eastern Asia
-906,instant_replacement,male,"Region, subregion, country or area *",Eastern Asia
-906,low_variant,female,"Region, subregion, country or area *",Eastern Asia
-906,low_variant,male,"Region, subregion, country or area *",Eastern Asia
-906,medium_variant,female,"Region, subregion, country or area *",Eastern Asia
-906,medium_variant,male,"Region, subregion, country or area *",Eastern Asia
-906,momentum,female,"Region, subregion, country or area *",Eastern Asia
-906,momentum,male,"Region, subregion, country or area *",Eastern Asia
-906,no_change,female,"Region, subregion, country or area *",Eastern Asia
-906,no_change,male,"Region, subregion, country or area *",Eastern Asia
-906,zero_migration,female,"Region, subregion, country or area *",Eastern Asia
-906,zero_migration,male,"Region, subregion, country or area *",Eastern Asia

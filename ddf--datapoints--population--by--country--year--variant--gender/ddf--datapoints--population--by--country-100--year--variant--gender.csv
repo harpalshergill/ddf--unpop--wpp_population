@@ -574,7 +574,7 @@ country,variant,gender,year,population
 100,low_variant,female,2039,2871.26
 100,low_variant,male,2039,2726.36
 100,medium_variant,female,2039,3040.158
-100,medium_variant,male,2039,2905.0
+100,medium_variant,male,2039,2905
 100,momentum,female,2039,3215.628
 100,momentum,male,2039,3047.126
 100,no_change,female,2039,2861.344
@@ -1145,7 +1145,7 @@ country,variant,gender,year,population
 100,constant_mortality,male,2071,1996.418
 100,high_variant,female,2071,2843.148
 100,high_variant,male,2071,2873.399
-100,instant_replacement,female,2071,2734.0
+100,instant_replacement,female,2071,2734
 100,instant_replacement,male,2071,2757.333
 100,low_variant,female,2071,1780.14
 100,low_variant,male,2071,1752.064
@@ -1329,7 +1329,7 @@ country,variant,gender,year,population
 100,instant_replacement,male,2081,2737.812
 100,low_variant,female,2081,1497.045
 100,low_variant,male,2081,1509.323
-100,medium_variant,female,2081,2093.0
+100,medium_variant,female,2081,2093
 100,medium_variant,male,2081,2136.198
 100,momentum,female,2081,2765.304
 100,momentum,male,2081,2675.846
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 100,no_change,male,2100,1106.651
 100,zero_migration,female,2100,2228.561
 100,zero_migration,male,2100,2244.652
-100,constant_fertility,female,"Region, subregion, country or area *",Bulgaria
-100,constant_fertility,male,"Region, subregion, country or area *",Bulgaria
-100,constant_mortality,female,"Region, subregion, country or area *",Bulgaria
-100,constant_mortality,male,"Region, subregion, country or area *",Bulgaria
-100,estimates,female,"Region, subregion, country or area *",Bulgaria
-100,estimates,male,"Region, subregion, country or area *",Bulgaria
-100,high_variant,female,"Region, subregion, country or area *",Bulgaria
-100,high_variant,male,"Region, subregion, country or area *",Bulgaria
-100,instant_replacement,female,"Region, subregion, country or area *",Bulgaria
-100,instant_replacement,male,"Region, subregion, country or area *",Bulgaria
-100,low_variant,female,"Region, subregion, country or area *",Bulgaria
-100,low_variant,male,"Region, subregion, country or area *",Bulgaria
-100,medium_variant,female,"Region, subregion, country or area *",Bulgaria
-100,medium_variant,male,"Region, subregion, country or area *",Bulgaria
-100,momentum,female,"Region, subregion, country or area *",Bulgaria
-100,momentum,male,"Region, subregion, country or area *",Bulgaria
-100,no_change,female,"Region, subregion, country or area *",Bulgaria
-100,no_change,male,"Region, subregion, country or area *",Bulgaria
-100,zero_migration,female,"Region, subregion, country or area *",Bulgaria
-100,zero_migration,male,"Region, subregion, country or area *",Bulgaria

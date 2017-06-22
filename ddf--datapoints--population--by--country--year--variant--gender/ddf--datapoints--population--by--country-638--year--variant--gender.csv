@@ -34,7 +34,7 @@ country,variant,gender,year,population
 638,estimates,female,1966,208.386
 638,estimates,male,1966,196.9
 638,estimates,female,1967,216.996
-638,estimates,male,1967,204.0
+638,estimates,male,1967,204
 638,estimates,female,1968,225.642
 638,estimates,male,1968,211.046
 638,estimates,female,1969,233.341
@@ -249,7 +249,7 @@ country,variant,gender,year,population
 638,instant_replacement,male,2021,433.246
 638,low_variant,female,2021,461.465
 638,low_variant,male,2021,432.42
-638,medium_variant,female,2021,466.0
+638,medium_variant,female,2021,466
 638,medium_variant,male,2021,437.083
 638,momentum,female,2021,465.528
 638,momentum,male,2021,435.882
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 638,no_change,male,2100,610.054
 638,zero_migration,female,2100,564.607
 638,zero_migration,male,2100,545.431
-638,constant_fertility,female,"Region, subregion, country or area *",Réunion
-638,constant_fertility,male,"Region, subregion, country or area *",Réunion
-638,constant_mortality,female,"Region, subregion, country or area *",Réunion
-638,constant_mortality,male,"Region, subregion, country or area *",Réunion
-638,estimates,female,"Region, subregion, country or area *",Réunion
-638,estimates,male,"Region, subregion, country or area *",Réunion
-638,high_variant,female,"Region, subregion, country or area *",Réunion
-638,high_variant,male,"Region, subregion, country or area *",Réunion
-638,instant_replacement,female,"Region, subregion, country or area *",Réunion
-638,instant_replacement,male,"Region, subregion, country or area *",Réunion
-638,low_variant,female,"Region, subregion, country or area *",Réunion
-638,low_variant,male,"Region, subregion, country or area *",Réunion
-638,medium_variant,female,"Region, subregion, country or area *",Réunion
-638,medium_variant,male,"Region, subregion, country or area *",Réunion
-638,momentum,female,"Region, subregion, country or area *",Réunion
-638,momentum,male,"Region, subregion, country or area *",Réunion
-638,no_change,female,"Region, subregion, country or area *",Réunion
-638,no_change,male,"Region, subregion, country or area *",Réunion
-638,zero_migration,female,"Region, subregion, country or area *",Réunion
-638,zero_migration,male,"Region, subregion, country or area *",Réunion

@@ -1,5 +1,5 @@
 region,variant,gender,freq,year,totaldeaths
-1502,estimates,female,5yearly,1950,46203.0
+1502,estimates,female,5yearly,1950,46203
 1502,estimates,male,5yearly,1950,51812.487
 1502,estimates,female,5yearly,1955,46424.66
 1502,estimates,male,5yearly,1955,52474.388
@@ -53,7 +53,7 @@ region,variant,gender,freq,year,totaldeaths
 1502,instant_replacement,male,5yearly,2020,57151.216
 1502,low_variant,female,5yearly,2020,48241.263
 1502,low_variant,male,5yearly,2020,56738.753
-1502,medium_variant,female,5yearly,2020,48442.0
+1502,medium_variant,female,5yearly,2020,48442
 1502,medium_variant,male,5yearly,2020,57012.834
 1502,momentum,female,5yearly,2020,54181.377
 1502,momentum,male,5yearly,2020,63520.254
@@ -331,23 +331,3 @@ region,variant,gender,freq,year,totaldeaths
 1502,no_change,male,5yearly,2095,91358.295
 1502,zero_migration,female,5yearly,2095,74960.921
 1502,zero_migration,male,5yearly,2095,80463.254
-1502,constant_fertility,female,5yearly,Regi,Upper-middle-income countries
-1502,constant_fertility,male,5yearly,Regi,Upper-middle-income countries
-1502,constant_mortality,female,5yearly,Regi,Upper-middle-income countries
-1502,constant_mortality,male,5yearly,Regi,Upper-middle-income countries
-1502,estimates,female,5yearly,Regi,Upper-middle-income countries
-1502,estimates,male,5yearly,Regi,Upper-middle-income countries
-1502,high_variant,female,5yearly,Regi,Upper-middle-income countries
-1502,high_variant,male,5yearly,Regi,Upper-middle-income countries
-1502,instant_replacement,female,5yearly,Regi,Upper-middle-income countries
-1502,instant_replacement,male,5yearly,Regi,Upper-middle-income countries
-1502,low_variant,female,5yearly,Regi,Upper-middle-income countries
-1502,low_variant,male,5yearly,Regi,Upper-middle-income countries
-1502,medium_variant,female,5yearly,Regi,Upper-middle-income countries
-1502,medium_variant,male,5yearly,Regi,Upper-middle-income countries
-1502,momentum,female,5yearly,Regi,Upper-middle-income countries
-1502,momentum,male,5yearly,Regi,Upper-middle-income countries
-1502,no_change,female,5yearly,Regi,Upper-middle-income countries
-1502,no_change,male,5yearly,Regi,Upper-middle-income countries
-1502,zero_migration,female,5yearly,Regi,Upper-middle-income countries
-1502,zero_migration,male,5yearly,Regi,Upper-middle-income countries

@@ -125,7 +125,7 @@ country,variant,gender,year,population
 170,estimates,male,2011,22874.734
 170,estimates,female,2012,23779.764
 170,estimates,male,2012,23101.711
-170,estimates,female,2013,24021.0
+170,estimates,female,2013,24021
 170,estimates,male,2013,23321.983
 170,estimates,female,2014,24256.046
 170,estimates,male,2014,23535.861
@@ -247,7 +247,7 @@ country,variant,gender,year,population
 170,high_variant,male,2021,25170.375
 170,instant_replacement,female,2021,26064.738
 170,instant_replacement,male,2021,25204.389
-170,low_variant,female,2021,25419.0
+170,low_variant,female,2021,25419
 170,low_variant,male,2021,24530.058
 170,medium_variant,female,2021,25725.784
 170,medium_variant,male,2021,24850.412
@@ -1588,7 +1588,7 @@ country,variant,gender,year,population
 170,no_change,female,2095,24637.54
 170,no_change,male,2095,23273.496
 170,zero_migration,female,2095,24680.631
-170,zero_migration,male,2095,24145.0
+170,zero_migration,male,2095,24145
 170,constant_fertility,female,2096,28233.945
 170,constant_fertility,male,2096,27919.642
 170,constant_mortality,female,2096,19787.458
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 170,no_change,male,2100,22827.409
 170,zero_migration,female,2100,24086.531
 170,zero_migration,male,2100,23637.894
-170,constant_fertility,female,"Region, subregion, country or area *",Colombia
-170,constant_fertility,male,"Region, subregion, country or area *",Colombia
-170,constant_mortality,female,"Region, subregion, country or area *",Colombia
-170,constant_mortality,male,"Region, subregion, country or area *",Colombia
-170,estimates,female,"Region, subregion, country or area *",Colombia
-170,estimates,male,"Region, subregion, country or area *",Colombia
-170,high_variant,female,"Region, subregion, country or area *",Colombia
-170,high_variant,male,"Region, subregion, country or area *",Colombia
-170,instant_replacement,female,"Region, subregion, country or area *",Colombia
-170,instant_replacement,male,"Region, subregion, country or area *",Colombia
-170,low_variant,female,"Region, subregion, country or area *",Colombia
-170,low_variant,male,"Region, subregion, country or area *",Colombia
-170,medium_variant,female,"Region, subregion, country or area *",Colombia
-170,medium_variant,male,"Region, subregion, country or area *",Colombia
-170,momentum,female,"Region, subregion, country or area *",Colombia
-170,momentum,male,"Region, subregion, country or area *",Colombia
-170,no_change,female,"Region, subregion, country or area *",Colombia
-170,no_change,male,"Region, subregion, country or area *",Colombia
-170,zero_migration,female,"Region, subregion, country or area *",Colombia
-170,zero_migration,male,"Region, subregion, country or area *",Colombia

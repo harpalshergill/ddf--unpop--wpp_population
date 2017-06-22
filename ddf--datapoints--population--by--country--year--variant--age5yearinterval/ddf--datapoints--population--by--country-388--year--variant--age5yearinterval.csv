@@ -1,10 +1,9 @@
 country,year,variant,age5yearinterval,population
-388,1950,estimates,"Region, subregion, country or area *",Jamaica
 388,1950,estimates,0_4,188.701
 388,1950,estimates,5_9,166.801
-388,1950,estimates,10_14,150.0
+388,1950,estimates,10_14,150
 388,1950,estimates,15_19,143.299
-388,1950,estimates,20_24,120.0
+388,1950,estimates,20_24,120
 388,1950,estimates,25_29,109.6
 388,1950,estimates,30_34,103.8
 388,1950,estimates,35_39,98.5
@@ -17,7 +16,6 @@ country,year,variant,age5yearinterval,population
 388,1950,estimates,70_74,17.6
 388,1950,estimates,75_79,8.7
 388,1950,estimates,80plus,3.495
-388,1955,estimates,"Region, subregion, country or area *",Jamaica
 388,1955,estimates,0_4,224.64
 388,1955,estimates,5_9,183.179
 388,1955,estimates,10_14,161.717
@@ -35,7 +33,6 @@ country,year,variant,age5yearinterval,population
 388,1955,estimates,70_74,20.49
 388,1955,estimates,75_79,10.066
 388,1955,estimates,80plus,6.586
-388,1960,estimates,"Region, subregion, country or area *",Jamaica
 388,1960,estimates,0_4,280.035
 388,1960,estimates,5_9,220.522
 388,1960,estimates,10_14,174.444
@@ -53,7 +50,6 @@ country,year,variant,age5yearinterval,population
 388,1960,estimates,70_74,23.13
 388,1960,estimates,75_79,14.033
 388,1960,estimates,80plus,8.535
-388,1965,estimates,"Region, subregion, country or area *",Jamaica
 388,1965,estimates,0_4,312.083
 388,1965,estimates,5_9,254.521
 388,1965,estimates,10_14,188.171
@@ -71,7 +67,6 @@ country,year,variant,age5yearinterval,population
 388,1965,estimates,70_74,27.863
 388,1965,estimates,75_79,18.241
 388,1965,estimates,80plus,14.073
-388,1970,estimates,"Region, subregion, country or area *",Jamaica
 388,1970,estimates,0_4,316.291
 388,1970,estimates,5_9,301.84
 388,1970,estimates,10_14,247.482
@@ -89,7 +84,6 @@ country,year,variant,age5yearinterval,population
 388,1970,estimates,70_74,28.221
 388,1970,estimates,75_79,20.093
 388,1970,estimates,80plus,15.55
-388,1975,estimates,"Region, subregion, country or area *",Jamaica
 388,1975,estimates,0_4,296.366
 388,1975,estimates,5_9,308.644
 388,1975,estimates,10_14,295.391
@@ -107,7 +101,6 @@ country,year,variant,age5yearinterval,population
 388,1975,estimates,70_74,33.536
 388,1975,estimates,75_79,20.215
 388,1975,estimates,80plus,17.173
-388,1980,estimates,"Region, subregion, country or area *",Jamaica
 388,1980,estimates,0_4,285.503
 388,1980,estimates,5_9,289.609
 388,1980,estimates,10_14,284.044
@@ -125,7 +118,6 @@ country,year,variant,age5yearinterval,population
 388,1980,estimates,70_74,41.058
 388,1980,estimates,75_79,23.19
 388,1980,estimates,80plus,30.959
-388,1985,estimates,"Region, subregion, country or area *",Jamaica
 388,1985,estimates,0_4,302.483
 388,1985,estimates,5_9,274.731
 388,1985,estimates,10_14,286.352
@@ -143,7 +135,6 @@ country,year,variant,age5yearinterval,population
 388,1985,estimates,70_74,44.612
 388,1985,estimates,75_79,33.745
 388,1985,estimates,80plus,35.795
-388,1990,estimates,"Region, subregion, country or area *",Jamaica
 388,1990,estimates,0_4,293.203
 388,1990,estimates,5_9,286.677
 388,1990,estimates,10_14,263.126
@@ -165,7 +156,6 @@ country,year,variant,age5yearinterval,population
 388,1990,estimates,90_94,5.643
 388,1990,estimates,95_99,0.6
 388,1990,estimates,100plus,0.06
-388,1995,estimates,"Region, subregion, country or area *",Jamaica
 388,1995,estimates,0_4,291.551
 388,1995,estimates,5_9,282.723
 388,1995,estimates,10_14,274.952
@@ -187,7 +177,6 @@ country,year,variant,age5yearinterval,population
 388,1995,estimates,90_94,4.796
 388,1995,estimates,95_99,1.601
 388,1995,estimates,100plus,0.096
-388,2000,estimates,"Region, subregion, country or area *",Jamaica
 388,2000,estimates,0_4,289.019
 388,2000,estimates,5_9,288.087
 388,2000,estimates,10_14,276.425
@@ -209,7 +198,6 @@ country,year,variant,age5yearinterval,population
 388,2000,estimates,90_94,6.501
 388,2000,estimates,95_99,1.397
 388,2000,estimates,100plus,0.261
-388,2005,estimates,"Region, subregion, country or area *",Jamaica
 388,2005,estimates,0_4,257.493
 388,2005,estimates,5_9,285.864
 388,2005,estimates,10_14,282.2
@@ -231,7 +219,6 @@ country,year,variant,age5yearinterval,population
 388,2005,estimates,90_94,7.236
 388,2005,estimates,95_99,2.011
 388,2005,estimates,100plus,0.27
-388,2010,estimates,"Region, subregion, country or area *",Jamaica
 388,2010,estimates,0_4,230.567
 388,2010,estimates,5_9,248.22
 388,2010,estimates,10_14,280.484
@@ -253,16 +240,6 @@ country,year,variant,age5yearinterval,population
 388,2010,estimates,90_94,8.086
 388,2010,estimates,95_99,2.302
 388,2010,estimates,100plus,0.386
-388,2015,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2015,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2015,estimates,"Region, subregion, country or area *",Jamaica
-388,2015,high_variant,"Region, subregion, country or area *",Jamaica
-388,2015,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2015,low_variant,"Region, subregion, country or area *",Jamaica
-388,2015,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2015,momentum,"Region, subregion, country or area *",Jamaica
-388,2015,no_change,"Region, subregion, country or area *",Jamaica
-388,2015,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2015,constant_fertility,0_4,206.591
 388,2015,constant_mortality,0_4,206.591
 388,2015,estimates,0_4,206.591
@@ -473,15 +450,6 @@ country,year,variant,age5yearinterval,population
 388,2015,momentum,100plus,0.494
 388,2015,no_change,100plus,0.494
 388,2015,zero_migration,100plus,0.494
-388,2020,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2020,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2020,high_variant,"Region, subregion, country or area *",Jamaica
-388,2020,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2020,low_variant,"Region, subregion, country or area *",Jamaica
-388,2020,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2020,momentum,"Region, subregion, country or area *",Jamaica
-388,2020,no_change,"Region, subregion, country or area *",Jamaica
-388,2020,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2020,constant_fertility,0_4,238.474
 388,2020,constant_mortality,0_4,227.149
 388,2020,high_variant,0_4,256.918
@@ -671,15 +639,6 @@ country,year,variant,age5yearinterval,population
 388,2020,momentum,100plus,0.586
 388,2020,no_change,100plus,0.586
 388,2020,zero_migration,100plus,0.599
-388,2025,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2025,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2025,high_variant,"Region, subregion, country or area *",Jamaica
-388,2025,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2025,low_variant,"Region, subregion, country or area *",Jamaica
-388,2025,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2025,momentum,"Region, subregion, country or area *",Jamaica
-388,2025,no_change,"Region, subregion, country or area *",Jamaica
-388,2025,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2025,constant_fertility,0_4,228.054
 388,2025,constant_mortality,0_4,209.255
 388,2025,high_variant,0_4,255.179
@@ -869,15 +828,6 @@ country,year,variant,age5yearinterval,population
 388,2025,momentum,100plus,0.647
 388,2025,no_change,100plus,0.647
 388,2025,zero_migration,100plus,0.681
-388,2030,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2030,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2030,high_variant,"Region, subregion, country or area *",Jamaica
-388,2030,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2030,low_variant,"Region, subregion, country or area *",Jamaica
-388,2030,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2030,momentum,"Region, subregion, country or area *",Jamaica
-388,2030,no_change,"Region, subregion, country or area *",Jamaica
-388,2030,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2030,constant_fertility,0_4,210.333
 388,2030,constant_mortality,0_4,187.997
 388,2030,high_variant,0_4,241.423
@@ -1067,15 +1017,6 @@ country,year,variant,age5yearinterval,population
 388,2030,momentum,100plus,0.766
 388,2030,no_change,100plus,0.766
 388,2030,zero_migration,100plus,0.838
-388,2035,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2035,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2035,high_variant,"Region, subregion, country or area *",Jamaica
-388,2035,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2035,low_variant,"Region, subregion, country or area *",Jamaica
-388,2035,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2035,momentum,"Region, subregion, country or area *",Jamaica
-388,2035,no_change,"Region, subregion, country or area *",Jamaica
-388,2035,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2035,constant_fertility,0_4,193.562
 388,2035,constant_mortality,0_4,167.474
 388,2035,high_variant,0_4,218.107
@@ -1265,15 +1206,6 @@ country,year,variant,age5yearinterval,population
 388,2035,momentum,100plus,0.829
 388,2035,no_change,100plus,0.829
 388,2035,zero_migration,100plus,0.953
-388,2040,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2040,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2040,high_variant,"Region, subregion, country or area *",Jamaica
-388,2040,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2040,low_variant,"Region, subregion, country or area *",Jamaica
-388,2040,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2040,momentum,"Region, subregion, country or area *",Jamaica
-388,2040,no_change,"Region, subregion, country or area *",Jamaica
-388,2040,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2040,constant_fertility,0_4,183.384
 388,2040,constant_mortality,0_4,150.665
 388,2040,high_variant,0_4,202.757
@@ -1463,15 +1395,6 @@ country,year,variant,age5yearinterval,population
 388,2040,momentum,100plus,0.847
 388,2040,no_change,100plus,0.844
 388,2040,zero_migration,100plus,1.037
-388,2045,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2045,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2045,high_variant,"Region, subregion, country or area *",Jamaica
-388,2045,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2045,low_variant,"Region, subregion, country or area *",Jamaica
-388,2045,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2045,momentum,"Region, subregion, country or area *",Jamaica
-388,2045,no_change,"Region, subregion, country or area *",Jamaica
-388,2045,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2045,constant_fertility,0_4,178.207
 388,2045,constant_mortality,0_4,139.694
 388,2045,high_variant,0_4,199.58
@@ -1661,15 +1584,6 @@ country,year,variant,age5yearinterval,population
 388,2045,momentum,100plus,0.897
 388,2045,no_change,100plus,0.89
 388,2045,zero_migration,100plus,1.18
-388,2050,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2050,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2050,high_variant,"Region, subregion, country or area *",Jamaica
-388,2050,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2050,low_variant,"Region, subregion, country or area *",Jamaica
-388,2050,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2050,momentum,"Region, subregion, country or area *",Jamaica
-388,2050,no_change,"Region, subregion, country or area *",Jamaica
-388,2050,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2050,constant_fertility,0_4,172.97
 388,2050,constant_mortality,0_4,131.518
 388,2050,high_variant,0_4,202.938
@@ -1859,15 +1773,6 @@ country,year,variant,age5yearinterval,population
 388,2050,momentum,100plus,1.034
 388,2050,no_change,100plus,1.023
 388,2050,zero_migration,100plus,1.478
-388,2055,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2055,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2055,high_variant,"Region, subregion, country or area *",Jamaica
-388,2055,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2055,low_variant,"Region, subregion, country or area *",Jamaica
-388,2055,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2055,momentum,"Region, subregion, country or area *",Jamaica
-388,2055,no_change,"Region, subregion, country or area *",Jamaica
-388,2055,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2055,constant_fertility,0_4,165.866
 388,2055,constant_mortality,0_4,122.614
 388,2055,high_variant,0_4,204.592
@@ -1957,7 +1862,7 @@ country,year,variant,age5yearinterval,population
 388,2055,medium_variant,45_49,145.769
 388,2055,momentum,45_49,206.689
 388,2055,no_change,45_49,141.005
-388,2055,zero_migration,45_49,213.0
+388,2055,zero_migration,45_49,213
 388,2055,constant_fertility,50_54,158.968
 388,2055,constant_mortality,50_54,153.195
 388,2055,high_variant,50_54,158.968
@@ -2057,15 +1962,6 @@ country,year,variant,age5yearinterval,population
 388,2055,momentum,100plus,1.21
 388,2055,no_change,100plus,1.191
 388,2055,zero_migration,100plus,1.892
-388,2060,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2060,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2060,high_variant,"Region, subregion, country or area *",Jamaica
-388,2060,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2060,low_variant,"Region, subregion, country or area *",Jamaica
-388,2060,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2060,momentum,"Region, subregion, country or area *",Jamaica
-388,2060,no_change,"Region, subregion, country or area *",Jamaica
-388,2060,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2060,constant_fertility,0_4,157.308
 388,2060,constant_mortality,0_4,111.136
 388,2060,high_variant,0_4,198.735
@@ -2255,15 +2151,6 @@ country,year,variant,age5yearinterval,population
 388,2060,momentum,100plus,1.474
 388,2060,no_change,100plus,1.445
 388,2060,zero_migration,100plus,2.552
-388,2065,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2065,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2065,high_variant,"Region, subregion, country or area *",Jamaica
-388,2065,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2065,low_variant,"Region, subregion, country or area *",Jamaica
-388,2065,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2065,momentum,"Region, subregion, country or area *",Jamaica
-388,2065,no_change,"Region, subregion, country or area *",Jamaica
-388,2065,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2065,constant_fertility,0_4,148.625
 388,2065,constant_mortality,0_4,98.156
 388,2065,high_variant,0_4,186.585
@@ -2453,15 +2340,6 @@ country,year,variant,age5yearinterval,population
 388,2065,momentum,100plus,1.683
 388,2065,no_change,100plus,1.64
 388,2065,zero_migration,100plus,3.233
-388,2070,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2070,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2070,high_variant,"Region, subregion, country or area *",Jamaica
-388,2070,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2070,low_variant,"Region, subregion, country or area *",Jamaica
-388,2070,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2070,momentum,"Region, subregion, country or area *",Jamaica
-388,2070,no_change,"Region, subregion, country or area *",Jamaica
-388,2070,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2070,constant_fertility,0_4,141.703
 388,2070,constant_mortality,0_4,87.303
 388,2070,high_variant,0_4,176.84
@@ -2651,15 +2529,6 @@ country,year,variant,age5yearinterval,population
 388,2070,momentum,100plus,1.804
 388,2070,no_change,100plus,1.737
 388,2070,zero_migration,100plus,3.869
-388,2075,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2075,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2075,high_variant,"Region, subregion, country or area *",Jamaica
-388,2075,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2075,low_variant,"Region, subregion, country or area *",Jamaica
-388,2075,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2075,momentum,"Region, subregion, country or area *",Jamaica
-388,2075,no_change,"Region, subregion, country or area *",Jamaica
-388,2075,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2075,constant_fertility,0_4,136.349
 388,2075,constant_mortality,0_4,79.15
 388,2075,high_variant,0_4,173.094
@@ -2849,15 +2718,6 @@ country,year,variant,age5yearinterval,population
 388,2075,momentum,100plus,1.902
 388,2075,no_change,100plus,1.8
 388,2075,zero_migration,100plus,4.582
-388,2080,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2080,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2080,high_variant,"Region, subregion, country or area *",Jamaica
-388,2080,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2080,low_variant,"Region, subregion, country or area *",Jamaica
-388,2080,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2080,momentum,"Region, subregion, country or area *",Jamaica
-388,2080,no_change,"Region, subregion, country or area *",Jamaica
-388,2080,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2080,constant_fertility,0_4,131.521
 388,2080,constant_mortality,0_4,72.955
 388,2080,high_variant,0_4,174.327
@@ -2913,7 +2773,7 @@ country,year,variant,age5yearinterval,population
 388,2080,no_change,25_29,127.011
 388,2080,zero_migration,25_29,190.056
 388,2080,constant_fertility,30_34,129.216
-388,2080,constant_mortality,30_34,86.0
+388,2080,constant_mortality,30_34,86
 388,2080,high_variant,30_34,158.883
 388,2080,instant_replacement,30_34,128.654
 388,2080,low_variant,30_34,35.295
@@ -3047,15 +2907,6 @@ country,year,variant,age5yearinterval,population
 388,2080,momentum,100plus,1.989
 388,2080,no_change,100plus,1.835
 388,2080,zero_migration,100plus,5.395
-388,2085,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2085,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2085,high_variant,"Region, subregion, country or area *",Jamaica
-388,2085,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2085,low_variant,"Region, subregion, country or area *",Jamaica
-388,2085,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2085,momentum,"Region, subregion, country or area *",Jamaica
-388,2085,no_change,"Region, subregion, country or area *",Jamaica
-388,2085,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2085,constant_fertility,0_4,126.525
 388,2085,constant_mortality,0_4,67.047
 388,2085,high_variant,0_4,175.757
@@ -3245,15 +3096,6 @@ country,year,variant,age5yearinterval,population
 388,2085,momentum,100plus,2.223
 388,2085,no_change,100plus,1.992
 388,2085,zero_migration,100plus,6.776
-388,2090,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2090,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2090,high_variant,"Region, subregion, country or area *",Jamaica
-388,2090,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2090,low_variant,"Region, subregion, country or area *",Jamaica
-388,2090,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2090,momentum,"Region, subregion, country or area *",Jamaica
-388,2090,no_change,"Region, subregion, country or area *",Jamaica
-388,2090,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2090,constant_fertility,0_4,121.489
 388,2090,constant_mortality,0_4,60.496
 388,2090,high_variant,0_4,173.855
@@ -3443,15 +3285,6 @@ country,year,variant,age5yearinterval,population
 388,2090,momentum,100plus,2.481
 388,2090,no_change,100plus,2.134
 388,2090,zero_migration,100plus,8.519
-388,2095,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2095,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2095,high_variant,"Region, subregion, country or area *",Jamaica
-388,2095,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2095,low_variant,"Region, subregion, country or area *",Jamaica
-388,2095,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2095,momentum,"Region, subregion, country or area *",Jamaica
-388,2095,no_change,"Region, subregion, country or area *",Jamaica
-388,2095,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2095,constant_fertility,0_4,116.841
 388,2095,constant_mortality,0_4,53.603
 388,2095,high_variant,0_4,168.957
@@ -3641,15 +3474,6 @@ country,year,variant,age5yearinterval,population
 388,2095,momentum,100plus,2.698
 388,2095,no_change,100plus,2.196
 388,2095,zero_migration,100plus,10.422
-388,2100,constant_fertility,"Region, subregion, country or area *",Jamaica
-388,2100,constant_mortality,"Region, subregion, country or area *",Jamaica
-388,2100,high_variant,"Region, subregion, country or area *",Jamaica
-388,2100,instant_replacement,"Region, subregion, country or area *",Jamaica
-388,2100,low_variant,"Region, subregion, country or area *",Jamaica
-388,2100,medium_variant,"Region, subregion, country or area *",Jamaica
-388,2100,momentum,"Region, subregion, country or area *",Jamaica
-388,2100,no_change,"Region, subregion, country or area *",Jamaica
-388,2100,zero_migration,"Region, subregion, country or area *",Jamaica
 388,2100,constant_fertility,0_4,112.916
 388,2100,constant_mortality,0_4,47.352
 388,2100,high_variant,0_4,164.182

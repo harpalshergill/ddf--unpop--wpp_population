@@ -1,7 +1,7 @@
 country,variant,gender,freq,year,lifeexpectancyatbirth
 498,estimates,female,5yearly,1950,62.99
-498,estimates,male,5yearly,1950,55.0
-498,estimates,female,5yearly,1955,65.0
+498,estimates,male,5yearly,1950,55
+498,estimates,female,5yearly,1955,65
 498,estimates,male,5yearly,1955,57.01
 498,estimates,female,5yearly,1960,66.49
 498,estimates,male,5yearly,1960,59.03
@@ -58,8 +58,4 @@ country,variant,gender,freq,year,lifeexpectancyatbirth
 498,medium_variant,female,5yearly,2090,85.14
 498,medium_variant,male,5yearly,2090,80.2
 498,medium_variant,female,5yearly,2095,85.68
-498,medium_variant,male,5yearly,2095,81.0
-498,estimates,female,5yearly,Regi,Republic of Moldova
-498,estimates,male,5yearly,Regi,Republic of Moldova
-498,medium_variant,female,5yearly,Regi,Republic of Moldova
-498,medium_variant,male,5yearly,Regi,Republic of Moldova
+498,medium_variant,male,5yearly,2095,81

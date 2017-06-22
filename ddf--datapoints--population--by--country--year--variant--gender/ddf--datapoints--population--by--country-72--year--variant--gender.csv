@@ -15,7 +15,7 @@ country,variant,gender,year,population
 72,estimates,male,1956,231.738
 72,estimates,female,1957,254.615
 72,estimates,male,1957,236.018
-72,estimates,female,1958,261.0
+72,estimates,female,1958,261
 72,estimates,male,1958,240.399
 72,estimates,female,1959,267.609
 72,estimates,male,1959,245.038
@@ -206,7 +206,7 @@ country,variant,gender,year,population
 72,constant_fertility,female,2019,1207.852
 72,constant_fertility,male,2019,1182.41
 72,constant_mortality,female,2019,1191.966
-72,constant_mortality,male,2019,1162.0
+72,constant_mortality,male,2019,1162
 72,high_variant,female,2019,1209.031
 72,high_variant,male,2019,1183.608
 72,instant_replacement,female,2019,1182.102
@@ -215,7 +215,7 @@ country,variant,gender,year,population
 72,low_variant,male,2019,1165.688
 72,medium_variant,female,2019,1200.181
 72,medium_variant,male,2019,1174.452
-72,momentum,female,2019,1171.0
+72,momentum,female,2019,1171
 72,momentum,male,2019,1140.487
 72,no_change,female,2019,1199.475
 72,no_change,male,2019,1169.663
@@ -288,7 +288,7 @@ country,variant,gender,year,population
 72,medium_variant,female,2023,1280.985
 72,medium_variant,male,2023,1255.36
 72,momentum,female,2023,1221.148
-72,momentum,male,2023,1185.0
+72,momentum,male,2023,1185
 72,no_change,female,2023,1281.395
 72,no_change,male,2023,1246.59
 72,zero_migration,female,2023,1267.693
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 72,no_change,male,2100,2704.499
 72,zero_migration,female,2100,1768.191
 72,zero_migration,male,2100,1706.964
-72,constant_fertility,female,"Region, subregion, country or area *",Botswana
-72,constant_fertility,male,"Region, subregion, country or area *",Botswana
-72,constant_mortality,female,"Region, subregion, country or area *",Botswana
-72,constant_mortality,male,"Region, subregion, country or area *",Botswana
-72,estimates,female,"Region, subregion, country or area *",Botswana
-72,estimates,male,"Region, subregion, country or area *",Botswana
-72,high_variant,female,"Region, subregion, country or area *",Botswana
-72,high_variant,male,"Region, subregion, country or area *",Botswana
-72,instant_replacement,female,"Region, subregion, country or area *",Botswana
-72,instant_replacement,male,"Region, subregion, country or area *",Botswana
-72,low_variant,female,"Region, subregion, country or area *",Botswana
-72,low_variant,male,"Region, subregion, country or area *",Botswana
-72,medium_variant,female,"Region, subregion, country or area *",Botswana
-72,medium_variant,male,"Region, subregion, country or area *",Botswana
-72,momentum,female,"Region, subregion, country or area *",Botswana
-72,momentum,male,"Region, subregion, country or area *",Botswana
-72,no_change,female,"Region, subregion, country or area *",Botswana
-72,no_change,male,"Region, subregion, country or area *",Botswana
-72,zero_migration,female,"Region, subregion, country or area *",Botswana
-72,zero_migration,male,"Region, subregion, country or area *",Botswana

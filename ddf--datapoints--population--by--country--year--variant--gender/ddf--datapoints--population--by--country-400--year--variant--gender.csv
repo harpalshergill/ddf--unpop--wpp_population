@@ -633,7 +633,7 @@ country,variant,gender,year,population
 400,momentum,male,2042,6458.594
 400,no_change,female,2042,7231.27
 400,no_change,male,2042,7498.703
-400,zero_migration,female,2042,7252.0
+400,zero_migration,female,2042,7252
 400,zero_migration,male,2042,7415.089
 400,constant_fertility,female,2043,7499.357
 400,constant_fertility,male,2043,7775.39
@@ -1200,7 +1200,7 @@ country,variant,gender,year,population
 400,high_variant,female,2074,10162.117
 400,high_variant,male,2074,10466.369
 400,instant_replacement,female,2074,6669.056
-400,instant_replacement,male,2074,6797.0
+400,instant_replacement,male,2074,6797
 400,low_variant,female,2074,6469.098
 400,low_variant,male,2074,6583.368
 400,medium_variant,female,2074,8169.699
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 400,no_change,male,2100,21327.985
 400,zero_migration,female,2100,9881.84
 400,zero_migration,male,2100,10163.297
-400,constant_fertility,female,"Region, subregion, country or area *",Jordan
-400,constant_fertility,male,"Region, subregion, country or area *",Jordan
-400,constant_mortality,female,"Region, subregion, country or area *",Jordan
-400,constant_mortality,male,"Region, subregion, country or area *",Jordan
-400,estimates,female,"Region, subregion, country or area *",Jordan
-400,estimates,male,"Region, subregion, country or area *",Jordan
-400,high_variant,female,"Region, subregion, country or area *",Jordan
-400,high_variant,male,"Region, subregion, country or area *",Jordan
-400,instant_replacement,female,"Region, subregion, country or area *",Jordan
-400,instant_replacement,male,"Region, subregion, country or area *",Jordan
-400,low_variant,female,"Region, subregion, country or area *",Jordan
-400,low_variant,male,"Region, subregion, country or area *",Jordan
-400,medium_variant,female,"Region, subregion, country or area *",Jordan
-400,medium_variant,male,"Region, subregion, country or area *",Jordan
-400,momentum,female,"Region, subregion, country or area *",Jordan
-400,momentum,male,"Region, subregion, country or area *",Jordan
-400,no_change,female,"Region, subregion, country or area *",Jordan
-400,no_change,male,"Region, subregion, country or area *",Jordan
-400,zero_migration,female,"Region, subregion, country or area *",Jordan
-400,zero_migration,male,"Region, subregion, country or area *",Jordan

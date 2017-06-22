@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[1]:
+# In[23]:
 
 import pandas as pd
 import numpy as np
@@ -16,10 +16,10 @@ from ddf_utils.str import to_concept_id
 from ddf_utils.datapackage import create_datapackage
 
 
-# In[2]:
+# In[24]:
 
-out_dir = '../../'
-#out_dir = '../'
+#out_dir = '../../'
+out_dir = '../'
 
 # global variables to build data for concepts and entities
 variants = []
@@ -29,25 +29,25 @@ ageBroad = []
 age5YrInterval = []
 ref_AreaCode = []
 
-metadata_df = pd.read_excel('../source/metadata.xlsx', sheetname= 'metadata', parse_cols = "A:G")
+metadata_df = pd.read_excel('source/metadata.xlsx', sheetname= 'metadata', parse_cols = "A:G")
 metadata_df['name'] = ''
 metadata_df['description'] = ''
 metadata_df['sourceurl'] = 'https://esa.un.org/unpd/wpp/Download/Standard/Population/'
 
-Ref_Area_List = pd.read_excel('../source/countrymetadata.xlsx', parse_cols = "A:G")
-NewFormatInfo = pd.read_excel ('../source/metadata.xlsx', sheetname= 'DemographyFormat', parse_cols = "A:C")
-BroadAgeMap = pd.read_excel ('../source/metadata.xlsx', sheetname= 'BroadAgeMap', parse_cols = "A:B")
-DependencyMap = pd.read_excel('../source/metadata.xlsx', sheetname= 'DependencyFormat', parse_cols = "A:C")
+Ref_Area_List = pd.read_excel('source/countrymetadata.xlsx', parse_cols = "A:G")
+NewFormatInfo = pd.read_excel ('source/metadata.xlsx', sheetname= 'DemographyFormat', parse_cols = "A:C")
+BroadAgeMap = pd.read_excel ('source/metadata.xlsx', sheetname= 'BroadAgeMap', parse_cols = "A:B")
+DependencyMap = pd.read_excel('source/metadata.xlsx', sheetname= 'DependencyFormat', parse_cols = "A:C")
 
 
-# In[3]:
+# In[25]:
 
 #method to read files in a folder...
 #onlyfiles = [f for f in listdir('source/byYearInterval') if isfile(join('source/byYearInterval', f))]
 #onlyfiles
 
 
-# In[4]:
+# In[26]:
 
 # method to create directory if it does not exist
 def createDirectory(Directory):
@@ -55,7 +55,7 @@ def createDirectory(Directory):
         os.makedirs('../'+Directory.lower())
 
 
-# In[5]:
+# In[27]:
 
 # method to generate files from the data points.
 def GenerateYearFormatFiles(ds_all, Directory, FileNameWithPath, gender, Ref_Area_List):
@@ -114,7 +114,7 @@ def GenerateYearFormatFiles(ds_all, Directory, FileNameWithPath, gender, Ref_Are
         myDS.to_csv(path, index=False, float_format='%.15g')
 
 
-# In[6]:
+# In[28]:
 
 #function for interpolated dataset
 def load_Files_new(source, variant, gender, TypeBy):
@@ -129,7 +129,7 @@ def load_Files_new(source, variant, gender, TypeBy):
     
     #rename country column and country code column
     data = data.rename(columns={
-        #'Major area, region, country or area *': 'Ref_Area',
+        'Region, subregion, country or area *': 'Ref_Area',
         'Country code': 'Ref_Area_Code',
         'Reference date (1 January - 31 December)': 'Year'
     })
@@ -154,7 +154,7 @@ def load_Files_new(source, variant, gender, TypeBy):
     return data
 
 
-# In[7]:
+# In[29]:
 
 # method to load files, skip the first 16 lines and specify na values as '...'
 def load_Files(source, variant, gender, TypeBy):
@@ -164,7 +164,7 @@ def load_Files(source, variant, gender, TypeBy):
     
     #rename country column and country code column
     data = data.rename(columns={
-        #'Major area, region, country or area *': 'Ref_Area',
+        'Region, subregion, country or area *': 'Ref_Area',
         'Country code': 'Ref_Area_Code'
     })
     #year column is present in Age Type sheets
@@ -192,7 +192,7 @@ def load_Files(source, variant, gender, TypeBy):
     
 
 
-# In[8]:
+# In[30]:
 
 def GetDataFromWorkBookSheets(source, gender, indicator, TypeBy):
     all_variants = []
@@ -212,8 +212,9 @@ def GetDataFromWorkBookSheets(source, gender, indicator, TypeBy):
         else:
             #first load the files
             mydata = load_Files(source, sheetName, gender, TypeBy)
-            #mydata = mydata.drop(['Ref_Area'], axis=1)
-            #based on File format type apply the index and set the column value
+#             print(mydata.head(1))
+            mydata = mydata.drop(['Ref_Area'], axis=1)
+#             #based on File format type apply the index and set the column value
             if (TypeBy == "Age"):
                 mydata = mydata.set_index(['Ref_Area_Code','Year','Variant','Gender'])
                 mydata.columns.name = 'Age'
@@ -234,7 +235,7 @@ def GetDataFromWorkBookSheets(source, gender, indicator, TypeBy):
     return all_variants
 
 
-# In[9]:
+# In[31]:
 
 def createDataFiles_simple(ds_all, Directory):
     #print(Directory)
@@ -278,7 +279,7 @@ def createDataFiles_simple(ds_all, Directory):
         myDS.to_csv(path, index=False, float_format='%.15g')
 
 
-# In[10]:
+# In[32]:
 
 #method to sort the file with refArea, Year, Variant, Gender
 def sortDataSets(dsSet_all, TypeBy, FileName):
@@ -327,7 +328,7 @@ def sortDataSets(dsSet_all, TypeBy, FileName):
     return dataSet
 
 
-# In[11]:
+# In[33]:
 
 # hardcode the indicator's Note and Descriptions values for indicators which shares multiple files. 
 def updateConceptDF(df, myDSvals, Indicator):
@@ -398,7 +399,7 @@ def updateConceptDF(df, myDSvals, Indicator):
     return df
 
 
-# In[12]:
+# In[34]:
 
 #method to have concept dataframe updated with note and descriptions for each measure.
 def updateMetaData(df, TypeBY, Directory, FileName, Indicator):
@@ -409,15 +410,15 @@ def updateMetaData(df, TypeBY, Directory, FileName, Indicator):
     
     #read the excel file to get indicator and description
     if(TypeBY == 'Age'or TypeBY == "AgeYearInterval"):
-        myDSvals = pd.read_excel("../source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,G")
+        myDSvals = pd.read_excel("source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,G")
         df = updateConceptDF(df, myDSvals, Indicator)
     else:
-        myDSvals = pd.read_excel("../source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,F")
+        myDSvals = pd.read_excel("source/"+FileName, sheetname='ESTIMATES', skiprows=9, nrows=16 ,  header=None, parse_cols = "A,F")
         df = updateConceptDF(df, myDSvals, Indicator)
     return df
 
 
-# In[13]:
+# In[35]:
 
 #funtion for interpolated datset
 def createDataFiles_new(ds):
@@ -502,7 +503,7 @@ def createDataFiles_new(ds):
             myDS.to_csv(path, index=False, float_format='%.15g')
 
 
-# In[14]:
+# In[36]:
 
 def load_Files_nonEst(source, variant, gender, TypeBy):
     #load file using pandas
@@ -511,7 +512,7 @@ def load_Files_nonEst(source, variant, gender, TypeBy):
     
     #rename country column and country code column
     data = data.rename(columns={
-        #'Major area, region, country or area *': 'Ref_Area',
+        'Region, subregion, country or area *': 'Ref_Area',
         'Country code': 'Ref_Area_Code'
     })
     #year column is present in Age Type sheets
@@ -525,7 +526,7 @@ def load_Files_nonEst(source, variant, gender, TypeBy):
     return data
 
 
-# In[15]:
+# In[37]:
 
 def GetDataFromWorkBook(source, gender, indicator, TypeBy):
     all_variants = []
@@ -541,14 +542,14 @@ def GetDataFromWorkBook(source, gender, indicator, TypeBy):
         else:
             #first load the files
             mydata = load_Files_new(source, sheetName, gender, TypeBy)
-            #mydata = mydata.drop(['Ref_Area'], axis=1)
+            mydata = mydata.drop(['Ref_Area'], axis=1)
             #mydata = mydata.set_index(['Ref_Area_Code','Variant', 'Year'])
             #print(mydata.Gender.unique())
             all_variants.append(mydata)
     return all_variants
 
 
-# In[16]:
+# In[38]:
 
 def GetNonEstimateDataFromWorkBook(source, gender, indicator, TypeBy):
     all_variants = []
@@ -564,7 +565,7 @@ def GetNonEstimateDataFromWorkBook(source, gender, indicator, TypeBy):
         else:
             #first load the files
             mydata = load_Files_new(source, sheetName, gender, TypeBy)
-            #mydata = mydata.drop(['Ref_Area'], axis=1)
+            mydata = mydata.drop(['Ref_Area'], axis=1)
             #mydata = mydata.set_index(['Ref_Area_Code','Variant', 'Year'])
             #print(mydata.Gender.unique())
             all_variants.append(mydata)
@@ -572,7 +573,7 @@ def GetNonEstimateDataFromWorkBook(source, gender, indicator, TypeBy):
     return all_variants
 
 
-# In[17]:
+# In[39]:
 
 def GetNonESTIMATE_MidVariant_Data(FileName, SEX, Indicator, TypeBY , hasGender):
     if(";" in FileName):
@@ -585,7 +586,7 @@ def GetNonESTIMATE_MidVariant_Data(FileName, SEX, Indicator, TypeBY , hasGender)
                 SEX = "male"
             elif "_FEMALE" in file:
                 SEX = "female"
-            ds_sex = GetNonEstimateDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY) 
+            ds_sex = GetNonEstimateDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY) 
             ds_allSex.append(ds_sex)
 
         #concat all the sheets and files together as one list
@@ -597,7 +598,7 @@ def GetNonESTIMATE_MidVariant_Data(FileName, SEX, Indicator, TypeBY , hasGender)
         dataSet = pd.concat(mainds, ignore_index=True) 
         
     else:
-        ds_sex = GetNonEstimateDataFromWorkBook("../source/"+FileName, SEX, Indicator, TypeBY) 
+        ds_sex = GetNonEstimateDataFromWorkBook("source/"+FileName, SEX, Indicator, TypeBY) 
         dataSet = pd.concat(ds_sex, ignore_index=True) 
     dataSet = dataSet.rename(columns={
     'Reference date (as of 1 July)': 'Year'
@@ -614,7 +615,7 @@ def GetNonESTIMATE_MidVariant_Data(FileName, SEX, Indicator, TypeBY , hasGender)
     return newDS
 
 
-# In[18]:
+# In[40]:
 
 def callBroadAgeFormat(FileName, Indicator, TypeBY, OtherFiles, Directory):
     print('creating files for : ' + Indicator)
@@ -627,11 +628,11 @@ def callBroadAgeFormat(FileName, Indicator, TypeBY, OtherFiles, Directory):
             if "_MALE" in file:
                 hasGender = True
                 SEX = "male"
-                ds_sex = GetDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY )
+                ds_sex = GetDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY )
             elif "_FEMALE" in file:
                 hasGender = True
                 SEX = "female"
-                ds_sex = GetDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY )
+                ds_sex = GetDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY )
             ds_allSex.append(ds_sex)
                                                 #concat all the sheets and files together as one list
         mainds = []
@@ -641,7 +642,7 @@ def callBroadAgeFormat(FileName, Indicator, TypeBY, OtherFiles, Directory):
         ds = pd.concat(mainds, ignore_index = True)
     else:
         SEX = ''
-        ds_vals = GetDataFromWorkBook("../source/"+FileName, SEX, Indicator, TypeBY )
+        ds_vals = GetDataFromWorkBook("source/"+FileName, SEX, Indicator, TypeBY )
         ds = pd.concat(ds_vals, ignore_index = True)
         hasGender = False
 
@@ -674,7 +675,7 @@ def callBroadAgeFormat(FileName, Indicator, TypeBY, OtherFiles, Directory):
     createDataFiles_simple(final_ds, Directory)
 
 
-# In[19]:
+# In[41]:
 
 def callDependencyFormat(ds, FileName, Indicator, TypeBY, OtherFiles, Directory, checkOtherFiles, isGender):
     
@@ -695,7 +696,7 @@ def callDependencyFormat(ds, FileName, Indicator, TypeBY, OtherFiles, Directory,
         
         if checkOtherFiles:
             #get the other files
-            vals = GetNonEstimateDataFromWorkBook("../source/"+DepenndencyExtraFiles, 'gender', Indicator, TypeBY)
+            vals = GetNonEstimateDataFromWorkBook("source/"+DepenndencyExtraFiles, 'gender', Indicator, TypeBY)
             other_ds = pd.concat(vals, ignore_index=True) 
             other_ds = pd.melt(other_ds, id_vars=[  'Variant', 'Ref_Area_Code'], var_name='Year', value_name=DependencyNew)
             other_ds.columns = list(map(to_concept_id, other_ds.columns))        
@@ -716,7 +717,7 @@ def callDependencyFormat(ds, FileName, Indicator, TypeBY, OtherFiles, Directory,
             createDataFiles_simple(firstDS, newDirectory)
 
 
-# In[20]:
+# In[42]:
 
 #MAIN Function. Calls the metadata.xslx file and iterate through each file
 #supports reading multiple files and concatenating them to one dataset as well.
@@ -737,9 +738,9 @@ def callDataPointFiles(metadata_df, cdf):
         if(Include == 1):
             #if (Indicator.lower() == "feminityratio_femaleper100male"):
             if(TypeBY == "DemographyFormat" ):
-                ds1 = GetDataFromWorkBook("../source/"+FileName, SEX, Indicator, TypeBY )
+                ds1 = GetDataFromWorkBook("source/"+FileName, SEX, Indicator, TypeBY )
                 ds = pd.concat(ds1, ignore_index = True)
-                
+                print(ds.columns)
                 createDataFiles_new(ds)
 
                 end = time.time()
@@ -767,13 +768,13 @@ def callDataPointFiles(metadata_df, cdf):
                         if "_MALE" in file:
                             hasGender = True
                             SEX = "male"
-                            ds_sex = GetDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY )
+                            ds_sex = GetDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY )
                             ds_sex_new = pd.concat(ds_sex, ignore_index = True)
                             ds_sex_new['Gender'] = 'male'
                         elif "_FEMALE" in file:
                             hasGender = True
                             SEX = "female"
-                            ds_sex = GetDataFromWorkBook("../source/"+file, SEX, Indicator, TypeBY )
+                            ds_sex = GetDataFromWorkBook("source/"+file, SEX, Indicator, TypeBY )
                             ds_sex_new = pd.concat(ds_sex, ignore_index = True)
                             ds_sex_new['Gender'] = 'female'
                         ds_allSex.append(ds_sex_new)
@@ -786,7 +787,7 @@ def callDataPointFiles(metadata_df, cdf):
                     end = time.time()
                     print ('Time Taken: ' + str(end-start)) 
                 else:
-                    ds1 = GetDataFromWorkBook("../source/"+FileName, SEX, Indicator, TypeBY )
+                    ds1 = GetDataFromWorkBook("source/"+FileName, SEX, Indicator, TypeBY )
                     ds = pd.concat(ds1, ignore_index = True)
                     
                     #print('otherfilesname: ' + OtherFiles)
@@ -815,7 +816,7 @@ def callDataPointFiles(metadata_df, cdf):
                             SEX = "male"
                         elif "_FEMALE" in file:
                             SEX = "female"
-                        ds_sex = GetDataFromWorkBookSheets("../source/"+file, SEX, Indicator, TypeBY) 
+                        ds_sex = GetDataFromWorkBookSheets("source/"+file, SEX, Indicator, TypeBY) 
                         ds_allSex.append(ds_sex)
 
                     #concat all the sheets and files together as one list
@@ -825,7 +826,7 @@ def callDataPointFiles(metadata_df, cdf):
                             mainds.append(dss1)
                     dataSet = sortDataSets(mainds, TypeBY, FileName)
                 else:
-                    ds_sex = GetDataFromWorkBookSheets("../source/"+FileName, SEX, Indicator, TypeBY) 
+                    ds_sex = GetDataFromWorkBookSheets("source/"+FileName, SEX, Indicator, TypeBY) 
                     dataSet = sortDataSets(ds_sex, TypeBY, FileName)
 
                 dataSet = dataSet.drop_duplicates()
@@ -841,7 +842,7 @@ def callDataPointFiles(metadata_df, cdf):
     return cdf
 
 
-# In[21]:
+# In[1]:
 
 # all functions here are to generate the concepts and entities files.
 def generateEntities_Gender():
@@ -876,7 +877,10 @@ def generateEntities_AgeGroups():
     cdf1 = pd.DataFrame([], columns=['age1yearinterval','is--age1yearinterval'])
     #print(age1YrInterval)
     cdf1['age1yearinterval'] = [ x.replace('-','_').replace('+','plus').replace('Total','total').strip() for x in sorted(set(age1YrInterval))]
-    cdf1['is--age1yearinterval'] = 'TRUE'    
+    cdf1['is--age1yearinterval'] = 'TRUE'
+    #logic missed the lifeexpectancy_by age file which has 100plus. so adding it here manually
+    cdf1.loc[len(cdf)] = ['100plus','TRUE']
+    cdf1 = cdf1.drop_duplicates()
     path = os.path.join(out_dir, 'ddf--entities--age--age1yearinterval.csv')
     cdf1.to_csv(path, index=False)
     
@@ -952,7 +956,7 @@ def generateConcepts(cdf):
     
 
 
-# In[22]:
+# In[44]:
 
 #createConceptDF
 cdf = createConceptsDF(metadata_df)
@@ -977,61 +981,6 @@ generateEntities_Gender()
 
 #generate freq
 generateEntities_Freq()
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
 
 
 # In[ ]:

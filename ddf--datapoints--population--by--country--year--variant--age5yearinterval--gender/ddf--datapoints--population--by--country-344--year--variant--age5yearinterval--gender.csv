@@ -1,6 +1,4 @@
 country,year,variant,gender,age5yearinterval,population
-344,1950,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1950,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1950,estimates,female,0_4,149.3
 344,1950,estimates,male,0_4,166.9
 344,1950,estimates,female,5_9,58.001
@@ -29,14 +27,12 @@ country,year,variant,gender,age5yearinterval,population
 344,1950,estimates,male,60_64,8.1
 344,1950,estimates,female,65_69,13.6
 344,1950,estimates,male,65_69,5.999
-344,1950,estimates,female,70_74,12.0
+344,1950,estimates,female,70_74,12
 344,1950,estimates,male,70_74,3.501
 344,1950,estimates,female,75_79,6.499
-344,1950,estimates,male,75_79,2.0
+344,1950,estimates,male,75_79,2
 344,1950,estimates,female,80plus,4.198
 344,1950,estimates,male,80plus,1.5
-344,1955,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1955,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1955,estimates,female,0_4,197.939
 344,1955,estimates,male,0_4,212.668
 344,1955,estimates,female,5_9,154.19
@@ -65,14 +61,12 @@ country,year,variant,gender,age5yearinterval,population
 344,1955,estimates,male,60_64,14.2
 344,1955,estimates,female,65_69,16.8
 344,1955,estimates,male,65_69,7.7
-344,1955,estimates,female,70_74,15.0
-344,1955,estimates,male,70_74,5.0
+344,1955,estimates,female,70_74,15
+344,1955,estimates,male,70_74,5
 344,1955,estimates,female,75_79,6.5
 344,1955,estimates,male,75_79,3.001
 344,1955,estimates,female,80plus,5.162
 344,1955,estimates,male,80plus,1.42
-344,1960,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1960,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1960,estimates,female,0_4,237.757
 344,1960,estimates,male,0_4,251.868
 344,1960,estimates,female,5_9,201.631
@@ -107,8 +101,6 @@ country,year,variant,gender,age5yearinterval,population
 344,1960,estimates,male,75_79,3.186
 344,1960,estimates,female,80plus,5.599
 344,1960,estimates,male,80plus,1.776
-344,1965,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1965,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1965,estimates,female,0_4,248.097
 344,1965,estimates,male,0_4,262.189
 344,1965,estimates,female,5_9,232.204
@@ -143,8 +135,6 @@ country,year,variant,gender,age5yearinterval,population
 344,1965,estimates,male,75_79,4.38
 344,1965,estimates,female,80plus,7.778
 344,1965,estimates,male,80plus,1.791
-344,1970,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1970,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1970,estimates,female,0_4,190.932
 344,1970,estimates,male,0_4,202.875
 344,1970,estimates,female,5_9,248.546
@@ -179,8 +169,6 @@ country,year,variant,gender,age5yearinterval,population
 344,1970,estimates,male,75_79,4.997
 344,1970,estimates,female,80plus,11.67
 344,1970,estimates,male,80plus,2.724
-344,1975,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1975,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1975,estimates,female,0_4,187.847
 344,1975,estimates,male,0_4,199.685
 344,1975,estimates,female,5_9,191.558
@@ -215,8 +203,6 @@ country,year,variant,gender,age5yearinterval,population
 344,1975,estimates,male,75_79,12.173
 344,1975,estimates,female,80plus,18.765
 344,1975,estimates,male,80plus,4.03
-344,1980,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1980,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1980,estimates,female,0_4,187.109
 344,1980,estimates,male,0_4,201.328
 344,1980,estimates,female,5_9,195.896
@@ -251,8 +237,6 @@ country,year,variant,gender,age5yearinterval,population
 344,1980,estimates,male,75_79,17.343
 344,1980,estimates,female,80plus,30.894
 344,1980,estimates,male,80plus,8.887
-344,1985,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1985,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1985,estimates,female,0_4,189.083
 344,1985,estimates,male,0_4,205.054
 344,1985,estimates,female,5_9,201.222
@@ -287,8 +271,6 @@ country,year,variant,gender,age5yearinterval,population
 344,1985,estimates,male,75_79,25.253
 344,1985,estimates,female,80plus,42.437
 344,1985,estimates,male,80plus,14.513
-344,1990,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1990,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1990,estimates,female,0_4,179.571
 344,1990,estimates,male,0_4,192.334
 344,1990,estimates,female,5_9,195.78
@@ -331,8 +313,6 @@ country,year,variant,gender,age5yearinterval,population
 344,1990,estimates,male,95_99,0.077
 344,1990,estimates,female,100plus,0.039
 344,1990,estimates,male,100plus,0.003
-344,1995,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,1995,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,1995,estimates,female,0_4,159.186
 344,1995,estimates,male,0_4,173.774
 344,1995,estimates,female,5_9,183.84
@@ -375,8 +355,6 @@ country,year,variant,gender,age5yearinterval,population
 344,1995,estimates,male,95_99,0.252
 344,1995,estimates,female,100plus,0.093
 344,1995,estimates,male,100plus,0.006
-344,2000,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2000,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2000,estimates,female,0_4,139.458
 344,2000,estimates,male,0_4,152.075
 344,2000,estimates,female,5_9,193.734
@@ -419,8 +397,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2000,estimates,male,95_99,0.518
 344,2000,estimates,female,100plus,0.342
 344,2000,estimates,male,100plus,0.032
-344,2005,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2005,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2005,estimates,female,0_4,107.098
 344,2005,estimates,male,0_4,115.428
 344,2005,estimates,female,5_9,161.358
@@ -463,8 +439,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2005,estimates,male,95_99,1.273
 344,2005,estimates,female,100plus,0.696
 344,2005,estimates,male,100plus,0.098
-344,2010,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2010,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2010,estimates,female,0_4,112.393
 344,2010,estimates,male,0_4,121.996
 344,2010,estimates,female,5_9,122.144
@@ -507,26 +481,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2010,estimates,male,95_99,2.066
 344,2010,estimates,female,100plus,1.328
 344,2010,estimates,male,100plus,0.207
-344,2015,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,estimates,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,estimates,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2015,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2015,constant_fertility,female,0_4,132.211
 344,2015,constant_fertility,male,0_4,142.863
 344,2015,constant_mortality,female,0_4,132.211
@@ -947,24 +901,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2015,no_change,male,100plus,0.362
 344,2015,zero_migration,female,100plus,1.964
 344,2015,zero_migration,male,100plus,0.362
-344,2020,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2020,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2020,constant_fertility,female,0_4,155.602
 344,2020,constant_fertility,male,0_4,166.721
 344,2020,constant_mortality,female,0_4,176.473
@@ -1343,24 +1279,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2020,no_change,male,100plus,0.505
 344,2020,zero_migration,female,100plus,2.875
 344,2020,zero_migration,male,100plus,0.52
-344,2025,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2025,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2025,constant_fertility,female,0_4,152.077
 344,2025,constant_fertility,male,0_4,162.589
 344,2025,constant_mortality,female,0_4,188.184
@@ -1739,24 +1657,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2025,no_change,male,100plus,0.699
 344,2025,zero_migration,female,100plus,4.241
 344,2025,zero_migration,male,100plus,0.768
-344,2030,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2030,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2030,constant_fertility,female,0_4,144.257
 344,2030,constant_fertility,male,0_4,153.575
 344,2030,constant_mortality,female,0_4,187.386
@@ -1808,7 +1708,7 @@ country,year,variant,gender,age5yearinterval,population
 344,2030,momentum,female,10_14,296.334
 344,2030,momentum,male,10_14,316.048
 344,2030,no_change,female,10_14,158.935
-344,2030,no_change,male,10_14,170.0
+344,2030,no_change,male,10_14,170
 344,2030,zero_migration,female,10_14,188.996
 344,2030,zero_migration,male,10_14,201.574
 344,2030,constant_fertility,female,15_19,155.908
@@ -2135,24 +2035,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2030,no_change,male,100plus,1.051
 344,2030,zero_migration,female,100plus,6.276
 344,2030,zero_migration,male,100plus,1.273
-344,2035,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2035,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2035,constant_fertility,female,0_4,123.139
 344,2035,constant_fertility,male,0_4,131.049
 344,2035,constant_mortality,female,0_4,165.234
@@ -2531,24 +2413,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2035,no_change,male,100plus,1.299
 344,2035,zero_migration,female,100plus,8.455
 344,2035,zero_migration,male,100plus,1.779
-344,2040,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2040,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2040,constant_fertility,female,0_4,113.262
 344,2040,constant_fertility,male,0_4,120.51
 344,2040,constant_mortality,female,0_4,152.874
@@ -2927,24 +2791,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2040,no_change,male,100plus,1.462
 344,2040,zero_migration,female,100plus,10.462
 344,2040,zero_migration,male,100plus,2.298
-344,2045,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2045,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2045,constant_fertility,female,0_4,113.894
 344,2045,constant_fertility,male,0_4,121.186
 344,2045,constant_mortality,female,0_4,157.326
@@ -3323,24 +3169,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2045,no_change,male,100plus,1.312
 344,2045,zero_migration,female,100plus,10.85
 344,2045,zero_migration,male,100plus,2.396
-344,2050,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2050,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2050,constant_fertility,female,0_4,117.174
 344,2050,constant_fertility,male,0_4,124.686
 344,2050,constant_mortality,female,0_4,172.048
@@ -3719,24 +3547,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2050,no_change,male,100plus,1.96
 344,2050,zero_migration,female,100plus,19.057
 344,2050,zero_migration,male,100plus,4.181
-344,2055,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2055,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2055,constant_fertility,female,0_4,117.346
 344,2055,constant_fertility,male,0_4,124.885
 344,2055,constant_mortality,female,0_4,186.795
@@ -3783,7 +3593,7 @@ country,year,variant,gender,age5yearinterval,population
 344,2055,instant_replacement,male,10_14,230.528
 344,2055,low_variant,female,10_14,111.204
 344,2055,low_variant,male,10_14,118.065
-344,2055,medium_variant,female,10_14,161.0
+344,2055,medium_variant,female,10_14,161
 344,2055,medium_variant,male,10_14,171.174
 344,2055,momentum,female,10_14,155.913
 344,2055,momentum,male,10_14,166.284
@@ -4115,24 +3925,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2055,no_change,male,100plus,2.429
 344,2055,zero_migration,female,100plus,29.248
 344,2055,zero_migration,male,100plus,6.106
-344,2060,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2060,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2060,constant_fertility,female,0_4,113.178
 344,2060,constant_fertility,male,0_4,120.453
 344,2060,constant_mortality,female,0_4,194.008
@@ -4511,24 +4303,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2060,no_change,male,100plus,3.016
 344,2060,zero_migration,female,100plus,42.245
 344,2060,zero_migration,male,100plus,8.955
-344,2065,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2065,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2065,constant_fertility,female,0_4,105.889
 344,2065,constant_fertility,male,0_4,112.695
 344,2065,constant_mortality,female,0_4,190.669
@@ -4907,24 +4681,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2065,no_change,male,100plus,3.063
 344,2065,zero_migration,female,100plus,56.21
 344,2065,zero_migration,male,100plus,10.72
-344,2070,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2070,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2070,constant_fertility,female,0_4,98.676
 344,2070,constant_fertility,male,0_4,105.014
 344,2070,constant_mortality,female,0_4,181.871
@@ -5303,24 +5059,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2070,no_change,male,100plus,2.612
 344,2070,zero_migration,female,100plus,63.386
 344,2070,zero_migration,male,100plus,10.743
-344,2075,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2075,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2075,constant_fertility,female,0_4,94.232
 344,2075,constant_fertility,male,0_4,100.289
 344,2075,constant_mortality,female,0_4,176.96
@@ -5699,24 +5437,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2075,no_change,male,100plus,2.429
 344,2075,zero_migration,female,100plus,71.92
 344,2075,zero_migration,male,100plus,11.682
-344,2080,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2080,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2080,constant_fertility,female,0_4,92.256
 344,2080,constant_fertility,male,0_4,98.196
 344,2080,constant_mortality,female,0_4,179.789
@@ -5857,7 +5577,7 @@ country,year,variant,gender,age5yearinterval,population
 344,2080,medium_variant,male,35_39,212.896
 344,2080,momentum,female,35_39,155.118
 344,2080,momentum,male,35_39,164.556
-344,2080,no_change,female,35_39,159.0
+344,2080,no_change,female,35_39,159
 344,2080,no_change,male,35_39,165.409
 344,2080,zero_migration,female,35_39,111.561
 344,2080,zero_migration,male,35_39,118.668
@@ -6095,24 +5815,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2080,no_change,male,100plus,2.34
 344,2080,zero_migration,female,100plus,81.406
 344,2080,zero_migration,male,100plus,12.982
-344,2085,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2085,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2085,constant_fertility,female,0_4,90.552
 344,2085,constant_fertility,male,0_4,96.392
 344,2085,constant_mortality,female,0_4,187.282
@@ -6141,7 +5843,7 @@ country,year,variant,gender,age5yearinterval,population
 344,2085,instant_replacement,male,5_9,300.364
 344,2085,low_variant,female,5_9,97.138
 344,2085,low_variant,male,5_9,103.305
-344,2085,medium_variant,female,5_9,182.0
+344,2085,medium_variant,female,5_9,182
 344,2085,medium_variant,male,5_9,193.822
 344,2085,momentum,female,5_9,177.902
 344,2085,momentum,male,5_9,189.752
@@ -6367,7 +6069,7 @@ country,year,variant,gender,age5yearinterval,population
 344,2085,zero_migration,male,65_69,191.116
 344,2085,constant_fertility,female,70_74,204.668
 344,2085,constant_fertility,male,70_74,205.789
-344,2085,constant_mortality,female,70_74,190.0
+344,2085,constant_mortality,female,70_74,190
 344,2085,constant_mortality,male,70_74,176.451
 344,2085,high_variant,female,70_74,204.668
 344,2085,high_variant,male,70_74,205.79
@@ -6491,24 +6193,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2085,no_change,male,100plus,2.398
 344,2085,zero_migration,female,100plus,92.394
 344,2085,zero_migration,male,100plus,15.17
-344,2090,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2090,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2090,constant_fertility,female,0_4,87.548
 344,2090,constant_fertility,male,0_4,93.2
 344,2090,constant_mortality,female,0_4,193.55
@@ -6887,24 +6571,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2090,no_change,male,100plus,2.403
 344,2090,zero_migration,female,100plus,92.243
 344,2090,zero_migration,male,100plus,17.314
-344,2095,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2095,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2095,constant_fertility,female,0_4,83.12
 344,2095,constant_fertility,male,0_4,88.493
 344,2095,constant_mortality,female,0_4,194.969
@@ -7283,24 +6949,6 @@ country,year,variant,gender,age5yearinterval,population
 344,2095,no_change,male,100plus,2.455
 344,2095,zero_migration,female,100plus,87.421
 344,2095,zero_migration,male,100plus,19.809
-344,2100,constant_fertility,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,constant_fertility,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,constant_mortality,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,constant_mortality,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,high_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,high_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,instant_replacement,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,instant_replacement,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,low_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,low_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,medium_variant,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,medium_variant,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,momentum,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,momentum,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,no_change,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,no_change,male,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,zero_migration,female,"Region, subregion, country or area *","China, Hong Kong SAR"
-344,2100,zero_migration,male,"Region, subregion, country or area *","China, Hong Kong SAR"
 344,2100,constant_fertility,female,0_4,78.144
 344,2100,constant_fertility,male,0_4,83.201
 344,2100,constant_mortality,female,0_4,191.081
@@ -7625,7 +7273,7 @@ country,year,variant,gender,age5yearinterval,population
 344,2100,no_change,male,85_89,75.161
 344,2100,zero_migration,female,85_89,112.251
 344,2100,zero_migration,male,85_89,98.945
-344,2100,constant_fertility,female,90_94,150.0
+344,2100,constant_fertility,female,90_94,150
 344,2100,constant_fertility,male,90_94,107.18
 344,2100,constant_mortality,female,90_94,70.964
 344,2100,constant_mortality,male,90_94,34.781

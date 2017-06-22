@@ -1180,7 +1180,7 @@ country,variant,gender,year,population
 454,constant_mortality,female,2073,24852.341
 454,constant_mortality,male,2073,24165.346
 454,high_variant,female,2073,36736.644
-454,high_variant,male,2073,36728.0
+454,high_variant,male,2073,36728
 454,instant_replacement,female,2073,16974.688
 454,instant_replacement,male,2073,16518.561
 454,low_variant,female,2073,24258.065
@@ -1647,7 +1647,7 @@ country,variant,gender,year,population
 454,constant_fertility,male,2099,123876.055
 454,constant_mortality,female,2099,27644.957
 454,constant_mortality,male,2099,26460.376
-454,high_variant,female,2099,53252.0
+454,high_variant,female,2099,53252
 454,high_variant,male,2099,53130.53
 454,instant_replacement,female,2099,17783.193
 454,instant_replacement,male,2099,17246.866
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 454,no_change,male,2100,95342.141
 454,zero_migration,female,2100,38496.193
 454,zero_migration,male,2100,38094.289
-454,constant_fertility,female,"Region, subregion, country or area *",Malawi
-454,constant_fertility,male,"Region, subregion, country or area *",Malawi
-454,constant_mortality,female,"Region, subregion, country or area *",Malawi
-454,constant_mortality,male,"Region, subregion, country or area *",Malawi
-454,estimates,female,"Region, subregion, country or area *",Malawi
-454,estimates,male,"Region, subregion, country or area *",Malawi
-454,high_variant,female,"Region, subregion, country or area *",Malawi
-454,high_variant,male,"Region, subregion, country or area *",Malawi
-454,instant_replacement,female,"Region, subregion, country or area *",Malawi
-454,instant_replacement,male,"Region, subregion, country or area *",Malawi
-454,low_variant,female,"Region, subregion, country or area *",Malawi
-454,low_variant,male,"Region, subregion, country or area *",Malawi
-454,medium_variant,female,"Region, subregion, country or area *",Malawi
-454,medium_variant,male,"Region, subregion, country or area *",Malawi
-454,momentum,female,"Region, subregion, country or area *",Malawi
-454,momentum,male,"Region, subregion, country or area *",Malawi
-454,no_change,female,"Region, subregion, country or area *",Malawi
-454,no_change,male,"Region, subregion, country or area *",Malawi
-454,zero_migration,female,"Region, subregion, country or area *",Malawi
-454,zero_migration,male,"Region, subregion, country or area *",Malawi

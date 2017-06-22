@@ -350,7 +350,7 @@ country,variant,gender,year,population
 496,constant_fertility,female,2027,1798.424
 496,constant_fertility,male,2027,1743.153
 496,constant_mortality,female,2027,1750.085
-496,constant_mortality,male,2027,1693.0
+496,constant_mortality,male,2027,1693
 496,high_variant,female,2027,1814.203
 496,high_variant,male,2027,1759.343
 496,instant_replacement,female,2027,1692.143
@@ -599,7 +599,7 @@ country,variant,gender,year,population
 496,no_change,male,2040,1957.941
 496,zero_migration,female,2040,2025.787
 496,zero_migration,male,2040,1912.176
-496,constant_fertility,female,2041,2125.0
+496,constant_fertility,female,2041,2125
 496,constant_fertility,male,2041,2034.671
 496,constant_mortality,female,2041,1920.013
 496,constant_mortality,male,2041,1824.878
@@ -1258,7 +1258,7 @@ country,variant,gender,year,population
 496,low_variant,female,2077,1730.455
 496,low_variant,male,2077,1619.829
 496,medium_variant,female,2077,2252.881
-496,medium_variant,male,2077,2153.0
+496,medium_variant,male,2077,2153
 496,momentum,female,2077,2015.256
 496,momentum,male,2077,1843.971
 496,no_change,female,2077,2875.939
@@ -1679,23 +1679,3 @@ country,variant,gender,year,population
 496,no_change,male,2100,3430.774
 496,zero_migration,female,2100,2546.226
 496,zero_migration,male,2100,2433.064
-496,constant_fertility,female,"Region, subregion, country or area *",Mongolia
-496,constant_fertility,male,"Region, subregion, country or area *",Mongolia
-496,constant_mortality,female,"Region, subregion, country or area *",Mongolia
-496,constant_mortality,male,"Region, subregion, country or area *",Mongolia
-496,estimates,female,"Region, subregion, country or area *",Mongolia
-496,estimates,male,"Region, subregion, country or area *",Mongolia
-496,high_variant,female,"Region, subregion, country or area *",Mongolia
-496,high_variant,male,"Region, subregion, country or area *",Mongolia
-496,instant_replacement,female,"Region, subregion, country or area *",Mongolia
-496,instant_replacement,male,"Region, subregion, country or area *",Mongolia
-496,low_variant,female,"Region, subregion, country or area *",Mongolia
-496,low_variant,male,"Region, subregion, country or area *",Mongolia
-496,medium_variant,female,"Region, subregion, country or area *",Mongolia
-496,medium_variant,male,"Region, subregion, country or area *",Mongolia
-496,momentum,female,"Region, subregion, country or area *",Mongolia
-496,momentum,male,"Region, subregion, country or area *",Mongolia
-496,no_change,female,"Region, subregion, country or area *",Mongolia
-496,no_change,male,"Region, subregion, country or area *",Mongolia
-496,zero_migration,female,"Region, subregion, country or area *",Mongolia
-496,zero_migration,male,"Region, subregion, country or area *",Mongolia
