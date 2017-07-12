@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[23]:
+# In[256]:
 
 import pandas as pd
 import numpy as np
@@ -16,7 +16,7 @@ from ddf_utils.str import to_concept_id
 from ddf_utils.datapackage import create_datapackage
 
 
-# In[24]:
+# In[257]:
 
 #out_dir = '../../'
 out_dir = '../'
@@ -40,14 +40,14 @@ BroadAgeMap = pd.read_excel ('source/metadata.xlsx', sheetname= 'BroadAgeMap', p
 DependencyMap = pd.read_excel('source/metadata.xlsx', sheetname= 'DependencyFormat', parse_cols = "A:C")
 
 
-# In[25]:
+# In[258]:
 
 #method to read files in a folder...
 #onlyfiles = [f for f in listdir('source/byYearInterval') if isfile(join('source/byYearInterval', f))]
 #onlyfiles
 
 
-# In[26]:
+# In[259]:
 
 # method to create directory if it does not exist
 def createDirectory(Directory):
@@ -55,7 +55,7 @@ def createDirectory(Directory):
         os.makedirs('../'+Directory.lower())
 
 
-# In[27]:
+# In[260]:
 
 # method to generate files from the data points.
 def GenerateYearFormatFiles(ds_all, Directory, FileNameWithPath, gender, Ref_Area_List):
@@ -114,7 +114,7 @@ def GenerateYearFormatFiles(ds_all, Directory, FileNameWithPath, gender, Ref_Are
         myDS.to_csv(path, index=False, float_format='%.15g')
 
 
-# In[28]:
+# In[261]:
 
 #function for interpolated dataset
 def load_Files_new(source, variant, gender, TypeBy):
@@ -154,7 +154,7 @@ def load_Files_new(source, variant, gender, TypeBy):
     return data
 
 
-# In[29]:
+# In[262]:
 
 # method to load files, skip the first 16 lines and specify na values as '...'
 def load_Files(source, variant, gender, TypeBy):
@@ -192,7 +192,7 @@ def load_Files(source, variant, gender, TypeBy):
     
 
 
-# In[30]:
+# In[277]:
 
 def GetDataFromWorkBookSheets(source, gender, indicator, TypeBy):
     all_variants = []
@@ -211,11 +211,17 @@ def GetDataFromWorkBookSheets(source, gender, indicator, TypeBy):
             continue
         else:
             #first load the files
+            #print('step3a - '+ str(time.time()))
             mydata = load_Files(source, sheetName, gender, TypeBy)
-#             print(mydata.head(1))
+            #print('step3b - '+ str(time.time()))
             mydata = mydata.drop(['Ref_Area'], axis=1)
-#             #based on File format type apply the index and set the column value
+            #based on File format type apply the index and set the column value
             if (TypeBy == "Age"):
+                if('_INT_F03_' in source.upper()) or ('_POP_F07_' in source.upper()):
+                    if '80+' in mydata.columns:
+                        print(source)
+                        #print(mydata.head(4))                        
+                        mydata = mydata.drop(['80+'], axis=1)
                 mydata = mydata.set_index(['Ref_Area_Code','Year','Variant','Gender'])
                 mydata.columns.name = 'Age'
             elif (TypeBy == "Year"):
@@ -230,12 +236,12 @@ def GetDataFromWorkBookSheets(source, gender, indicator, TypeBy):
             
             mydata = mydata.stack().reset_index().rename(columns={0:indicator})
             all_variants.append(mydata)
-            
+            #print('step3c - '+ str(time.time()))
             #break
     return all_variants
 
 
-# In[31]:
+# In[264]:
 
 def createDataFiles_simple(ds_all, Directory):
     #print(Directory)
@@ -279,7 +285,7 @@ def createDataFiles_simple(ds_all, Directory):
         myDS.to_csv(path, index=False, float_format='%.15g')
 
 
-# In[32]:
+# In[265]:
 
 #method to sort the file with refArea, Year, Variant, Gender
 def sortDataSets(dsSet_all, TypeBy, FileName):
@@ -298,9 +304,11 @@ def sortDataSets(dsSet_all, TypeBy, FileName):
         #update the global variables for 3 age groups with any new values
         if("broad_age" in FileName.lower()):
             ageBroad = ageBroad + list(set(dataSet['age'].unique()) - set(ageBroad))
-        elif("age_annual" in FileName.lower()):
+        elif(("age_annual" in FileName.lower())  or ("mort_f15" in FileName.lower()) or ("mort_f16" in FileName.lower())):
             age1YrInterval = age1YrInterval + list(set(dataSet['age'].unique()) - set(age1YrInterval))
-        elif("_age_" in FileName.lower()):
+        else:
+        #elif("_age_" in FileName.lower()):
+            #print('at else fn' + FileName)
             age5YrInterval = age5YrInterval + list(set(dataSet['age'].unique()) - set(age5YrInterval))
         #replace - and + and higher case char to _, plus and lower case respectively
         dataSet['age'] = [ x.replace('-','_').replace('+','plus').replace('Total','total').strip() for x in dataSet['age']]
@@ -316,9 +324,11 @@ def sortDataSets(dsSet_all, TypeBy, FileName):
         #update the global variables for 3 age groups with any new values
         if("broad_age" in FileName.lower()):
             ageBroad = ageBroad + list(set(dataSet['age'].unique()) - set(ageBroad))
-        elif("age_annual" in FileName.lower()):
+        elif(("age_annual" in FileName.lower()) or ("mort_f15" in FileName.lower()) or ("mort_f16" in FileName.lower())):
             age1YrInterval = age1YrInterval + list(set(dataSet['age'].unique()) - set(age1YrInterval))
-        elif("_age_" in FileName.lower()):
+        else:
+        #elif("_age_" in FileName.lower()):
+            print('at else fn' + FileName)
             age5YrInterval = age5YrInterval + list(set(dataSet['age'].unique()) - set(age5YrInterval))
         dataSet['age'] = [ x.replace('-','_').replace('+','plus').replace('Total','total').strip() for x in dataSet['age']]
         
@@ -328,7 +338,7 @@ def sortDataSets(dsSet_all, TypeBy, FileName):
     return dataSet
 
 
-# In[33]:
+# In[266]:
 
 # hardcode the indicator's Note and Descriptions values for indicators which shares multiple files. 
 def updateConceptDF(df, myDSvals, Indicator):
@@ -399,7 +409,7 @@ def updateConceptDF(df, myDSvals, Indicator):
     return df
 
 
-# In[34]:
+# In[267]:
 
 #method to have concept dataframe updated with note and descriptions for each measure.
 def updateMetaData(df, TypeBY, Directory, FileName, Indicator):
@@ -418,7 +428,7 @@ def updateMetaData(df, TypeBY, Directory, FileName, Indicator):
     return df
 
 
-# In[35]:
+# In[268]:
 
 #funtion for interpolated datset
 def createDataFiles_new(ds):
@@ -503,7 +513,7 @@ def createDataFiles_new(ds):
             myDS.to_csv(path, index=False, float_format='%.15g')
 
 
-# In[36]:
+# In[269]:
 
 def load_Files_nonEst(source, variant, gender, TypeBy):
     #load file using pandas
@@ -526,7 +536,7 @@ def load_Files_nonEst(source, variant, gender, TypeBy):
     return data
 
 
-# In[37]:
+# In[270]:
 
 def GetDataFromWorkBook(source, gender, indicator, TypeBy):
     all_variants = []
@@ -549,7 +559,7 @@ def GetDataFromWorkBook(source, gender, indicator, TypeBy):
     return all_variants
 
 
-# In[38]:
+# In[271]:
 
 def GetNonEstimateDataFromWorkBook(source, gender, indicator, TypeBy):
     all_variants = []
@@ -573,7 +583,7 @@ def GetNonEstimateDataFromWorkBook(source, gender, indicator, TypeBy):
     return all_variants
 
 
-# In[39]:
+# In[272]:
 
 def GetNonESTIMATE_MidVariant_Data(FileName, SEX, Indicator, TypeBY , hasGender):
     if(";" in FileName):
@@ -615,7 +625,7 @@ def GetNonESTIMATE_MidVariant_Data(FileName, SEX, Indicator, TypeBY , hasGender)
     return newDS
 
 
-# In[40]:
+# In[273]:
 
 def callBroadAgeFormat(FileName, Indicator, TypeBY, OtherFiles, Directory):
     print('creating files for : ' + Indicator)
@@ -675,7 +685,7 @@ def callBroadAgeFormat(FileName, Indicator, TypeBY, OtherFiles, Directory):
     createDataFiles_simple(final_ds, Directory)
 
 
-# In[41]:
+# In[274]:
 
 def callDependencyFormat(ds, FileName, Indicator, TypeBY, OtherFiles, Directory, checkOtherFiles, isGender):
     
@@ -717,7 +727,7 @@ def callDependencyFormat(ds, FileName, Indicator, TypeBY, OtherFiles, Directory,
             createDataFiles_simple(firstDS, newDirectory)
 
 
-# In[42]:
+# In[275]:
 
 #MAIN Function. Calls the metadata.xslx file and iterate through each file
 #supports reading multiple files and concatenating them to one dataset as well.
@@ -728,6 +738,7 @@ def callDataPointFiles(metadata_df, cdf):
     for i, row in enumerate(metadata_df.values):
         start = time.time()
         
+        
         #print(row)
         #date = metadata_df.index[i]
         FileName, TypeBY, SEX, Indicator, Directory, Include, OtherFiles, name, description, url = row
@@ -736,6 +747,7 @@ def callDataPointFiles(metadata_df, cdf):
         newFileName = newFileName + ".csv"
 
         if(Include == 1):
+            #print('Step1: ' + str(time.time()))
             #if (Indicator.lower() == "feminityratio_femaleper100male"):
             if(TypeBY == "DemographyFormat" ):
                 ds1 = GetDataFromWorkBook("source/"+FileName, SEX, Indicator, TypeBY )
@@ -804,7 +816,7 @@ def callDataPointFiles(metadata_df, cdf):
                 #at the moment same file is being read twice(once for note and desc and then for main dataset)
                 #this could be made more efficient by reading file only once
                 cdf = updateMetaData(cdf, TypeBY, Directory, FileName, Indicator)
-
+                #print('Step2: ' + str(time.time()))
                 #check if FileName has two or more files. for ex same dimensions with male and female
                 if(";" in FileName):
                     #if yes then run the method for each files and merge the two dataset.
@@ -816,7 +828,9 @@ def callDataPointFiles(metadata_df, cdf):
                             SEX = "male"
                         elif "_FEMALE" in file:
                             SEX = "female"
+                        #print('Step3: ' + str(time.time()))
                         ds_sex = GetDataFromWorkBookSheets("source/"+file, SEX, Indicator, TypeBY) 
+                        #print('Step4: ' + str(time.time()))
                         ds_allSex.append(ds_sex)
 
                     #concat all the sheets and files together as one list
@@ -825,10 +839,13 @@ def callDataPointFiles(metadata_df, cdf):
                         for dss1 in dss:
                             mainds.append(dss1)
                     dataSet = sortDataSets(mainds, TypeBY, FileName)
+                    #print('Step5: ' + str(time.time()))
                 else:
+                    #print('Step3: ' + str(time.time()))
                     ds_sex = GetDataFromWorkBookSheets("source/"+FileName, SEX, Indicator, TypeBY) 
+                    #print('Step4: ' + str(time.time()))
                     dataSet = sortDataSets(ds_sex, TypeBY, FileName)
-
+                    #print('Step5: ' + str(time.time()))
                 dataSet = dataSet.drop_duplicates()
 
                 #create files from dataset
@@ -876,11 +893,15 @@ def generateEntities_AgeGroups():
     
     cdf1 = pd.DataFrame([], columns=['age1yearinterval','is--age1yearinterval'])
     #print(age1YrInterval)
-    cdf1['age1yearinterval'] = [ x.replace('-','_').replace('+','plus').replace('Total','total').strip() for x in sorted(set(age1YrInterval))]
-    cdf1['is--age1yearinterval'] = 'TRUE'
-    #logic missed the lifeexpectancy_by age file which has 100plus. so adding it here manually
-    cdf1.loc[len(cdf)] = ['100plus','TRUE']
-    cdf1 = cdf1.drop_duplicates()
+#     cdf1['age1yearinterval'] = [ x.replace('-','_').replace('+','plus').replace('Total','total').strip() for x in sorted(set(age1YrInterval))]
+#     cdf1['is--age1yearinterval'] = 'TRUE'
+#     #logic missed the lifeexpectancy_by age file which has 100plus. so adding it here manually
+#     cdf1.loc[len(cdf)] = ['100plus','TRUE']
+#     cdf1 = cdf1.drop_duplicates()
+    cdf1 = pd.DataFrame({ 'age1yearinterval' : range(0, 101 ,1),
+    'is--age1yearinterval' : 'TRUE' })
+    cdf1.loc[len(cdf1)] = ['80plus','TRUE']  
+    cdf1.loc[len(cdf1)] = ['100plus','TRUE']  
     path = os.path.join(out_dir, 'ddf--entities--age--age1yearinterval.csv')
     cdf1.to_csv(path, index=False)
     
@@ -956,7 +977,7 @@ def generateConcepts(cdf):
     
 
 
-# In[44]:
+# In[278]:
 
 #createConceptDF
 cdf = createConceptsDF(metadata_df)
@@ -964,16 +985,16 @@ cdf = createConceptsDF(metadata_df)
 #create datapoints and create all files
 cdf = callDataPointFiles(metadata_df, cdf)
 
-#generate concepts
+# #generate concepts
 generateConcepts(cdf)
 
-#generate variants
+# #generate variants
 generateEntities_Variant()
 
-#generate countries/world/regions
+# #generate countries/world/regions
 generateEntities_RefAreaCode()
 
-#generate age groups
+# #generate age groups
 generateEntities_AgeGroups()
 
 #generate gender
@@ -983,7 +1004,7 @@ generateEntities_Gender()
 generateEntities_Freq()
 
 
-# In[ ]:
+# In[199]:
 
 
 
